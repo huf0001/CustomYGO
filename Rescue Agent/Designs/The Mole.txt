@@ -1,4 +1,36 @@
 TECHNICAL----------------------------------------------------------------------
+
+Name: The Mole
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Archetype Condition: This card is always treated as a "POD" monster.
+Effect(s): If you control "The Mole", this card cannot be Summoned or Set/ When this card is Normal or Special Summoned: You can activate one of the following effects:
+1: Target 1 card in your opponent's graveyard; Shuffle it into the Deck.
+2: Target 1 random card in your opponent's Deck; Send it to the graveyard.
+If the target was a Monster Card, gain LP equal to its level x100.
+ATK: 1800
+DEF: 1400
+Last Updated: 11/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Mole
+Flavour: A mobile drill for rescuing people trapped under collapsed buildings and other obstructions.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
 Name: The Mole
 Card Type: Monster
 Card Subtype(s): Effect
@@ -9,14 +41,4 @@ Archetype Condition: This card is always treated as a "POD" monster.
 Effect(s): When this card is Summoned; You can banish 1 card from your opponent's graveyard (face up) OR 1 random card from your opponent's deck (face down), then you can gain LP equal to the combined level of all "POD" and "Thunderbird" monsters you control x100.
 ATK: 1800
 DEF: 1600
-Last Updated: 11/04/2024
-
-CREATIVE-----------------------------------------------------------------------
-Basis: The Mole
-Flavour: A mobile drill for rescuing people trapped under collapsed buildings and other obstructions.
-
-COMMENTS-----------------------------------------------------------------------
-None
-
-PREVIOUS VERSIONS--------------------------------------------------------------
-N/A
+Comments: None

@@ -1,4 +1,5 @@
 TECHNICAL----------------------------------------------------------------------
+
 Name: ABCDEF
 Card Type: Monster/Spell/Trap
 Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
@@ -17,16 +18,22 @@ ATK: 9999
 DEF: 9999
 Last Updated: DD/MM/YYYY
 
+
 CREATIVE-----------------------------------------------------------------------
+
 Basis: ABCDEF
 Flavour: ABCDEF
 
+
 COMMENTS-----------------------------------------------------------------------
+
 None
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
 DATE: DD/MM/YYYY-------------------------------------------
+
 Name: ABCDEF
 Card Type: Monster/Spell/Trap
 Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter

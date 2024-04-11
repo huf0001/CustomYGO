@@ -1,4 +1,32 @@
 TECHNICAL----------------------------------------------------------------------
+
+Name: Thunderbird 1
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): If your opponent controls a monster(s) and you control no monsters, you can Special Summon this card (from your hand), then take 800 damage. Once per turn: You can pay 800 LP; Excavate the top 3 cards of your opponent's Deck, then place one on the bottom of their Deck and the rest on top in any order. When this card is Summoned, if you control another "Thunderbird 1"; Banish all "Thunderbird 1s" you control, then take damage equal to their combined level x100.
+ATK: 2500
+DEF: 1800
+Last Updated: 11/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Thunderbird 1
+Flavour: A fast reconnaissance jet for scouting the danger zone and making preparations so Thunderbird 2 can deploy the vehicles it carries as soon as possible.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
 Name: Thunderbird 1
 Card Type: Monster
 Card Subtype(s): Effect
@@ -8,14 +36,4 @@ Monster Type: Machine
 Effect(s): If your opponent controls a monster(s) and you control no monsters, you can special summon this card (from your hand), then take 500 damage. Once per turn: you can pay 500 LP; Excavate the top 3 cards of your opponent's deck, place one on the bottom of their deck and put the rest on top of their deck in any order.
 ATK: 2500
 DEF: 1800
-Last Updated: 11/04/2024
-
-CREATIVE-----------------------------------------------------------------------
-Basis: Thunderbird 1
-Flavour: A fast reconnaissance jet for scouting the danger zone and making preparations so Thunderbird 2 can deploy the vehicles it carries as soon as possible.
-
-COMMENTS-----------------------------------------------------------------------
-None
-
-PREVIOUS VERSIONS--------------------------------------------------------------
-N/A
+Comments: None

@@ -1,4 +1,31 @@
 TECHNICAL----------------------------------------------------------------------
+
+Name: Thunderbird Shadow
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): If you control two or more "POD" or "Thunderbird" monsters, you can Special Summon this card (from your hand). This card cannot attack during the turn it's Summoned. Once per turn, except during the turn this card was Summoned: You can pay 800 LP: Excavate the top 3 cards of your opponent's Deck, then send 1 to the graveyard and place 1 on the bottom and 1 on the top of your opponent's Deck. This card cannot attack during the turn this effect is activated. When this card is Summoned, if you control another "Thunderbird Shadow": Banish all "Thunderbird Shadows" you control and take damage equal to their combined level x100.
+ATK: 2200
+DEF: 0
+Last Updated: 11/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Thunderbird Shadow
+Flavour: A stealth jet for covert missions and infiltration.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
 Name: Thunderbird Shadow
 Card Type: Monster
 Card Subtype(s): Effect
@@ -8,14 +35,4 @@ Monster Type: Machine
 Effect(s): If you control a "POD" monster, or "Tracy Island", you can Special Summon this card (from your hand). This card cannot attack, and its effects cannot be activated, during the turn it is Summoned. Once per turn: You can pay 500 LP; look at the top 3 cards of your opponent's deck (without revealing them to your opponent), then banish one face down, and place one on the top and one on the bottom of your opponent's deck. This card cannot attack during the turn you activate this effect.
 ATK: 2200
 DEF: 0
-Last Updated: 11/04/2024
-
-CREATIVE-----------------------------------------------------------------------
-Basis: Thunderbird Shadow
-Flavour: A stealth jet for covert missions and infiltration.
-
-COMMENTS-----------------------------------------------------------------------
-None
-
-PREVIOUS VERSIONS--------------------------------------------------------------
-N/A
+Comments: None

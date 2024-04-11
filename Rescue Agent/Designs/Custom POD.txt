@@ -1,4 +1,32 @@
 TECHNICAL----------------------------------------------------------------------
+
+Name: Custom POD
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 2
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): When this card is Summoned, if you control another "Custom POD"; Destroy all "Custom PODs" you control. You can pay 500 LP and tribute this card: Target 1 "POD" or "Thunderbird" monster in your hand or graveyard, except "Custom POD": Special Summon it. During your opponent's Battle Phase, when your opponent declares a direct attack: You can banish this card from your graveyard; You take no Battle Damage for the rest of the turn. You can only activate this effect of "Custom POD" once per Duel.
+ATK: 0
+DEF: 0
+Last Updated: 11/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The modular pod machines from Thunderbirds Are Go! (2015)
+Flavour: It is the base unit of the modular pod machine.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/4/2024--------------------------------------------
+
 Name: Custom POD
 Card Type: Monster
 Card Subtype(s): Effect
@@ -8,14 +36,4 @@ Monster Type: Machine
 Effect(s): You can tribute this card; Special Summon 1 "Thunderbird" or "POD" monster from your hand or graveyard. During either player's Battle Phase, if this card is in your graveyard, except during the turn it was sent there: You can banish this card; It is now the End Phase. You can only activate this effect once per Duel.
 ATK: 1500
 DEF: 1500
-Last Updated: 11/04/2024
-
-CREATIVE-----------------------------------------------------------------------
-Basis: The modular pod machines from Thunderbirds Are Go! (2015)
-Flavour: It is the base unit of the modular pod machine.
-
-COMMENTS-----------------------------------------------------------------------
-None
-
-PREVIOUS VERSIONS--------------------------------------------------------------
-N/A
+Comments: None
