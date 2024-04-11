@@ -1,0 +1,21 @@
+TECHNICAL----------------------------------------------------------------------
+Name: Thunderbird 3
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): You can pay 500 LP; Banish one card your opponent controls. During either player's turn: You can pay 500 LP; Banish this card. (This is a Quick Effect). This card returns to the field during the End Phase. You can only use 1 "Thunderbird 3" effect per turn, and only once that turn.
+ATK: 2800
+DEF: 2300
+Last Updated: 11/04/2024
+
+CREATIVE-----------------------------------------------------------------------
+Basis: Thunderbird 3
+Flavour: A space rocket for rescue missions in outer space.
+
+COMMENTS-----------------------------------------------------------------------
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+N/A

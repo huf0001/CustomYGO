@@ -1,0 +1,21 @@
+TECHNICAL----------------------------------------------------------------------
+Name: Thunderbird 4
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): Once per turn: You can pay 500 LP; Banish one card in your opponent's graveyard. During either player's turn, if a card or effect would be activated that would cause this card to leave the field, or if this card is attacked: Pay 500 LP; negate the attack or effect, and destroy the card. (This is a Quick Effect). You can only activate this effect once while this card is face-up on the field.
+ATK: 1900
+DEF: 1200
+Last Updated: 11/04/2024
+
+CREATIVE-----------------------------------------------------------------------
+Basis: Thunderbird 4
+Flavour: A submarine for under-water and sea-based rescue missions.
+
+COMMENTS-----------------------------------------------------------------------
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+N/A

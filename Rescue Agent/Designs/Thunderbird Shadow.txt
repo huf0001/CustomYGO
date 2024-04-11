@@ -1,0 +1,21 @@
+TECHNICAL----------------------------------------------------------------------
+Name: Thunderbird Shadow
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): If you control a "POD" monster, or "Tracy Island", you can Special Summon this card (from your hand). This card cannot attack, and its effects cannot be activated, during the turn it is Summoned. Once per turn: You can pay 500 LP; look at the top 3 cards of your opponent's deck (without revealing them to your opponent), then banish one face down, and place one on the top and one on the bottom of your opponent's deck. This card cannot attack during the turn you activate this effect.
+ATK: 2200
+DEF: 0
+Last Updated: 11/04/2024
+
+CREATIVE-----------------------------------------------------------------------
+Basis: Thunderbird Shadow
+Flavour: A stealth jet for covert missions and infiltration.
+
+COMMENTS-----------------------------------------------------------------------
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+N/A

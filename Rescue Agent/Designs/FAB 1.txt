@@ -1,0 +1,22 @@
+TECHNICAL----------------------------------------------------------------------
+Name: FAB 1
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Archetype Condition: This card is always treated as a "Thunderbird" monster.
+Effect(s): When this card is Summoned; Look at your opponent's set cards and their hand. When this card leaves the field; You can Special Summon 1 "Thunderbird" or POD" monster from your hand or graveyard, then gain LP equal to the combined level of all "POD" and "Thunderbird" monsters you control x100.
+ATK: 1600
+DEF: 2000
+Last Updated: 11/04/2024
+
+CREATIVE-----------------------------------------------------------------------
+Basis: FAB 1
+Flavour: The pink Rolls Royce of Lady Penelope, perhaps featuring Penelope and Parker in the art driving or beside the car.
+
+COMMENTS-----------------------------------------------------------------------
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+N/A

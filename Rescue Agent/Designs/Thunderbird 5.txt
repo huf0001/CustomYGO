@@ -1,0 +1,21 @@
+TECHNICAL----------------------------------------------------------------------
+Name: Thunderbird 5
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 5
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): While this card is face-up on the field, your opponent must reveal each card that is added to their hand. During your End Phase, pay 500 LP or destroy this card. You can pay 500 LP; Special Summon 1 "POD" or "Thunderbird" monster from your hand or graveyard. You can only activate this effect once while this card is face up on the field.
+ATK: 0
+DEF: 2600
+Last Updated: 11/04/2024
+
+CREATIVE-----------------------------------------------------------------------
+Basis: Thunderbird 5
+Flavour: A satellite for monitoring worldwide communications and intercepting distress calls.
+
+COMMENTS-----------------------------------------------------------------------
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+N/A

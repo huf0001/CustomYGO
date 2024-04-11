@@ -1,0 +1,16 @@
+TECHNICAL----------------------------------------------------------------------
+Name: Tracy Island
+Card Type: Spell
+Card Subtype(s): Field
+Effect(s): All "Thunderbird" monsters gain 400 ATK. Once per turn: you can pay 500 LP; Special Summon 1 "Thunderbird" monster from your hand or graveyard. During the End Phase: Gain LP equal to the total levels of all "Thunderbird" monsters summoned this turn x100.
+Last Updated: DD/MM/YYYY
+
+CREATIVE-----------------------------------------------------------------------
+Basis: Tracy Island
+Flavour: International Rescue's secret island base in the middle of the Pacific Ocean.
+
+COMMENTS-----------------------------------------------------------------------
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+N/A

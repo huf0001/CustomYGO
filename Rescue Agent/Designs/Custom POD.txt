@@ -1,0 +1,21 @@
+TECHNICAL----------------------------------------------------------------------
+Name: Custom POD
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): You can tribute this card; Special Summon 1 "Thunderbird" or "POD" monster from your hand or graveyard. During either player's Battle Phase, if this card is in your graveyard, except during the turn it was sent there: You can banish this card; It is now the End Phase. You can only activate this effect once per Duel.
+ATK: 1500
+DEF: 1500
+Last Updated: 11/04/2024
+
+CREATIVE-----------------------------------------------------------------------
+Basis: The modular pod machines from Thunderbirds Are Go! (2015)
+Flavour: It is the base unit of the modular pod machine.
+
+COMMENTS-----------------------------------------------------------------------
+None
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+N/A
