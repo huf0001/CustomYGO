@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent Aquanaut
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): If a "Rescue Agent" monster is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand.
+ATK: 1400
+DEF: 1500
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Gordon Tracy
+Flavour: Gordon Tracy, International Rescue's aquanaut and pilot of Thunderbird 4.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

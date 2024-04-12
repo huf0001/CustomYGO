@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Android
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: EARTH
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" Spell/Trap from your Deck or GY to your hand.
+ATK: 1500
+DEF: 0
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Virgil Tracy
+Flavour: Virgil Tracy, International Rescue's equipment transporter and pilot of Thunderbird 2.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

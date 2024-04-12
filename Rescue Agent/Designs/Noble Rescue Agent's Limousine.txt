@@ -1,0 +1,56 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Noble Rescue Agent's Limousine
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: LIGHT
+Monster Type: Machine
+Materials: "Noble of the Rescue Agents" or "Butler of the Rescue Agents" + 1 "Rescue Agent" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) If this card is Special Summoned: You can target 1 random card in your opponent's hand or 1 card in their GY: add it to your hand. Monsters destroyed by battle with this card are returned to the hand instead of going to the GY. Once per turn, when your "Rescue Agent" monster is targeted for an attack: You can negate that attack.
+ATK: 2300
+DEF: 1700
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: FAB 1
+Flavour: The high-tech Rolls Royce owned by Lady Penelope and driven by Parker, with hidden features and gadgets to aid in its missions.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a "Rescue Agent" Fusion monster, it should share the archetypal effect of all "Rescue Agent" Fusion monsters of returning monsters destroyed in battle to the hand rather than sending them to the GY. As a Level 6 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: FAB 1
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Archetype Condition: This card is always treated as a "Thunderbird" monster.
+Effect(s): If you control "FAB 1", this card cannot be Summoned or Set. When this card is Normal or Special Summoned: You can look at your opponent's set cards, then shuffle them on the field (face down). When this card is destroyed by battle or card effect and sent to the graveyard: You can target 1 "POD" or "Thunderbird" monster in your graveyard, except "FAB 1": Special Summon it, and if you do, gain LP equal to the level of the "POD" or "Thunderbird" monster you control with the lowest level (your choice if tied) x100. You can only activate 1 "FAB 1" effect per turn, and only once that turn.
+ATK: 1300
+DEF: 2000
+Comments: Overhauling the archetype from the ground up.
+
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: FAB 1
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Archetype Condition: This card is always treated as a "Thunderbird" monster.
+Effect(s): When this card is Summoned; Look at your opponent's set cards and their hand. When this card leaves the field; You can Special Summon 1 "Thunderbird" or POD" monster from your hand or graveyard, then gain LP equal to the combined level of all "POD" and "Thunderbird" monsters you control x100.
+ATK: 1600
+DEF: 2000
+Comments: None

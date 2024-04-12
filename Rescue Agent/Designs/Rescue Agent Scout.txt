@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent Scout
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WIND
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand.
+ATK: 1100
+DEF: 1800
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Scott Tracy
+Flavour: Scott Tracy, International Rescue's first responder and pilot of Thunderbird 1.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

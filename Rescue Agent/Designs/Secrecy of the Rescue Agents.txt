@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Secrecy of the Rescue Agents
+Card Type: Trap
+Card Subtype(s): Counter
+Effect(s): When a Spell/Trap Card, or monster effect is activated targets a "Rescue Agent" monster you control; negate the activation, and if you do, shuffle it into the Deck. If this card is in your GY, except during the turn this card was sent to the GY (Quick Effect): You can banish this card, then target 1 "Rescue Agent" monster you control; it is unaffected by your opponent's card effects until the end of this turn.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: International Rescue operating as a secret organisation.
+Flavour: Someone has tried to record the Thunderbird machines in action, and International Rescue has foiled those efforts and destroyed any such footage.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

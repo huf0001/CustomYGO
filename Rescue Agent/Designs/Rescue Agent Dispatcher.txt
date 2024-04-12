@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent Dispatcher
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can look at up to 5 cards from the top of your opponent's Deck.
+ATK: 1500
+DEF: 1400
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: John Tracy
+Flavour: John Tracy, International Rescue's communications monitor and operator of Thunderbird 5.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

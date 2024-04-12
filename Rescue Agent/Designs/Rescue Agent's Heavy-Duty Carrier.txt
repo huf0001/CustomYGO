@@ -1,0 +1,54 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Heavy-Duty Carrier
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. During your opponent's Main Phase, you can (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon, using only "Rescue Agent" monsters you control. You can only activate this effect of "Rescue Agent's Heavy-Duty Carrier" once per turn.
+ATK: 2800
+DEF: 2200
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Thunderbird 2
+Flavour: A heavy equipment transporter that carries specialised vehicles to the danger zone.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a "Rescue Agent" Synchro monster, it should share the archetypal effect of all "Rescue Agent" Synchro monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 8 "Rescue Agent" monster, its ATK/DEF should add up to 5000.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: Thunderbird 2
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): You can pay 800 LP; Add 1 "POD" or "Thunderbird" card from your Deck to your hand. You can pay 800 LP; You can Normal Summon 1 "POD" or "Thunderbird" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn). You can only use 1 "Thunderbird 2" effect per turn, and only once that turn. When this card is Summoned, if you control another "Thunderbird 2"; Banish all "Thunderbird 2s" you control and take damage equal to their combined level x100. (This effect activates even if an effect of "Thunderbird 2" has been used this turn).
+ATK: 1900
+DEF: 3000
+Comments: Overhauling the archetype from the ground up.
+
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: Thunderbird 2
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): You can pay 500 LP; Add 1 "POD" or "Thunderbird" card, or "Tracy Island" from your Deck or Graveyard to your hand. You can pay 500 LP; You can Normal Summon 1 "POD" monster or "Thunderbird 4" in addition to your Normal Summon/Set. (You can only gain this effect once per turn). You can only use 1 "Thunderbird 2" effect per turn, and only once that turn.
+ATK: 1900
+DEF: 3000
+Comments: None

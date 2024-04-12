@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Preparation of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): Add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Preparation of the Rescue Agents".
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Tracy brothers going to their Thunderbirds.
+Flavour: The Tracy brothers using the hidden features of Tracy Island's lounge to head to their Thunderbird machines for a rescue operation.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

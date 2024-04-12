@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Hangar
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): When this card is activated: You can attach 1 "Rescue Agent" monster in your GY to a "Rescue Agent" Xyz monster you control. If a "Rescue Agent" Xyz Monster you control would detach its Xyz Material(s) to activate an effect, you can detach Xyz Material(s) from another "Rescue Agent" Xyz Monster(s) you control instead. You can only use this effect of "Rescue Agent's Hangar" once per turn.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Pod Vehicles Hangar
+Flavour: The hangar of Thunderbird 2's pod vehicles.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

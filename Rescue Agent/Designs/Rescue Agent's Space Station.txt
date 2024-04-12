@@ -1,0 +1,53 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Space Station
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): Your opponent must reveal all cards they draw. Once per turn: You can declare 1 card name; look at 1 random card in your opponent's hand, and if it was the declared card, shuffle it into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1500
+DEF: 3000
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Thunderbird 5
+Flavour: A satellite for monitoring worldwide communications and intercepting distress calls.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a "Rescue Agent" Synchro monster, it should share the archetypal effect of all "Rescue Agent" Synchro monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 8 "Rescue Agent" monster, its ATK/DEF should add up to 5000, but because it is a satellite that does not actively participate in rescue missions, its total is lower.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: Thunderbird 5
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 5
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): While this card is face up on the field, your opponent must reveal each card that is added to their hand. During your End Phase, pay 800 LP or destroy this card. You can pay 800 LP; Special Summon 1 "POD" or "Thunderbird" monster from your hand or graveyard. You can only activate this effect once while this card is face up on the field. When this card is Summoned, if you control another "Thunderbird 5": Banish all "Thunderbird 5s" you control and take damage equal to their combined level x100.
+ATK: 0
+DEF: 2600
+Comments: Overhauling the archetype from the ground up.
+
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: Thunderbird 5
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 5
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): While this card is face-up on the field, your opponent must reveal each card that is added to their hand. During your End Phase, pay 500 LP or destroy this card. You can pay 500 LP; Special Summon 1 "POD" or "Thunderbird" monster from your hand or graveyard. You can only activate this effect once while this card is face up on the field.
+ATK: 0
+DEF: 2600

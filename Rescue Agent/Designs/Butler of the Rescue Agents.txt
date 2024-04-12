@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Butler of the Rescue Agents
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: target 1 Spell/Trap in your opponent's GY; this effect becomes that target's effect when that card is activated.
+ATK: 1850
+DEF: 1050
+Last Updated: 11/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Parker
+Flavour: Aloysius Parker, a thief and safe cracker turned butler for Lady Penelope, possibly driving FAB 1.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900. As a criminal monster, its attribute should be DARK, and its ATK/DEF should be multiples of 50, not 100.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

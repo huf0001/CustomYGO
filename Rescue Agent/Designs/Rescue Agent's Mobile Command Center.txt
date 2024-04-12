@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Mobile Command Center
+Card Type: Trap
+Card Subtype(s): Continuous
+Effect(s): When this card is activated: You can target 1 "Rescue Agent" card in your GY; add it to your hand. "Rescue Agent" monsters you control gain 300 ATK/DEF. When an opponent's monster would be returned to the hand or shuffled into the Deck by the effect of a "Rescue Agent" card you control, you can attach it to a "Rescue Agent" Xyz monster you control instead.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Mobile Control Center
+Flavour: International Rescue's Mobile Control Center, for directing rescue operations from on the ground at the Danger Zone.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

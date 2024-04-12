@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent Transporter
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Warrior
+Effect(s): During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+ATK: 1200
+DEF: 1700
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Virgil Tracy
+Flavour: Virgil Tracy, International Rescue's equipment transporter and pilot of Thunderbird 2.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

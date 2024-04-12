@@ -1,0 +1,29 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Mobile Platform
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: WIND
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn: You can detach 1 material from this card; Special Summon 1 "Rescue Agent Machine Token" (Machine/EARTH/Level 2/ATK 0/DEF 0). "Rescue Agent" monsters you control gain 300 ATK/DEF for each "Rescue Agent Machine Token" you control. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+ATK: 2000
+DEF: 2000
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Master Elevator Car
+Flavour: A mobile platform for catching falling planes, and which can control 2 other remote control Elevator Cars.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a "Rescue Agent" Xyz monster, it should share the archetypal effect of all "Rescue Agent" Xyz monsters of attaching monsters destroyed in battle rather than sending them to the GY. As a 2-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

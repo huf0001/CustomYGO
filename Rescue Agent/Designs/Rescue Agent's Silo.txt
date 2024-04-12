@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Silo
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): Special Summon 1 "Rescue Agent" Tuner monster from your hand or Deck, but return it to your hand during the End Phase of this turn.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Thunderbird 1's silo
+Flavour: The silo or hangar of any of the Thunderbird machines, where they are prepared for launch.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

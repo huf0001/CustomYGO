@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Crash Landing
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Target 1 "Rescue Agent" monster in your GY that was sent there this turn: Special Summon that monster, and if it's an Xyz monster, attach this card to it as material. It cannot be destroyed by battle or card effects until the end of the next turn.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Thunderbird 2 crash landing.
+Flavour: Thunderbird 2 crash landing on Tracy Island after being shot down, and needing repairs to be able to go back out on rescue missions.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

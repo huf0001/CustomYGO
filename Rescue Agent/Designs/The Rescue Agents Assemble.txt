@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Rescue Agents Assemble
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Discard 1 card; Special Summon 2 "Rescue Agent Machine Tokens" (Machine/EARTH/Level 2/ATK 0/DEF 0). You cannot Special Summon during the turn you activate this card, except "Rescue Agent" monsters.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Gathering the Elevator Cars.
+Flavour: Gathering all of the Elevator Cars on the runway to catch Fireflash.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Hover Jet
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WIND
+Monster Type: Machine
+Effect(s): You can target 1 Level 4 or lower "Rescue Agent" monster you control; equip this card from your hand or field to that target. While this card is equipped to a monster, this card can be treated as a monster for the Fusion, Synchro, or Xyz Summon of a "Rescue Agent" monster. If the equipped monster attacks a Defense Position monster, inflict piecing battle damage to your opponent.
+ATK: 1000
+DEF: 1000
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Hoverjet
+Flavour: International Rescue's Hoverjets increase the Tracys' mobility, and allow them to reach locations that their other vehicles cannot.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900, but given its powerful effect for enabling Fusion, Synchro, and Xyz summons, its total is reduced.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

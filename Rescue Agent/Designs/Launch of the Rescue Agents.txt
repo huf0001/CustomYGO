@@ -1,0 +1,23 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Launch of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): Special Summon 1 "Rescue Agent" monster from your hand, then, immediately after this effect resolves, Synchro Summon 1 "Rescue Agent" Synchro monster using monsters you control as material. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish thsi card from your GY instead.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Launching the Thunderbirds
+Flavour: The Thunderbirds are launching from Tracy Island to head to the Danger Zone.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

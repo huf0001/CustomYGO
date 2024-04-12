@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent Commander
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 4
+Attribute: WIND
+Monster Type: Warrior
+Effect(s): You can discard this card; add 1 "Rescue Agents' Island" from your Deck to your hand.
+ATK: 2100
+DEF: 800
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Jeff Tracy
+Flavour: Jeff Tracy, the founder and leader of International Rescue.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Field Spell searcher, its ATK should be 2100 and its DEF should be 800.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

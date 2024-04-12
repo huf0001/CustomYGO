@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Noble of the Rescue Agents
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can look at your opponent's hand.
+ATK: 1000
+DEF: 1900
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Lady Penelope
+Flavour: Lady Penelope Creighton-Ward, International Rescue's aristocratic undercover London Agent.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A

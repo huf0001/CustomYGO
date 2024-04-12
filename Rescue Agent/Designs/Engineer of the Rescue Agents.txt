@@ -1,0 +1,28 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Engineer of the Rescue Agents
+Card Type: Monster
+Card Subtype(s): Effect / Tuner
+Level: 2
+Attribute: EARTH
+Monster Type: Warrior
+Effect(s): If you control a "Rescue Agent" monster, you can "Special Summon" this card (from your hand). You can only Special Summon "Engineer of the Rescue Agents" once per turn this way.
+ATK: 0
+DEF: 1500
+Last Updated: 11/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Brains
+Flavour: Brains, alias Hiram K Hackenbacker, the genius engineer who designed and built the Thunderbird machines.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+N/A
