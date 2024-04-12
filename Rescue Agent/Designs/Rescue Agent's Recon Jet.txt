@@ -7,7 +7,7 @@ Level: 6
 Attribute: WIND
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: Special Summon 1 "Rescue Agent" monster from your hand or Deck. During your Main Phase: You can look at Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
+Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. During your Main Phase: You can look at random cards in your opononet's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
 ATK: 2100
 DEF: 1900
 Last Updated: 12/04/2024
@@ -25,6 +25,21 @@ As a "Rescue Agent" Synchro monster, it should share the archetypal effect of al
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Recon Jet
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WIND
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: Special Summon 1 "Rescue Agent" monster from your hand or Deck. During your Main Phase: You can look at Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
+ATK: 2100
+DEF: 1900
+Comments: Is being able to Summon from the Deck a bit too strong? Let's see how it fares only being able to Summon from the hand.
+
 
 DATE: 11/04/2024-------------------------------------------
 

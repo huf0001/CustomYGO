@@ -15,7 +15,7 @@ Flavour: Thunderbird 2 crash landing on Tracy Island after being shot down, and 
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Arrival of the Rescue Agents already acts as a resurrection effect, so this is redundant.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

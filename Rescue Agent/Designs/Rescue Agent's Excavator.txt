@@ -7,7 +7,7 @@ Rank: 4
 Attribute: EARTH
 Monster Type: Machine
 Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): Once per turn: You can detach 1 material from this card, then target 1 card in either GY; shuffle it into the Deck. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+Effect(s): Once per turn: You can detach 1 material from this card, then target 1 set Spell/Trap your opponent controls; shuffle it into the Deck. Your opponent cannot activate the targeted card or its effects in response to this effect's activation. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
 ATK: 2400
 DEF: 1600
 Last Updated: 12/04/2024
@@ -26,4 +26,16 @@ As a "Rescue Agent" Xyz monster, it should share the archetypal effect of all "R
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-N/A
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Excavator
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: EARTH
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn: You can detach 1 material from this card, then target 1 card in either GY; shuffle it into the Deck. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+ATK: 2400
+DEF: 1600
+Comments: The archetype doesn't need multiple Spell/Trap removal monsters, so this card needs a different effect.

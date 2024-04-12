@@ -20,7 +20,7 @@ Flavour: Virgil Tracy, International Rescue's equipment transporter and pilot of
 
 COMMENTS-----------------------------------------------------------------------
 
-As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
+As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500. I don't know if it's necessary to have a monster retrieving Spell/Trap cards, and that might afford too much consistency if the player retrieves a fetch or Summon effect. Also might be unnecessary to have a 4th Tuner monster, we'll see how that goes.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

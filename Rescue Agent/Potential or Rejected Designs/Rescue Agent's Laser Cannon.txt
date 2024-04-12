@@ -21,7 +21,7 @@ Flavour: A mobile laser beam for cutting through doors and walls to rescue trapp
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Xyz monster, it should share the archetypal effect of all "Rescue Agent" Xyz monsters of attaching monsters destroyed in battle rather than sending them to the GY. As a 2-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
+As a "Rescue Agent" Xyz monster, it should share the archetypal effect of all "Rescue Agent" Xyz monsters of attaching monsters destroyed in battle rather than sending them to the GY. As a 2-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4000. Might be best to just let Submarine cover Spell/Trap removal, and cut this card from the archetype unless an alternate effect for it can be found.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

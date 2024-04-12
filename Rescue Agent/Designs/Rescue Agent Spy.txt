@@ -1,12 +1,12 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Noble of the Rescue Agents
+Name: Rescue Agent Spy
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): If this card is Normal or Special Summoned: You can look at your opponent's hand.
+Effect(s): If this card is Normal or Special Summoned: You can send 1 "Rescue Agent" monster from your Deck to the GY.
 ATK: 1000
 DEF: 1900
 Last Updated: 12/04/2024
@@ -25,4 +25,15 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-N/A
+DATE: 12/04/2024-------------------------------------------
+
+Name: Noble of the Rescue Agents
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can look at your opponent's hand.
+ATK: 1000
+DEF: 1900
+Comments: If the archetype is moving away from having any hand disruption, this card needs a different effect encapsulating Lady Penelope. Also, might be worth renaming to shorten its name.

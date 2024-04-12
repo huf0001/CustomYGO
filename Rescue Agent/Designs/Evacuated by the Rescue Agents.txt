@@ -1,0 +1,29 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Airlifted by the Rescue Agents
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except during the turn this card was sent to the GY: attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster, and if you do, banish this card.
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Thunderbird 2's electromagnetic grabs
+Flavour: Thunderbird 2 lifts a vehicle up from its precarious position, and carries it to safety.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: Airlifted by the Rescue Agents
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Target 1 card on the field; shuffle it into the Deck. You must control a "Rescue Agent" monster to activate and to resolve this effect.
+Comments: Might need some more effects to make it a better pick for Rescue Agent decks than the likes of Compulsory Evacuation Device. Also, might tweak the name to "Evacuated" rather than "Airlifted", as that's more generic.

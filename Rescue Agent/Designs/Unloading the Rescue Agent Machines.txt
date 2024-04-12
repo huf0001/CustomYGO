@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Unloading the Rescue Agent Machines
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Target 1 "Rescue Agent" monster in your GY; Special Summon it, then, immediately after this effect resolves, Xyz Summon 1 "Rescue Agent" Xyz monster using monsters you control as material. If you Xyz Summon a "Rescue Agent" monster, except during the turn this card was sent to the GY: attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster, and if you do, banish this card.
+Effect(s): Discard 1 card; Special Summon 2 "Rescue Agent Machine Tokens" (Machine/EARTH/Level 2/ATK0 /DEF 0). You cannot Special Summon during the turn you activate this card, except "Rescue Agent" monsters. You can banish this card from your GY, except the turn it was sent there; "Rescue Agent" monsters you control gain 300 ATK/DEF 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control until the end of this turn.
 Last Updated: 12/04/2024
 
 
@@ -19,6 +19,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Unloading the Rescue Agent Machines
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Target 1 "Rescue Agent" monster in your GY; Special Summon it, then, immediately after this effect resolves, Xyz Summon 1 "Rescue Agent" Xyz monster using monsters you control as material. If you Xyz Summon a "Rescue Agent" monster, except during the turn this card was sent to the GY: attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster, and if you do, banish this card.
+Comments: The quick Xyz Summon effect got merged into Launch of the Rescue Agents, so this card is adopting The Rescue Agents Assemble's effect. Also, might want to change the GY effect, since this card is no longer related to Xyz Summoning.
+
 
 DATE: 11/04/2024-------------------------------------------
 

@@ -1,12 +1,12 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Noble Rescue Agent's Limousine
+Name: Rescue Agent's Limousine
 Card Type: Monster
 Card Subtype(s): Fusion / Effect
 Level: 6
 Attribute: LIGHT
 Monster Type: Machine
-Materials: "Noble of the Rescue Agents" or "Butler of the Rescue Agents" + 1 "Rescue Agent" monster
+Materials: "Rescue Agent Spy" or "Rescue Agent Butler" + 1 "Rescue Agent" monster
 Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) If this card is Special Summoned: You can target 1 random card in your opponent's hand or 1 card in their GY: add it to your hand. Monsters destroyed by battle with this card are returned to the hand instead of going to the GY. Once per turn, when your "Rescue Agent" monster is targeted for an attack: You can negate that attack.
 ATK: 2300
 DEF: 1700
@@ -25,6 +25,20 @@ As a "Rescue Agent" Fusion monster, it should share the archetypal effect of all
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Noble Rescue Agent's Limousine
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: LIGHT
+Monster Type: Machine
+Materials: "Noble of the Rescue Agents" or "Butler of the Rescue Agents" + 1 "Rescue Agent" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) If this card is Special Summoned: You can target 1 random card in your opponent's hand or 1 card in their GY: add it to your hand. Monsters destroyed by battle with this card are returned to the hand instead of going to the GY. Once per turn, when your "Rescue Agent" monster is targeted for an attack: You can negate that attack.
+ATK: 2300
+DEF: 1700
+Comments: If we're re-naming Spy and Butler, this card needs renaming and tweaks to its materials as well.
 
 DATE: 11/04/2024-------------------------------------------
 

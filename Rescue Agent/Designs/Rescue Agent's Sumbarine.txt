@@ -7,7 +7,7 @@ Level: 6
 Attribute: WATER
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Sumbarine" once per turn. If this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
+Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Sumbarine" once per turn. If this card is Special Summoned: You can target 1 face-up card your opponent controls; return it to the hand. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
 ATK: 1600
 DEF: 2400
 Last Updated: 12/04/2024
@@ -25,6 +25,21 @@ As a "Rescue Agent" Synchro monster, it should share the archetypal effect of al
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024
+
+Name: Rescue Agent's Sumbarine
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WATER
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Sumbarine" once per turn. If this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
+ATK: 1600
+DEF: 2400
+Comments: Both this and Excavator deal with Spells and Traps, might need to distinguish them better so they're not filling the same role. Also, Rescue Agent cards shouldn't be destroying anything with card effects.
+
 
 DATE: 11/04/2024-------------------------------------------
 

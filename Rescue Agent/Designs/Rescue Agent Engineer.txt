@@ -1,0 +1,40 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent Engineer
+Card Type: Monster
+Card Subtype(s): Effect / Tuner
+Level: 2
+Attribute: EARTH
+Monster Type: Warrior
+Effect(s): If you control a "Rescue Agent" monster, you can "Special Summon" this card (from your hand). You can only Special Summon "Engineer of the Rescue Agents" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as material ganes the following effect:
+● The first time this card would be destroyed by your opponent's card effect each turn, it is not destroyed.
+ATK: 0
+DEF: 1500
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Brains
+Flavour: Brains, alias Hiram K Hackenbacker, the genius engineer who designed and built the Thunderbird machines.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: Engineer of the Rescue Agents
+Card Type: Monster
+Card Subtype(s): Effect / Tuner
+Level: 2
+Attribute: EARTH
+Monster Type: Warrior
+Effect(s): If you control a "Rescue Agent" monster, you can "Special Summon" this card (from your hand). You can only Special Summon "Engineer of the Rescue Agents" once per turn this way.
+ATK: 0
+DEF: 1500
+Comments: Maybe the Tuners should have effects that benefit the monsters used to Synchro Summon them. Also, should be renamed to shorten the name.

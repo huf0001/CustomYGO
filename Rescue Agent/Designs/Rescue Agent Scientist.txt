@@ -1,0 +1,40 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent Scientist
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): Once per turn: You can target 1 "Rescue Agent" monster you control; increase or decrease its Level by 2 until the end of this turn. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as material ganes the following effect:
+● The first time this card would be destroyed by battle each turn, it is not destroyed.
+ATK: 1300
+DEF: 200
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Tin-Tin Kyrano
+Flavour: Tin-Tin Kyrano, a skilled scientist and engineer, and assistant to Brains.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Scientist of the Rescue Agents
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): Once per turn: You can target 1 "Rescue Agent" monster you control; increase or decrease its Level by 2 until the end of this turn.
+ATK: 1300
+DEF: 200
+Comments: Maybe the Tuners should have effects that benefit the monsters used to Synchro Summon them. Also, should be renamed to shorten the name.

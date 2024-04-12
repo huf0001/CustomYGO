@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Launch of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Quick-Play
-Effect(s): Special Summon 1 "Rescue Agent" monster from your hand, then, immediately after this effect resolves, Synchro Summon 1 "Rescue Agent" Synchro monster using monsters you control as material. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish thsi card from your GY instead.
+Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY, then, immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster, using monsters you control as material, including that Summoned monster. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish thsi card from your GY instead.
 Last Updated: 12/04/2024
 
 
@@ -20,4 +20,10 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-N/A
+DATE: 12/04/2024-------------------------------------------
+
+Name: Launch of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): Special Summon 1 "Rescue Agent" monster from your hand, then, immediately after this effect resolves, Synchro Summon 1 "Rescue Agent" Synchro monster using monsters you control as material. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish thsi card from your GY instead.
+Comments: Might be worth broadening to include all Extra Deck monster types in the archetype, and removing other card type-specific versions of the same effect.

@@ -15,7 +15,7 @@ Flavour: International Rescue's Mobile Control Center, for directing rescue oper
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+This card feels unnecessary, its ATK/DEF effect doubles up with Island, and the attachment effect could be given to Hangar.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
