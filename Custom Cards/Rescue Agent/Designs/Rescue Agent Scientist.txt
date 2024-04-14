@@ -6,7 +6,7 @@ Card Subtype(s): Tuner / Effect
 Level: 2
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was  Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
+Effect(s): If only your opponent controls a monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was  Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
 ● The first time this card would be destroyed by battle each turn, it is not destroyed.
 ATK: 1300
 DEF: 200
@@ -25,6 +25,21 @@ As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 14/04/2024-------------------------------------------
+
+Name: Rescue Agent Scientist
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was  Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
+● The first time this card would be destroyed by battle each turn, it is not destroyed.
+ATK: 1300
+DEF: 200
+Comments: Scientist's Special Summon effect is meant to be the inverse of Engineer's not the same.
+
 
 DATE: 12/04/2024-------------------------------------------
 
