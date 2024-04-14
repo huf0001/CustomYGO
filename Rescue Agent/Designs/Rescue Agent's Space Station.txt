@@ -7,10 +7,10 @@ Level: 4
 Attribute: LIGHT
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Your opponent must reveal all cards they draw. Once per turn: You can shuffle 1 "Rescue Agent" card from your hand into your deck, and if you do, draw 1 card. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
-ATK: 1500
-DEF: 3000
-Last Updated: 12/04/2024
+Effect(s): Cannot be targeted or destroyed by your opponent's card effects while you control a "Rescue Agent" Fusion, Synchro, or Xyz monster with a different name. Your opponent must reveal all cards they draw. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster (Quick Effect): You can draw 1 card. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2000
+DEF: 3500
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,10 +21,24 @@ Flavour: A satellite for monitoring worldwide communications and intercepting di
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Synchro monster, it should share the archetypal effect of all "Rescue Agent" Synchro monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 8 "Rescue Agent" monster, its ATK/DEF should add up to 5000, but because it is a satellite that does not actively participate in rescue missions, its total is lower.
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 10 "Rescue Agent" monster, its ATK/DEF should add up to 6000, but because it is a satellite that does not actively participate in rescue missions, its total is lower. Keep an eye on if preventing destruction by card effects is a bit too strong, or if the restriction of immunity only when there's another Rescue Agent Extra Deck monster is enough of a weakness.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Space Station
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): Your opponent must reveal all cards they draw. Once per turn: You can shuffle 1 "Rescue Agent" card from your hand into your deck, and if you do, draw 1 card. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1500
+DEF: 3000
+Comments: Let's see if raising it to Level 10 and giving it an extra effect might increase its potency, becuase it's not quite enough compared to Starship and Carrier to be worth bringing out.
 
 DATE: 12/04/2024-------------------------------------------
 

@@ -7,10 +7,10 @@ Level: 8
 Attribute: EARTH
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. During your opponent's Main Phase, you can (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon, using only "Rescue Agent" monsters you control. You can only activate this effect of "Rescue Agent's Heavy-Duty Carrier" once per turn.
+Effect(s): If this card is Synchro Summoned: You can target 1 Level 4 or lower monster from either player's GY; Special Summon it. During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2800
 DEF: 2200
-Last Updated: 12/04/2024
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,10 +21,25 @@ Flavour: A heavy equipment transporter that carries specialised vehicles to the 
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Synchro monster, it should share the archetypal effect of all "Rescue Agent" Synchro monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 8 "Rescue Agent" monster, its ATK/DEF should add up to 5000.
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 8 "Rescue Agent" monster, its ATK/DEF should add up to 5000.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Heavy-Duty Carrier
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. During your opponent's Main Phase, you can (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon, using only "Rescue Agent" monsters you control. You can only activate this effect of "Rescue Agent's Heavy-Duty Carrier" once per turn.
+ATK: 2800
+DEF: 2200
+Comments: There's some imbalance in utility between Carrier and Starship, so let's try swapping some effects: Carrier gets Starship's on-Summon effect, and Starship gets Carrier's Quick Effect. Also, let's see how it's on-Summon effect fares being restricted to Synchro Summons, not just whenever it's Special Summoned.
+
 
 DATE: 11/04/2024-------------------------------------------
 

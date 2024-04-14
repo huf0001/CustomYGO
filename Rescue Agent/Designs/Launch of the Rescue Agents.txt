@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Launch of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Quick-Play
-Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY, then, immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster, using monsters you control as material, including that Summoned monster. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish thsi card from your GY instead.
-Last Updated: 12/04/2024
+Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY, but its effects are negated, then, immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control, including that Summoned monster. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish this card from your GY instead.
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Launch of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY, then, immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster, using monsters you control as material, including that Summoned monster. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish thsi card from your GY instead.
+Comments: This card's quick Summon effect should negate the effects of the monster it Special Summons from the hand or GY so as to not trigger its on-Summon effects. The wording can also be shortened. Also, spotted a typo.
+
 
 DATE: 12/04/2024-------------------------------------------
 

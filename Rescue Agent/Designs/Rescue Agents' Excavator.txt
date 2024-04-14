@@ -7,7 +7,7 @@ Rank: 4
 Attribute: EARTH
 Monster Type: Machine
 Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): Once per turn: You can detach 1 material from this card, then target 1 set Spell/Trap your opponent controls; shuffle it into the Deck. Your opponent cannot activate the targeted card or its effects in response to this effect's activation. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+Effect(s): Once per turn: You can detach 2 materials from this card; excavate up to 5 cards from the top of your opponent's Deck, then attach 1 excavated card to this card, also shuffle the rest back into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2400
 DEF: 1600
 Last Updated: 12/04/2024
@@ -25,6 +25,21 @@ As a "Rescue Agent" Xyz monster, it should share the archetypal effect of all "R
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Excavator
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: EARTH
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn: You can detach 1 material from this card, then target 1 set Spell/Trap your opponent controls; shuffle it into the Deck. Your opponent cannot activate the targeted card or its effects in response to this effect's activation. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+ATK: 2400
+DEF: 1600
+Comments: Extra Deck monsters should all share the same battle effect. Also, the archetype should only have 1 Spell/Trap removal monster, so let's see if a different effect can work for Excavator, or if it should keep its Spell/Trap removal and Submarine should use a different effect.
+
 
 DATE: 12/04/2024-------------------------------------------
 

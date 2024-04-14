@@ -7,10 +7,10 @@ Rank: 4
 Attribute: FIRE
 Monster Type: Machine
 Materials: 3 Level 4 "Rescue Agent" monsters
-Effect(s): Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. Cannot be destroyed by battle while it has a material. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+Effect(s):  Cannot be destroyed by battle while it has a material. Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2400
 DEF: 2100
-Last Updated: 11/04/2024
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,10 +21,25 @@ Flavour: The powerful bulldozer in amongst rubble for it to clear away, with a c
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Xyz monster, it should share the archetypal effect of all "Rescue Agent" Xyz monsters of attaching monsters destroyed in battle rather than sending them to the GY. As a 3-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4500.
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a 3-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4500. Keep an eye on its indestructability effect, in case that makes Bulldozer too strong.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 11/04/2024-------------------------------------------
+
+Name: Rescue Agent's Bulldozer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: FIRE
+Monster Type: Machine
+Materials: 3 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. Cannot be destroyed by battle while it has a material. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+ATK: 2400
+DEF: 2100
+Comments: All Extra Deck monsters should share the same battle effect. If Bulldozer uses its effect, it shouldn't be able to attack during the same turn, that's probably a bit too much for it to be able to clear the opponent's board and attack in the same turn.
+
 
 DATE: 11/04/2024-------------------------------------------
 

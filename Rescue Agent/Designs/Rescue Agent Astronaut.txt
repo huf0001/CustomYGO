@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): If this card is Normal or Special Summoned: You can target 1 "Rescue Agent" monster in your GY; add it to your hand.
+Effect(s): During your Main Phase, if a "Rescue Agent" monster is Normal or Special Summoned to your field, except "Rescue Agent Astronaut": You can Special Summon this card from your hand. You can only use this effect of "Rescue Agent Astronaut" once per turn.
 ATK: 1300
 DEF: 1600
-Last Updated: 12/04/2024
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,4 +25,15 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-N/A
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent Astronaut
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can target 1 "Rescue Agent" monster in your GY; add it to your hand.
+ATK: 1300
+DEF: 1600
+Comments: Due to effect swaps among the Rescue Agent Synchro monsters, Astronaut and Aquanaut's effects should be swapped, since Aquanaut's effect better maps to Starship's new effect than Astronaut's. Also, might see how it performs when Summoning from the GY, rather than just returning to the hand. For consistency with other Rescue Agents' adjustments, it should also prevent it from Summoning itself in response to the Summon of another copy of Astronaut, and to keep its self-Summon rate consistent with Scientist and Engineer, it should only be able to Summon itself once per turn that way.

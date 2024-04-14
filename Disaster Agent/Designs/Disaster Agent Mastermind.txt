@@ -1,0 +1,52 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Disaster Agent Mastermind
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: DARK
+Monster Type: Psychic
+Effect(s): During your Main Phase: You can Tribute this card, then target 1 monster your opponent controls that was Special Summoned from the Extra Deck; take control of it until the End Phase. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY. If your opponent Special Summons a monster from the Extra Deck (Quick Effect): You can draw 1 card. You can only use each effect of "Disaster Agent Mastermind" once per turn. You must have no cards in your Extra Deck to activate and to resolve the effects of "Disaster Agent Mastermind".
+ATK: 2450
+DEF: 2050
+Last Updated: 12/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Hood
+Flavour: The Hood, a criminal mastermind with an array of costumes and disguises, and a psychic ability to control or subdue others with his mind.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a "Disaster Agent" monster, its attribute should be DARK, and its ATK/DEF should be multiples of 50, not 100. As a Level 6 "Disaster Agent" monster, its ATK/DEF should add up to 4500.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent Nemesis
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Psychic
+Effect(s): If your opponent Special Summons a monster: You can send this card from your hand to the GY; take control of that Summoned monster until your next End Phase. While you control it, it cannot declare an attack, its effects are negated, and it is treated as a Level 4 "Rescue Agent" monster. You can only activate this effect of "Rescue Agent Nemesis" once per turn. You must control a "Rescue Agent" monster with a different name to activate and to resolve this effect.
+ATK: 1950
+DEF: 950
+Comments: The stealing effect might be too strong for the Rescue Agents given their existing consistency, so let's remove it and see how the Rescue Agents fare. Plus, it doesn't really fit with the rest of the archetype, but could do nicely in its own anti-Extra Deck archetype.
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent Nemesis Thief
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Psychic
+Effect(s): You can only control 1 "Rescue Agent Nemesis Thief". If this card is Normal or Special Summoned and you control another "Rescue Agent" card: You can target 1 monster your opponent controls; take control of it until the End Phase, but it cannot declare an attack. You can only activate this effect of "Rescue Agent Nemesis Thief" once per turn. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.
+ATK: 1950
+DEF: 950
+Comments: Taking control of a monster is all good, but it's not much use if it can't attack or be used to Summon an Extra Deck monster. Also, having Nemesis on the field as well as the controlled monster might be a bit much given the archetype's other cards. Also, might be worth shortening its name.

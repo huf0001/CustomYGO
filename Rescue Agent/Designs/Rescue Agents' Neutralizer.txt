@@ -1,0 +1,56 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Neutralizer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; its ATK or DEF becomes 0 until the end of this turn. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1900
+DEF: 2100
+Last Updated: 13/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Neutralizer Tractor
+Flavour: A mobile EMP capable of disabling any electronic device.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a 2-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/20240------------------------------------------
+
+Name: Rescue Agent's Neutralizer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 3 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up card your opponent controls; negate its effects until the end of this turn. Monsters destroyed by battle witht his card are attached to this card instead of going to the GY.
+ATK: 1900
+DEF: 2600
+Comments: All Extra Deck monsters should share the same battle effect. Also, if Bulldozer is doing monster removal now and Stabilizer is negating effects, this card could take Bulldozer's old effect of making monsters' ATK 0. That effect probably doesn't warrant 3 materials all by itself.
+
+
+DATE: 12/04/20240------------------------------------------
+
+Name: Rescue Agent's Neutralizer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 3 Level 4 "Rescue Agent" monsters
+Effect(s): Monsters destroyed by battle with this card are attached to this card instead of going to the GY. You can only use 1 of the following effects of "Rescue Agent's Neutralizer" per turn, and only once that turn. (Quick Effect): You can detach 1 material from this card, then target 1 face-up card your opponent controls; negate its effects until the end of this turn. When a Spell/Trap Card is activated (Quick Effect): You can detach 2 materials from this card; negate the activation, and if you do, destroy it.
+ATK: 1900
+DEF: 2600
+Comments: Being able to negate Spell/Trap cards is a bit much, and steps on the toes of Secrecy of the Rescue Agents.

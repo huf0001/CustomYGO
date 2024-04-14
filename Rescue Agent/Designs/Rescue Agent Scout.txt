@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand.
+Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand, except "Rescue Agent Scout".
 ATK: 1100
 DEF: 1800
-Last Updated: 12/04/2024
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,4 +25,15 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-N/A
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent Scout
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WIND
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand.
+ATK: 1100
+DEF: 1800
+Comments: Probably shouldn't be able to search itself.

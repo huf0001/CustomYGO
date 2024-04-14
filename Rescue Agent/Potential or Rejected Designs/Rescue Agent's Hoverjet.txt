@@ -20,7 +20,7 @@ Flavour: International Rescue's Hoverjets increase the Tracys' mobility, and all
 
 COMMENTS-----------------------------------------------------------------------
 
-As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900, but given its powerful effect for enabling Fusion, Synchro, and Xyz summons, its total is reduced.
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900, but given its powerful effect for enabling Fusion, Synchro, and Xyz summons, its total is reduced. It might provide too much consistency for Extra Deck Summons, so let's see how the archetype fares with it removed.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

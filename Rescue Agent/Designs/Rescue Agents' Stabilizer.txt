@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rescue Agent's Stabilizer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: FIRE
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn: You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1500
+DEF: 2500
+Last Updated: 13/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The DOMO
+Flavour: A machine with powerful suction cup arms to stabilize any wall or building and prevent it from collapsing on top of trapped victims.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a 2-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4000. Keep an eye on if its lockdown effect should remain a continuous effect while it's in play, or if it should only last until the end of this or the next turn. Another alternative to consider could be making this card 3 materials, when it's Summoned, you have to choose a target, the effect only lasts while Stabilizer has materials attached, and each turn it loses 1 material, like a single target Swords of Revealing Light.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Stabilizer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: FIRE
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn (Quick Effect): You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack or change its battle position while this card is face-up on the field. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+ATK: 1500
+DEF: 2500
+Comments: Extra Deck monsters should all share the same battle effect. Having its effect be a Quick Effect might be a bit too strong, let's see how it goes being a Spell Speed 1 effect. Also, there's enough Rescue Agent monsters interacting with battle positions, so let's see how it goes with negating effects.

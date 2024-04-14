@@ -1,10 +1,10 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Airlifted by the Rescue Agents
+Name: Evacuated by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except during the turn this card was sent to the GY: attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster, and if you do, banish this card.
-Last Updated: 12/04/2024
+Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Airlifted by the Rescue Agents
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except during the turn this card was sent to the GY: attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster, and if you do, banish this card.
+Comments: Wording update for its banishment effect. Also, renaming to give it a more generically applicable name.
+
 
 DATE: 11/04/2024-------------------------------------------
 

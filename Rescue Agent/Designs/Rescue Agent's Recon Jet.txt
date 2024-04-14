@@ -7,10 +7,10 @@ Level: 6
 Attribute: WIND
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. During your Main Phase: You can look at random cards in your opononet's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
+Effect(s): If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. You can only use this effect of "Rescue Agent's Recon Jet" once per turn. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2100
 DEF: 1900
-Last Updated: 12/04/2024
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,10 +21,25 @@ Flavour: A fast reconnaissance jet for scouting the danger zone and making prepa
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Synchro monster, it should share the archetypal effect of all "Rescue Agent" Synchro monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 6 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 6 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Recon Jet
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WIND
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: Special Summon 1 "Rescue Agent" monster from your hand or Deck. During your Main Phase: You can look at Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
+ATK: 2100
+DEF: 1900
+Comments: Might be worth restricting its on-Summon effect to only when it's Synchro Summoned. Also, there's a typo that needs fixing.
+
 
 DATE: 12/04/2024-------------------------------------------
 

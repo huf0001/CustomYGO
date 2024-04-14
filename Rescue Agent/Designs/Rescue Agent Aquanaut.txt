@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: WATER
 Monster Type: Warrior
-Effect(s): If a "Rescue Agent" monster is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand.
+Effect(s): If this card is Normal or Special Summoned: You can target 1 Level 4 or lower "Rescue Agent" monster in your GY, except "Rescue Agent Aquanaut": Special Summon it.
 ATK: 1400
 DEF: 1500
-Last Updated: 12/04/2024
+Last Updated: 13/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,4 +25,15 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-N/A
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent Aquanaut
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): If a "Rescue Agent" monster is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand.
+ATK: 1400
+DEF: 1500
+Comments: Due to effect swaps among the Rescue Agent Synchro monsters, Astronaut and Aquanaut's effects should be swapped, since Astronaut's effect better maps to Submarine's new effect than Aquanaut's. Might also see how it performs as a Summon effect rather than a return to hand effect. For consistency with other Rescue Agents' adjustments, it shouldn't be able to Summon itself from the GY.

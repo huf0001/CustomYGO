@@ -6,10 +6,11 @@ Card Subtype(s): Tuner / Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): You can discard this card; add 1 "Rescue Agents' Island" from your Deck to your hand.
-ATK: 2100
-DEF: 800
-Last Updated: 12/04/2024
+Effect(s): You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
+● This card gains 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control.
+ATK: 1700
+DEF: 1200
+Last Updated: 14/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -20,9 +21,20 @@ Flavour: Jeff Tracy, the founder and leader of International Rescue.
 
 COMMENTS-----------------------------------------------------------------------
 
-As a Field Spell searcher, its ATK should be 2100 and its DEF should be 800.
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-N/A
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent Commander
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 4
+Attribute: WIND
+Monster Type: Warrior
+Effect(s): You can discard this card; add 1 "Rescue Agents' Island" from your Deck to your hand.
+ATK: 2100
+DEF: 800
+Comments: If Commander is going to have a bonus effect for monsters Summoned using it as material, then 2100 ATK is too high. Also, its effect text needs adjusting after renaming Island anyway. Also, shortening the effect adding effect.

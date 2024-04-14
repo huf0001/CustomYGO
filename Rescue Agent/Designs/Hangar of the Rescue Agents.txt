@@ -1,0 +1,38 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hangar of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): When this card is activated: You can attach 1 "Rescue Agent" monster in your GY to a "Rescue Agent" Xyz monster you control. When an opponent's monster is destroyed by battle with a "Rescue Agent" Xyz monster you control, you can attach it to that Xyz monster instead of it going to the GY. If a "Rescue Agent" Xyz monster you control would detach its Xyz material(s) to activate an effect, you can detach Xyz material(s) from another "Rescue Agent" Xyz monster(s) you control instead. You can only use this effect of "Hangar of the Rescue Agents" once per turn.
+Last Updated: 13/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Pod Vehicles Hangar
+Flavour: The hangar of Thunderbird 2's pod vehicles.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Keep an eye on how often multiple Xyz monsters are actually on the field together and whether they get low enough on materials to warrant borrowing materials. If this situation never happens, swap that effect for something more helpful, or remove this card entirely.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Hangar
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): When this card is activated: You can attach 1 "Rescue Agent" monster in your GY to a "Rescue Agent" Xyz monster you control. When an opponent's monster would be returned to the hand or shuffled into the Deck by the effect of a "Rescue Agent" card you control, you can attach it to a "Rescue Agent" Xyz Monster you control instead. If a "Rescue Agent" Xyz Monster you control would detach its Xyz Material(s) to activate an effect, you can detach Xyz Material(s) from another "Rescue Agent" Xyz Monster(s) you control instead.
+Comments: If all Xyz monsters are shuffling into the Deck now, perhaps the attachment effect could be limited to Xyz monsters only, and only attaching destroyed monsters to the Xyz monster that destroyed them. Either way, it doesn't need to account for returning to the hand now, so that part can be removed. Also, since the card this effect is taken from, Zoodiac Gathering, limits it to once per turn, it might be worth doing the same here unless it is demonstrated to be necessary to be able to use this effect multiple times per turn. Also, renaming for consistency in formatting with monsters vs Spell/Trap cards.
+
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Hangar
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): When this card is activated: You can attach 1 "Rescue Agent" monster in your GY to a "Rescue Agent" Xyz monster you control. If a "Rescue Agent" Xyz Monster you control would detach its Xyz Material(s) to activate an effect, you can detach Xyz Material(s) from another "Rescue Agent" Xyz Monster(s) you control instead. You can only use this effect of "Rescue Agent's Hangar" once per turn.
+Comments: This card feels like it's underperforming, so it might be worth buffing its effects to see if that helps it.
