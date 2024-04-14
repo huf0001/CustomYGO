@@ -21,7 +21,7 @@ Flavour: A mobile drill for rescuing people trapped under collapsed buildings an
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a 2-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a 2-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4000. Keep an eye on if Drill's effect needs downsides, such as Drill being unable to attack if it uses its effect on another monster, or preventing out of archetype Special Summons.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
