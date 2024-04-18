@@ -1,0 +1,7 @@
+Deck Version: YYYY/MM/DD
+
+Overall: Win 0, Lose 0
+vs 2013: Win 0, Lose 0
+vs 2014: Win 0, Lose 0
+vs 2015: Win 0, Lose 0
+vs 2016: Win 0, Lose 0
