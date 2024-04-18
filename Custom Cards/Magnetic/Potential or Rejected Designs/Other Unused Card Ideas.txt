@@ -1,0 +1,36 @@
+Artha Penn => Gold Magnetic Warrior
+Lance Penn => Blue Magnetic Warrior
+Parmon Sean => Green Magnetic Warrior ==> supports Equip Spells
+Kitt Wonn => Red Magnetic Warrior
+Moordryd Paynn => Black Magnetic Warrior
+Beau => Gold Magnetic Dragon
+Fracshun => Blue Magnetic Dragon
+Cyrano => Green Magnetic Dragon
+Wyldfyre => Red Magnetic Dragon
+Decepshun => Black Magnetic Dragon
+
+Cain
+Connor Penn
+Word Paynn
+Tyrannis Pax
+Abandonn
+
+Dragon Booster => Gold Magnetic Lord, Fusion Monster, 1 "Magnetic Warrior" monster + 1 LIGHT "Magnetic Dragon" monster, printed type is Dragon, is also a Warrior monster.
+Shadow Booster => Gold Magnetic Lord, Fusion Monster, 1 "Magnetic Warrior" monster + 1 DARK "Magnetic Dragon" monster, printed type is Dragon, is also a Warrior monster.
+Power Booster => Gold Magnetic Lord, Fusion Monster, 1 "Magnetic Warrior" monster + 1 EARTH "Magnetic Dragon" monster, printed type is Dragon, is also a Warrior monster.
+Energy Booster => Gold Magnetic Lord, Fusion Monster, 1 "Magnetic Warrior" monster + 1 WATER "Magnetic Dragon" monster, printed type is Dragon, is also a Warrior monster.
+Fire Booster => Gold Magnetic Lord, Fusion Monster, 1 "Magnetic Warrior" monster + 1 FIRE "Magnetic Dragon" monster, printed type is Dragon, is also a Warrior monster.
+Mortis + Tyrannis Pax => Holy Magnetic Lord, Fusion Monster,  1 "Magnetic Warrior" monster + 1 LIGHT "Magnetic Dragon" monster, printed type is Dragon, is also a Warrior monster.
+Drakkus (Word + Abandonn) => Malevolent Magnetic Lord, Fusion Monster,  1 "Magnetic Warrior" monster + 1 DARK "Magnetic Dragon" monster, printed type is Dragon, is also a Warrior monster.
+
+Booster Gauntlets => Magnetic Release, Normal Spell, "Fusion Summon 1 "Magnetic" Fusion Monster from your Extra Deck, using monsters from your hand or field as material, and equip any "Magnetic" Equip Spells equipped to those materials to that Fusion Summoned monster. (Quick Effect): You can banish this card from your GY, then target 1 "Magnetic" Fusion Monster you control; return that target to the Extra Deck, and if all the materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them, and equip any "Magnetic" Equip Spells equipped to that Fusion Monster to appropriate targets among those Special Summoned monsters."
+
+Red Thruster Gear => Magnetic Gear of Thrust (Equip Spell, "Magnetic" Dragon monsters with a matching attribute)
+Green Ramming Gear => Magnetic Gear of Ramming (Equip Spell, "Magnetic" Dragon monsters with a matching attribute)
+Black Energy Drain Whip => Magnetic Gear of Draining (Equip Spell, "Magnetic" Warrior monsters)
+Furox Bone Mark => Magnetic Crest of Fury (Equip Spell, "Magnetic" Dragon monsters, change their attribute, must attack if it's original attribute is different?)
+
+Armeggaddon => Calamity, Black Magnetic Lord (LV 10, 3000 ATK/DEF)
+Libris => Grey Magnetic Dragon (LV 10, 3000 ATK/DEF, no original attribute, cannot attack if it has no attribute, gains attributes of all other monsters on the field, can ignore attribute requirements of "Magnetic Gear" Equip Spells)
+
+See Reddit post about Draconium color <==> Yu-Gi-Oh! attribute to determine attributes of different cards.
