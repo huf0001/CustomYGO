@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Rescue Agent Dispatcher
+Name: Rescue Agent Communicator
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
@@ -9,7 +9,7 @@ Monster Type: Warrior
 Effect(s): If this card is Normal or Special Summoned: You can draw 1 card.
 ATK: 1500
 DEF: 1400
-Last Updated: 12/04/2024
+Last Updated: 18/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -20,10 +20,24 @@ Flavour: John Tracy, International Rescue's communications monitor and operator 
 
 COMMENTS-----------------------------------------------------------------------
 
-As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
+As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900. Could also be called Coordinator.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent Dispatcher
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can draw 1 card.
+ATK: 1500
+DEF: 1400
+Comments: Re-naming to better match John's role in International Rescue.
+
 
 DATE: 12/04/2024-------------------------------------------
 

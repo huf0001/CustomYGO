@@ -7,7 +7,7 @@ Level: 4
 Attribute: LIGHT
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Cannot be targeted or destroyed by your opponent's card effects while you control a "Rescue Agent" Fusion, Synchro, or Xyz monster with a different name. Your opponent must reveal all cards they draw. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster (Quick Effect): You can draw 1 card. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): Cannot be targeted or destroyed by your opponent's card effects while you control a "Rescue Agent" Fusion, Synchro, or Xyz monster with a different name. Your opponent must reveal all cards they draw. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster, except "Rescue Agent's Space Station" (Quick Effect): You can draw 1 card. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2000
 DEF: 3500
 Last Updated: 13/04/2024
@@ -25,6 +25,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent's Space Station
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): Cannot be targeted or destroyed by your opponent's card effects while you control a "Rescue Agent" Fusion, Synchro, or Xyz monster with a different name. Your opponent must reveal all cards they draw. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster (Quick Effect): You can draw 1 card. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2000
+DEF: 3500
+Comments: Probably want to prevent Space Station triggering off of its own Summon.
+
 
 DATE: 12/04/2024-------------------------------------------
 
