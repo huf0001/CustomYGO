@@ -1,8 +1,7 @@
 Deck Version: 2024/04/14
 
-Overall: Win 2, Lose 2
-vs 2013: Win 1, Lose 1
-vs 2014: Win 1, Lose 1
+Overall: 			Win 1, Lose 1
+vs 2013: 			Win 1, Lose 1
+vs 2014: 			Win 0, Lose 0
 
-vs Evilswarm 2013: Win 1, Lose 1
-vs Geargia 2014: Win 1, Lose 1
+vs Evilswarm 2013: 	Win 1, Lose 1
