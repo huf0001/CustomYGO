@@ -6,11 +6,11 @@ Card Subtype(s): Tuner / Effect
 Level: 2
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): If only your opponent controls a monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was  Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
-● The first time this card would be destroyed by battle each turn, it is not destroyed.
+Effect(s): If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+● Cannot be destroyed by battle.
 ATK: 1300
 DEF: 200
-Last Updated: 14/04/2024
+Last Updated: 19/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +25,21 @@ As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 14/04/2024-------------------------------------------
+
+Name: Rescue Agent Scientist
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If only your opponent controls a monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was  Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
+● The first time this card would be destroyed by battle each turn, it is not destroyed.
+ATK: 1300
+DEF: 200
+Comments: I keep forgetting to apply the anti destruction effect, so maybe having it apply fully for a limited period will be easier to keep track of. That effect can also be shortened slightly. Also, the Special Summon effects of Engineer and Scientist feel more appropriate if swapped.
+
 
 DATE: 14/04/2024-------------------------------------------
 

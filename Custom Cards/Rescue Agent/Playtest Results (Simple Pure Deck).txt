@@ -1,4 +1,14 @@
-Deck Version: 2024/04/14
+Deck Version: 2024/04/19-------------------------------------------------------
+
+Overall: 			Win 0, Lose 0
+
+vs 2013: 			Win 0, Lose 0
+vs 2014: 			Win 0, Lose 0
+vs 2015: 			Win 0, Lose 0
+vs 2016: 			Win 0, Lose 0
+
+
+Deck Version: 2024/04/14-------------------------------------------------------
 
 Overall: 			Win 1, Lose 1
 vs 2013: 			Win 1, Lose 1
