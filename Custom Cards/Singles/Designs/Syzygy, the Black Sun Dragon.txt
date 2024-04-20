@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Syzygy, the Black Sun Dragon
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 0
+Attribute: DARK
+Monster Type: Dragon
+Materials: 1 LIGHT Dragon Xyz Monster
+Rank Condition: This card's original Rank is always treated as 12.
+Effect(s): When this card is Xyz Summoned, transfer the above monster's materials to this card. Once per turn, when your opponent's card or effect is activated that targets this card, or this card declares an attack (Quick Effect): Inflict 1000 damage to your opponent. During your End Phase: Return this card to the Extra Deck, and if the LIGHT Dragon Xyz Monster used for this card's Xyz Summon is still attached to this card, Special Summon it. (Transfer this card's materials to that Xyz Monster.)
+ATK: 3000
+DEF: 3000
+Last Updated: 20/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: An eclipse.
+Flavour: A fiery dragon comprised of the corona and diamond ring effect of an eclipse. Its effects should encapsulate how an eclipse occurs, and what happens if you look at the sun during an eclipse.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
