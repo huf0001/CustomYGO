@@ -1,11 +1,15 @@
 Deck Version: 2024/04/21-------------------------------------------------------
 
-Overall: 					Win 0, Lose 0
+Overall: 					Win 0, Lose 5
 
 vs 2013: 					Win 0, Lose 0
 vs 2014: 					Win 0, Lose 0
-vs 2015: 					Win 0, Lose 0
-vs 2016: 					Win 0, Lose 0
+vs 2015: 					Win 0, Lose 2
+vs 2016: 					Win 0, Lose 2
+
+vs 2015 Qli:				Win 0, Lose 2
+vs 2015 Tellarknight:		Win 0, Lose 1
+vs 2016 Kozmo:				Win 0, Lose 2	
 
 
 Deck Version: 2024/04/21-------------------------------------------------------
@@ -17,4 +21,4 @@ vs 2014: 					Win 0, Lose 0
 vs 2015: 					Win 0, Lose 0
 vs 2016: 					Win 1, Lose 0
 
-vs 2016 Burning Abyss PhKn:	Win 1, Lose 0
+vs 2016 Burning Abyss PhKn:	Win 1, Lose 0			
