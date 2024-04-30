@@ -1,0 +1,46 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rare Metal Angel
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Fairy
+Effect(s): During your Main Phase: You can return this face-up card from the field to the hand, then Special Summon 1 "Rare Metal" monster with a different name from your hand and place 1 Metal Counter on it. During the Damage Step, when a "Rare Metal" monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to 300 plus half the ATK of the opponent's monster it is battling, until the end of this turn.
+ATK: 1100
+DEF: 1900
+Last Updated: 28/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Honest
+Flavour: Honest that has been corrupted by Rare Metal, and applies the effect of Metalmorph to Rare Metal monsters that battle.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

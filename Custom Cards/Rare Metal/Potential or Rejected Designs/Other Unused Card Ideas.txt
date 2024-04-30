@@ -1,0 +1,40 @@
+
+	- Metal Reflect Slime/Magical Reflect Slime -> Rare Metal Origin (Aqua)
+	- Atium geodes -> Rare Metal Geode (Rock, summon "Rare Metal" monsters from deck)
+
+Humanoids under 2000 ATK/DEF, can normal summon
+	- Familiar Knight -> Rare Metal Knight (Warrior, special summons 1 "Rare Metal" monster from hand or deck when destroyed by battle or card effect.
+	- Honest -> Rare Metal Angel (Fairy, discard/banish/equip from hand to grant Metalmorph effect to 1 "Rare Metal" monster)
+	- Genies/Djinn -> Rare Metal Djinn (Illusion)
+	- Spellcaster (Chaos Command Magician? Breaker the Magical Warrior?) -> Rare Metal Magician (Spellcaster)
+	- Golems (Ancient Gear Golem/Soldier/Knight) -> Rare Metal Golem (Machine, grants effect of Spell/Traps being unable to activate when affected monster attacks)
+	- Demons (Archfiend General) -> Rare Metal Archfiend (Fiend)
+	
+	
+	Vampire archetype -> Rare Metal Vampire (Zombie)
+
+Mythical (dragons/serpents/birds? What would a good earth-based one be, besides the dragon?) creatures over 2000 ATK/DEF, can't normal summon
+	- Rare Metal Dragon (Dragon, TCG) (Earth-based)
+	- Leviathans (Kairyu-Shin or Cordarus or Levia-Dragon Daedalus) -> Rare Metal Leviathan (Sea Serpent) (water-based)
+	- Phoenix -> Rare Metal Phoenix (Pyro) (fire-based)
+	- Thunderbird -> Rare Metal Thunderbird (Thunder) (wind-based)
+	
+	
+	Cerberus -> Rare Metal Cerberus (Beast)
+	Kirin (Cyber Kirin) -> Rare Metal Kirin (Beast)
+	Chimera -> Rare Metal Chimera
+	Roc -> Rare Metal Roc (Winged-Beast)
+	
+Mistborn
+	- Steel Inquisitor -> Rare Metal Inquisitor
+	- Ruin -> Rare Metal God
+	- Ruin rewriting text -> Rare Metal Revisions (Counter Trap, if there are Metal Counters on the field, change the effect to "Destroy 1 card you control.", "you" being the opponent.
+	- Hemalurgic Spikes -> Rare Metal Spike (Spell/Trap, places Metal Counters on monsters)
+	
+Cavern Rare Metal Dragon is in -> Rare Metal Cavern (can special summon 1 "Rare Metal" monster from hand per turn, only LV4 monsters can attack)
+	
+Unicorn
+Manticore
+
+
+Monsters gain effects if they have Metal Counters on them, and each Rare Metal effect that summons a Rare Metal monster gives it a Metal Counter. Allows for Rare Metal cards that remove or move counters, or that give extra counters.

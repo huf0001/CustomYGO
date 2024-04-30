@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rare Metal Inquisitor
+Card Type: Monster
+Card Subtype(s): Link / Effect
+Link Rating: 2
+Link Arrows: Bottom-Left, Bottom-Right
+Attribute: DARK
+Monster Type: Spellcaster
+Materials: 2 "Rare Metal" monsters
+Effect(s): Once per turn: You can move 1 Metal Counter from another card on the field to this card. Gains effects based on the number of Metal Counters on it:
+* 1+: If this card would be destroyed, you can remove 1 Metal Counter from it instead.
+* 2+: Gains 800 ATK.
+* 3+: Can attack up to twice per turn.
+* 4+: Unaffected by your opponent's monster effects.
+ATK: 1600
+Last Updated: 29/04/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Gains effects based on the number of Metal Counters on this card, can move 1 Metal Counter from other monsters to itself once per turn.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
