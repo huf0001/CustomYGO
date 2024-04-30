@@ -8,10 +8,10 @@ Attribute: DARK
 Monster Type: Dragon
 Materials: 1 LIGHT Dragon Xyz Monster
 Rank Condition: This card's original Rank is always treated as 8.
-Effect(s): Must be Xyz Summoned with the above material. (Transfer its materials to this card.) You can only control 1 "Syzygy, the Black Sun Dragon". Once per turn, if your opponent's card or effect is activated that targets this card, or if this card battles a monster (Quick Effect): Inflict 1000 damage to your opponent. During the End Phase: Return this card to the Extra Deck, and if you do, Special Summon the attached Xyz Monster used for this card's Xyz Summon. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.)
+Effect(s): Must be Xyz Summoned with the above material. (Transfer its materials to this card.) You can only control 1 "Syzygy, the Black Sun Dragon". Once per turn, if an opponent's card or effect is activated that targets this card, or if this card battles a monster (Quick Effect): Inflict 1000 damage to your opponent. During the End Phase: Return this card to the Extra Deck, and if you do, Special Summon 1 LIGHT Dragon Xyz Monster attached to this card. (Transfer this card's materials to the Summoned monster.)
 ATK: 3000
 DEF: 3000
-Last Updated: 21/04/2024
+Last Updated: 23/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -26,6 +26,22 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/04/2024-------------------------------------------
+
+Name: Syzygy, the Black Sun Dragon
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 0
+Attribute: DARK
+Monster Type: Dragon
+Materials: 1 LIGHT Dragon Xyz Monster
+Rank Condition: This card's original Rank is always treated as 8.
+Effect(s): Must be Xyz Summoned with the above material. (Transfer its materials to this card.) You can only control 1 "Syzygy, the Black Sun Dragon". Once per turn, if your opponent's card or effect is activated that targets this card, or if this card battles a monster (Quick Effect): Inflict 1000 damage to your opponent. During the End Phase: Return this card to the Extra Deck, and if you do, Special Summon the attached Xyz Monster used for this card's Xyz Summon. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.)
+ATK: 3000
+DEF: 3000
+Comments: Making some tweaks to simplify and shorten Syzygy's effect text.
+
 
 DATE: 20/04/2024-------------------------------------------
 
