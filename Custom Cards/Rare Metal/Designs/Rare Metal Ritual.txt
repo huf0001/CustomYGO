@@ -1,21 +1,16 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Rare Metal Geode
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 4
-Attribute: DARK
-Monster Type: Rock
-Effect(s): If this card is Normal or Special Summoned: You can target 1 "Rare Metal" card in your GY; add it to your hand, and place 1 Metal Counter on 1 face-up card on the field.
-ATK: 0
-DEF: 0
+Name: Rare Metal Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Effect(s): This card can be used to Ritual Summon any "Rare Metal" Ritual Monster. You must also send cards from your field to the GY whose total number of Metal Counters x800 equal or exceed the ATK of the Ritual Monster. Then, place 1 Metal Counter on that Ritual Monster.
 Last Updated: 01/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Atium geodes
-Flavour: A geode in the Pits of Hathsin containing a bead of Atium, i.e. Rare Metal.
+Basis: Atium
+Flavour: A bead of Atium from the Pits of Hathsin, which also corrupts monsters to turn them into Rare Metal monsters.
 
 
 COMMENTS-----------------------------------------------------------------------

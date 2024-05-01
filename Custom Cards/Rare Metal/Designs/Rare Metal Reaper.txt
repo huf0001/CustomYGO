@@ -1,26 +1,25 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Rare Metal Inquisitor
+Name: Rare Metal Reaper
 Card Type: Monster
-Card Subtype(s): Link / Effect
-Link Rating: 2
-Link Arrows: Bottom-Left, Bottom-Right
+Card Subtype(s): Ritual / Effect
+Level:4
 Attribute: DARK
 Monster Type: Spellcaster
-Materials: 2 "Rare Metal" monsters
-Effect(s): Once per turn: You can move 1 Metal Counter from another card on the field to this card. Gains effects based on the number of Metal Counters on it:
-* 1+: If this card would be destroyed, you can remove 1 Metal Counter from it instead.
-* 2+: Gains 800 ATK.
-* 3+: Can attack up to twice per turn.
-* 4+: Unaffected by your opponent's monster effects.
+Effect(s): Cannot be Ritual Summoned, except by a "Rare Metal" card effect. Once per turn: You can move 1 Metal Counter from another card on the field to this card. This card gains effects based on the number of Metal Counters on it.
+● 1+: If this card would be destroyed, you can remove 1 Metal Counter from it instead.
+● 2+: Gains 800 ATK/DEF.
+● 3+: Can attack up to twice per turn.
+● 4+: Unaffected by your opponent's monster effects.
 ATK: 1600
-Last Updated: 29/04/2024
+DEF: 1600
+Last Updated: 01/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Steel Inquisitors, specifically Marsh.
+Flavour: A steel inquisitor (specifically Marsh, who is considered Death in Era 2) who gains more power the more Hemalurgic Spikes (i.e. Metal Counters) are placed in their body.
 
 
 COMMENTS-----------------------------------------------------------------------

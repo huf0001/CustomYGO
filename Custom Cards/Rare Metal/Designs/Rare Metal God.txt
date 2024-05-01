@@ -2,17 +2,16 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rare Metal God
 Card Type: Monster
-Card Subtype(s): Link / Effect
-Link Rating:4
-Link Arrows: Top, Bottom, Top-Left, Top-Right
+Card Subtype(s): Ritual / Effect
+Level:4
 Attribute: DARK
 Monster Type: Fiend
-Materials: 2+ "Rare Metal" monsters
-Effect(s): "Rare Metal" monsters with 3+ Metal Counters can be treated as 1 more material than normal for the Link Summon of "Rare Metal God". You can only use the following effect of "Rare Metal God" once per turn. During your Main Phase: You can target 1 monster your opponent controls with a Metal Counter(s) on it; apply 1 of the following effects, based on the number of Metal Counters on the field:
-* 3+: Move the target's Metal Counter(s) to a "Rare Metal" monster you control, then until the end of this turn, the target's effects are negated and that "Rare Metal" monster gains those effects.
-* 8+: Take control of that target until the end of this turn, but remove all of its Metal Counters during the End Phase.
+Effect(s): Cannot be Ritual Summoned, except by a "Rare Metal" card effect. You can target 1 monster your opponent controls with a Metal Counter(s) on it; apply 1 of these effects, based on the number of Metal Counters on the field. You can only use this effect of "Rare Metal God" once per turn.
+● 4+: Move the target's Metal Counter(s) to a "Rare Metal" monster you control, and until the end of this turn, the target's effects are negated and that "Rare Metal" monster gains those effects.
+● 8+: Take control of that target until the end of this turn, but remove its Metal Counters during the End Phase.
 ATK: 3200
-Last Updated: 29/04/2024
+DEF: 3200
+Last Updated: 01/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
