@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Warrior
-Effect(s): If this card is destroyed by battle or card effect; You can Special Summon 1 "Rare Metal" monster from your Hand or Deck, and place 1 Metal Counter on it.
+Effect(s): If this card is sent to the GY for the Ritual Summon of a "Rare Metal" Ritual Monster, you can treat each Metal Counter on this card as 2 Metal Counters for that Ritual Summon. If this card is destroyed by battle or card effect; You can Special Summon 1 "Rare Metal" monster from your Hand or Deck and place 1 Metal Counter on it.
 ATK: 1400
 DEF: 1200
-Last Updated: 28/04/2024
+Last Updated: 04/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

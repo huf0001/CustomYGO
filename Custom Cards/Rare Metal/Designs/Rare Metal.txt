@@ -1,15 +1,10 @@
 TECHNICAL----------------------------------------------------------------------
 
 Name: Rare Metal
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 4
-Attribute: DARK
-Monster Type: Aqua
-Effect(s): If this card is Normal or Special Summoned: You can excavate the top 5 cards of your opponent's Deck, then put them back in the same order and distribute a number of Metal Counters on face-up cards on the field, equal to twice the number of card types (Monster / Spell / Trap) revealed. 
-ATK: 800
-DEF: 800
-Last Updated: 01/05/2024
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): Declare 1 card type (Monster, Spell, or Trap); excavate the top 5 cards of your opponent's Deck, then distribute a number of Metal Counters on face-up cards on the field equal to twice the number of excavated cards that were the declared type, also place the excavated cards on top of the Deck in the same order.
+Last Updated: 03/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Illusion
-(Monster) Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rare Metal" card from your Deck to your hand, and place 1 Metal Counter on 1 face-up card on the field. If this card battles a monster, neither can be destroyed by that battle.
+Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rare Metal" card from your Deck to your hand, and if you do, place 1 Metal Counter on 1 face-up card on the field. Each time you place a Metal Counter on a card(s), place 1 more Metal Counter on each of those cards. You can only apply this effect of "Rare Metal Djinn" once per Chain Link. If this card battles a monster, neither can be destroyed by that battle.
 ATK: 1800
 DEF: 1000
-Last Updated: 01/05/2024
+Last Updated: 03/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Thunder
-Effect(s): Cannot be Normal Summoned/Set. Once per turn, you can remove an even number of Metal Counters from the field (min. 1 from this card), then target half as many Spell/Trap Cards on the field; destroy those targets.
+Effect(s): Cannot be Normal Summoned/Set. Once per turn, if a Metal Counter(s) is placed on this card (Quick Effect): You can target 1 Spell/Trap on the field; return it to the hand. You can remove 4 Metal Counters from the field (min. 1 from this card); return all Spell/Trap Cards on the field to the hand. You can only use this effect of "Rare Metal Thunderbird" once per turn.
 ATK: 2300
 DEF: 1400
-Last Updated: 29/04/2024
+Last Updated: 04/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

@@ -6,14 +6,14 @@ Card Subtype(s): Ritual / Effect
 Level:4
 Attribute: DARK
 Monster Type: Spellcaster
-Effect(s): Cannot be Ritual Summoned, except by a "Rare Metal" card effect. Once per turn: You can move 1 Metal Counter from another card on the field to this card. This card gains effects based on the number of Metal Counters on it.
+Effect(s): Cannot be Ritual Summoned, except by a "Rare Metal" card effect. Once per turn: You can target 1 card on the field with a Metal Counter; remove 1 Metal Counter from it, and if you do, place 1 Metal Counter on this card. This card gains effects based on the number of Metal Counters on it.
 ● 1+: If this card would be destroyed, you can remove 1 Metal Counter from it instead.
 ● 2+: Gains 800 ATK/DEF.
-● 3+: Can attack up to twice per turn.
-● 4+: Unaffected by your opponent's monster effects.
+● 3+: This card can make up to 2 attacks on monsters during each Battle Phase.
+● 4+: Cannot be targeted or destroyed by your opponent's monster effects.
 ATK: 1600
 DEF: 1600
-Last Updated: 01/05/2024
+Last Updated: 04/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

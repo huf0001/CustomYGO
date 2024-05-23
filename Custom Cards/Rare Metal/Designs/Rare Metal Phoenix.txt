@@ -7,10 +7,9 @@ Level: 4
 Attribute: DARK
 Monster Type: Pyro
 (Monster) Effect(s): Cannot be Normal Summoned/Set. When a card or effect is activated that would destroy a "Rare Metal" card(s) on the field (Quick Effect): You can remove 3 Metal Counters from the field (min. 1 from this card) and Tribute this card; negate the activation, and if you do, destroy it and inflict damage to your opponent equal to the number of Metal Counters on the field x200. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY and place 1 Metal Counter on it.
-Flavour Text: N/A
 ATK: 2100
 DEF: 1800
-Last Updated: DD/MM/YYYY
+Last Updated: 04/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

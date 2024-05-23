@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Machine
-Effect(s): While this card has a Metal Counter, if your "Rare Metal" monster with a Metal Counter attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card destroys an opponent's monster by battle: You can target 1 "Rare Metal" monster in your GY; Special Summon it and place 1 Metal Counter on it.
+Effect(s): While this card has a Metal Counter, if a "Rare Metal" monster you control with a Metal Counter attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card destroys an opponent's monster by battle: You can target 1 "Rare Metal" monster in your GY; Special Summon it and place 1 Metal Counter on it.
 ATK: 1800
 DEF: 500
-Last Updated: 29/04/2024
+Last Updated: 04/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

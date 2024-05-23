@@ -1,15 +1,10 @@
 TECHNICAL----------------------------------------------------------------------
 
 Name: Rare Metal Geode
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 4
-Attribute: DARK
-Monster Type: Rock
-Effect(s): If this card is Normal or Special Summoned: You can target 1 "Rare Metal" card in your GY; add it to your hand, and place 1 Metal Counter on 1 face-up card on the field.
-ATK: 0
-DEF: 0
-Last Updated: 01/05/2024
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): Target 1 "Rare Metal" card in your GY; add that target to your hand, and if you do, place 1 Metal Counter on 1 face-up card on the field.
+Last Updated: 03/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

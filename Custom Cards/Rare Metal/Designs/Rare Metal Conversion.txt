@@ -4,7 +4,7 @@ Name: Rare Metal Conversion
 Card Type: Spell
 Card Subtype(s): Ritual
 Effect(s): This card can be used to Ritual Summon any "Rare Metal" Ritual Monster. You must also Tribute monsters from the field, including up to 1 monster your opponent controls, whose total number of Metal Counters x800 equal or exceed the ATK of the Ritual Monster. If you Tributed an opponent's monster, that Ritual Monster cannot attack this turn.
-Last Updated: 01/05/2024
+Last Updated: 03/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------

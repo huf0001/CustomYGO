@@ -6,12 +6,13 @@ Card Subtype(s): Ritual / Effect
 Level:4
 Attribute: DARK
 Monster Type: Fiend
-Effect(s): Cannot be Ritual Summoned, except by a "Rare Metal" card effect. You can target 1 monster your opponent controls with a Metal Counter(s) on it; apply 1 of these effects, based on the number of Metal Counters on the field. You can only use this effect of "Rare Metal God" once per turn.
-● 4+: Move the target's Metal Counter(s) to a "Rare Metal" monster you control, and until the end of this turn, the target's effects are negated and that "Rare Metal" monster gains those effects.
-● 8+: Take control of that target until the end of this turn, but remove its Metal Counters during the End Phase.
+Effect(s): Cannot be Ritual Summoned, except by a "Rare Metal" card effect. You can target 1 monster your opponent controls with a Metal Counter; remove the following number of Metal Counters from the field (min. 1 from the target), then apply the appropriate effect until the end of this turn. 
+● 4: Negate the target's effects, and if you do, a "Rare Metal" monster you control gains those effects.
+● 8: Take control of that target.
+You can only use this effect of "Rare Metal God" once per turn.
 ATK: 3200
 DEF: 3200
-Last Updated: 01/05/2024
+Last Updated: 03/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,7 +23,7 @@ Flavour: A god of destruction that can steal abilities and take control of its e
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+If God gets a proper name, it would be "Calamity, Rare Metal God".
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

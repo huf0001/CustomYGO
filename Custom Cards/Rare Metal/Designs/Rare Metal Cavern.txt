@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Rare Metal Cavern
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): Once per turn: You can Special Summon 1 "Rare Metal" monster from your hand, and place a Metal Counter on it. You cannot Normal Summon/Set during the turn you activate this effect. If a monster with a Metal Counter(s) is destroyed, place its Metal Counters on this card. If there are four or more Metal Counters on the field, only Level 4 monsters can declare an attack.
-Last Updated: 28/4/2024
+Effect(s): Once per turn: You can Special Summon 1 "Rare Metal" monster from your hand and place 1 Metal Counter on it. You cannot Normal Summon/Set during the turn you activate this effect. If a monster with a Metal Counter(s) is destroyed, place its Metal Counters on this card. While there are 6 or more Metal Counters on the field, only Level 4 monsters can attack.
+Last Updated: 03/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
