@@ -1,0 +1,46 @@
+Numbers 1-10: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
+X effect, once per turn:
+	You can only activate/use effect ① of "CARD NAME" once per turn.
+
+
+XYZ effects, once per turn each: 
+	You can only activate/use effects ① and ② of "CARD NAME" once per turn each.
+
+	You can only activate/use effects ①, ②, and ④ of "CARD NAME" once per turn each.
+
+	You can only activate/use effects ① to ④ of "CARD NAME" once per turn each.
+
+
+1 of XYZ effects per turn:
+	You can only activate/use 1 of effects ① or ② of "CARD NAME" per turn.
+
+	You can only activate/use 1 of effects ①, ②, or ④ of "CARD NAME" per turn.
+
+	You can only activate/use 1 of effects ① to ④ of "CARD NAME" per turn.
+
+
+1 effect per turn:
+	You can only activate/use 1 effect of "CARD NAME" per turn.
+
+
+1 of XYZ effects per turn, once that turn:
+	You can only activate/use 1 of effects ① or ② of "CARD NAME" per turn, and only once that turn.
+
+	You can only activate/use 1 of effects ①, ②, or ④ of "CARD NAME" per turn, and only once that turn.
+
+	You can only activate/use 1 of effects ① to ④ of "CARD NAME" per turn, and only once that turn.
+
+
+1 of XYZ effects per turn, but only XY effects can only be used once that turn:
+	You can only activate/use 1 of effects ① or ② of "CARD NAME" per turn, and you can only activate/use effect ① once that turn.
+
+	You can only activate/use 1 of effects ①, ②, or ④ of "CARD NAME" per turn, and you can only activate/use effects ① and ② once that turn.
+
+	You can only activate/use 1 of effects ① to ④ of "CARD NAME" per turn, and you can only activate/use effects ①, ②, and ④ once that turn.
+
+	You can only activate/use 1 of effects ① to ④ of "CARD NAME" per turn, and you can only activate/use effects ② to ④ once that turn.
+
+
+1 effect per turn, once that turn:
+	You can only activate/use 1 effect of "CARD NAME" per turn, and only once that turn.
