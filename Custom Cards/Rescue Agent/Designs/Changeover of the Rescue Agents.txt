@@ -3,11 +3,11 @@ TECHNICAL----------------------------------------------------------------------
 Name: Changeover of the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): ① Target 1 "Rescue Agent" mosnter you control; shuffle it into the Deck, and apply the appropriate effect based on its card type:
+Effect(s): ① Target 1 "Rescue Agent" monster you control; shuffle it into the Deck, and apply the appropriate effect based on its card type:
 ● Synchro: Special Summon 1 "Rescue Agent" Synchro monster with a different name and an equal or lower Level from your Extra Deck. (This is treated as a Synchro Summon.)
 ● Xyz: Special Summon 1 "Rescue Agent" Xyz monster with a different name that requires an equal or lower number of materials from your Extra Deck. (This is treated as an Xyz Summon. Transfer the target's materials to the Summoned monster.)
 ● Other: Special Summon 1 "Rescue Agent" monster with a different name from your hand or Deck.
-Last Updated: 30/05/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -32,7 +32,7 @@ Effect(s): Target 1 "Rescue Agent" mosnter you control; shuffle it into the Deck
 ● Synchro: Special Summon 1 "Rescue Agent" Synchro monster with a different name and an equal or lower Level from your Extra Deck. (This is treated as a Synchro Summon.)
 ● Xyz: Special Summon 1 "Rescue Agent" Xyz monster with a different name that requires an equal or lower number of materials from your Extra Deck. (This is treated as an Xyz Summon. Transfer the target's materials to the Summoned monster.)
 ● Other: Special Summon 1 "Rescue Agent" monster with a different name from your hand or Deck.
-Comments: Going to update Changeover to follow the OCG's numbered effect formatting.
+Comments: Going to update Changeover to follow the OCG's numbered effect formatting. Also spotted a typo.
 
 
 DATE: 12/04/2024-------------------------------------------
