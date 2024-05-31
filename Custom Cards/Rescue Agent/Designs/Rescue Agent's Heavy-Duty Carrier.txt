@@ -7,10 +7,10 @@ Level: 8
 Attribute: EARTH
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): If this card is Synchro Summoned: You can target 1 Level 4 or lower monster from either player's GY; Special Summon it. During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): ① If this card is Synchro Summoned: You can target 1 Level 4 or lower monster from either player's GY; Special Summon it. ② During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2800
 DEF: 2200
-Last Updated: 13/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +25,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent's Heavy-Duty Carrier
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): If this card is Synchro Summoned: You can target 1 Level 4 or lower monster from either player's GY; Special Summon it. During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2800
+DEF: 2200
+Comments: Going to update Heavy-Duty Carrier to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

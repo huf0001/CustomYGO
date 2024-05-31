@@ -7,10 +7,10 @@ Level: 6
 Attribute: LIGHT
 Monster Type: Machine
 Materials: "Rescue Agent Spy" or "Rescue Agent Butler" + 1 "Rescue Agent" monster
-Effect(s): Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above monsters you control into the Deck. (This is treated as a Fusion Summon.) If this card is Fusion Summoned: You can banish 1 "Rescue Agent" monster from your GY; this effect becomes that banished monster's effect when it is Summoned. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. Once per turn, if a "Rescue Agent" monster you control is targeted for an attack: You can negate that attack.
+Effect(s): Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above monsters you control into the Deck. (This is treated as a Fusion Summon.) ① If this card is Fusion Summoned: You can banish 1 "Rescue Agent" monster from your GY; this effect becomes that banished monster's effect when it is Summoned. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ Once per turn, if a "Rescue Agent" monster you control is targeted for an attack: You can negate that attack.
 ATK: 2300
 DEF: 1700
-Last Updated: 14/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +25,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 14/04/2024-------------------------------------------
+
+Name: Rescue Agent's Limousine
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: LIGHT
+Monster Type: Machine
+Materials: "Rescue Agent Spy" or "Rescue Agent Butler" + 1 "Rescue Agent" monster
+Effect(s): Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above monsters you control into the Deck. (This is treated as a Fusion Summon.) If this card is Fusion Summoned: You can banish 1 "Rescue Agent" monster from your GY; this effect becomes that banished monster's effect when it is Summoned. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. Once per turn, if a "Rescue Agent" monster you control is targeted for an attack: You can negate that attack.
+ATK: 2300
+DEF: 1700
+Comments: Going to update Limousine to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

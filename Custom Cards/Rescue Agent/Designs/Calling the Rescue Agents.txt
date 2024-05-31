@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Calling the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): Add 1 "Rescue Agent" monster from your Deck to your hand. You can only activate "Calling the Rescue Agents" once per turn.
-Last Updated: 12/04/2024
+Effect(s): You can only activate "Calling the Rescue Agents" once per turn. ① Add 1 "Rescue Agent" monster from your Deck to your hand. 
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Calling the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): Add 1 "Rescue Agent" monster from your Deck to your hand. You can only activate "Calling the Rescue Agents" once per turn.
+Comments: Going to update Calling to follow the OCG's numbered effect formatting.
+
 
 DATE: 11/04/2024-------------------------------------------
 

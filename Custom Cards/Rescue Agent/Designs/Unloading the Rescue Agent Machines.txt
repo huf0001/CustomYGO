@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Unloading the Rescue Agent Machines
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Discard 1 card; Special Summon 2 "Rescue Agent Machine Tokens" (Machine / EARTH / Level 2 / ATK 0 / DEF 0). You cannot Special Summon during the turn you activate this card, except "Rescue Agent" monsters. You can banish this card from your GY, except the turn it was sent there; "Rescue Agent" monsters you control gain 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control until the end of this turn.
-Last Updated: 13/04/2024
+Effect(s): ① Discard 1 card; Special Summon 2 "Rescue Agent Machine Tokens" (Machine / EARTH / Level 2 / ATK 0 / DEF 0). You cannot Special Summon during the turn you activate this card, except "Rescue Agent" monsters. ② You can banish this card from your GY, except the turn it was sent there; "Rescue Agent" monsters you control gain 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control until the end of this turn.
+Last Updated: 30/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ Check other token makers and see if 2 Rescue Agent Machine Tokens is worth disca
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Unloading the Rescue Agent Machines
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Discard 1 card; Special Summon 2 "Rescue Agent Machine Tokens" (Machine / EARTH / Level 2 / ATK 0 / DEF 0). You cannot Special Summon during the turn you activate this card, except "Rescue Agent" monsters. You can banish this card from your GY, except the turn it was sent there; "Rescue Agent" monsters you control gain 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control until the end of this turn.
+Comments: Going to update Unloading to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

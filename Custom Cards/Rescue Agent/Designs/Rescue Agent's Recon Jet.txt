@@ -7,10 +7,10 @@ Level: 6
 Attribute: WIND
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. You can only use this effect of "Rescue Agent's Recon Jet" once per turn. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2100
 DEF: 1900
-Last Updated: 13/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,10 +21,27 @@ Flavour: A fast reconnaissance jet for scouting the danger zone and making prepa
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 6 "Rescue Agent" monster, its ATK/DEF should add up to 4000.
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 6 "Rescue Agent" monster, its ATK/DEF should add up to 4000. 
+
+Maybe consider moving Mobile Platform's ATK/DEF effect to Recon Jet, seeing as Mobile Platform doesn't have two materials to get a third effect, and the stat boost is unrelated to the token it summons. Or maybe not, since that would disincentivise using Recon Jet as Synchro material.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent's Recon Jet
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WIND
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. You can only use this effect of "Rescue Agent's Recon Jet" once per turn. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2100
+DEF: 1900
+Comments: Going to update Recon Jet to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

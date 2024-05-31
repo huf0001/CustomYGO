@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Evacuated by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
-Last Updated: 13/04/2024
+Effect(s): ① Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. ② If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Evacuated by the Rescue Agents
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
+Comments: Going to update Evacuated to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

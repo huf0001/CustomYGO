@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Launch of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Quick-Play
-Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY, but its effects are negated, then, immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control, including that Summoned monster. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish this card from your GY instead.
-Last Updated: 13/04/2024
+Effect(s): ① Special Summon 1 "Rescue Agent" monster from your hand or GY, but its effects are negated, then, immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control, including that Summoned monster. ② If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish this card from your GY instead.
+Last Updated: 30/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Launch of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY, but its effects are negated, then, immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control, including that Summoned monster. If a "Rescue Agent" monsters(s) would be destroyed by battle or card effect, you can banish this card from your GY instead.
+Comments: Going to update Launch to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: WATER
 Monster Type: Warrior
-Effect(s): If this card is Normal or Special Summoned: You can target 1 Level 4 or lower "Rescue Agent" monster in your GY, except "Rescue Agent Aquanaut": Special Summon it.
+Effect(s): ① If this card is Normal or Special Summoned: You can target 1 Level 4 or lower "Rescue Agent" monster in your GY, except "Rescue Agent Aquanaut": Special Summon it.
 ATK: 1400
 DEF: 1500
-Last Updated: 13/04/2024
+Last Updated: 30/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,6 +24,20 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent Aquanaut
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): If this card is Normal or Special Summoned: You can target 1 Level 4 or lower "Rescue Agent" monster in your GY, except "Rescue Agent Aquanaut": Special Summon it.
+ATK: 1400
+DEF: 1500
+Comments: Going to update Aquanaut to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

@@ -6,11 +6,11 @@ Card Subtype(s): Tuner / Effect
 Level: 2
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+Effect(s): You can only Special Summon "Rescue Agent Scientist" with effect ① once per turn. ① If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). ② A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
 ● Cannot be destroyed by battle.
 ATK: 1300
 DEF: 200
-Last Updated: 19/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +25,21 @@ As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 19/04/2024-------------------------------------------
+
+Name: Rescue Agent Scientist
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Scientist" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+● Cannot be destroyed by battle.
+ATK: 1300
+DEF: 200
+Comments: Going to update Scientist to follow the OCG's numbered effect formatting.
+
 
 DATE: 14/04/2024-------------------------------------------
 

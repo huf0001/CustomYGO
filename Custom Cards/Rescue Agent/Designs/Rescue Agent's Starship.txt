@@ -7,10 +7,10 @@ Level: 8
 Attribute: LIGHT
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): If this card is Synchro Summoned: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control. You can only use this effect of "Rescue Agent Starship" once per turn.
+Effect(s): You can only use effect ③ of "Rescue Agent Starship" once per turn. ① If this card is Synchro Summoned: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control.
 ATK: 2700
 DEF: 2300
-Last Updated: 13/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,10 +21,27 @@ Flavour: A space rocket for rescue missions in outer space.
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 8 "Rescue Agent" monster, its ATK/DEF should add up to 5000. Keep an eye on if the Extra Deck Summon Quick Effect is too useful in combat, and it should be restricted back to "During your opponent's Main Phase, you can (Quick Effect):".
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 8 "Rescue Agent" monster, its ATK/DEF should add up to 5000.
+
+Keep an eye on if the Extra Deck Summon Quick Effect is too useful in combat, and it should be restricted back to "During your opponent's Main Phase, you can (Quick Effect):".
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent's Starship
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): If this card is Synchro Summoned: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control. You can only use this effect of "Rescue Agent Starship" once per turn.
+ATK: 2700
+DEF: 2300
+Comments: Going to update Starship to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

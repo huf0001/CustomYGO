@@ -7,10 +7,10 @@ Rank: 4
 Attribute: FIRE
 Monster Type: Machine
 Materials: 3 Level 4 "Rescue Agent" monsters
-Effect(s):  Cannot be destroyed by battle while it has a material. Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): ① Cannot be destroyed by battle while it has a material. ② Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2400
 DEF: 2100
-Last Updated: 13/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +25,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent's Bulldozer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: FIRE
+Monster Type: Machine
+Materials: 3 Level 4 "Rescue Agent" monsters
+Effect(s):  Cannot be destroyed by battle while it has a material. Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2400
+DEF: 2100
+Comments: Going to update Bulldozer to follow the OCG's numbered effect formatting.
+
 
 DATE: 11/04/2024-------------------------------------------
 

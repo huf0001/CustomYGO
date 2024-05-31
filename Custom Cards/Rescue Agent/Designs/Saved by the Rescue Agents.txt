@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Saved by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Counter
-Effect(s): When a monster(s) would be Summoned, OR when a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s); negate the Summon or activation, and if you do, shuffle it into the Deck. You must control a "Rescue Agent" monster to activate and to resolve this effect.
-Last Updated: 12/04/2024
+Effect(s): ① When a monster(s) would be Summoned, OR when a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s); negate the Summon or activation, and if you do, shuffle it into the Deck. You must control a "Rescue Agent" monster to activate and to resolve this effect.
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ Keep an eye on whether it should be a free Solemn Warning, or a Bottomless Trap 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Saved by the Rescue Agents
+Card Type: Trap
+Card Subtype(s): Counter
+Effect(s): When a monster(s) would be Summoned, OR when a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s); negate the Summon or activation, and if you do, shuffle it into the Deck. You must control a "Rescue Agent" monster to activate and to resolve this effect.
+Comments: Going to update Saved to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

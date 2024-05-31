@@ -7,10 +7,10 @@ Rank: 4
 Attribute: EARTH
 Monster Type: Machine
 Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): Once per turn: You can detach 1 material from this card, then target 1 monster in either GY: shuffle it into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): ① Once per turn: You can detach 1 material from this card, then target 1 monster in either GY: shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 1800
 DEF: 2200
-Last Updated: 13/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +25,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent's Winches
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: EARTH
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): Once per turn: You can detach 1 material from this card, then target 1 monster in either GY: shuffle it into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1800
+DEF: 2200
+Comments: Going to update Winches to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

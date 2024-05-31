@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Island of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): When this card is activated: You can add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Island of the Rescue Agents". "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, if an opponent's card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
-Last Updated: 12/04/2024
+Effect(s): ① When this card is activated: You can add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Island of the Rescue Agents". ② "Rescue Agent" monsters you control gain 300 ATK/DEF. ③ Once per turn, if an opponent's card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
+Last Updated: 30/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,6 +19,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/04/2024-------------------------------------------
+
+Name: Island of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Field
+Effect(s): When this card is activated: You can add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Island of the Rescue Agents". "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, if an opponent's card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
+Comments: Going to update Island to follow the OCG's numbered effect formatting.	
+
 
 DATE: 12/04/2024-------------------------------------------
 

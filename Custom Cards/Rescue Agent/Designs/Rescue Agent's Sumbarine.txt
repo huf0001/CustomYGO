@@ -7,10 +7,10 @@ Level: 6
 Attribute: WATER
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Rescue Agent's Sumbarine" once per turn.
+Effect(s): You can only use effect ③ of "Rescue Agent's Sumbarine" once per turn. ① If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field.
 ATK: 1600
 DEF: 2400
-Last Updated: 12/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,12 +21,29 @@ Flavour: A submarine for under-water and sea-based rescue missions.
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 6 "Rescue Agent" monster, its ATK/DEF should add up to 4000. Keep an eye on if its Spell/Trap removal should prevent the opponent from activating the target in response (i.e. "Your opponent cannot activate the targeted card or its effects in response to this effect's activation."). Also, should it banish itself after self-rescurrecting, or return to the Extra Deck?
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a Level 6 "Rescue Agent" monster, its ATK/DEF should add up to 4000. 
+
+Keep an eye on if its Spell/Trap removal should prevent the opponent from activating the target in response (i.e. "Your opponent cannot activate the targeted card or its effects in response to this effect's activation."). Also, should it banish itself after self-rescurrecting, or return to the Extra Deck?
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: 12/04/2024
+DATE: 12/04/2024-------------------------------------------
+
+Name: Rescue Agent's Sumbarine
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WATER
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Rescue Agent's Sumbarine" once per turn.
+ATK: 1600
+DEF: 2400
+Comments: Going to update Sumbarine to follow the OCG's numbered effect formatting.
+
+
+DATE: 12/04/2024-------------------------------------------
 
 Name: Rescue Agent's Sumbarine
 Card Type: Monster
@@ -41,7 +58,7 @@ DEF: 2400
 Comments: If Excavator is moving away from Spell/Trap removal, this card can go back to being Spell/Trap removal, not anything removal. Also, let's see how that effect fares when restricted to Synchro Summons only, not any Special Summon, and not preventing the opponent from using that card in response.
 
 
-DATE: 12/04/2024
+DATE: 12/04/2024-------------------------------------------
 
 Name: Rescue Agent's Sumbarine
 Card Type: Monster

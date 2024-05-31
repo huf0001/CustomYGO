@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): During your Main Phase, if a "Rescue Agent" monster is Normal or Special Summoned to your field, except "Rescue Agent Astronaut": You can Special Summon this card from your hand. You can only use this effect of "Rescue Agent Astronaut" once per turn.
+Effect(s): You can only use effect ① of "Rescue Agent Astronaut" once per turn. ① During your Main Phase, if a "Rescue Agent" monster is Normal or Special Summoned to your field, except "Rescue Agent Astronaut": You can Special Summon this card from your hand.
 ATK: 1300
 DEF: 1600
-Last Updated: 13/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,6 +24,20 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024-------------------------------------------
+
+Name: Rescue Agent Astronaut
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): During your Main Phase, if a "Rescue Agent" monster is Normal or Special Summoned to your field, except "Rescue Agent Astronaut": You can Special Summon this card from your hand. You can only use this effect of "Rescue Agent Astronaut" once per turn.
+ATK: 1300
+DEF: 1600
+Comments: Going to update Astronaut to follow the OCG's numbered effect formatting.
+
 
 DATE: 12/04/2024-------------------------------------------
 

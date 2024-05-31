@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Warrior
-Effect(s): If your opponent activates a card or effect that targets 1 "Rescue Agent" monster you control (Quick Effect): You can banish this card from your GY, then target 1 card on the field that would be an appropriate target; that card or effect now targets the new target. You can only use this effect of "Rescue Agent Butler" once per turn.
+Effect(s): You can only use effect ① of "Rescue Agent Butler" once per turn. ① If your opponent activates a card or effect that targets 1 "Rescue Agent" monster you control (Quick Effect): You can banish this card from your GY, then target 1 card on the field that would be an appropriate target; that card or effect now targets the new target.
 ATK: 1850
 DEF: 1050
-Last Updated: 13/04/2024
+Last Updated: 31/05/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,6 +24,20 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900. As a cri
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 13/04/2024
+
+Name: Rescue Agent Butler
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Warrior
+Effect(s): If your opponent activates a card or effect that targets 1 "Rescue Agent" monster you control (Quick Effect): You can banish this card from your GY, then target 1 card on the field that would be an appropriate target; that card or effect now targets the new target. You can only use this effect of "Rescue Agent Butler" once per turn.
+ATK: 1850
+DEF: 1050
+Comments: Going to update Butler to follow the OCG's numbered effect formatting.
+
 
 DATE: 11/04/2024
 
