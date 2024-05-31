@@ -1,5 +1,18 @@
 Numbers 1-10: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 
+
+Special Summon CARDNAME by effect X once per turn:
+	You can only Special Summon "CARD NAME" with effect ① once per turn.
+	
+	NOTE: special summon effects only seem to be numbered if they are optional effects (e.g. Nightmare Apprentice, Cyber Dragon, Ragnaraika monsters). Monsters that cannot be Normal Summoned/Set and have mandatory summoning effects (e.g. Malefic monsters, Dark Guardian, Magicians of Bonds and Unity) seem to have the summoning condition unnumbered. YGOrganization translations of OCG effect text refer to optional summoning methods as an effect, while Google Translate calls them a method. Going to use effect for my custom cards.
+	
+Special Summon CARDNAME by effect X once per turn, and regular effect conditions:
+	You can only Special Summon "CARD NAME" with effect ① once per turn, and you can only activate/use effect ② once per turn.
+	
+
+CARD NAME, once per turn:
+	You can only activate "CARD NAME" once per turn.
+
 X effect, once per turn:
 	You can only activate/use effect ① of "CARD NAME" once per turn.
 
