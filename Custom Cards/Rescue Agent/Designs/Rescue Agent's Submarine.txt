@@ -1,13 +1,13 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Rescue Agent's Sumbarine
+Name: Rescue Agent's Submarine
 Card Type: Monster
 Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WATER
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): You can only use effect ③ of "Rescue Agent's Sumbarine" once per turn. ① If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field.
+Effect(s): You can only use effect ③ of "Rescue Agent's Submarine" once per turn. ① If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field.
 ATK: 1600
 DEF: 2400
 Last Updated: 31/05/2024
