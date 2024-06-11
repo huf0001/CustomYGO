@@ -21,7 +21,14 @@ Flavour: The powerful bulldozer in amongst rubble for it to clear away, with a c
 
 COMMENTS-----------------------------------------------------------------------
 
-As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a 3-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4500. Keep an eye on its indestructability effect, in case that makes Bulldozer too strong.
+As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of all "Rescue Agent" Extra Deck monsters of shuffling monsters destroyed in battle into the Deck rather than sending them to the GY. As a 3-material Rank 4 "Rescue Agent" monster, its ATK/DEF should add up to 4500.
+
+Keep an eye on its indestructability effect, in case that makes Bulldozer too strong. If it needs to become a 2-effect monster, consider making this its effect, to keep both its indestructability or its removal effect, but force you to choose one or the other:
+
+"① Once per turn: You can detach 1 material from this card, then activate 1 of these effects;
+● Target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. 
+● This card cannot be destroyed by battle until the end of the next turn.
+② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY."
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
