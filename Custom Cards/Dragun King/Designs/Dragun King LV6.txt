@@ -1,28 +1,21 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Last Updated: DD/MM/YYYY
+Name: Dragun King LV6
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: LIGHT
+Monster Type: Dragon
+Effect(s): You can only Special Summon "CARD NAME" with effect ① once per turn, and you can only use effect ③ once per turn. ① You can Special Summon this card (from your hand or GY) by sending 1 monster you control eqipped with a "Dragun King" card(s) to the GY. ② If this card is Normal or Special Summoned: You can target 1 "Dragun King" monster in your GY, except "CARD NAME"; equip it to this card. ③ When a card or effect is activated that would destroy a "Dragun King" card(s) you control (Quick Effect): You can send 1 "Dragun King" Equip Card you control to the GY; negate the activation, and if you do, destroy it.
+ATK: 2400
+DEF: 1500
+Last Updated: 03/07/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Dragunity Arma Leyvaten / Stardust Dragon
+Flavour: 
 
 
 COMMENTS-----------------------------------------------------------------------

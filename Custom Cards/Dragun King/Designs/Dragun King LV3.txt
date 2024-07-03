@@ -1,28 +1,21 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Last Updated: DD/MM/YYYY
+Name: Dragun King LV3
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 3
+Attribute: LIGHT
+Monster Type: Dragon
+Effect(s): You can only use effect ② of "CARD NAME" once per turn. ① If this card is Normal Summoned: You can equip 1 "Dragun King" monster from your Deck to this card, except "CARD NAME". ② You can send 1 "Dragun King" Equip Card you control to the GY, then target 1 face-up card your opponent controls; Special Summon it. ③ A "Dragun King" monster equipped with this card gains 200 ATK/DEF for each face-up Spell/Trap you control.
+ATK: 1200
+DEF: 800
+Last Updated: 03/07/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Dragunity Legionnaire / Paladin of Felgrand / Arkbrave Dragon
+Flavour: 
 
 
 COMMENTS-----------------------------------------------------------------------
