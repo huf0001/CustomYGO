@@ -6,7 +6,7 @@ Card Subtype(s): Tuner / Effect
 Level: 1
 Attribute: LIGHT
 Monster Type: Dragon
-Effect(s): ① If this card is Normal Summoned: You can Special Summon 1 "Dragun King" monster from your hand, then equip it with this card. ② A "Dragun King" monster equipped with this card gains gains ATK/DEF equal to the highest Level/Rank among "Dragun King" monsters in your GY x 100. ③ If this card is sent to the GY while equipped to a "Dragun King" monster: Add 1 "Dragun King" monster from your Deck to your hand, except "CARD NAME".
+Effect(s): ① If this card is Normal Summoned: You can Special Summon 1 "Dragun King" monster from your hand, then equip it with this card. ② If this card is sent to the GY while equipped to a "Dragun King" monster: Add 1 "Dragun King" monster from your Deck to your hand, except "CARD NAME".
 ATK: 300
 DEF: 250
 Last Updated: 03/07/2024

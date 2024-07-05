@@ -6,7 +6,7 @@ Card Subtype(s): Tuner / Effect
 Level: 3
 Attribute: LIGHT
 Monster Type: Dragon
-Effect(s): You can only use effect ② of "CARD NAME" once per turn. ① If this card is Normal Summoned: You can equip 1 "Dragun King" monster from your Deck to this card, except "CARD NAME". ② You can send 1 "Dragun King" Equip Card you control to the GY, then target 1 face-up card your opponent controls; Special Summon it. ③ A "Dragun King" monster equipped with this card gains 200 ATK/DEF for each face-up Spell/Trap you control.
+Effect(s): You can only use effect ② of "CARD NAME" once per turn. ① If this card is Normal Summoned: You can equip 1 "Dragun King" monster from your Deck to this card, except "CARD NAME". ② You can send 1 "Dragun King" Equip Card you control to the GY, then target 1 monster your opponent controls; destroy it.
 ATK: 1200
 DEF: 800
 Last Updated: 03/07/2024
@@ -20,7 +20,7 @@ Flavour:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+If not too powerful, consider adding this effect: ③ A "Dragun King" monster equipped with this card gains 200 ATK/DEF for each face-up Spell/Trap you control.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
