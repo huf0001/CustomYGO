@@ -1,0 +1,52 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Zorc, Dark God of the Underworld
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 12
+Attribute: DARK
+Monster Type: Fiend
+Effect(s): ① If you have "Millennium Puzzle", "Millennium Scale", "Millennium Key", "Millennium Ring", "Millennium Eye", "Millennium Necklace", "Millennium Rod", and "The Stone Tablet of the Seven Millennium Items" on your field or in your GY: You can Special Summon this card from your hand. ② If this card is Special Summoned: You can destroy all cards your opponent controls.
+ATK: ?
+DEF: ?
+Last Updated: 12/07/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Zorc Necrophades
+Flavour: Based on a counterfeit card for Zorc Necrophades, whose text is translated as follows:
+
+	The Wicked Avatar
+	SENN-JP009
+	Fiend/Effect
+	If there are 7 different "Legendary Planet" cards and "The Crest of the Legendary Planets" in your GY or on the field, you can Special Summon this card from your hand. If this card is Special Summoned: You can destroy all cards your opponent controls. ATK/? DEF/?
+	©Kazuki Takahashi Studio Dice/Shueisha
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

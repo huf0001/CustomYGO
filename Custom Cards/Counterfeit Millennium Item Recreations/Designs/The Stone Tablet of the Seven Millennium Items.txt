@@ -1,0 +1,53 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Stone Tablet of the Seven Millennium Items
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① When this card is activated or is in your hand or GY, and "Millennium Puzzle", "Millennium Scale", "Millennium Key", "Millennium Ring", "Millennium Eye", "Millennium Necklace", and "Millennium Rod" are in your hand, field, or GY: You can Special Summon "Zorc, Dark God of the Underworld" from your hand, Deck, or GY, then banish those "Millennium" cards and this card, and if you do, you win the Duel.
+
+Last Updated: 12/07/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Millennium Stone
+Flavour: Based on a counterfeit card for the Millennium Stone, whose text is translated as follows:
+
+	The Seven Sacred Treasures are lost, the dragon has been subjugated.
+	【Magic Card】 (Continuous)
+	LATHESHIN
+	SENN-JP008
+	Seven Sacred Treasures
+	When this card is in the hand/field/Graveyard at the same time as the Seven Sacred Treasures cards, you can Summon "Slate, the Great Demon of the Underworld" and gain infinite power. After that, banish these 8 cards from the game, and your ally wins the battle.
+	82010818
+	◎Kazuki Takahashi Studio Dice/Shueisha
+	D-MA
+	YU-G
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

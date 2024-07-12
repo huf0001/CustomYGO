@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Millennium Rod
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① After this card's activation, it remains on the field. ② Once per turn: Your opponent can target any number of face-up monsters they control; during their next turn, all of the targeted monsters must attack, if able, and other monsters they control cannot attack. ③ If "Millennium Rod" is destroyed and sent to your GY for the second time this Duel: You cannot activate "Millennium Rod" for the rest of the Duel.
+
+Last Updated: 12/07/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Millennium Rod
+Flavour: Based on a counterfeit card for the Millennium Rod, whose text is translated as follows:
+
+	Rod of the Sorcerer
+	【Magic Card+】 (Equip)
+	This card can be directly placed on the field and immediately activate its effect.
+	As long as this card is on the field, you can see your opponent's hand, and your opponent must show you any card they draw.
+	This card is sent to the Graveyard and cannot be revived if it is attacked twice.
+	52207217
+	©Kazuki Takahashi Studio Dice/Shueisha
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/07/2024-------------------------------------------
+
+Name: Millennium Rod
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① (Quick Effect): You can activate this card from your hand or Deck. ② After this card's activation, it remains on the field. ③ Your opponent must keep their hand revealed. ④ If "Millennium Rod" is destroyed and sent to your GY for the second time this Duel: You cannot activate "Millennium Rod" for the rest of the Duel.
+Comments: Swapping Eye and Rod's effects, since they make more sense given to the other, removing the activate from anywhere effect because that's game-breaking, and adding the destruction-related effects of the other items for consistency. Millennium Eye's original text translated is as follows:
+
+	Thousand-Year Eyes
+	【Magic Card+】 (Equip)
+	SENN-JP002
+	This card can be directly deployed to the battle field and activate its effect immediately. As long as this card is on the field, you can demand your opponent to declare their attack method for the next turn and execute it. This effect can only be used once per round.
+	52007917
+	◎Kazuki Takahashi Studio Dice/Shueisha

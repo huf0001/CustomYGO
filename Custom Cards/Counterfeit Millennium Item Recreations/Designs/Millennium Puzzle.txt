@@ -1,0 +1,37 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Millennium Puzzle
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① After this card's activation, it remains on the field. ② Once per turn: You can target 1 monster you control; during your opponent's next turn, until the combined ATK of all monsters your opponent has attacked with that turn exceeds 5000, that monster cannot be destroyed by battle, monsters your opponent controls cannot target monsters for attacks, except that monster, and you take no battle damage. ③ If "Millennium Puzzle" is destroyed and sent to your GY for the second time this Duel: You cannot activate "Millennium Puzzle" for the rest of the Duel.
+
+Last Updated: 12/07/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Millennium Puzzle
+Flavour: Based on a counterfeit card for the Millennium Puzzle, whose text is translated as follows:
+
+	Thousand-Year Puzzle
+	[Spell Card]
+	SENN-JP001
+	This card can be directly added to the field and immediately activate its effect. As long as this card is on the field, another soul can be released, and during that time, any damage to the ally is endured by that soul until it exceeds 5000 points, and this card remains on the field.
+	52107217
+	©Kazuki Takahashi Studio Dice/Shueisha
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/07/2024-------------------------------------------
+
+Name: Millennium Puzzle
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① (Quick Effect): You can activate this card from your hand or Deck. ② After this card's activation, it remains on the field. ③ Once per turn: You can target 1 monster you control; during your opponent's next turn, until the combined ATK of all monsters your opponent has attacked with that turn exceeds 5000, that monster cannot be destroyed by battle, monsters your opponent controls cannot target monsters for attacks, except that monster, and you take no battle damage.
+Comments: Removing the activate from anywhere effect, since that is game breaking, and adding the destruction-related effect of the other items for consistency.

@@ -1,0 +1,104 @@
+Millennium Puzzle
+
+	Thousand-Year Puzzle
+	[Spell Card]
+	SENN-JP001
+	This card can be directly added to the field and immediately activate its effect. As long as this card is on the field, another soul can be released, and during that time, any damage to the ally is endured by that soul until it exceeds 5000 points, and this card remains on the field.
+	52107217
+	©Kazuki Takahashi Studio Dice/Shueisha
+
+
+Millennium Eye
+
+	Thousand-Year Eyes
+	【Magic Card+】 (Equip)
+	SENN-JP002
+	This card can be directly deployed to the battle field and activate its effect immediately. As long as this card is on the field, you can demand your opponent to declare their attack method for the next turn and execute it. This effect can only be used once per round.
+	52007917
+	◎Kazuki Takahashi Studio Dice/Shueisha
+
+
+Millennium Key
+
+	Thousand-Year Magician
+	[Magic Card+] (Equip)
+	SENN-JP004
+	This card can be directly added to the battle field and its effect can be immediately activated. As long as this card is on the field, you can reverse time to the previous round, but you can only reverse time by 1 round at a time.
+	52207617
+	©Kazuki Takahashi Studio Dice/Shueisha
+	9-04
+
+
+Millennium Necklace
+
+	Thousand-Year Necklace
+	Demon
+	【 Magic Card 】 (Equip)
+	SENN-JP007
+	This card can be immediately placed on the field and activate its effect. As long as this card is on the field, you can look at the top 10 cards of your opponent's Deck, and return them to the top of the Deck when you're done. This card is destroyed and cannot be revived if it is attacked twice.
+	52107517
+	◎Kazuki Takahashi Studio Dice/Shueisha
+
+
+Millennium Ring
+
+	Thousand-Year Seal
+	Millennium Coil
+	Magic
+	【Magic Card】 (Equip)
+	Direct Attack
+	Effect
+	SENN-JP005
+	Activation
+	This card can be immediately added to the battle field and its effect can be activated right away. As long as this card is on the field, you can attack with monsters on your field, and even if the attacked side loses, you can still subtract from your opponent's Life Points.
+	Destruction
+	This card is sent to the Graveyard if it is attacked twice and cannot be revived.
+	52307117
+	◎Kazuki Takahashi Studio Dice/Shueisha
+	
+	
+Millennium Rod
+
+	Rod of the Sorcerer
+	【Magic Card+】 (Equip)
+	This card can be directly placed on the field and immediately activate its effect.
+	As long as this card is on the field, you can see your opponent's hand, and your opponent must show you any card they draw.
+	This card is sent to the Graveyard and cannot be revived if it is attacked twice.
+	52207217
+	©Kazuki Takahashi Studio Dice/Shueisha
+	
+
+Millennium Scale
+
+	Sennin Hohari
+	Dry Year
+	Demon
+	【Spell Card】
+	Direct Assault
+	Effect
+	SENN-JP003
+	Effect
+	This card can directly join the battle field and immediately activate its effect. As long as this card is on the field, the opponent must state the names of the top 3 cards of their Deck in order. If they are correct, those cards are sent to the Graveyard. However, if they make a mistake, this card is moved to your side of the field. This card is destroyed and cannot be revived if it is attacked twice.
+	52107117
+	©Kazuki Takahashi Studio Dice/Shueisha
+	
+Millennium Stone
+
+	The Seven Sacred Treasures are lost, the dragon has been subjugated.
+	【Magic Card】 (Continuous)
+	LATHESHIN
+	SENN-JP008
+	Seven Sacred Treasures
+	When this card is in the hand/field/Graveyard at the same time as the Seven Sacred Treasures cards, you can Summon "Slate, the Great Demon of the Underworld" and gain infinite power. After that, banish these 8 cards from the game, and your ally wins the battle.
+	82010818
+	◎Kazuki Takahashi Studio Dice/Shueisha
+	D-MA
+	YU-G
+	
+Zorc
+
+	The Wicked Avatar
+	SENN-JP009
+	Fiend/Effect
+	If there are 7 different "Legendary Planet" cards and "The Crest of the Legendary Planets" in your GY or on the field, you can Special Summon this card from your hand. If this card is Special Summoned: You can destroy all cards your opponent controls. ATK/? DEF/?
+	©Kazuki Takahashi Studio Dice/Shueisha
