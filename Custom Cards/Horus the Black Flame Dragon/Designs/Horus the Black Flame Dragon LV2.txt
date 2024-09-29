@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Horus the Black Flame Dragon LV2
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Dragon
+Effect(s): ① During the End Phase, if you control this face-up card your opponent owns: Return control of this card to its owner. ② During your Standby Phase: You can send this card to the GY; Special Summon 1 "Horus the Black Flame Dragon LV4" from your hand or Deck.
+ATK: 900
+DEF: 0
+Last Updated: 28/09/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Horus the Black Flame Dragon LV4 and Armed Dragon LV3.
+Flavour: A Horus LV monster fulfilling the role of Armed Dragon LV3.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

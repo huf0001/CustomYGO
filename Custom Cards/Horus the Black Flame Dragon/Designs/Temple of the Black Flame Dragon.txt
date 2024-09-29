@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Temple of the Black Flame Dragon
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): You can only use effect ① of "Temple of the Black Flame Dragon" once per turn. ① During your End Phase Phase, if a monster battled this turn: You can send 1 Level 4 or lower "Horus the Black Flame Dragon" monster you control that was not Summoned this Phase to the GY; Special Summon 1 monster from your hand or Deck that is mentioned on the sent monster.
+Last Updated: 28/09/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Temple of Horus
+Flavour: ABCDEF
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 28/09/2024-------------------------------------------
+
+Name: Temple of the Black Flame Dragon
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): You can only use effect ① of "Temple of the Black Flame Dragon" once per turn. ① During your Standby Phase: You can send 1 Level 4 or lower "Horus the Black Flame Dragon" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is mentioned on the sent monster.
+Comments: If Horus LV2 is a Horus Armed Dragon LV3, upgrading during the Standby Phase steps on its toes. Maybe a different approach would work better.
+
+
+DATE: 28/09/2024-------------------------------------------
+
+Name: Temple of the Black Flame Dragon
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): You can only use effect ① of "Temple of the Black Flame Dragon" once per turn. ① During your Standby Phase: You can send 1 Level 4 or lower "Horus the Black Flame Dragon" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is mentioned on the sent monster. ② If your opponent activates a Trap Card that targets a "Horus the Black Flame Dragon" monster(s) you control: You can send this card to the GY; negate the activation, and if you do, destroy that card.
+Comments: Horus' Servant already provides Trap protection, so let's see if it doesn't need that effect.
+
+
+DATE: 28/09/2024-------------------------------------------
+
+Name: Temple of the Black Flame Dragon
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): You can only use effect ① of "Temple of the Black Flame Dragon" once per turn. ① During your Standby Phase: You can Tribute 1 "Horus the Black Flame Dragon" monster you control; Special Summon 1 monster from your hand or Deck that is mentioned on that Tributed monster, ignoring its Summoning conditions, but it cannot activate its effects during the End Phase this turn. ② If your opponent activates a Trap Card that targets a "Horus the Black Flame Dragon" monster(s) you control: You can send this card to the GY; negate the activation, and if you do, destroy that card.
+Comments: There's got to be a cleaner way to do effect ①. Plus, that makes Horus LV8 easier to summon than Armed Dragon LV7, since LV5 also requires monster destruction to summon LV7, the same as Horus LV6 for summoning LV8.
