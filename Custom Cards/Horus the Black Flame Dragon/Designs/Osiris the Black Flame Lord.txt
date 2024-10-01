@@ -1,0 +1,37 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Osiris the Black Flame Lord
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Warrior
+Effect(s): ① If this card is destroyed by battle and sent to the GY: You can add 1 "Horus the Black Flame Dragon LV4" from your Deck to your hand.
+ATK: 900
+DEF: 0
+Last Updated: 01/10/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Horus the Black Flame Dragon LV4 and Armed Dragon LV3.
+Flavour: A Horus support monster that makes Horus LV4 easier to get out, similar to Armed Dragon LV3 comboed with Masked Dragon.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 28/09/2024-------------------------------------------
+
+Name: Horus the Black Flame Dragon LV2
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Dragon
+Effect(s): ① During the End Phase, if you control this face-up card your opponent owns: Return control of this card to its owner. ② During your Standby Phase: You can send this card to the GY; Special Summon 1 "Horus the Black Flame Dragon LV4" from your hand or Deck.
+ATK: 900
+DEF: 0
+Comments: Had a look at some Goat format Horus decks, and the way they try to get Horus on the field would not be helped by Horus LV2's effect as is, and adding Masked Dragon to try and facilitate its summoning method would force you to consider removing the combos for cheating out Horus LV6. Needs re-working to provide helpful support.

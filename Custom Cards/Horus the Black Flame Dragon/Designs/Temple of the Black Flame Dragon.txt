@@ -1,10 +1,10 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Temple of the Black Flame Dragon
+Name: Temple of the Black Flame Lord
 Card Type: Spell
 Card Subtype(s): Continuous
-Effect(s): You can only use effect ① of "Temple of the Black Flame Dragon" once per turn. ① During your End Phase Phase, if a monster battled this turn: You can send 1 Level 4 or lower "Horus the Black Flame Dragon" monster you control that was not Summoned this Phase to the GY; Special Summon 1 monster from your hand or Deck that is mentioned on the sent monster.
-Last Updated: 28/09/2024
+Effect(s): You can only use effect ① of "Temple of the Black Flame Lord" once per turn. ① If a "Black Flame" monster you control is destroyed by battle: You can Special Summon 1 "Horus the Black Flame Dragon" monster mentioned on that card from your hand or Deck, ignoring its Summoning conditions.
+Last Updated: 01/10/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -15,10 +15,19 @@ Flavour: ABCDEF
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Keep an eye on if effect ① should be restricted to triggering during the End Phase so that players can't suicide a Horus LV4 to summon LV6 and successfully attack for LV8 in a single turn.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 28/09/2024-------------------------------------------
+
+Name: Temple of the Black Flame Dragon
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): You can only use effect ① of "Temple of the Black Flame Dragon" once per turn. ① During your End Phase Phase, if a monster battled this turn: You can send 1 Level 4 or lower "Horus the Black Flame Dragon" monster you control that was not Summoned this Phase to the GY; Special Summon 1 monster from your hand or Deck that is mentioned on the sent monster.
+Comments: Had a look at Horus decks from Goat format, and TODO
+
 
 DATE: 28/09/2024-------------------------------------------
 
