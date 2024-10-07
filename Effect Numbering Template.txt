@@ -1,5 +1,7 @@
 Numbers 1-10: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 
+Dot: ●
+
 
 Special Summon CARDNAME by effect X once per turn:
 	You can only Special Summon "CARD NAME" with effect ① once per turn.
