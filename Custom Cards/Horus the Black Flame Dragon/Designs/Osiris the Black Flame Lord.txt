@@ -5,24 +5,57 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Warrior
-Effect(s): ① If this card is destroyed by battle and sent to the GY: You can add 1 "Horus the Black Flame Dragon LV4" from your Deck to your hand.
-ATK: 900
+Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK and one of the following effects, based on its original Level.
+● 4: This card is unaffected by Spell effects.
+● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+● 8: Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
+ATK: 700
 DEF: 0
-Last Updated: 01/10/2024
+Last Updated: 07/10/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Horus the Black Flame Dragon LV4 and Armed Dragon LV3.
-Flavour: A Horus support monster that makes Horus LV4 easier to get out, similar to Armed Dragon LV3 comboed with Masked Dragon.
+Basis: Horus the Black Flame Dragon LV4, LV6, LV8, Honest, Jinzo.
+Flavour: A Horus support monster that temporarily upgrades Horus to its next level, or turns it into a Spell Jinzo for the opponent if it's already LV8.
 
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Keep an eye on if this effect needs to be limited to hard once per turn.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 04/10/2024-------------------------------------------
+
+Name: Osiris the Black Flame Lord
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Warrior
+Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK, also its effect listed below becomes the effect listed after it.
+● Control of this face-up card cannot switch.
+● This card is unaffected by Spell effects.
+● When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+● Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
+ATK: 700
+DEF: 0
+Comments: Let's try simplifying to granting ATK and effects, which is more powerful, before increasing complexity to reduce power.
+
+
+DATE: 01/10/2024-------------------------------------------
+
+Name: Osiris the Black Flame Lord
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Warrior
+Effect(s): ① If this card is destroyed by battle and sent to the GY: You can add 1 "Horus the Black Flame Dragon LV4" from your Deck to your hand.
+ATK: 900
+DEF: 0
+Comments: This effect feels too defensive or self-detrimental, perhaps something to facilitate upgrading one Horus to the next more quickly. Horus LV8 can't upgrade further, so perhaps designing it in such a way that Horus LV8 also gets a benefit? 
+
 
 DATE: 28/09/2024-------------------------------------------
 
