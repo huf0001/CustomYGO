@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hollow Rebirth
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Target 1 monster in your GY that does not have an effect; Special Summon it.
+Last Updated: 08/10/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Monster Reborn
+Flavour: Monster Reborn for monsters without effects (i.e. Normal Monsters, non-Effect Ritual, Fusion, Synchro, Xyz, Pendulum, and Link Monsters, and monsters whose only effects are conditions, such as Rare Metal Dragon or Cyber Harpie Lady).
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Might need to be Semi-Limited. Test how powerful it is in Decks that focus on Normal Monsters, non-Effect monsters, or condition-only monsters.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
