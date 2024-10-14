@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird 4
 Flavour: A submarine for under-water and sea-based rescue missions.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

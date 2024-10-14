@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird 2's pod
 Flavour: One of Thunderbird 2's pods, either free-standing, or with Thunderbird 2 raised above it.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

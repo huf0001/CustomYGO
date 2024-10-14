@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Dragunity Arma Mystletainn / Hieratic Dragon of Eset
 Flavour: 
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

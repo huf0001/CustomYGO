@@ -11,6 +11,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Monster Reborn
 Flavour: Monster Reborn for monsters without effects (i.e. Normal Monsters, non-Effect Ritual, Fusion, Synchro, Xyz, Pendulum, and Link Monsters, and monsters whose only effects are conditions, such as Rare Metal Dragon or Cyber Harpie Lady).
+Artwork: Created in GIMP using:
+● Monster Reborn (International)
+● Swords of Concealing Light
+● https://www.freepik.com/free-photo/dark-clouds-rainy-weather_12650977.htm
 
 
 COMMENTS-----------------------------------------------------------------------

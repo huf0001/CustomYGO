@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Gordon Tracy
 Flavour: Gordon Tracy, International Rescue's aquanaut and pilot of Thunderbird 4.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

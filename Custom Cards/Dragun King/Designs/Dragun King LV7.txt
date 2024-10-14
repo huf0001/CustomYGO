@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Arkbrave Dragon / Darkblaze Dragon
 Flavour: 
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

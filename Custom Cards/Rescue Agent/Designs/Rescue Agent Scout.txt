@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Scott Tracy
 Flavour: Scott Tracy, International Rescue's first responder and pilot of Thunderbird 1.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

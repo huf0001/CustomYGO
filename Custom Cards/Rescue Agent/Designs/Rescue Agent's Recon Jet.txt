@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird 1
 Flavour: A fast reconnaissance jet for scouting the danger zone and making preparations so Thunderbird 2 can deploy the vehicles it carries as soon as possible.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

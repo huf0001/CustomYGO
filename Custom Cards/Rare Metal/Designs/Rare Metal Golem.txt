@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Ancient Gear Knight
 Flavour: An Ancient Gear Knight being corrupted by Rare Metal, with its spear and shield becoming made of Rare Metal.
+Artwork: Created in GIMP using:
+● Ancient Gear Knight
 
 
 COMMENTS-----------------------------------------------------------------------

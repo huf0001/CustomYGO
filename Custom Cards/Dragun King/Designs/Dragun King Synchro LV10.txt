@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Azure-Eyes Silver Dragon (special summon effect) / LV10 Dragunity Knights / Dragon Rulers (banish 1 equipped monster on field and self from GY to special summon 1 banished monster, but effects are negated, shuffled into deck during end phase, and once per duel)
 Flavour: 
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

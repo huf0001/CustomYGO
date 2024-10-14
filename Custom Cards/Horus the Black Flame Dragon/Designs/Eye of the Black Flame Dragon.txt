@@ -13,6 +13,11 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Eye of Horus
 Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Dark Magical Circle
+● Eye of Illusion
+● Monster Reborn (International)
+● Shadow's Light
 
 
 COMMENTS-----------------------------------------------------------------------

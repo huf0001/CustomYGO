@@ -16,6 +16,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Genies
 Flavour: A genie granting a wish in favour of the Rare Metal player.
+Artwork: Created in GIMP using:
+● La Jinn the Mystical Genie of the Lamp (1st)
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
 
 
 COMMENTS-----------------------------------------------------------------------

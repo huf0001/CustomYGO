@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: John Tracy
 Flavour: John Tracy, International Rescue's communications monitor and operator of Thunderbird 5.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

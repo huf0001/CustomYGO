@@ -18,6 +18,13 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Horus the Black Flame Dragon LV4, LV6, LV8, Honest, Jinzo.
 Flavour: A Horus support monster that temporarily upgrades Horus to its next level, or turns it into a Spell Jinzo for the opponent if it's already LV8.
+Artwork: Created in GIMP using:
+● Horus the Black Flame Dragon LV4
+● Horus the Black Flame Dragon LV6
+● Horus the Black Flame Dragon LV8
+● Sacred Phoenix of Nephthys
+● Shadow's Light
+● Spirit of the Pharaoh
 
 
 COMMENTS-----------------------------------------------------------------------

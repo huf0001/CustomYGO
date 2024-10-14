@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Master Elevator Car
 Flavour: A mobile platform for catching falling planes, and which can control 2 other remote control Elevator Cars.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

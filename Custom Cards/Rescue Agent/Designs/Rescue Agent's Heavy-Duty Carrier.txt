@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird 2
 Flavour: A heavy equipment transporter that carries specialised vehicles to the danger zone.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

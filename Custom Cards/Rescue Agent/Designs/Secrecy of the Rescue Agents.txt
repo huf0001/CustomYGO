@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: International Rescue operating as a secret organisation.
 Flavour: Someone has tried to record the Thunderbird machines in action, and International Rescue has foiled those efforts and destroyed any such footage.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Launching the Thunderbirds
 Flavour: The Thunderbirds are launching from Tracy Island to head to the Danger Zone.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

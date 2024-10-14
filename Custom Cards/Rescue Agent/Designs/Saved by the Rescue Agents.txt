@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Elevator Cars catching Fireflash.
 Flavour: The Elevator Cars catching Fireflash as it drops out of the sky, akin to the player dropping a monster onto the field.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

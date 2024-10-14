@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird 1 arriving at the Danger Zone.
 Flavour: The Thunderbirds have arrived at the Danger Zone, and are landing to put the rescue into action.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

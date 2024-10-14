@@ -11,6 +11,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Atium
 Flavour: A bead of Atium from the Pits of Hathsin, which also corrupts monsters to turn them into Rare Metal monsters.
+Artwork: Created in GIMP using:
+● Magical Reflect Slime
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
 
 
 COMMENTS-----------------------------------------------------------------------

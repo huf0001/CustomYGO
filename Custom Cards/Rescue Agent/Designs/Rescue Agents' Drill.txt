@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Mole
 Flavour: A mobile drill for rescuing people trapped under collapsed buildings and other obstructions.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

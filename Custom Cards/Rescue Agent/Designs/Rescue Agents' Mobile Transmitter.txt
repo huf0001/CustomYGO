@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Transmitter Tractor
 Flavour: A tractor-mounted satellite dish capable of beaming transmissions into space.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

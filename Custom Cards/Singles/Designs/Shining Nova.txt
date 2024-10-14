@@ -13,7 +13,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Blue-Eyes Shining Dragon & Shining Nova
 Flavour: Gives Blue-Eyes Shining Dragon its movie effect (the second added effect) while increasing its strenth and defensive capabilities.
-
+Artwork: Created in GIMP using:
+● 
 
 COMMENTS-----------------------------------------------------------------------
 

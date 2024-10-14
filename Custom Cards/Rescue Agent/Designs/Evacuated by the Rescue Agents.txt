@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird 2's electromagnetic grabs
 Flavour: Thunderbird 2 lifts a vehicle up from its precarious position, and carries it to safety.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Tracy Island
 Flavour: International Rescue's secret island base in the middle of the Pacific Ocean.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

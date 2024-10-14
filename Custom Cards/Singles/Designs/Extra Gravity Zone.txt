@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Gravity Bind
 Flavour: A Gravity Bind retrain that allows LV 4 monsters to attack, but disallows Extra Deck monsters from attacking.
+Artwork: Created in GIMP using:
+● Gravity Bind
 
 
 COMMENTS-----------------------------------------------------------------------

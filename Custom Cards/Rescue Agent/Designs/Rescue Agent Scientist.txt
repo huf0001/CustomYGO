@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Tin-Tin Kyrano
 Flavour: Tin-Tin Kyrano, a skilled scientist and engineer, and assistant to Brains.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

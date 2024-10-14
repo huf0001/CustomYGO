@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird 3
 Flavour: A space rocket for rescue missions in outer space.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

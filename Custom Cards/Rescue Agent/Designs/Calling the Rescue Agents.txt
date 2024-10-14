@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: "Calling International Rescue..."
 Flavour: Someone in trouble is calling International Rescue for help.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

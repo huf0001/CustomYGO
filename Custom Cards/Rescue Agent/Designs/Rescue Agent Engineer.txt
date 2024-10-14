@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Brains
 Flavour: Brains, alias Hiram K Hackenbacker, the genius engineer who designed and built the Thunderbird machines.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

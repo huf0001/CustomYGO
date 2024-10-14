@@ -11,7 +11,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Atium geodes
 Flavour: A geode in the Pits of Hathsin containing a bead of Atium, i.e. Rare Metal.
-
+Artwork: Created in GIMP using:
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
+● https://www.pexels.com/photo/tilt-shift-lens-photography-of-stone-161702/
 
 COMMENTS-----------------------------------------------------------------------
 

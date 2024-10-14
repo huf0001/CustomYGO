@@ -11,6 +11,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Removing Steel Inquisitors' Linchpin Hemalurgic Spikes
 Flavour: A geode in the Pits of Hathsin containing a bead of Atium, i.e. Rare Metal.
+Artwork: Created in GIMP using:
+● Share the Pain
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The DOMO
 Flavour: A machine with powerful suction cup arms to stabilize any wall or building and prevent it from collapsing on top of trapped victims.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

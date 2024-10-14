@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Lady Penelope
 Flavour: Lady Penelope Creighton-Ward, International Rescue's aristocratic undercover London Agent.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

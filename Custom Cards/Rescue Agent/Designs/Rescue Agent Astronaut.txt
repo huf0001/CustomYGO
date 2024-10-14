@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Alan Tracy
 Flavour: Alan Tracy, International Rescue's astronaut and pilot of Thunderbird 3.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -16,6 +16,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Familiar Knight
 Flavour: Familiar Knight infected with Rare Metal.
+Artwork: Created in GIMP using:
+● Familiar Knight
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
 
 
 COMMENTS-----------------------------------------------------------------------

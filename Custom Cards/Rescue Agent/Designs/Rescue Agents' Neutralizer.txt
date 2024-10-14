@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Neutralizer Tractor
 Flavour: A mobile EMP capable of disabling any electronic device.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

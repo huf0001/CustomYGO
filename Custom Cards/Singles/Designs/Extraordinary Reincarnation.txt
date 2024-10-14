@@ -11,6 +11,12 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Monster Reborn
 Flavour: Monster Reborn for Special Summon monsters.
+Artwork: Created in GIMP using:
+● Chaos Sorcerer (IOC-EN023 Reprint)
+● Fusion Tag
+● Monster Reborn (International)
+● Monster Reincarnation
+● Yu-Gi-Oh! card backing
 
 
 COMMENTS-----------------------------------------------------------------------

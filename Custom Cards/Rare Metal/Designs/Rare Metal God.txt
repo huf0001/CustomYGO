@@ -19,6 +19,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Ruin
 Flavour: A god of destruction that can steal abilities and take control of its enemies using Hemalurgic Spikes.
+Artwork: Created in GIMP using:
+● Demise, Supreme King of Armageddon
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Excavator
 Flavour: An excavator cabable of breaking up and clearing away rock and rubble, and drilling through to trapped victims.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

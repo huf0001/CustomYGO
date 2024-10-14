@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Hood
 Flavour: The Hood, a criminal mastermind with an array of costumes and disguises, and a psychic ability to control or subdue others with his mind.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

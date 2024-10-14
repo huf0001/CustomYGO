@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Firefly
 Flavour: The powerful bulldozer in amongst rubble for it to clear away, with a cannon to break up debris, and a debris shield to clear away any debris.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

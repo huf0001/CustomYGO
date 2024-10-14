@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Dragunity Legionnaire / Paladin of Felgrand / Arkbrave Dragon
 Flavour: 
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

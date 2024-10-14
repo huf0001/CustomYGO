@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Virgil Tracy
 Flavour: Virgil Tracy, International Rescue's equipment transporter and pilot of Thunderbird 2.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -16,6 +16,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Archfiend General
 Flavour: A demon whose wings have been corrupted by Rare Metal.
+Artwork: Created in GIMP using:
+● Archfiend General
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
 
 
 COMMENTS-----------------------------------------------------------------------

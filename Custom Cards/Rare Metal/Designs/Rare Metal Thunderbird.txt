@@ -16,6 +16,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Thunderbird
 Flavour: A storm bird that rains lightning upon
+Artwork: Created in GIMP using:
+● Cyber Falcon (Rush Duel)
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
 
 
 COMMENTS-----------------------------------------------------------------------

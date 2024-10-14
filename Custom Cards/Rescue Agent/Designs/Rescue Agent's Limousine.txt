@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: FAB 1
 Flavour: The high-tech Rolls Royce owned by Lady Penelope and driven by Parker, with hidden features and gadgets to aid in its missions.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

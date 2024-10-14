@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Parker
 Flavour: Aloysius Parker, a thief and safe cracker turned butler for Lady Penelope, possibly driving FAB 1.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -16,6 +16,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Dragunity Knight Gae Bulg / Dragon Rulers (banish 1 equipped monster on field and 1 monster from GY, including 1 tuner and 1 non-tuner, but effects are negated, banish self during end phase, and once per duel)
 Flavour: 
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

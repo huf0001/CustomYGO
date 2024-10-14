@@ -18,6 +18,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: An eclipse.
 Flavour: A fiery dragon comprised of the corona and diamond ring effect of an eclipse. Its effects should encapsulate how an eclipse occurs, and what happens if you look at the sun during an eclipse.
+Artwork: Created in GIMP using:
+● https://pixabay.com/vectors/dragon-chinese-tattoo-abstract-154551/
+● https://unsplash.com/photos/moon-eclipse-F-pSZO_jeE8
+● https://unsplash.com/photos/orange-and-yellow-abstract-painting-7RuhOrZO-1g
 
 
 COMMENTS-----------------------------------------------------------------------

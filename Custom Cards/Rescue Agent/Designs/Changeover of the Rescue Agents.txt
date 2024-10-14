@@ -14,6 +14,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Tracys swapping from one pod vehicle to another.
 Flavour: The tracy brothers have finished using one of the pod vehicles, and are switching to a different one that is needed for a different task.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

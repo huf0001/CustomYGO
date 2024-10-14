@@ -17,6 +17,8 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: The Recovery Vehicles
 Flavour: Twin tractors with powerful magnets attached to winches, designed to pull large vehicles out of holes.
+Artwork: Created in GIMP using:
+● 
 
 
 COMMENTS-----------------------------------------------------------------------
