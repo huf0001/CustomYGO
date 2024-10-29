@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Emperor Dragun Apocralyph
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Dragon
+Materials: 1 Tuner + 1+ non-Tuner Dragon monsters
+Monster Effect(s): You can only activate effect ① of "Emperor Dragun Apocralyph" once per turn. ① During your Main Phase: You can activate 1 of the following effects, also you cannot Special Summon for the rest of this turn, except Dragon monsters.
+● Reveal 1 Dragon monster in your hand; Special Summon the revealed monster, and if you do, it cannot be targeted by card effects until the end of the next turn. 
+● Target 1 Dragon monster in your GY; Special Summon it, and if you do, it cannot be destroyed by battle until the end of the next turn.
+ATK: 2600
+DEF: 2200
+Last Updated: 23/10/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: King Dragon / Divine Dragon Apocralyph
+Flavour: King Dragun if Divine Dragon Apocralyph was one of the materials, not Divine Dragon Ragnarok
+Artwork: Created in GIMP using:
+● King Dragon
+● Divine Dragon Apocralyph
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 23/10/2024-------------------------------------------
+
+Name: Emperor Dragun Apocralyph
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Dragon
+Materials: 1 Tuner + 1+ non-Tuner Dragon monsters
+Monster Effect(s): You can only activate effect ② of "Emperor Dragun Apocralyph" once per turn. ① Your opponent cannot target Dragon monsters you control with card effects, except "Emperor Dragun Apocralyph". ② During your Main Phase: You can activate 1 of the following effects, also you cannot Special Summon for the rest of this turn, except Dragon monsters. 
+● Target 1 Dragon monster in your GY; add it to your hand.
+● Special Summon 1 Dragon monster from your hand, and if you do, it cannot be destroyed by card effects until the end of the next turn.
+ATK: 2600
+DEF: 2200
+Comments: Should its effects be a combination of King Dragun and Apocralyph, or King Dragun and Queen Dragun Djinn?
