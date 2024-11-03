@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Black Zombie Dragon
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 1
+Attribute: DARK
+Monster Type: Zombie
+Effect(s): ① You can target 1 Zombie "Red-Eyes" monster you control; equip this monster from your hand or field to that target. ② While this card is equipped to a Zombie "Red-Eyes" monster, it gains 600 ATK, also you can treat monsters it battles as Zombie monsters on the field and in the GY for the effect of a Zombie "Red-Eyes" monster. ③ You can banish this card from your GY, then target 1 Zombie "Red-Eyes" monster or 1 "Zombie World" in your GY; add it to your hand.
+Last Updated: 31/10/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Black Metal Dragon and Red-Eyes Zombie Dragon
+Flavour: A Zombie equivalent of Black Metal Dragon.
+Artwork: Created in GIMP using:
+● Black Metal Dragon
+● Zombie World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
