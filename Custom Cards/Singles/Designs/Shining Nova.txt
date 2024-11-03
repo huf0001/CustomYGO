@@ -3,18 +3,16 @@ TECHNICAL----------------------------------------------------------------------
 Name: Shining Nova
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): ① Send 1 "Blue-Eyes White Dragon from your hand or field to the GY; Special Summon 1 "Blue-Eyes Shining Dragon from your hand, Deck, or GY, ignoring its summoning conditions, and if you do, it's effect "Gains 300 ATK for each Dragon monster in your GY" becomes "Gains 400 ATK for each Dragon monster you control and in your GY", and it gains the following effects:
-● Cannot be destroyed by card effects.
-● You can tribute this card, then  target any number of cards on the field; destroy them.
-Last Updated: 06/10/2024
+Effect(s): ① Send 1 "Blue-Eyes White Dragon" from your hand or field to the GY; Special Summon 1 "Blue-Eyes Shining Dragon" from your hand, Deck, or GY, ignoring its Summoning conditions. ② You can banish this card from your GY and Tribute 1 "Blue-Eyes Shining Dragon" you control, then  target any number of cards on the field; destroy them.
+Last Updated: 31/10/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
 Basis: Blue-Eyes Shining Dragon & Shining Nova
-Flavour: Gives Blue-Eyes Shining Dragon its movie effect (the second added effect) while increasing its strenth and defensive capabilities.
+Flavour: Signature attack for Blue-Eyes Shining Dragon.
 Artwork: Created in GIMP using:
-● 
+● Blue-Eyes Shining Dragon
 
 COMMENTS-----------------------------------------------------------------------
 
@@ -23,22 +21,12 @@ Keep an eye on the ATK boost effect, the 400 ATK or including field monsters mig
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 06/10/2024-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Shining Nova
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): ① Send 1 "Blue-Eyes White Dragon from your hand or field to the GY; Special Summon 1 "Blue-Eyes Shining Dragon from your hand, Deck, or GY, ignoring its summoning conditions, and if you do, it's effect "Gains 300 ATK for each Dragon monster in your GY" becomes "Gains 400 ATK for each Dragon monster you control and in your GY", and it gains the following effects:
+● Cannot be destroyed by card effects.
+● You can tribute this card, then  target any number of cards on the field; destroy them.
+Comments: Might rework this to just summon Blue-Eyes Shining Dragon and give it all its anime effects, it feels too custom card-y as is.
