@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Toon Dark Rabbit
+Card Type: Monster
+Card Subtype(s): Toon / Effect
+Level: 4
+Attribute: DARK
+Monster Type: Beast
+Effect(s): ① If this card is Summoned: You can add 1 "Toon" card from your Deck or GY to your hand. ② Cannot attack the turn it is Summoned. ③ Cannot be destroyed by battle or card effects. ④ While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly.
+ATK: 1100
+DEF: 1500
+Last Updated: 13/11/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dark Rabbit / Funny Bunny
+Flavour: Funny Bunny inspired the Toons, so it can search for a "Toon" card, and Funny Bunny was never captured by Ruff Ruff McDogg, so it can't be destroyed.
+Artwork: Created in GIMP using:
+● Dark Rabbit
+● Toon World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

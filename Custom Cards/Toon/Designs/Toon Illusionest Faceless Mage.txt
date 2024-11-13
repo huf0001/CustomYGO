@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Toon Illusionist Faceless Mage
+Card Type: Monster
+Card Subtype(s): Toon / Effect
+Level: 5
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① Cannot attack the turn it is Summoned. ② While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. ③ If an opponent's monster declares an attack while you control a Toon monster (Quick Effect): You can target that attacking monster; equip this card from your hand to it. ④ The equipped monster cannot attack. ⑤ If an opponent's monster declares an attack while you control a Toon monster (Quick Effect): Change the attack target to the equipped monster and perform damage calculation.
+ATK: 1200
+DEF: 2200
+Last Updated: 13/11/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Illusionist Faceless Mage
+Flavour: A retrain of Illusionist Faceless Mage that redirects attacks to the affected monster in reference to Eye of Illusion, and opens it up to Toon Dragon Piper's effect, in that way acting as a Toon Dragon Capture Jar.
+Artwork: Created in GIMP using:
+● Illusionist Faceless Mage
+● Toon World
+● Eye of Illusion
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

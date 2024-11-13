@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Toon Dragon Piper
+Card Type: Monster
+Card Subtype(s): Toon / Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Pyro
+Effect(s): ① If this card is Summoned: You can target 1 monster your opponent controls that is affected by the effect of your "Toon" card; banish it, then Special Summon that banished monster, and if you do, it is treated as a Toon monster. ② Cannot attack the turn it is Summoned. ③ While you control "Toon World" and your opponent controls no Toon monsters, this card and monsters you control that were Special Summoned by "Toon Dragon Piper" can attack your opponent directly.
+ATK: 200
+DEF: 1800
+Last Updated: 13/11/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dragon Piper
+Flavour: A retrain of Dragon Piper that takes control of monsters affected by "Toon" cards rather than "Dragon Capture Jar".
+Artwork: Created in GIMP using:
+● Dragon Piper
+● Toon World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

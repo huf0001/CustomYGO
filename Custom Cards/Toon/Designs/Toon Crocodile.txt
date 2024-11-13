@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Toon Crocodile
+Card Type: Monster
+Card Subtype(s): Toon / Effect
+Level: 4
+Attribute: WATER
+Monster Type: Reptile
+Effect(s): ① Cannot attack the turn it is Summoned. ② While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. ③ If this card is destroyed and sent to the GY: Special Summon 1 Level 4 or lower Toon monster from your Deck, ignoring its Summoning conditions.
+ATK: 800
+DEF: 1600
+Last Updated: 13/11/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Toon Alligator
+Flavour: A retrain of Toon Alligator that is actually a Toon monster. Since the name Toon Alligator is taken, and alligators and crocodiles are roughly equivalent, it becomes Toon Crocodile.
+Artwork: Created in GIMP using:
+● Toon Alligator
+● Toon World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
