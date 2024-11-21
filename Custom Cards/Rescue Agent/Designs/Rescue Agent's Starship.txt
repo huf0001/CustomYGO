@@ -7,10 +7,10 @@ Level: 8
 Attribute: LIGHT
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): You can only use effect ③ of "Rescue Agent Starship" once per turn. ① If this card is Synchro Summoned: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control.
+Effect(s): You can only use effect ③ of "Rescue Agent Starship" once per turn. ① If this card is Synchro Summoned: You can target 1 monster on the field; change it to face-up Attack Position or face-down Defense Position. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ (Quick Effect): You can target 1 monster on the field; banish both that monster and this card from the field, until the End Phase.
 ATK: 2700
 DEF: 2300
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,6 +29,21 @@ Keep an eye on if the Extra Deck Summon Quick Effect is too useful in combat, an
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Starship
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): You can only use effect ③ of "Rescue Agent Starship" once per turn. ① If this card is Synchro Summoned: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ (Quick Effect): immediately after this effect resolves, Fusion, Synchro, or Xyz Summon 1 "Rescue Agent" Fusion, Synchro, or Xyz monster using monsters you control.
+ATK: 2700
+DEF: 2300
+Comments: Changing effect 3 so Starship and Heavy-Duty Carrier don't step on each other's toes.
+
 
 DATE: 13/04/2024-------------------------------------------
 

@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): ① If this card is Normal or Special Summoned: You can send 1 "Rescue Agent" monster from your Deck to the GY, except "Rescue Agent Spy".
+Effect(s): You can only use effect ① of "Rescue Agent Spy" once per turn. ① If a "Rescue Agent" monster you control is targeted for an attack (Quick Effect): You can send this card from your hand to the GY, then target 1 monster on the field; change its battle position.
 ATK: 1000
 DEF: 1900
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -26,6 +26,20 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent Spy
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): ① If this card is Normal or Special Summoned: You can send 1 "Rescue Agent" monster from your Deck to the GY, except "Rescue Agent Spy".
+ATK: 1000
+DEF: 1900
+Comments: Spy is being put on the back burner and its effect given to Communicator.
+
 
 DATE: 13/04/2024-------------------------------------------
 

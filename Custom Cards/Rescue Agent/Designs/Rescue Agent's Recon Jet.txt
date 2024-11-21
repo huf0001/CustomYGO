@@ -7,7 +7,7 @@ Level: 6
 Attribute: WIND
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Synchro and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2100
 DEF: 1900
 Last Updated: 31/05/2024
@@ -29,6 +29,21 @@ Maybe consider moving Mobile Platform's ATK/DEF effect to Recon Jet, seeing as M
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Recon Jet
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WIND
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2100
+DEF: 1900
+Comments: Changed Limousine to an Xyz Monster, so removing all mentions of Fusion Monsters.
+
 
 DATE: 13/04/2024-------------------------------------------
 

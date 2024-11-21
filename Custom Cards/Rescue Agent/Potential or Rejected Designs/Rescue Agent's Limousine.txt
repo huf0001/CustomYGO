@@ -2,15 +2,15 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rescue Agent's Limousine
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
-Level: 6
+Card Subtype(s): Xyz / Effect
+Level: 4
 Attribute: LIGHT
 Monster Type: Machine
-Materials: "Rescue Agent Spy" or "Rescue Agent Butler" + 1 "Rescue Agent" monster
-Effect(s): Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above monsters you control into the Deck. (This is treated as a Fusion Summon.) ① If this card is Fusion Summoned: You can banish 1 "Rescue Agent" monster from your GY; this effect becomes that banished monster's effect when it is Summoned. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ Once per turn, if a "Rescue Agent" monster you control is targeted for an attack: You can negate that attack.
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): You can only activate effect ③ of "Resuce Agent's Limousine" once per turn. ① If this card is Xyz Summoned using "Rescue Agent Butler" as material: You can banish 1 "Rescue Agent" monster from your GY; this effect becomes that banished monster's effect when it is Summoned. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If a "Rescue Agent" monster you control is targeted for an attack while this card has "Rescue Agent Spy" as material (Quick Effect): You can detach 1 material from this card; negate that attack.
 ATK: 2300
 DEF: 1700
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,20 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Limousine
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: LIGHT
+Monster Type: Machine
+Materials: "Rescue Agent Spy" or "Rescue Agent Butler" + 1 "Rescue Agent" monster
+Effect(s): Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above monsters you control into the Deck. (This is treated as a Fusion Summon.) ① If this card is Fusion Summoned: You can banish 1 "Rescue Agent" monster from your GY; this effect becomes that banished monster's effect when it is Summoned. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ Once per turn, if a "Rescue Agent" monster you control is targeted for an attack: You can negate that attack.
+ATK: 2300
+DEF: 1700
+Comments: Turning into an Xyz monster that benefits from Spy and Butler to simplify archetype and hopefully reduce card text.
 
 DATE: 14/04/2024-------------------------------------------
 

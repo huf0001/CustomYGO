@@ -7,7 +7,7 @@ Rank: 4
 Attribute: FIRE
 Monster Type: Machine
 Materials: 3 Level 4 "Rescue Agent" monsters
-Effect(s): ① Cannot be destroyed by battle while it has a material. ② Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): ① Cannot be destroyed by battle while it has a material. ② Once per turn: You can detach 1 material from this card, then target 1 card on the field; shuffle it into the Deck. This card cannot attack the turn this effect is activated. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2400
 DEF: 2100
 Last Updated: 31/05/2024

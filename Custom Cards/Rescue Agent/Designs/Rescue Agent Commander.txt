@@ -6,11 +6,10 @@ Card Subtype(s): Tuner / Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
-● Gains 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control.
+Effect(s): ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it gains ATK/DEF equal to its Level/Rank x100 until the end of the next turn.
 ATK: 1700
 DEF: 1200
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +26,21 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent Commander
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 4
+Attribute: WIND
+Monster Type: Warrior
+Effect(s): ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+● Gains 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control.
+ATK: 1700
+DEF: 1200
+Comments: Changed Limousine to an Xyz Monster, so removing mentions of Fusion Monsters. Also making effect 2 an activated GY effect for ease of use and memory.
+
 
 DATE: 14/04/2024-------------------------------------------
 

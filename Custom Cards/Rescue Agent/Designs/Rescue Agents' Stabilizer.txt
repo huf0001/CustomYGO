@@ -7,10 +7,10 @@ Rank: 4
 Attribute: FIRE
 Monster Type: Machine
 Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): ① Once per turn: You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): ① Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 1500
 DEF: 2500
-Last Updated: 30/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 30/05/2024-------------------------------------------
+
+Name: Rescue Agent's Stabilizer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: FIRE
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): ① Once per turn: You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1500
+DEF: 2500
+Comments: Increasing the power level for testing.
+
 
 DATE: 13/04/2024-------------------------------------------
 

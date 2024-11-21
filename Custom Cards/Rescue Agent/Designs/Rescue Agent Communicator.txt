@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): ① If this card is Normal or Special Summoned: You can draw 1 card.
+Effect(s): ① If this card is Normal or Special Summoned: You can send 1 "Rescue Agent" monster from your Deck to the GY, except "Rescue Agent Communicator".
 ATK: 1500
 DEF: 1400
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -26,6 +26,20 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900. Could al
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent Communicator
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): ① If this card is Normal or Special Summoned: You can draw 1 card.
+ATK: 1500
+DEF: 1400
+Comments: Taking Rescue Agent Spy's effect.
+
 
 DATE: 18/04/2024-------------------------------------------
 

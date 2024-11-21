@@ -7,7 +7,7 @@ Level: 4
 Attribute: LIGHT
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): ① Cannot be targeted or destroyed by your opponent's card effects while you control a "Rescue Agent" Fusion, Synchro, or Xyz monster with a different name. ② Your opponent must reveal all cards they draw. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster, except "Rescue Agent's Space Station" (Quick Effect): You can draw 1 card. ④ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): ① Cannot be targeted or destroyed by your opponent's card effects. ② Your opponent must reveal all cards they draw. ③ If you Synchro or Xyz Summon a "Rescue Agent" monster, except "Rescue Agent's Space Station" (Quick Effect): You can draw 1 card. ④ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2000
 DEF: 3500
 Last Updated: 30/05/2024
@@ -27,6 +27,20 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 30/05/2024-------------------------------------------
+
+Name: Rescue Agent's Space Station
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): ① Cannot be targeted or destroyed by your opponent's card effects while you control a "Rescue Agent" Fusion, Synchro, or Xyz monster with a different name. ② Your opponent must reveal all cards they draw. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster, except "Rescue Agent's Space Station" (Quick Effect): You can draw 1 card. ④ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2000
+DEF: 3500
+Comments: Made Limousine an Xyz Monster, so removing all mentions of Fusion Monsters. Also making effect 1 stronger to better establish the ceiling for this card's power level for testing.
 
 DATE: 13/04/2024-------------------------------------------
 

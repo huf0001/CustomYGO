@@ -2,15 +2,15 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rescue Agent's Submarine
 Card Type: Monster
-Card Subtype(s): Synchro / Effect
-Level: 6
+Card Subtype(s): Xyz / Effect
+Level: 4
 Attribute: WATER
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): You can only use effect ③ of "Rescue Agent's Submarine" once per turn. ① If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field.
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): You can only activate effect ② of "Rescue Agent's Submarine" once per turn. ① This card can be treated as a Level 6 monster for the Synchro Summon of a "Rescue Agent" monster. ② You can detach 1 material from this card, then target 1 monster in either GY: Special Summon it if it is a "Rescue Agent" monster in your GY. Otherwise, shuffle it into the Deck. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 1600
 DEF: 2400
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,6 +29,21 @@ Keep an eye on if its Spell/Trap removal should prevent the opponent from activa
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Submarine
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WATER
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): You can only use effect ③ of "Rescue Agent's Submarine" once per turn. ① If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field.
+ATK: 1600
+DEF: 2400
+Comments: Turning into an Xyz monster as it is also a Pod vehicle, albeit also one of the main Thunderbirds monsters.
+
 
 DATE: 12/04/2024-------------------------------------------
 

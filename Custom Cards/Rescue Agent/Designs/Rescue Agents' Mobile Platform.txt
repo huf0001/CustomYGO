@@ -6,11 +6,11 @@ Card Subtype(s): Xyz / Effect
 Rank: 4
 Attribute: WIND
 Monster Type: Machine
-Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): ① Once per turn: You can detach 1 material from this card; Special Summon 1 "Rescue Agent Machine Token" (Machine / EARTH / Level 2 / ATK 0 / DEF 0). ② "Rescue Agent" monsters you control gain 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Materials: 2+ Level 4 "Rescue Agent" monsters
+Effect(s): ① If a "Rescue Agent" monster(s) you control would be destroyed, you can detach 1 material from this card instead. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2000
 DEF: 2000
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Mobile Platform
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: WIND
+Monster Type: Machine
+Materials: 2 Level 4 "Rescue Agent" monsters
+Effect(s): ① Once per turn: You can detach 1 material from this card; Special Summon 1 "Rescue Agent Machine Token" (Machine / EARTH / Level 2 / ATK 0 / DEF 0). ② "Rescue Agent" monsters you control gain 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2000
+DEF: 2000
+Comments: Scrapped Unloading the Rescue Agent Machines, so moving Mobile Platform away from tokens.
+
 
 DATE: 13/04/2024-------------------------------------------
 

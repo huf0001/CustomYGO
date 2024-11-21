@@ -7,10 +7,10 @@ Level: 8
 Attribute: EARTH
 Monster Type: Machine
 Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): ① If this card is Synchro Summoned: You can target 1 Level 4 or lower monster from either player's GY; Special Summon it. ② During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Effect(s): You can only use effect ① of "Rescue Agent's Heavy-Duty Carrier" once per turn. ① During the Main Phase, you can (Quick Effect): Immediately after this effect resolves, Normal Summon 1 "Rescue Agent" monster if it is your turn. Otherwise, Synchro or Xyz Summon 1 "Rescue Agent" monster. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2800
 DEF: 2200
-Last Updated: 31/05/2024
+Last Updated: 21/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,21 @@ As a "Rescue Agent" Extra Deck monster, it should share the archetypal effect of
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Heavy-Duty Carrier
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Machine
+Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Effect(s): ① If this card is Synchro Summoned: You can target 1 Level 4 or lower monster from either player's GY; Special Summon it. ② During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2800
+DEF: 2200
+Comments: Adjusting so it and Submarine don't step on each others' toes.
+
 
 DATE: 13/04/2024-------------------------------------------
 

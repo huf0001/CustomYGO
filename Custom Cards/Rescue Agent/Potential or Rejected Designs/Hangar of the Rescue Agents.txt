@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Hangar of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Continuous
-Effect(s): You can only use effect ③ of "Hangar of the Rescue Agents" once per turn. ① When this card is activated: You can attach 1 "Rescue Agent" monster in your GY to a "Rescue Agent" Xyz monster you control. ② When an opponent's monster is destroyed by battle with a "Rescue Agent" Xyz monster you control, you can attach it to that Xyz monster instead of it going to the GY. ③ If a "Rescue Agent" Xyz monster you control would detach its Xyz material(s) to activate an effect, you can detach Xyz material(s) from another "Rescue Agent" Xyz monster(s) you control instead.
+Effect(s): You can only use effect ③ of "Hangar of the Rescue Agents" once per turn. ① When this card is activated: You can attach 1 "Rescue Agent" monster in your GY to a "Rescue Agent" Xyz monster you control. ② If a "Rescue Agent" Xyz monster you control would detach its Xyz material(s) to activate an effect, you can detach Xyz material(s) from another "Rescue Agent" Xyz monster(s) you control instead.
 Last Updated: 30/05/2024
 
 
@@ -21,6 +21,15 @@ Keep an eye on how often multiple Xyz monsters are actually on the field togethe
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 30/05/2024-------------------------------------------
+
+Name: Hangar of the Rescue Agents
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): You can only use effect ③ of "Hangar of the Rescue Agents" once per turn. ① When this card is activated: You can attach 1 "Rescue Agent" monster in your GY to a "Rescue Agent" Xyz monster you control. ② When an opponent's monster is destroyed by battle with a "Rescue Agent" Xyz monster you control, you can attach it to that Xyz monster instead of it going to the GY. ③ If a "Rescue Agent" Xyz monster you control would detach its Xyz material(s) to activate an effect, you can detach Xyz material(s) from another "Rescue Agent" Xyz monster(s) you control instead.
+Comments: Merging into Island of the Rescue Agents, effect ② is being given to Island.
+
 
 DATE: 13/04/2024-------------------------------------------
 
