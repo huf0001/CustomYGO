@@ -14,7 +14,7 @@ Last Updated: 26/10/2024
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' NA class narrow gauge engines, with all preserved members being on the Puffing Billy Railway
+Basis: Victorian Railways' R class express passenger steam locomotive.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,7 +22,16 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
+https://yugipedia.com/wiki/Train
+https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
+https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
+https://en.wikipedia.org/wiki/Victorian_Railways
+http://www.australiansteam.com/vgrframe.htm
+https://www.steamrail.com.au/fleet-steam
+
 https://en.wikipedia.org/wiki/Victorian_Railways_R_class
+https://www.steamrail.com.au/r711 - oil burner
+https://www.steamrail.com.au/r761
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

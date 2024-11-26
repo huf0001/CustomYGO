@@ -14,7 +14,7 @@ Last Updated: 26/10/2024
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' NA class narrow gauge engines, with all preserved members being on the Puffing Billy Railway
+Basis: Victorian Railways' F class 2-4-2T locomotive, the oldest surviving Victorian Railway locomotive.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,8 +22,20 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-Museum piece, cannot attack?
+Museum piece, cannot attack? Alternative surviving standard-gauge Victorian tank engines include the DDE / D4 class, the E class, and the Z class, but none are operational either, only on display. The only operational Victorian Railways tank engines are the narrow gauge NA class, but they are covered by Locomotive NA - Mountain Tourist.
+
+https://yugipedia.com/wiki/Train
+https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
+https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
+https://en.wikipedia.org/wiki/Victorian_Railways
+http://www.australiansteam.com/vgrframe.htm
+https://www.steamrail.com.au/fleet-steam
+
 https://en.wikipedia.org/wiki/Victorian_Railways_F_class_(1874)
+
+https://en.wikipedia.org/wiki/Victorian_Railways_Dd_class#DDE_tank_engine
+https://en.wikipedia.org/wiki/Victorian_Railways_E_class
+https://en.wikipedia.org/wiki/Victorian_Railways_Z_class
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

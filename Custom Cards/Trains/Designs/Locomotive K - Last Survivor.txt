@@ -14,7 +14,7 @@ Last Updated: 26/10/2024
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' NA class narrow gauge engines, with all preserved members being on the Puffing Billy Railway
+Basis: Victorian Railways' K class branch line tender locomotives, which despite their conventional design and unremarkable specifications, were remarkably versatile and dependable, and were the last steam locomotive in regular service on Victorian Railways.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,7 +22,17 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
+https://yugipedia.com/wiki/Train
+https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
+https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
+https://en.wikipedia.org/wiki/Victorian_Railways
+http://www.australiansteam.com/vgrframe.htm
+https://www.steamrail.com.au/fleet-steam
+
 https://en.wikipedia.org/wiki/Victorian_Railways_K_class
+https://www.steamrail.com.au/k153
+https://www.steamrail.com.au/k183
+https://www.steamrail.com.au/k190
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

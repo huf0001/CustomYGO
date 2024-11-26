@@ -14,7 +14,7 @@ Last Updated: 26/10/2024
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' NA class narrow gauge engines, with all preserved members being on the Puffing Billy Railway
+Basis: Victorian Railways' H class locomotive, Heavy Harry.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -23,6 +23,14 @@ Artwork: Created in GIMP using:
 COMMENTS-----------------------------------------------------------------------
 
 On static display, so cannot attack? But also most powerful, so display that power and let it attack?
+
+https://yugipedia.com/wiki/Train
+https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
+https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
+https://en.wikipedia.org/wiki/Victorian_Railways
+http://www.australiansteam.com/vgrframe.htm
+https://www.steamrail.com.au/fleet-steam
+
 https://en.wikipedia.org/wiki/Victorian_Railways_H_class
 
 
