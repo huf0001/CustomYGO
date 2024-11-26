@@ -5,13 +5,13 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Warrior
-Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK and one of the following effects, based on its original Level.
+Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of the next turn, it gains 700 ATK and one of the following effects, based on its original Level.
 ● 4: This card is unaffected by Spell effects.
 ● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
 ● 8: Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
 ATK: 700
 DEF: 0
-Last Updated: 07/10/2024
+Last Updated: 24/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -33,6 +33,22 @@ Keep an eye on if this effect needs to be limited to hard once per turn.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 07/10/2024-------------------------------------------
+
+Name: Osiris the Black Flame Lord
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Warrior
+Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK and one of the following effects, based on its original Level.
+● 4: This card is unaffected by Spell effects.
+● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+● 8: Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
+ATK: 700
+DEF: 0
+Comments: Extending the power up to the next turn to enable locking down the opponent if used on LV6 during your turn without a successful kill, or to enable a successful kill if used to lock down during the opponent's turn.
+
 
 DATE: 04/10/2024-------------------------------------------
 
