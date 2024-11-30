@@ -32,7 +32,7 @@ COMMENTS-----------------------------------------------------------------------
 Keep an eye on if this effect needs to be limited to hard once per turn. Also, test with:
 
 ● Weaker versions of the next Horus' effect rather than the full versions
-● No bonus effect at all, and Horus just gains ATK.
+● No bonus effect at all, and Horus just gains ATK. In this case, perhaps Temple of the Black Flame Dragon could take this part of the effect for itself and just apply it continuously, instead of the current iteration's effects.
 ● No Quick Effect status, forcing you to use it on your turn and preventing you from using it reactively to protect Horus LV4 from Spell effects.
 
 Also, there was a comparison made on Reddit between Osiris and Blackwing - Kalut the Moon Shadow (LV3 / DARK / Winged Beast / 1400 ATK / 1000 DEF) whose effect(s) read: "During the Damage Step, when your "Blackwing" monster battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 1400 ATK until the end of this turn." which is a stronger ATK boost, but more restricted in its application, and without other benefits.

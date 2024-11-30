@@ -19,6 +19,14 @@ COMMENTS-----------------------------------------------------------------------
 
 Keep an eye on if effect ① should be restricted to triggering during the End Phase so that players can't suicide a Horus LV4 to summon LV6 and successfully attack for LV8 in a single turn.
 
+If Osiris ends up ditching the effect-gain aspect of its effect, perhaps Temple could adopt it and make it its entire effect:
+
+① The following effects of "Horus the Black Flame Dragon" monsters you control, based on those monsters' original levels, become the subsequent effect listed.
+● 4: "Control of this face-up card cannot switch."
+● 6: "This card is unaffected by Spell effects."
+● 8: "When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it."
+● 10: "Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field."
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
