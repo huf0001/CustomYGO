@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: TCG Ritual Spell
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Fusion Summon 1 "TCG Ritual Monster" from your Extra Deck, using monsters from your field whose total Levels equal N or more as material.
+Last Updated: 5/12/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: TCG Ritual Spells
+Flavour: How Ritual monsters are Ritual Summoned in the TCG, using Fusion Summoning to make them Extra Deck monsters in the same way that Ritual Monsters in the anime and manga seemed to be Extra Deck monsters.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
