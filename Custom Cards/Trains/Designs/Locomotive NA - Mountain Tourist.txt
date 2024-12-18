@@ -3,10 +3,10 @@ TECHNICAL----------------------------------------------------------------------
 Name: ABCDEF
 Card Type: Monster
 Card Subtype(s): Effect
-Level: 3
+Level: 4
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① This card can be treated as a Level 3 monster for the Xyz Summon of an EARTH Machine Xyz Monster." ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
 Last Updated: 26/10/2024
@@ -22,7 +22,9 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-Narrow gauge, let it be LV 3 or 4 for XYZ summons.
+Narrow gauge, let it be LV 3 or 4 for XYZ summons? But then being printed LV3 disqualifies it from LV 4/10 EARTH Machine support, so perhaps being a printed LV 4 that can be treated as a LV 3, even if aesthetically the opposite might work better.
+
+Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
 
 https://yugipedia.com/wiki/Train
 https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
@@ -31,8 +33,11 @@ https://en.wikipedia.org/wiki/Victorian_Railways
 http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
 
-https://en.wikipedia.org/wiki/Victorian_Railways_NA_class
 https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
+http://www.victorianrailways.net/
+https://vicsig.net/
+
+https://en.wikipedia.org/wiki/Victorian_Railways_NA_class
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
