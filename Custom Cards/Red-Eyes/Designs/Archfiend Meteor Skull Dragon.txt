@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Archfiend Meteor Skull Dragon
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Dragon
+Materials: 1 Level 6 "Archfiend" monster + 1 Level 6 Dragon monster 
+Archetype Condition: (This card is always treated as mentioning a "Red-Eyes" monster as material.)
+Effect(s): ① Cannot be targeted or destroyed by your opponent's card effects. ② Once per turn: You can target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to half its original DEF, also this card cannot attack this turn. ③ If this card is sent from the field to the GY: You can target 1 "Red-Eyes" Normal Monster in your GY; add it to your hand.
+ATK: 3350
+DEF: 2250
+Last Updated: 26/12/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: A retrain of a Summoned Skull + Meteor Dragon Fusion Monster
+Flavour: A retrained Red-Eyes-related Fusion Monster combining Summoned Skull and Meteor Dragon.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Meteor Black Skull Dragon
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 11
+Attribute: DARK
+Monster Type: Dragon
+Materials: "Red-Eyes Black Dragon" + "Summoned Skull" + "Meteor Dragon" 
+Archetype Condition: (This card is always treated as an "Archfiend" card.) 
+ATK: 4250
+DEF: 3250
+Last Updated: 26/12/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: A Red-Eyes Black Dragon + Summoned Skull + Meteor Dragon Fusion Monster
+Flavour: A Red-Eyes-related Fusion monster combining Red-Eyes Black Dragon, Summoned Skull, and Meteor Dragon.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
