@@ -1,0 +1,64 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dreadnought Rail Cannon Schnell Amiens
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Machine
+Materials: 2 Level 4 Machine monsters
+Effect(s): ① Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; destroy it, then inflict 1000 damage to your opponent, also this card cannot attack this turn. ② (Quick Effect): You can detach 2 materials from this card; Special Summon 1 Rank 10 EARTH Machine Xyz Monster from your Extra Deck, by using this card you control as material. (This is treated as an Xyz Summon.)
+ATK: 2400
+DEF: 2000
+Last Updated: 26/10/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Amiens Gun, a 28 cm SK L/40 "Bruno" railway gun (SK = Schnelladekanone, or quick-loading cannon; L = Länge, or having a 40 caliber barrel) captured by the Australian military during WWI and returned to Australia.
+Flavour: A smaller railway cannon than the Rank 10/11 Superdreadnought Rail Cannons, but still a powerful cannon nonetheless.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+
+
+https://yugipedia.com/wiki/Train
+https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
+https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
+https://en.wikipedia.org/wiki/Victorian_Railways
+http://www.australiansteam.com/vgrframe.htm
+https://www.steamrail.com.au/fleet-steam
+
+https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
+http://www.victorianrailways.net/
+https://vicsig.net/
+
+https://en.wikipedia.org/wiki/Amiens_Gun
+https://en.wikipedia.org/wiki/28_cm_SK_L/40_%22Bruno%22
+https://en.wikipedia.org/wiki/Railway_gun
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
