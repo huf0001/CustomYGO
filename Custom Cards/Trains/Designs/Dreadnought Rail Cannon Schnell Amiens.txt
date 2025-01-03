@@ -7,10 +7,10 @@ Level: 4
 Attribute: EARTH
 Monster Type: Machine
 Materials: 2 Level 4 Machine monsters
-Effect(s): ① Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; destroy it, then inflict 1000 damage to your opponent, also this card cannot attack this turn. ② (Quick Effect): You can detach 2 materials from this card; Special Summon 1 Rank 10 EARTH Machine Xyz Monster from your Extra Deck, by using this card you control as material. (This is treated as an Xyz Summon.)
+Effect(s): ① Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; destroy it, then inflict 1000 damage to your opponent, also this card cannot attack this turn. ② EFFECT
 ATK: 2400
 DEF: 2000
-Last Updated: 26/10/2024
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -31,6 +31,7 @@ https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
 https://en.wikipedia.org/wiki/Victorian_Railways
 http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
+http://www.railpage.org.au/
 
 https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/

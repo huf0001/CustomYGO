@@ -1,20 +1,15 @@
 TECHNICAL----------------------------------------------------------------------
 
 Name: ABCDEF
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 10
-Attribute: EARTH
-Monster Type: Machine
-Monster Effect(s): ● ① When this card is Summoned: You can Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand or GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 9999
-DEF: 9999
-Last Updated: 26/10/2024
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Reveal 1 Level 3, 4, or 10 EARTH Machine monster in your hand, then target 1 EARTH Machine monster with the same Level in your GY; Special Summon 1 EARTH Machine Xyz Monster from your Extra Deck with a Rank equal to the targeted monster's Level, and attach the revealed and targeted monsters to it as material. (This is treated as an Xyz Summon.) ② If an EARTH Machine monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' H class locomotive, Heavy Harry, the most powerful non-articulated.
+Basis: Victorian Railways' S class locomotives which pulled the Spirit of Progress express service between Melbourne and Albury, but all were scrapped immediately when dieselisation began in Victoria, sparking Victoria's preservation movement.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,8 +17,11 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-On static display, so cannot attack? But also most powerful, so display that power and let it attack?
-Powerful, so can pull another engine with it, whether from hand (freight) or GY (preservation)?
+Alternative name ideas: Scrapped (except that would make it a Scrap card), Dieselisation, Under the Cutter's Torch.
+
+The S-class locomotive could have a rusted colour and an X drawn through it on yellowed paper, with the page burning up to reveal a diesel underneath. 
+
+Alternative artwork idea: the image linked below of a B class diesel passing an S class locomotive could have a similar treatment without the burn marks, highlighting the B class as the future. However, this would give the B class too much prominence when the focus should be on the demise of the S class.
 
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
 
@@ -39,7 +37,10 @@ https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/
 https://vicsig.net/
 
-https://en.wikipedia.org/wiki/Victorian_Railways_H_class
+https://en.wikipedia.org/wiki/Spirit_of_Progress
+https://en.wikipedia.org/wiki/Victorian_Railways_S_class
+https://en.wikipedia.org/wiki/Victorian_Railways_B_class_(diesel)
+https://upload.wikimedia.org/wikipedia/commons/e/ed/S302andB60.jpg
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

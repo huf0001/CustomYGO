@@ -1,28 +1,21 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 4
-Attribute: EARTH
-Monster Type: Machine
-Monster Effect(s): ● ① This card can be treated as a Level 3 monster for the Xyz Summon of an EARTH Machine Xyz Monster." ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 9999
-DEF: 9999
-Last Updated: 26/10/2024
+Name: Rebuild
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Target 2 Level 3, 4, or 10 EARTH Machine monsters with different Levels; change one of their Levels to the current level of the other, until the end of this turn. ② PROTECTIVE EFFECT
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' NA class narrow gauge engines, with all preserved members being on the Puffing Billy Railway
+Basis: Rebuilding one class of locomotive into another class of locomitive.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
 
 
 COMMENTS-----------------------------------------------------------------------
-
-Narrow gauge, let it be LV 3 or 4 for XYZ summons? But then being printed LV3 disqualifies it from LV 4/10 EARTH Machine support, so perhaps being a printed LV 4 that can be treated as a LV 3, even if aesthetically the opposite might work better.
 
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
 
@@ -32,12 +25,14 @@ https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
 https://en.wikipedia.org/wiki/Victorian_Railways
 http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
+http://www.railpage.org.au/
 
 https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/
 https://vicsig.net/
 
-https://en.wikipedia.org/wiki/Victorian_Railways_NA_class
+https://en.wikipedia.org/wiki/Victorian_Railways_Y_class
+https://www.steamrail.com.au/y112
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

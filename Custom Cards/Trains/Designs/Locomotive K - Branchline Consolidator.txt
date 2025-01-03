@@ -1,15 +1,15 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Locomotive K - Branchline Consolidator
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 10
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① When this card is Summoned: You can add 1 Spell/Trap that mentions EARTH Machine monsters from your Deck to your hand. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
-Last Updated: 26/10/2024
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,6 +22,8 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
+K class should have a pure black or royal blue and yellow livery.
+
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
 
 https://yugipedia.com/wiki/Train
@@ -30,14 +32,15 @@ https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
 https://en.wikipedia.org/wiki/Victorian_Railways
 http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
+http://www.railpage.org.au/
 
 https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/
 https://vicsig.net/
 
-https://en.wikipedia.org/wiki/Victorian_Railways_K_class
+https://en.wikipedia.org/wiki/Victorian_Railways_K_class - name from notes that it was a "Consolidation" locomotive, as the 2-8-0 wheel arrangement was commonly known.
 https://www.steamrail.com.au/k153
-https://www.steamrail.com.au/k183
+https://www.steamrail.com.au/k183 - use as photo reference
 https://www.steamrail.com.au/k190
 
 

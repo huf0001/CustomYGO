@@ -1,15 +1,15 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Locomotive R - Hudson Express
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 10
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① If only your opponent controls a monster, you can Special Summon this card (from your hand), but its original ATK/DEF become halved. ② You cannot Special Summon monsters, except EARTH Machine monsters. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
-Last Updated: 26/10/2024
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,14 +22,22 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
+R class should have a black and red livery.
+
+Named for 4-6-4 wheel arrangement, which has the nicknames "Baltic" and "Hudson". "Hudson" seems to be the name used in Australia, so that's what I'm going with.
+
+Alternate name: Glaswegian Helenus, as the R class was built in Glasgow, Scotland, and R761, the planned photo basis, was brought to Australia along with R759 onboard the ship Helenus on 28/02/1952.
+
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
 
 https://yugipedia.com/wiki/Train
 https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
 https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
 https://en.wikipedia.org/wiki/Victorian_Railways
+https://en.wikipedia.org/wiki/707_Operations
 http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
+http://www.railpage.org.au/
 
 https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/
@@ -37,7 +45,8 @@ https://vicsig.net/
 
 https://en.wikipedia.org/wiki/Victorian_Railways_R_class
 https://www.steamrail.com.au/r711 - oil burner
-https://www.steamrail.com.au/r761
+https://www.steamrail.com.au/r761 - use as photo reference
+http://www.railpage.org.au/vr/loco_details.php?loco=r - 4-6-4s being nicknamed Hudsons in Australia
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
