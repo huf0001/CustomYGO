@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① This card can be treated as a Level 10 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ② You can send this card from your hand to the GY; Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① Cannot attack. ② This card can be treated as a Level 10 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ③ You can send this card from your hand to the GY; Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand. ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
-Last Updated: 26/10/2024
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------

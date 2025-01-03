@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 10
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① When this card is Summoned: You can Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand or GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① When this card is Summoned: You can Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand or GY. ② Cannot attack. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
-Last Updated: 26/10/2024
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
