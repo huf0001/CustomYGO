@@ -1,0 +1,70 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Machine
+Monster Effect(s): ● ① This card can be treated as a Level 4 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ② You can send this card from your hand to the GY; Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 9999
+DEF: 9999
+Last Updated: 21/01/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Walhalla Goldfields Railway's 0-6-0DM Fowler shunter, #14 Spirit of Yallourn.
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Walhalla diesel, Viking Shunter, Shunter of the Gods, supports getting LV 3/4/10 into the GY / LV/RK 3/4/10 out of the GY? Or has a LV change effect affecting either itself or itself and another target monster it wants to have one adopt the level of the other?
+
+If you activate the effect of an EARTH Machine Xyz monster by detaching a material (Quick Effect): You can Special Summon this card (from your hand), and if you do, add the detached material to your hand..... doesn't quite fit a divine Viking Shunter, but this effect might work for a different train monster? Consider.
+
+
+
+Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
+
+Alternative surviving standard-gauge Victorian tank engines include the DDE / D4 class, the E class, and the Z class, but none are operational either, only on display. The only operational Victorian Railways tank engines are the narrow gauge NA class, but they are covered by Locomotive NA - Mountain Tourist.
+
+https://yugipedia.com/wiki/Train
+https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
+https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
+https://en.wikipedia.org/wiki/Victorian_Railways
+http://www.australiansteam.com/vgrframe.htm
+https://www.steamrail.com.au/fleet-steam
+http://www.railpage.org.au/
+
+https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
+http://www.victorianrailways.net/
+https://vicsig.net/
+
+https://www.walhallarail.com.au/
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
