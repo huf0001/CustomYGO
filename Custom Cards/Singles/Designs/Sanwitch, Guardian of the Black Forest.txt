@@ -1,0 +1,54 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Sanwitch, Guardian of the Black Forest
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: DARK
+Monster Type: Spellcaster
+Materials: 2 Level 4 or lower DARK monsters with different Types (Fiend or Spellcaster)
+Effect(s): You can only activate effects ① and ② of "Sanwitch, Guardian of the Black Forest" once per turn each. ① If your opponent adds a card from their Deck to their hand (except by drawing) (Quick Effect): You can banish both it and this card until the End Phase. ② If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK or DEF from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn.
+ATK: 2100
+DEF: 1800
+Last Updated: 04/01/2025
+
+You can activate this effect
+You can banish this card until the End Phase
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Sanwitch
+Flavour: A retrained Sanwitch that wants to stop players abusing Sangan and Witch of the Black Forest in the manner that got them banned and errata'd.
+Artwork: Created in GIMP using:
+● Sanwitch
+● Sangan?
+● Witch of the Black Forest?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
