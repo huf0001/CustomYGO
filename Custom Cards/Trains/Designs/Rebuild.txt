@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Rebuild
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): ① Target 2 Level 3, 4, or 10 EARTH Machine monsters with different Levels; change one of their Levels to the current level of the other, until the end of this turn. ② PROTECTIVE EFFECT
-Last Updated: 03/01/2025
+Effect(s): ① Target 2 Level 3, 4, or 10 EARTH Machine monsters with different Levels; change one of their Levels to either the current Level of the other, or a Level the other can be treated as for an Xyz Summon, until the end of this turn. ② If an EARTH Machine monster(s) you control would leave the field because of an opponent's card or effect that targeted it, you can banish this card from your GY instead.
+Last Updated: 22/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------

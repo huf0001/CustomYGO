@@ -1,12 +1,12 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Locomotive K - Branchline Consolidator
+Name: ABCDEF
 Card Type: Monster
 Card Subtype(s): Effect
-Level: 10
+Level: 4
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① When this card is Summoned: You can add 1 Spell/Trap that mentions EARTH Machine monsters from your Deck to your hand. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① Cannot attack. ② This card can be treated as a Level 10 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ③ You can send this card from your hand to the GY; Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand. ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
 Last Updated: 03/01/2025
@@ -14,7 +14,7 @@ Last Updated: 03/01/2025
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' K class branch line tender locomotives, which despite their conventional design and unremarkable specifications, were remarkably versatile and dependable, and were the last steam locomotive in regular service on Victorian Railways.
+Basis: Victorian Railways' F class 2-4-2T locomotive, the oldest surviving Victorian Railway locomotive.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,9 +22,15 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-K class should have a pure black or royal blue and yellow livery.
+Museum piece, cannot attack? 
+Was converted from a tender-engine, so can be treated as a Level 10?
+Oldest, so discard to summon another one from your hand?
 
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
+
+As a Victorian Irish Broad Gauge locomotive, its ATK/DEF should total 5300.
+
+Alternative surviving standard-gauge Victorian tank engines include the DDE / D4 class, the E class, and the Z class, but none are operational either, only on display. The only operational Victorian Railways tank engines are the narrow gauge NA class, but they are covered by Locomotive NA - Mountain Tourist.
 
 https://yugipedia.com/wiki/Train
 https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
@@ -38,10 +44,11 @@ https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/
 https://vicsig.net/
 
-https://en.wikipedia.org/wiki/Victorian_Railways_K_class - name from notes that it was a "Consolidation" locomotive, as the 2-8-0 wheel arrangement was commonly known.
-https://www.steamrail.com.au/k153
-https://www.steamrail.com.au/k183 - use as photo reference
-https://www.steamrail.com.au/k190
+https://en.wikipedia.org/wiki/Victorian_Railways_F_class_(1874)
+
+https://en.wikipedia.org/wiki/Victorian_Railways_Dd_class#DDE_tank_engine
+https://en.wikipedia.org/wiki/Victorian_Railways_E_class
+https://en.wikipedia.org/wiki/Victorian_Railways_Z_class
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

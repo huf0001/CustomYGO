@@ -1,12 +1,12 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Locomotive NA - Hissin' Jinnie
 Card Type: Monster
 Card Subtype(s): Effect
-Level: 10
+Level: 4
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① When this card is Summoned: You can Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand or GY. ② Cannot attack. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① This card can be treated as a Level 3 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
 Last Updated: 03/01/2025
@@ -14,7 +14,7 @@ Last Updated: 03/01/2025
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' H class locomotive, Heavy Harry, the most powerful non-articulated.
+Basis: Victorian Railways' NA class narrow gauge engines, with all preserved members being on the Puffing Billy Railway
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,10 +22,11 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-On static display, so cannot attack? But also most powerful, so display that power and let it attack?
-Powerful, so can pull another engine with it, whether from hand (freight) or GY (preservation)?
+Narrow gauge, let it be LV 3 or 4 for XYZ summons? But then being printed LV3 disqualifies it from LV 4/10 EARTH Machine support, so perhaps being a printed LV 4 that can be treated as a LV 3, even if aesthetically the opposite might work better.
 
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
+
+As a Victorian narrow gauge locomotive, its ATK/DEF should total 2600.
 
 https://yugipedia.com/wiki/Train
 https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
@@ -35,11 +36,11 @@ http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
 http://www.railpage.org.au/
 
-https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
+https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/ - supplied nickname
 http://www.victorianrailways.net/
 https://vicsig.net/
 
-https://en.wikipedia.org/wiki/Victorian_Railways_H_class
+https://en.wikipedia.org/wiki/Victorian_Railways_NA_class
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

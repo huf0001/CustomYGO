@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: ABCDEF
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): ① Reveal 1 Level 3, 4, or 10 EARTH Machine monster in your hand, then target 1 EARTH Machine monster with the same Level in your GY; Special Summon 1 EARTH Machine Xyz Monster from your Extra Deck with a Rank equal to the targeted monster's Level, and attach the revealed and targeted monsters to it as material. (This is treated as an Xyz Summon.) ② If an EARTH Machine monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.
-Last Updated: 03/01/2025
+Effect(s): ① Reveal 1 Level 4 or 10 EARTH Machine monster in your hand, then target 1 EARTH Machine monster in your GY; Special Summon 1 EARTH Machine Xyz Monster from your Extra Deck that can be Xyz Summoned using only the revealed and targeted monsters, and attach them to it as material. (This is treated as an Xyz Summon.) ② If an EARTH Machine monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.
+Last Updated: 22/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -45,22 +45,10 @@ https://upload.wikimedia.org/wikipedia/commons/e/ed/S302andB60.jpg
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 03/01/2025-------------------------------------------
 
 Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Reveal 1 Level 3, 4, or 10 EARTH Machine monster in your hand, then target 1 EARTH Machine monster with the same Level in your GY; Special Summon 1 EARTH Machine Xyz Monster from your Extra Deck with a Rank equal to the targeted monster's Level, and attach the revealed and targeted monsters to it as material. (This is treated as an Xyz Summon.) ② If an EARTH Machine monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.
+Comments: Let's see if I can make its effect more flexible, given the range of Ranks and Levels amongst Train cards, and the "treated as Level X" effects I'm giving some of them.

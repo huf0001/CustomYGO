@@ -1,20 +1,20 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Locomotive NA - Hissin' Jinnie
+Name: ABCDEF
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① This card can be treated as a Level 3 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① If you activate the effect of an EARTH Machine Xyz monster by detaching a material (Quick Effect): You can Special Summon this card (from your hand), and if you do, add the detached material to your hand. ② This card can be treated as a Level 3 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
-Last Updated: 03/01/2025
+Last Updated: 22/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Victorian Railways' NA class narrow gauge engines, with all preserved members being on the Puffing Billy Railway
+Basis: Walhalla Goldfields Railway's 0-6-0DM Fowler shunter, #14 Spirit of Yallourn.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,9 +22,16 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-Narrow gauge, let it be LV 3 or 4 for XYZ summons? But then being printed LV3 disqualifies it from LV 4/10 EARTH Machine support, so perhaps being a printed LV 4 that can be treated as a LV 3, even if aesthetically the opposite might work better.
+Walhalla diesel, Viking Shunter, Shunter of the Gods, supports getting LV 3/4/10 into the GY / LV/RK 3/4/10 out of the GY? Or has a LV change effect affecting either itself or itself and another target monster it wants to have one adopt the level of the other?
+
+"If you activate the effect of an EARTH Machine Xyz monster by detaching a material (Quick Effect): You can Special Summon this card (from your hand), and if you do, add the detached material to your hand.".... doesn't quite fit a divine Viking Shunter, but this effect might work for a different train monster? Consider.
+
+
+As a Victorian narrow gauge locomotive, its total ATK/DEF should add to 2600.
 
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
+
+Alternative surviving standard-gauge Victorian tank engines include the DDE / D4 class, the E class, and the Z class, but none are operational either, only on display. The only operational Victorian Railways tank engines are the narrow gauge NA class, but they are covered by Locomotive NA - Mountain Tourist.
 
 https://yugipedia.com/wiki/Train
 https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
@@ -34,11 +41,11 @@ http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
 http://www.railpage.org.au/
 
-https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/ - supplied nickname
+https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/
 https://vicsig.net/
 
-https://en.wikipedia.org/wiki/Victorian_Railways_NA_class
+https://www.walhallarail.com.au/
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

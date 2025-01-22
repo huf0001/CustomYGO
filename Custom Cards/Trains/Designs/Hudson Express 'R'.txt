@@ -1,20 +1,20 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Locomotive R - Hudson Express
 Card Type: Monster
 Card Subtype(s): Effect
-Level: 3
+Level: 10
 Attribute: EARTH
 Monster Type: Machine
-Monster Effect(s): ● ① This card can be treated as a Level 4 monster for the Xyz Summon of an EARTH Machine Xyz Monster. ② You can send this card from your hand to the GY; Special Summon 1 Level 4 or 10 EARTH Machine monster from your hand. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Effect(s): ● ① If only your opponent controls a monster, you can Special Summon this card (from your hand), but its original ATK/DEF become halved. ② You cannot Special Summon monsters, except EARTH Machine monsters. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999
-Last Updated: 21/01/2025
+Last Updated: 03/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Walhalla Goldfields Railway's 0-6-0DM Fowler shunter, #14 Spirit of Yallourn.
+Basis: Victorian Railways' R class express passenger steam locomotive.
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● 
@@ -22,20 +22,21 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-Walhalla diesel, Viking Shunter, Shunter of the Gods, supports getting LV 3/4/10 into the GY / LV/RK 3/4/10 out of the GY? Or has a LV change effect affecting either itself or itself and another target monster it wants to have one adopt the level of the other?
+R class should have a black and red livery.
 
-If you activate the effect of an EARTH Machine Xyz monster by detaching a material (Quick Effect): You can Special Summon this card (from your hand), and if you do, add the detached material to your hand..... doesn't quite fit a divine Viking Shunter, but this effect might work for a different train monster? Consider.
+Named for 4-6-4 wheel arrangement, which has the nicknames "Baltic" and "Hudson". "Hudson" seems to be the name used in Australia, so that's what I'm going with.
 
-
+Alternate name: Glaswegian Helenus, as the R class was built in Glasgow, Scotland, and R761, the planned photo basis, was brought to Australia along with R759 onboard the ship Helenus on 28/02/1952.
 
 Older engines could have a theme of getting the others out as they "build" the railway, while the younger engines could have a theme of recovering or resurrecting engines in the GY as "preservation" gets underway. At least one could have a recovery effect on being detached from an EARTH Machine Xyz Monster.
 
-Alternative surviving standard-gauge Victorian tank engines include the DDE / D4 class, the E class, and the Z class, but none are operational either, only on display. The only operational Victorian Railways tank engines are the narrow gauge NA class, but they are covered by Locomotive NA - Mountain Tourist.
+As a Victorian Irish Broad Gauge locomotive, its ATK/DEF should total 5300.
 
 https://yugipedia.com/wiki/Train
 https://en.wikipedia.org/wiki/List_of_Victorian_locomotive_classes
 https://en.wikipedia.org/wiki/Victorian_Goldfields_Railway
 https://en.wikipedia.org/wiki/Victorian_Railways
+https://en.wikipedia.org/wiki/707_Operations
 http://www.australiansteam.com/vgrframe.htm
 https://www.steamrail.com.au/fleet-steam
 http://www.railpage.org.au/
@@ -44,7 +45,10 @@ https://puffingbilly.com.au/about/rolling-stock/locomotive-fleet/
 http://www.victorianrailways.net/
 https://vicsig.net/
 
-https://www.walhallarail.com.au/
+https://en.wikipedia.org/wiki/Victorian_Railways_R_class
+https://www.steamrail.com.au/r711 - oil burner
+https://www.steamrail.com.au/r761 - use as photo reference
+http://www.railpage.org.au/vr/loco_details.php?loco=r - 4-6-4s being nicknamed Hudsons in Australia
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
