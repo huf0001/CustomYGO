@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Petit Larvae
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 2
+Attribute: EARTH
+Monster Type: Insect
+Effect(s): ① You can Special Summoned this card (from your hand) by Tributing 1 "Petit Moth" you control equipped with "Cocoon of Evolution". ② At the start of the Damage Step, if this card battles an opponent's monster: You can destroy both battling monsters.
+ATK: 500
+DEF: 400
+Last Updated: 30/01/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Larvae Moth retrain
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Larvae Moth
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

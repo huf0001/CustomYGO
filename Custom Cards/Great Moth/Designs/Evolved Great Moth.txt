@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Evolved Great Moth
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Insect
+Effect(s): Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 "Petit Moth" equipped with "Cocoon of Evolution" you control while 4 or more cards are in your GY. ① During the End Phase, if this card attacked this turn: You can make all monsters your opponent currently controls lose 400 ATK/DEF, then negate the effects of all monsters your opponent controls with 0 ATK/DEF.
+ATK: 2600
+DEF: 2500
+Last Updated: 30/01/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Great Moth retrain
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Great Moth
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

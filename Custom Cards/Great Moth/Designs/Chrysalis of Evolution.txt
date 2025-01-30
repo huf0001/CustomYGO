@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Chrysalis of Evolution
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Insect
+Effect(s): ① This card's name becomes "Cocoon of Evolution" while on the field or in the GY. ② You can target 1 "Petit Moth" you control; equip this card from your hand or field to that target. ③ The equipped monster cannot be targeted by card effects, also its original ATK becomes 0 and its original DEF becomes 2600. ④ If the equipped monster leaves the field, or if this card leaves the field by an opponent's card effect: Special Summon 1 monster that mentions "Petit Moth" from your hand.
+ATK: 0
+DEF: 2000
+Last Updated: 30/01/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Cocoon of Evolution retrain.
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Cocoon of Evolution
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

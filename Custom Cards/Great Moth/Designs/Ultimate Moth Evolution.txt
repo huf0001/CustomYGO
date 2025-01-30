@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Ultimate Moth Evolution
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): ① Tribute 1 "Petit Moth" equipped with "Cocoon of Evolution" or 1 monster that can be Special Summoned by Tributing "Petit Moth" equipped with "Cocoon of Evolution"; Special Summon 1 appropriate monster from your hand or Deck, ignoring its Summoning conditions, based on the number of cards in your GY.
+● 0+: "Larvae Moth" or "Petit Larvae".
+● 4+: "Great Moth" or "Evolved Great Moth".
+● 6+: "Perfectly Ultimate Great Moth" or "Ultimate Evolved Great Moth".
+Last Updated: 30/01/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Petit Moth or its evolutions evolving into a greater evolution.
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Cocoon of Evolution?
+● Petit Moth?
+● Larvae Moth?
+● Great Moth?
+● Perfectly Ultimate Great Moth?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

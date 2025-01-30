@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Petit Caterpillar
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: EARTH
+Monster Type: Insect
+Effect(s): ① This card's name becomes "Petit Moth" while on the field or in the GY. ② If this card is Summoned: You can add 1 "Petit Moth" or card that mentions it from your Deck or GY to your hand. ③ If this card is destroyed by battle or leaves the field by an opponent's card effect: Target 1 monster your opponent controls; destroy it.
+ATK: 300
+DEF: 200
+Last Updated: 30/01/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Petit Moth retrain
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Petit Moth
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
