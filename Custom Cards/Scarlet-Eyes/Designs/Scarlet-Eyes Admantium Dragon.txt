@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Scarlet-Eyes Adamantium Dragon
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Machine
+Materials: 1 Dragon monster + 1 Machine monster
+Effect(s): Must first be Fusion Summoned with the above Fusion Materials that mention "Scarlet-Eyes Obsidian Dragon", or Special Summoned by Tributing 1 Dragon monster you control that is equipped with a card that mentions "Scarlet-Eyes Obsidian Dragon". (This is treated as a Fusion Summon.) ① Monsters you control that mention "Scarlet-Eyes Obsidian Dragon" gain ATK/DEF equal to the number of Spell/Traps in your GY that mention "Scarlet-Eyes Obsidian Dragon" x 100. ② Once per turn, during the Standby Phase, if this card is in the GY because it was destroyed last turn: You can Special Summon this card from your GY. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2800
+DEF: 2400
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Black Metal Dragon, Time Machine
+Flavour: Joey-archetype retrain of Red-Eyes Black Metal Dragon, referencing Time Machine
+Artwork: Created in GIMP using:
+● Red-Eyes Black Metal Dragon
+● Time Machine
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None Thousand Underdog Dragon: 1 Dragon "Underdog" monster + 1 Spellcaster "Underdog" monster
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Scarlet-Flame Swordsman
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 5
+Attribute: FIRE
+Monster Type: Warrior
+Effect(s): ① This card can be treated as a Dragon monster when used for a Fusion Summon. ② If you control no monsters, or you control a monster that mentions "Scarlet-Eyes Obsidian Dragon", you can Normal Summon this card without Tributing. ③ If this card is Summoned: You can add 1 card that mentions "Scarlet-Eyes Obsidian Dragon" from your Deck to your hand, except "Scarlet-Flame Swordsman".
+ATK: 1800
+DEF: 1600
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Flame Swordsman
+Flavour: Joey-archetype retrain of Flame Swordsman
+Artwork: Created in GIMP using:
+● Flame Swordsman
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

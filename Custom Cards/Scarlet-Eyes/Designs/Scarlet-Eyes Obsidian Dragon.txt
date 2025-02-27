@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Scarlet-Eyes Obsidian Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: DARK
+Monster Type: Dragon
+Effect(s): ● You can only use 1 effect of "Scarlet-Eyes Obsidian Dragon" per turn, and only once that turn. ① You can send this card from your hand to the GY; add 1 card that mentions "Scarlet-Eyes Obsidian Dragon" from your Deck to your hand, except "Scarlet-Eyes Obsidian Dragon". ② You can shuffle this card from your GY into your Deck; add 1 card that mentions "Scarlet-Eyes Obsidian Dragon" from your GY to your hand, except "Scarlet-Eyes Obsidian Dragon".
+ATK: 2400
+DEF: 2000
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Black Dragon
+Flavour: A Joey-archetype retrain of Red-Eyes Black Dragon
+Artwork: Created in GIMP using:
+● Red-Eyes Black Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

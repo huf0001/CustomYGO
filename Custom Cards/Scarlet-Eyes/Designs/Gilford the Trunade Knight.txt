@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Gilford the Trunade Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): ① If "Scarlet-Eyes Obsidian Dragon" is in your GY, you can Special Summon this card (from your hand) by Tributing 3 monsters. ② When this card is Summoned: You can target cards on the field up to the number of monsters Tributed for its Summon that mention "Scarlet-Eyes Obsidian Dragon", or up to twice that number if you control "Scarlet-Eyes Obsidian Dragon"; return those targets to the hand.
+ATK: 2800
+DEF: 1400
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Gilford the Lightning and Giant Trunade
+Flavour: Joey-archetype retrain of Gilford the Lightning and Giant Trunade
+Artwork: Created in GIMP using:
+● Gilford the Lightning
+● Giant Trunade
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/02/2025-------------------------------------------
+
+Name: Gilford the Scarlet-Eyes Storm Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): ① You can Special Summon this card (from your hand) by Tributing 3 monsters. ② When this card is Summoned: You can target cards your opponent controls or in their hand up to twice the number of "Scarlet-Eyes" monsters Tributed for its Summon; send them to the GY.
+ATK: 2800
+DEF: 1400
+Comments: Making Scarlet-Eyes Obsidian Dragon the archetypal focus in the same way that Shining Sarcophagus is, so adjusting Gilford's effects. 

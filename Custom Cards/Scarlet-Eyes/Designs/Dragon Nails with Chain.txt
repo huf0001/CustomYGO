@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dragon Nails with Chain
+Card Type: Trap
+Card Subtype(s): Continuous
+Effect(s): If you control "Scarlet-Eyes Obsidian Dragon", you can activate this card from your hand. ① Activate 1 or both of these effects (simultaneously).
+● Activate this effect by targeting 1 monster on the field; that target cannnot attack or change its battle position, it loses 700 ATK/DEF, and its effects (if any) are negated. When it is destroyed, destroy this card unless it's equipped to a monster.
+● Target 1 monster you control that mentions "Scarlet-Eyes Obsidian Dragon"; equip this card to it. It gains 1100 ATK, and can be treated as a Dragon monster for a Fusion Summon.
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None Thousand Underdog Dragon: 1 Dragon "Underdog" monster + 1 Spellcaster "Underdog" monster
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

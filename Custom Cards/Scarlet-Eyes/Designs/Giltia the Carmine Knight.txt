@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Giltia the Carmine Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 5
+Attribute: DARK
+Monster Type: Warrior
+Effect(s): ① This card can be treated as a Spellcaster monster when used for a Fusion Summon. ② If you control no monsters, or you control a monster that mentions "Scarlet-Eyes Obsidian Dragon", you can Normal Summon this card without Tributing. ③ Once per turn: You can target 1 card in your GY that mentions "Scarlet-Eyes Obsidian Dragon", except "Giltia the Carmine Knight"; add it to your hand.
+ATK: 1850
+DEF: 1500
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Giltia the D. Knight
+Flavour: Joey-archetype retrain of Giltia the D. Knight
+Artwork: Created in GIMP using:
+● Giltia the D. Knight
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/02/2025-------------------------------------------
+
+Name: Giltia the Scarlet-Eyes Dark Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 5
+Attribute: DARK
+Monster Type: Warrior
+Effect(s): ① If you control no monsters, or all monsters you control are "Scarlet-Eyes" monsters, you can Normal Summon this card without Tributing. ② 
+ATK: 1850
+DEF: 1500
+Comments: Making Scarlet-Eyes Obsidian Dragon the archetypal focus in the same way that Shining Sarcophagus is, so adjusting Gilford's effects. 

@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Jinzo the Scarlet-Eyes Android
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: DARK
+Monster Type: Machine
+Effect(s): ① This card can be treated as a Fiend monster when used for a Fusion Summon. ② While "Scarlet-Eyes Obsidian Dragon" is in your GY, monsters you control that mention it are unaffected by your opponent's Trap Cards and effects. ③ When a Trap Card or effect is activated while you control "Scarlet-Eyes Obsidian Dragon" (Quick Effect): You can negate that activation, and if you do, destroy that card.
+ATK: 2400
+DEF: 1500
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Jinzo
+Flavour: Joey-archetype retrain of Jinzo
+Artwork: Created in GIMP using:
+● Jinzo
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/02/2025-------------------------------------------
+
+Name: Jinzo the Scarlet-Eyes Android
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: DARK
+Monster Type: Machine
+Effect(s): ① "Scarlet-Eyes" monsters you control are unaffected by your opponent's Trap Cards and effects. ② When a Trap Card is activated (Quick Effect): You can reveal 1 other "Scarlet-Eyes" card in your hand; negate the activation, and if you do, destroy it.
+ATK: 2400
+DEF: 1500
+Comments: Making Scarlet-Eyes Obsidian Dragon the archetypal focus in the same way that Shining Sarcophagus is, so adjusting Gilford's effects. 

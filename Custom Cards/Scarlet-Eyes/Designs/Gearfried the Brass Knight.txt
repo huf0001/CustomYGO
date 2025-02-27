@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Gearfried the Brass Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Warrior
+Effect(s): ① This card can be treated as a Machine monster when used for a Fusion Summon. ② Once per turn, if your opponent targets a monster that mentions "Scarlet-Eyes Obsidian Dragon" with a Spell/Trap Card or effect while "Scarlet-Eyes Obsidian Dragon" is in your GY (Quick Effect): You can negate the activation, and if you do, destroy that card, then you can destroy 1 card your opponent controls. ③ Once per turn: You can target 1 monster in your GY that mentions "Scarlet-Eyes Obsidian Dragon", except "Gearfried the Brass Knight"; Special Summon it.  
+ATK: 1800
+DEF: 1600
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Gearfried the Iron Knight
+Flavour: Joey-archetype retrain of Gearfried, the Iron Knight
+Artwork: Created in GIMP using:
+● Gearfried the Iron Knight
+● Gearfried the Red-Eyes Iron Knight
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/02/2025-------------------------------------------
+
+Name: Gearfried the Scarlet-Eyes Steel Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Warrior
+Effect(s): ① Once per turn, if either player activates a Spell/Trap that would affect this card (Quick Effect): You can negate that Spell/Trap, then you can destroy 1 card your opponent controls. ② Once per turn: You can reveal 1 "Scarlet-Eyes" card in your hand, then target 1 "Scarlet-Eyes" card in your GY; add it to your hand, or if it's a monster, you can Special Summon it.
+ATK: 1800
+DEF: 1600
+Comments: Making Scarlet-Eyes Obsidian Dragon the archetypal focus in the same way that Shining Sarcophagus is, so adjusting Gearfried's effects. 

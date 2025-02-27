@@ -1,0 +1,57 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Vermilion Time Wizard
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 2
+Attribute: LIGHT
+Monster Type: Spellcaster
+Effect(s): ① You can send this card from your hand to the GY; Fusion Summon 1 Fusion Monster that mentions "Scarlet-Eyes Obsidian Dragon", by shuffling monsters from your hand, field, or GY into your Deck as material. ② If this card is Summoned: You can roll a six-sided die, and if you do, destroy monsters on the field based on the roll, and if "Scarlet-Eyes Obsidian Dragon" is in your GY, inflict damage to their controller equal to half their combined ATK on the field.
+● 1: All monsters you control.
+● 2 or 3: 1 monster you control.
+● 4: 1 monster your opponent controls.
+● 5 or 6: All monsters your opponent controls.
+ATK: 500
+DEF: 400
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None Time Wizard of the Underdog: 1) If this card is Normal Summoned: Roll a six-sided dice, then destroy a monster(s) on the field based on the roll, and inflict damage to their controller equal to half their combined ATK on the field.
+* 1: All monsters you control.
+* 2 or 3: 1 monster you control.
+* 4: 1 monster your opponent controls.
+* 5 or 6: All monsters your opponent controls.
+2) You can send this card from your hand to the GY; Fusion Summon 1 "Underdog" monster or 1 monster that lists "Time Wizard" as a material, by banishing monsters from your hand, field, Deck, or GY as material, including this card if it is a valid material.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

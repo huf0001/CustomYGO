@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Copper Copycat
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: LIGHT
+Monster Type: Spellcaster
+Effect(s): ① You can send this card from your hand to the GY, then target 1 monster you control that mentions "Scarlet-Eyes Obsidian Dragon", and declare 1 monster Type; that monster becomes that Type, until the end of this turn. ② If this card is Summoned: You can target 1 face-up monster your opponent controls if you control "Scarlet-Eyes Obsidian Dragon", or 1 monster in your GY if "Scarlet-Eyes Obsidian Dragon" is in your GY; this card's name, Type, Attribute, Level, ATK and DEF become the same as that target's name, Type, Attribute, Level, ATK, and DEF, and this card gains that monster's effects.
+ATK: 0
+DEF: 0
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Copycat
+Flavour: Joey-archetype retrain of Copycat
+Artwork: Created in GIMP using:
+● Copycat
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/02/2025-------------------------------------------
+
+Name: Copycat of the Scarlet-Eyes
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: LIGHT
+Monster Type: Spellcaster
+Effect(s): ① If this card is Summoned: You can reveal 1 "Scarlet-Eyes" card in your hand, then target 1 face-up monster your opponent controls; this card's name, Type, Attribute, Level, ATK and DEF become the same as that monster's name, Type, Attribute, and current Level, ATK, and DEF, but is still treated as a "Scarlet-Eyes" card, and this card gains that monster's effects.
+ATK: 0
+DEF: 0
+Comments: Making Scarlet-Eyes Obsidian Dragon the archetypal focus in the same way that Shining Sarcophagus is, so adjusting Copycat's effects. 

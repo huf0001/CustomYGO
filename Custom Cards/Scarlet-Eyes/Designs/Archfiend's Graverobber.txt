@@ -1,0 +1,32 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Archfiend's Graverobber
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): You can only activate 1 effect of "Archfiend's Graverobber" per turn. ① If "Scarlet-Eyes Obsidian Dragon" is in your GY: Target 1 Spell/Trap in your opponent's GY that meets its activation conditions; this effect becomes that Spell/Trap Card's effect when that card is activated. ② If this card is in your GY while you control "Scarlet-Eyes Obsidian Dragon": You can Special Summon this card as a Normal Monster (Fiend/DARK/Level 6/ATK 2500/DEF 1200). (This card is NOT treated as a Trap). If Summoned this way, this card's name becomes "Summoned Skull" on the field, but is still treated as an "Archfiend" card, also banish it when it leaves the field.
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Graverobber
+Flavour: A Joey-archetype retrain of Graverobber
+Artwork: Created in GIMP using:
+● Graverobber
+● Summoned Skull
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/02/2025-------------------------------------------
+
+Name: Archfiend's Graverobber
+Card Type: Trap
+Card Subtype(s): Normal
+Effect(s): You can only activate 1 effect of "Scarlet-Eyes Graverobber" per turn. ① Reveal 1 "Scarlet-Eyes" card in your hand, then target 1 Spell/Trap in your opponent's GY that meets its activation conditions; this effect becomes that Spell/Trap Card's effect when that card is activated. ② While this card is in your GY: You can Special Summon this card as a Normal Monster (Fiend/DARK/Level 6/ATK 2500/DEF 1200). (This card is NOT treated as a Trap). If Summoned this way, this card's name becomes "Summoned Skull" on the field, but is still treated as an "Archfiend" and "Scarlet-Eyes" card, also banish it when it leaves the field.
+Comments: Making Scarlet-Eyes Obsidian Dragon the archetypal focus in the same way that Shining Sarcophagus is, so adjusting Graverobber's effects.

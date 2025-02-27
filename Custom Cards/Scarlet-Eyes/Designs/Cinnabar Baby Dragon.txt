@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Cinnabar Baby Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
+Monster Type: Dragon
+Effect(s): ① During your Standby Phase, if "Scarlet-Eyes Obsidian Dragon" is in your GY: You can send this card to the GY; Special Summon 1 monster that mentions "Scarlet-Eyes Obsidian Dragon" from your hand or Deck. ② If this card is destroyed by battle or card effect: You can send 1 card that mentions "Scarlet-Eyes Obsidian Dragon" from your Deck to your GY, except "Cinnabar Baby Dragon".
+ATK: 1200
+DEF: 700
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Baby Dragon
+Flavour: Joey-archetype retrain of Baby Dragon
+Artwork: Created in GIMP using:
+● Baby Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

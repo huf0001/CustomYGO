@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Shield of Winguard & Sword of Landstar
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): You can only use 1 effect of "Shield of Winguard & Sword of Landstar" per turn, and only once that turn. ① Target 1 monster you control that mentions "Scarlet-Eyes Obsidian Dragon" and 1 monster your opponent controls; the ATK and DEF of the first target become the highest ATK or DEF among both targets, and the ATK and DEF of the second target become the lowest ATK or DEF among both targets, until the end of this turn. ② If "Scarlet-Eyes Obsidian Dragon" is in your GY (Quick Effect): You can banish this card from your GY; change the battle position of 1 monster on the field.
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Shield & Sword, Little Winguard, Swordsman of Landstar
+Flavour: Joey-archetype retrian of Shield & Sword referencing Little Winguard and Swordsman of Landstar
+Artwork: Created in GIMP using:
+● Shield & Sword
+● Little-Winguard
+● Swordsman of Landstar
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

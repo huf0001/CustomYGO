@@ -1,0 +1,52 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Archfiend in Sheep's Clothing
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: EARTH
+Monster Type: Fiend
+Effect(s): ① If "Scarlet-Eyes Obsidian Dragon" is on your field or in your GY (Quick Effect): You can send this card from your hand or field to the GY; roll a six-sided die, then Special Summon "Archfiend Sheep Tokens" (Fiend/DARK/Level 1/ATK 0/DEF 0) in your Main Monster Zones based on the result, or, if you cannot Special Summon that many "Archfiend Sheep Tokens", destroy all monsters you control instead.
+● 1 or 2: 3 "Archfiend Sheep Tokens".
+● 3 or 4: 4 "Archfiend Sheep Tokens".
+● 5 or 6: 5 "Archfiend Sheep Tokens".
+ATK: 0
+DEF: 0
+Last Updated: 27/02/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Scapegoat
+Flavour: Joey-archetype retrain of Scapegoat
+Artwork: Created in GIMP using:
+● Scapegoat
+● Sheep Token
+● Stray Lambs
+● Lamb Token
+● Scapeghost
+● Black Sheep Token
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/02/2025-------------------------------------------
+
+Name: Goats with Scarlet-Eyes
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: EARTH
+Monster Type: Beast
+Effect(s): ① (Quick Effect): You can send this card from your hand or field to the GY; if an opponent's monster is attacking, destroy that monster, also roll a six-sided dice and Special Summon "Scarlet-Eyes Goat Tokens" (Beast/EARTH/Level 1/ATK 0/DEF 0) in your Main Monster Zones based on the result. If you cannot Special Summon that many Underdog Goat Tokens, destroy all monsters you control instead.
+● 1 or 2: 3 Underdog Goat Tokens.
+● 3 or 4: 4 Underdog Goat Tokens.
+● 5 or 6: 5 Underdog Goat Tokens.
+ATK: 0
+DEF: 0 
+Comments: Making Scarlet-Eyes Obsidian Dragon the archetypal focus in the same way that Shining Sarcophagus is, so adjusting Goats' effects. 
