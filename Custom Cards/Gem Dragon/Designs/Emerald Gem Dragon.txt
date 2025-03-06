@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Emerald Gem Dragon
+Card Type: Monster
+Card Subtype(s): Normal
+Level: 6
+Attribute: WIND
+Monster Type: Dragon
+Flavour Text: An enchanting dragon covered in emerald. Its few survivors tell of a gaze as pure as moonlight, auroras summoned at its cry, and mesmerising flames they could not turn their eyes from.
+
+This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.
+ATK: 2400
+DEF: 1400
+Last Updated: 06/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Luster Dragon #2
+Flavour: An archetypal Luster Dragon #2 using its Japanese name.
+Artwork: Created in GIMP using:
+● Luster Dragon #2
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

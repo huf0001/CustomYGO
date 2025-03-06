@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Labradorite Gem Dragon
+Card Type: Monster
+Card Subtype(s): Normal
+Level: 5
+Attribute: DARK
+Monster Type: Dragon
+Flavour Text: A gentle dragon covered in labradorite. With scales like moonlight rippling across water, its soothing presence quells even the hottest rage or the deepest hatred.
+ATK: 0
+DEF: 2400
+Last Updated: 06/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Labradorite Dragon
+Flavour: An archetypal Labradorite Dragon.
+Artwork: Created in GIMP using:
+● Labradorite Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
