@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Chaos Control Magician
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: LIGHT
+Monster Type: Spellcaster
+Effect(s): ① If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). ② If your opponent activates a card or effect that targets a monster you control that mentions Spell Counters (Quick Effect): You can remove 1 Spell Counter from this card; negate the activation, and if you do, destroy that target.
+ATK: 2400
+DEF: 1900
+Last Updated: 08/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Chaos Command Magician
+Flavour: A retrain of Chaos Command Magician that uses Spell Counters
+Artwork: Created in GIMP using:
+● Chaos Command Magician
+● Dark Magic Circle
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Chaos_Command_Magician
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

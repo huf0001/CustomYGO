@@ -1,0 +1,55 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Pitch-Black Sage
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 9
+Attribute: DARK
+Monster Type: Spellcaster
+Materials: 2 Spellcaster monsters that mention Spell Counters
+Effect(s): 
+
+Must first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing the above monsters you control with Spell Counters on them. 
+
+① If this card is Special Summoned: Place 3 Spell Counters on it (max. 3). ② Once per turn: You can remove 1 Spell Counter from this card; add 1 card that mentions Spell Counters from your Deck to your hand.
+ATK: 2800
+DEF: 3200
+Last Updated: 08/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dark Sage
+Flavour: A retrained Dark Sage that uses Spell Counters
+Artwork: Created in GIMP using:
+● Dark Sage
+● Dark Magic Circle
+● Pitch-Black Power Stone
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

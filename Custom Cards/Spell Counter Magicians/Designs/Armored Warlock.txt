@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Armored Enchanter
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: DARK
+Monster Type: Spellcaster
+Materials: 1 Tuner + 1+ non-Tuner Spellcaster monsters
+Effect(s): ① If this card is Special Summoned: You can place 3 Spell Counters on it. ② Spellcaster monsters you control gain ATK and DEF equal to the number of Spell Counters on your field x 100. ③ During your Standby Phase, 
+
+if your field has more than 3 Spell Counters:
+
+ Remove 1 Spell Counter from your field.
+ATK: 2100
+DEF: 1100
+Last Updated: 09/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Armor Exe
+Flavour: A retrained Armor Exe that is less punishing in its downsides because it takes more time to charge up to 2400 ATK
+Artwork: Created in GIMP using:
+● Armor Exe
+● Dark Magic Circle
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Armor_Exe
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 08/03/2025-------------------------------------------
+
+Name: Armored Warlock
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① Once per turn: You can move 1 Spell Counter on your field to this card (max. 3). ② Gains 300 ATK for each Spell Counter on it. ③ During your Standby Phase, if this card has 3 Spell Counters on it: Remove 1 Spell Counter from this card.
+ATK: 1500
+DEF: 1400
+Comments: Merging with Cybernetic Enchanter and bumping away from Gladiator format that the rest of the Spell Counter magician designs are aimed at, and targeting it at Edison instead.
