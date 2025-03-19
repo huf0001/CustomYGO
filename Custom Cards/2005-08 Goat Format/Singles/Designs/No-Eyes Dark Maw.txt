@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: No-Eyes Dark Maw
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① FLIP: Target 1 face-up monster your opponent controls; equip this card to it. ② While this card is equipped to your opponent's monster, take control of it, but it cannot attack, and it's effects are negated.
+ATK: 0
+DEF: 0
+Last Updated: 14/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Unnamed Pegasus's monster
+Flavour: The unnamed monster Pegasus Tributed with Dark-Eyes Illusionist to Ritual Summon Relinquished in the manga.
+Artwork: Created in GIMP using:
+● Unnamed Pegasus's monster
+● Relinquished
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
