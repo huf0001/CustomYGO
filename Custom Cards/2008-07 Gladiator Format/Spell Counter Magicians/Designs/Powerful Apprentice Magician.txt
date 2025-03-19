@@ -6,7 +6,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Spellcaster
-Effect(s): ① If this card is Summoned: Place 2 Spell Counters on it. ② Once per turn: You can target 1 other face-up card on the field that you can place a Spell Counter on; move 1 Spell Counter from this card to that target. ③ If this card is destroyed by battle: You can Special Summon 1 Level 4 or lower Spellcaster monster that mentions Spell Counters from your Deck, and if you do, if it has an effect that places Spell Counters on it when Summoned, place that many Spell Counters on it.
+Effect(s): ① If this card is Summoned: You can place up to 2 Spell Counters on a face-up card(s) you control that you can place a Spell Counter on, distributed as you wish. ② If this card is destroyed by battle: You can Special Summon 1 Level 4 or lower Spellcaster monster from your Deck, and if you do, if you control "Royal Magical Library", you can place up to 2 Spell Counters on it.
 ATK: 1200
 DEF: 1600
 Last Updated: 08/03/2025
@@ -29,22 +29,16 @@ https://yugipedia.com/wiki/Apprentice_Magician
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 08/03/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Powerful Apprentice Magician
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① If this card is Summoned: Place 2 Spell Counters on it. ② Once per turn: You can target 1 other face-up card on the field that you can place a Spell Counter on; move 1 Spell Counter from this card to that target. ③ If this card is destroyed by battle: You can Special Summon 1 Level 4 or lower Spellcaster monster that mentions Spell Counters from your Deck, and if you do, if it has an effect that places Spell Counters on it when Summoned, place that many Spell Counters on it.
+ATK: 1200
+DEF: 1600
+Last Updated: 
+Comments: Making it stronger while you control Royal Magical Library.

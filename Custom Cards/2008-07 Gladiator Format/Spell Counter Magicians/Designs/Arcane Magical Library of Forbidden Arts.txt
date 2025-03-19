@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Arcane Magical Library of Forbidden Arts
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): ① This card's name becomes "Royal Magical Library" while on the field. ② Each time a card(s) you control with a Spell Counter(s) is destroyed, place 1 of its Spell Counters on this card. ③ If you would activate a card effect by removing a Spell Counter(s) from a card you control, you can remove Spell Counters from any card you control. ④ If this card is destroyed: Special Summon 1 "Royal Magical Library" from your hand or Deck, and if you do, place 3 Spell Counters on it.
+Last Updated: 10/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Magical Citadel of Endymion and Royal Magical Library
+Flavour: A proto-Magical Citadel of Endymion that takes Royal Magical Library's name so both can be used for an archetypal lock to allow stronger Spell Counter cards with less concern about them getting abused
+Artwork: Created in GIMP using:
+● Royal Magical Library
+● Pitch-Black Power Stone
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.
+
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

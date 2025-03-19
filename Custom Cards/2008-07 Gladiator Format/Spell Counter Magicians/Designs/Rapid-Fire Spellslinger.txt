@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Spellcaster
-Effect(s): ① Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). ② You can remove any number of Spell Counters from this card; inflict damage to your opponent equal to the number of Spell Counters removed x 400.
+Effect(s): ① Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. ② You can remove any number of Spell Counters from this card; inflict damage to your opponent equal to the number of Spell Counters removed x 400.
 ATK: 1600
 DEF: 1200
-Last Updated: 08/03/2025
+Last Updated: 10/03/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,22 +29,15 @@ https://yugipedia.com/wiki/Rapid-Fire_Magician
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 08/03/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Rapid-Fire Spellslinger
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). ② You can remove any number of Spell Counters from this card; inflict damage to your opponent equal to the number of Spell Counters removed x 400.
+ATK: 1600
+DEF: 1200
+Comments: Removing the max. Spell Counters, it can always be added back later if unlimited counters proves too strong.

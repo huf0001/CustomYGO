@@ -6,16 +6,16 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Spellcaster
-Effect(s): ① If this card is Normal Summoned: Change this card to Defense Position, and if you do, place 1 Spell Counter on it (max. 1). ② You can remove 1 Spell Counter from this card, then target 1 monster on the field; destroy that target.
+Effect(s): ① If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). ② You can remove 1 Spell Counter from this card, then target the 1 face-up monster your opponent controls with the highest DEF (your choice, if tied), or, if you control "Royal Magical Library, target 1 monster on the field instead; destroy that target.
 ATK: 1350
 DEF: 1800
-Last Updated: 09/03/2025
+Last Updated: 10/03/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
 Basis: Old Vindictive Magician
-Flavour: A retrain of Old Vindictive Magician, with a nod to Summoner Monk
+Flavour: A retrain of Old Vindictive Magician, but only affecting face-up monsters, as otherwise it's just a strictly better Dark Valkyria with more or less flipped ATK/DEF
 Artwork: Created in GIMP using:
 ● Old Vindictive Magician
 ● Dark Magic Circle
@@ -28,6 +28,34 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 10/03/2025-------------------------------------------
+
+Name: Ancient Vindictive Warlock
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). ② You can remove 1 Spell Counter from this card, then target 1 face-up monster on the field; destroy that target.
+ATK: 1350
+DEF: 1800
+Comments: Making it stronger while you control Royal Magical Library.
+
+
+DATE: 08/03/2025-------------------------------------------
+
+Name: Ancient Vindictive Warlock
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① If this card is Normal or Flip Summoned: Change this card to Defense Position, and if you do, place 1 Spell Counter on it (max. 1). ② Cannot be destroyed by battle while it has a Spell Counter on it. ③ You can remove 1 Spell Counter from this card, then target 1 monster on the field; destroy that target.
+ATK: 900
+DEF: 1200
+Comments: Removing the Summoner Monk nod. This way, Summoning it with Powerful Apprentice Magician will give you the FLIP monster experience of being in Defense Position, since, if you're Summoning it from the hand, it'll be more aggressive.
+
 
 DATE: 08/03/2025-------------------------------------------
 
