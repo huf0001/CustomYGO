@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Skeleton Soldier
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Zombie
+Effect(s): You can only activate effect ① of "Skeleton Soldier" once per turn. ① You can send this card from your hand to the GY; excavate the top 5 cards of your Deck, or the top 10 cards if you control "Zombie World", and if you do, you can add 1 excavated Zombie monster to your hand, also place the rest on the bottom of your Deck in any order.
+ATK: 1200
+DEF: 900
+Last Updated: 21/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Zombie Warrior
+Flavour: In Yugi and Pegasus's first duel, Yugi anticipates that Pegasus knows he has Zombie Warrior, so instead he topdecks Dark Magician. Skeleton Soldier is a Zombie Warrior retrain that anticipates that your opponent knows you have it in your hand, so it searches for a new Zombie monster to play instead of it.
+Artwork: Created in GIMP using:
+● Zombie Warrior
+● Zombie World
+● Eye of Illusion
+● Ritual Weapon (as reference material)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
