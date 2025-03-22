@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Indiscriminate Launcher Spider
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: DARK
+Monster Type: Machine
+Effect(s): ① If this card is Normal Summoned: Toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads, and if you do, each player takes damage equal to half the combined ATK of the destroyed monsters that they controlled.
+ATK: 2200
+DEF: 2500
+Last Updated: 22/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Indiscriminate Launcher Spider
+Flavour: Fusilier Dragon, the Dual-Mode Beast as a coin-tossing gun dragon.
+Artwork: Created in GIMP using:
+● Fusilier Dragon, the Dual-Mode Beast
+● 7 Completed
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rigged Machine
+Card Type: Spell
+Card Subtype(s): Continuous
+Effect(s): ① When you toss a coin 1 or more times for the effect of a Machine monster you control, you choose the results of all coin tosses. ② The first time this card would be destroyed each turn, toss a coin and call it. If you call it right, it is not destroyed.
+Last Updated: 22/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Barrel Dragon / Bandit Keith
+Flavour: A support card for gun dragons and other machines that rely on coin tossing or dice rolls, flavoured as Bandit Keith cheating using them.
+Artwork: Created in GIMP using:
+● 7 Completed?
+● Double or Nothing!?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

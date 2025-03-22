@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rigging Tool
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Machine
+Effect(s): You can only use effect ② of Rigging Tool once per turn. ① When this card is Normal Summoned: Place 3 Jackpot Counters on it. ② Once per turn, if you toss a coin 1 or more times for the effect of a Machine monster you control, you can remove 1 Jackpot Counter from this card to choose the results of the coin toss (or tosses).
+ATK: 2000
+DEF: 2300
+Last Updated: 22/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Slot Machine + 7 Completed
+Flavour: Slot Machine with an inbuilt 7 Completed effect.
+Artwork: Created in GIMP using:
+● Slot Machine
+● 7 Completed
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Magic Metal Armor
+Card Type: Trap
+Card Subtype(s): Continuous
+Effect(s): ① Machine monsters you control gain 300 ATK/DEF. ② If your opponent activates a Spell Card or effect: You can target any number of Machine monsters you control with an effect that requires 1 or more coin tosses; for each target, toss a coin and call it, and if you call it right, that monster is unaffected by that your opponent's Spell Card or effect. If you control "Rigged Machine", you choose the results of the coin tosses.
+Last Updated: 22/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Metal Force + Machine monsters' anime-only magic-resistant armor
+Flavour: A support card for coin toss machines to provide immunity to your opponent's Spell Cards (i.e. their magic-resistant armor).
+Artwork: Created in GIMP using:
+● Metalmorph
+● 7 Completed?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

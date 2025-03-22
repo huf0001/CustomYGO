@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Roulette Dragon, the Variable Machine Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: DARK
+Monster Type: Machine
+Effect(s): ① You can Normal Summon/Set this card without Tributing, but its original ATK/DEF become 0. ② If this card battles an opponent's monster and its original ATK and DEF are 0: You can toss a coin 3 times, and if at least 2 of the results are heads, this card gains 2800 ATK/2000 DEF until the end of the Damage Step.
+ATK: 2800
+DEF: 2000
+Last Updated: 22/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Fusilier Dragon, the Dual-Mode Beast
+Flavour: Fusilier Dragon, the Dual-Mode Beast as a coin-tossing gun dragon.
+Artwork: Created in GIMP using:
+● Fusilier Dragon, the Dual-Mode Beast
+● 7 Completed
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
