@@ -12,14 +12,8 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Premature Burial
 Flavour: Premature Burial fixed so that destroys the Summoned monster if it leaves the field at all, rather than just when it's destroyed, so as to prevent it from being abused.
 Artwork: Created in GIMP using:
-● Premature Burial
-● D.D.R. - Different Dimension Reincarnation?
-● Overdone Burial?
-● Foolish Burial?
-● The Cheerful Coffin?
-● Coffin Seller?
-● Dark Coffin?
-● The First Sarcophagus?
+● Overdone Burial
+● Foolish Burial
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -29,22 +23,10 @@ Might need to be Limited or Semi-Limited.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 03/01/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: The Noisy Coffin
+Card Type: Spell
+Card Subtype(s): Equip
+Effect(s): ① Activate this card by paying 800 LP, then target 1 monster in your GY; Special Summon it in Attack Position and equip it with this card. When this card is leaves the field, destroy the equipped monster. 
+Comments: Renaming to better match the artwork.
