@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 3
 Attribute: DARK
 Monster Type: Zombie
-Effect(s): You can only activate effect ① of "Skeleton Soldier" once per turn. ① You can send this card from your hand to the GY; excavate the top 5 cards of your Deck, or the top 10 cards if you control "Zombie World", and if you do, you can add 1 excavated Zombie monster to your hand, also place the rest on the bottom of your Deck in any order.
+Effect(s): You can only activate effect ① of "Skeleton Soldier" once per turn. ① You can send this card from your hand to the GY; excavate the top 5 cards of your Deck, or the top 10 cards if you control "Zombie World", and if you do, you can add 1 excavated Zombie monster to your hand, also shuffle the rest into the Deck.
 ATK: 1200
 DEF: 900
-Last Updated: 21/03/2025
+Last Updated: 26/03/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -32,20 +32,14 @@ PREVIOUS VERSIONS--------------------------------------------------------------
 
 DATE: DD/MM/YYYY-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Skeleton Soldier
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Zombie
+Effect(s): You can only activate effect ① of "Skeleton Soldier" once per turn. ① You can send this card from your hand to the GY; excavate the top 5 cards of your Deck, or the top 10 cards if you control "Zombie World", and if you do, you can add 1 excavated Zombie monster to your hand, also place the rest on the bottom of your Deck in any order.
+ATK: 1200
+DEF: 900
+Last Updated: 21/03/2025
+Comments: Gonna switch from placing the leftover cards on the bottom to shuffling them into the Deck to maintain consistency with other Zombie searchers that have to shuffle the Deck after searching.
