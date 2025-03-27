@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Battle City
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): Reveal this card from your Deck and activate it before the start of the Duel, also its effects cannot be negated. ① Apply the following effects for the rest of the Duel: ● Both players' starting LP become 4000. ● During the Draw Phase, cards and effects that can be activated during the Draw Phase can be activated before the turn player draws for their normal draw. ● Monsters can be Normal or Flip Summoned in face-up Defense Position. ● Level 10 or higher monsters must be Normal Summoned/Set by Tributing 3 monsters. ● Ritual, Fusion, Synchro, Xyz, and Link Monsters on the field can be treated as a number of Tributes equal to the number of materials used for its Ritual, Fusion, Synchro, Xyz, or Link Summon, or the minimum number of materials required if Special Summoned by other means. ● Token Monsters do not occupy a Main Monster Zone. ● Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ● Both players send cards from their hand or Deck to the GY or banishment without revealing them. ● Neither player can look at their opponent's GY or banishment. ● Ritual, Fusion, Synchro, Xyz, and Link Monsters cannot attack on the turn they are Ritual, Fusion, Synchro, Xyz, or Link Summoned. ● When a player Special Summons a monster while their monster is being attacked by an opponent's monster, change the attack target to the Special Summoned monster and perform damage calculation. ● When a monster being attacked leaves the field before damage calculation except by battle, negate that attack. ● Set Spell Cards can be activated during the opponent's turn or either player's Battle Phase. ● When a Spell/Trap Card is destroyed, its effects are negated.
+Last Updated: 26/03/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Battle City
+Flavour: Imposes Battle City anime rules
+Artwork: Created in GIMP using:
+● Duel Tower
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
