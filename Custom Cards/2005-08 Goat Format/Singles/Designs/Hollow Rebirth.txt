@@ -22,12 +22,15 @@ RULINGS------------------------------------------------------------------------
 Valid targets for Hollow Rebirth include:
 ● Normal Monsters (including Normal Pendulum Monsters, regardless of any Pendulum effects, and Gemini Monsters treated as Normal Monsters)
 ● Non-Effect Monsters that are not Normal Monsters, such as Ritual, Fusion, Synchro, Xyz, or Link Monsters that are not Effect Monsters.
-● Effect Monsters whose monster rules text are comprised solely of conditions, not effects, including (A: Archetype condition; DW: Duel winner condition; ML: Material limitation condition; MW: Match winner condition; S: Summoning condition; U: Unclassified condition):
+● Effect Monsters whose monster rules text contains no effects but is instead comprised solely of non-effect text like conditions or maintenance costs (A: Archetype condition; DW: Duel winner condition; MC: Maintenance cost; ML: Material limitation condition; MW: Match winner condition; S: Summoning condition; U: Unclassified condition). These monsters include:
 	● Aggiba, the Malevolent Sh'nn S'yo 			S, MW
 	● Amatsu-Okami of the Divine Peaks 				S, MW
 	● Armament of the Lethal Lords 					S, MW
+	● Backup Warrior								S, U
+	● Blackwing - Kochi the Daybreak				ML 
 	● Card Breaker 									S
 	● Chimera, the Master of Beasts 				S, MW
+	● Clara & Rushka, the Ventriloduo 				U
 	● Cyber Harpie 									N
 	● Dragon of Illumination, Sanctuary's Shield 	S, MW
 	● E☆HERO Pit Boss 								S, MW
@@ -38,8 +41,10 @@ Valid targets for Hollow Rebirth include:
 	● Gatebridgeo the Waterfront Warbeast 			S, MW
 	● Gate Guardian 								S
 	● Ghost Ship 									S
+	● Gladiator Beast Essedarii						S
 	● Grandopolis, the Eternal Golden City 			S, MW
 	● Great Moth 									S
+	● Grinder Golem									S, U 
 	● Grizzly, the Red Star Beast 					S, MW
 	● Harpie Lady Sisters 							S
 	● Iron Knight of Revolution 					S, MW
@@ -51,7 +56,9 @@ Valid targets for Hollow Rebirth include:
 	● Larvae Moth 									S
 	● Legendary Dragon of White 					S, MW
 	● Legendary Magician of Dark 					S, MW
+	● Linkerbell									U
 	● Lorelei, the Symphonic Arsenal 				S, MW
+	● Luster Pendulum, the Dracoslayer				ML
 	● Majestic Dragon 								ML
 	● Malefic Parallel Gear							ML
 	● Mara of the Nordic Alfar						ML
@@ -69,9 +76,11 @@ Valid targets for Hollow Rebirth include:
 	● Sanctity of Dragon 							S, MW
 	● Skuna, the Leonine Rakan 						S, MW
 	● Skyfaring Castle of the Black Forest 			S, MW
+	● Speedroid Dominobutterfly						ML, U
 	● Stardust Divinity 							S, MW
 	● Testament of the Arcane Lords 				S, MW
 	● The Twin Kings, Founders of the Empire 		S, MW
+	● The Unfriendly Amazon							MC
 	● Trap Eater 									S
 	● True Exodia 									DW
 	● Tyr, the Vanquishing Warlord 					S, MW
