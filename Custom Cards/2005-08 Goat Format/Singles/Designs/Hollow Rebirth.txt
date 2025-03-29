@@ -17,6 +17,70 @@ Artwork: Created in GIMP using:
 ● https://www.freepik.com/free-photo/dark-clouds-rainy-weather_12650977.htm
 
 
+RULINGS------------------------------------------------------------------------
+
+Valid targets for Hollow Rebirth include:
+● Normal Monsters (including Normal Pendulum Monsters, regardless of any Pendulum effects, and Gemini Monsters treated as Normal Monsters)
+● Non-Effect Monsters that are not Normal Monsters, such as Ritual, Fusion, Synchro, Xyz, or Link Monsters that are not Effect Monsters.
+● Effect Monsters whose monster rules text are comprised solely of conditions, not effects, including (A: Archetype condition; DW: Duel winner condition; ML: Material limitation condition; MW: Match winner condition; S: Summoning condition; U: Unclassified condition):
+	● Aggiba, the Malevolent Sh'nn S'yo 			S, MW
+	● Amatsu-Okami of the Divine Peaks 				S, MW
+	● Armament of the Lethal Lords 					S, MW
+	● Card Breaker 									S
+	● Chimera, the Master of Beasts 				S, MW
+	● Cyber Harpie 									N
+	● Dragon of Illumination, Sanctuary's Shield 	S, MW
+	● E☆HERO Pit Boss 								S, MW
+	● Elemental HERO Mudballman 					S
+	● Elttaes, the MASTER of DUELS 					S, MW
+	● Emperor of Lightning 							S, MW
+	● Exodia the Forbidden One 						DW
+	● Gatebridgeo the Waterfront Warbeast 			S, MW
+	● Gate Guardian 								S
+	● Ghost Ship 									S
+	● Grandopolis, the Eternal Golden City 			S, MW
+	● Great Moth 									S
+	● Grizzly, the Red Star Beast 					S, MW
+	● Harpie Lady Sisters 							S
+	● Iron Knight of Revolution 					S, MW
+	● Juno, the Celestial Goddess 					S, MW
+	● Kaiser Eagle, the Heavens' Mandate 			S, MW
+	● King Landia the Goldfang 						S, MW
+	● King of Destruction - Xexex 					S, MW
+	● Kuzunoha, the Onmyojin 						S, MW
+	● Larvae Moth 									S
+	● Legendary Dragon of White 					S, MW
+	● Legendary Magician of Dark 					S, MW
+	● Lorelei, the Symphonic Arsenal 				S, MW
+	● Majestic Dragon 								ML
+	● Malefic Parallel Gear							ML
+	● Mara of the Nordic Alfar						ML
+	● Masterful Magician, Servant of the Sanctuary 	S, MW
+	● Metalzoa 										S
+	● Meteo the Matchless 							S, MW
+	● Mono Synchron									ML
+	● Noritoshi in Darkest Rainment 				S, MW
+	● Perfectly Ultimate Great Moth 				S
+	● Queen Nereia the Silvercrown 					S, MW
+	● Queen of Fate - Eternia 						S, MW
+	● Rare Metal Dragon 							S
+	● Red-Eyes Black Metal Dragon 					S
+	● Royal Swamp Eel								ML
+	● Sanctity of Dragon 							S, MW
+	● Skuna, the Leonine Rakan 						S, MW
+	● Skyfaring Castle of the Black Forest 			S, MW
+	● Stardust Divinity 							S, MW
+	● Testament of the Arcane Lords 				S, MW
+	● The Twin Kings, Founders of the Empire 		S, MW
+	● Trap Eater 									S
+	● True Exodia 									DW
+	● Tyr, the Vanquishing Warlord 					S, MW
+	● Ulevo 										S, MW
+	● Victory Dragon 								S, MW
+	● Wall Shadow 									S
+	● White Wing Magician 							A, U
+
+
 COMMENTS-----------------------------------------------------------------------
 
 Might need to be Semi-Limited. Test how powerful it is in Decks that focus on Normal Monsters, non-Effect monsters, or condition-only monsters.
