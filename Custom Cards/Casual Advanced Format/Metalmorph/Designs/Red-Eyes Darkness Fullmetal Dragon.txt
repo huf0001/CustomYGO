@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Darkness Fullmetal Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: DARK
+Monster Type: Machine
+Effect(s): Cannot be Normal Summoned/Set. Must first be Special Summoned with "Max Metalmorph" that was activated by Tributing a Level 6 or higher Machine monster. You can only use effects ① and ② of "Red-Eyes Darkness Fullmetal Dragon" once per turn each. ① You can reveal this card in your hand" Set 1 "Metalmorph" Trap from your Deck, and if you do, shuffle this card into the Deck. ② During your Main Phase: You can Special Summon 1 monster that mentions "Max Metalmorph" from your hand or GY, except "Red-Eyes Darkness Fullmetal Dragon".
+ATK: 3400
+DEF: 2400
+Last Updated: 01/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Darkness Metal Dragon
+Flavour: A Red-Eyes Darkness Metal Dragon retrained for the Metalmorph archetype.
+Artwork: Created in GIMP using:
+● Red-Eyes Darkness Metal Dragon
+● Metalmorph?
+● Max Metalmorph?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
