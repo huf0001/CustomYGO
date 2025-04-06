@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Spacian Gale Hummingbird
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
+Monster Type: Winged Beast
+Effect(s): ① Once per turn: You can gain 500 LP for each card your opponent controls and in their hand. ② You can Tribute this card, then target 1 non-Fusion "Neos" or "Neo-Spacian" monster in your GY; Special Summon it in Defense Position.
+ATK: 800
+DEF: 600
+Last Updated: 05/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Neo-Spacian Air Hummingbird
+Flavour: An updated retrain of Neo-Spacian Air Hummingbird
+Artwork: Created in GIMP using:
+● Neo-Spacian Air Hummingbird
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Gale Hummingbird
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
+Monster Type: Winged Beast
+Effect(s): ① Once per turn: You can gain 500 LP for each card in your opponent's hand. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 800
+DEF: 600
+Comments: Strengthening Air Hummingbird's base effect and adding a Neo-Spacian support effect.

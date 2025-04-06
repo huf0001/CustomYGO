@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Accretion Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 9
+Attribute: EARTH
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 2 "Neo-Spacian" monsters (1 EARTH and 1 DARK)
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: Draw cards equal to the number of cards your opponent controls, then negate the effects of 1 face-up card on the field until the end of this turn. ② During the End Phase: You can return this card to the Extra Deck; banish all cards on the field, and if you do, add 1 "Neos" monster and 2 "Neo-Spacian" monsters with different Attributes (except EARTH or DARK) from your Deck to your hand.
+ATK: 3000
+DEF: 2500
+Last Updated: 05/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO Nebula Neos
+Flavour: An updated retrain of Elemental HERO Nebula Neos
+Artwork: Created in GIMP using:
+● Elemental HERO Nebula Neos
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Accretion Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 9
+Attribute: EARTH
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 2 "Neo-Spacian" monsters (1 EARTH and 1 DARK)
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: Draw cards equal to the number of cards your opponent controls, then negate the effects of 1 face-up card on the field until the end of this turn. ② During the End Phase: You can return this card to the Extra Deck; banish all cards on the field, and if you do, add 1 "Elemental HERO Neos" and 2 "Neo-Spacian" monsters with different Attributes (except EARTH or DARK) from your Deck to your hand.
+ATK: 3000
+DEF: 2500
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

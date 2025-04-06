@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Miracle Neo Space Fusion
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Activate 1 of the following effects.
+● Fusion Summon 1 "Neos" Fusion Monster from your Extra Deck, by shuffling Fusion Materials mentioned on it from your field or GY into the Deck.
+● Immediately after this effect resolves, Special Summon 1 "Neos" Fusion Monster from your Extra Deck by its own procedure, using monsters from your field or GY as Fusion Material.
+Last Updated: 06/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Miracle Fusion
+Flavour: A Miracle Fusion variant for the Neos and Neo-Spacian monsters.
+Artwork: Created in GIMP using:
+● Miracle Fusion
+● Neo Space
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

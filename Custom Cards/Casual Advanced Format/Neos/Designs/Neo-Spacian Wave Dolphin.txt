@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Spacian Wave Dolphin
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): You can only use effect ① of "Neo-Spacian Wave Dolphin" once per turn. ① You can send this card from your hand or field to the GY; Special Summon 1 non-Fusion "Neos" or "Neo-Spacian" monster from your hand or GY. ② Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. Destroy it, and if you do, inflict 500 damage to your opponent.
+ATK: 600
+DEF: 800
+Last Updated: 06/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Neo-Spacian Aqua Dolphin
+Flavour: An updated retrain of Neo-Spacian Aqua Dolphin
+Artwork: Created in GIMP using:
+● Neo-Spacian Aqua Dolphin
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Wave Dolphin
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): ① Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. Destroy it if you control a monster with ATK greater than or equal to its ATK, and if you do, inflict 500 damage to your opponent. Otherwise, take 500 damage. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 600
+DEF: 800
+Last Updated: 
+Comments: Strengthening Aqua Dolphin's base effect and adding a Neo-Spacian support effect.

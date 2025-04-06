@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Entropic Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 9
+Attribute: DARK
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 2 "Neo-Spacian" monsters (1 DARK and 1 LIGHT)
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn, during your Main Phase 1: You can toss a coin 3 times, then apply the following effect based on its results. ● 3 Heads: Destroy all monsters your opponent controls. ● 2 Heads: Negate the effects of all face-up monsters your opponent controls until the end of this turn. ● 1 Head: Return all monsters you control to the hand. ② During the End Phase: You can return this card to the Extra Deck; Set all face-up monsters on the field, and if you do, add 1 "Neos" monster and 2 "Neo-Spacian" monsters with different Attributes (except DARK or LIGHT) from your Deck to your hand.
+ATK: 3000
+DEF: 2500
+Last Updated: 05/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO Chaos Neos
+Flavour: An updated retrain of Elemental HERO Chaos Neos
+Artwork: Created in GIMP using:
+● Elemental HERO Chaos Neos
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Entropic Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 9
+Attribute: DARK
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 2 "Neo-Spacian" monsters (1 DARK and 1 LIGHT)
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn, during your Main Phase 1: You can toss a coin 3 times, then apply the following effect based on its results. ● 3 Heads: Destroy all monsters your opponent controls. ● 2 Heads: Negate the effects of all face-up monsters your opponent controls until the end of this turn. ● 1 Head: Return all monsters you control to the hand. ② During the End Phase: You can return this card to the Extra Deck; Set all face-up monsters on the field, and if you do, add 1 "Elemental HERO Neos" and 2 "Neo-Spacian" monsters with different Attributes (except DARK or LIGHT) from your Deck to your hand.
+ATK: 3000
+DEF: 2500
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: De-Contact Fusion
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): ① Target 1 Fusion Monster on the field that was Special Summoned from the Extra Deck by its own procedure; return that target to the Extra Deck, then apply the following effect based on what happened to the Fusion Materials for that Fusion Monster's procedure.
+● Sent to the GY or Tributed: If every Fusion Material that was used for the target's Special Summon is in your GY, you can Special Summon them all from the GY.
+● Shuffled into the Deck: If every Fusion Material that was used for the target's Special Summon is your Main Deck, you can Special Summon them all from the Deck.
+● Banished: If every Fusion Material that was used for the target's Special Summon is in your banishment, you can Special Summon them all from your banishment.
+Last Updated: 06/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: De-Fusion + contact Fusion monsters
+Flavour: De-Fusion re-trained for Fusion Monsters that Special Summon themselves via Contact Fusion.
+Artwork: Created in GIMP using:
+● De-Fusion?
+● Neo Space?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Celestial Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 12
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 6 "Neo-Spacian" monsters with different Attributes
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above from your field or GY into the Deck. ① You can banish 1 "Neo-Spacian" monster from your Deck; this card gains its effect(s) until the end of this turn. ② This card gains 500 ATK/DEF for each Attribute among your banished "Neo-Spacian" monsters. ③ During the End Phase: You can return this card to the Extra Deck; send as many cards in both players' hands and on the field as possible to the GY, then shuffle all of your banished cards into the Deck, also, after that, Special Summon 1 "Neos" monster from your Deck.
+ATK: 2500
+DEF: 2500
+Last Updated: 05/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO 
+Flavour: An updated retrain of Elemental HERO
+Artwork: Created in GIMP using:
+● Elemental HERO
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Celestial Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 12
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 6 "Neo-Spacian" monsters with different Attributes
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above from your field or GY into the Deck. ① You can banish 1 "Neo-Spacian" monster from your Deck; this card gains its effect(s) until the end of this turn. ② This card gains 500 ATK/DEF for each Attribute among your banished "Neo-Spacian" monsters. ③ During the End Phase: You can return this card to the Extra Deck; send as many cards in both players' hands and on the field as possible to the GY, then shuffle all of your banished cards into the Deck, also, after that, Special Summon 1 "Elemental HERO Neos" from your Deck.
+ATK: 2500
+DEF: 2500
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

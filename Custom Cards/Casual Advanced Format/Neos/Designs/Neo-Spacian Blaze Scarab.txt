@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Spacian Blaze Scarab
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Insect
+Effect(s): ① Gains 400 ATK/DEF for each Spell/Trap your opponent controls. ② When this card is sent to the GY: You can add 1 "Neos" or "Neo-Spacian" monster from your Deck to your hand.
+ATK: 500
+DEF: 500
+Last Updated: 06/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Neo-Spacian Flare Scarab
+Flavour: An updated retrain of Neo-Spacian Flare Scarab
+Artwork: Created in GIMP using:
+● Neo-Spacian Flare Scarab
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Blaze Scarab
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Insect
+Effect(s): ① Gains 400 ATK/DEF for each Spell/Trap your opponent controls.
+ATK: 500
+DEF: 500
+Comments: Adding a Neo-Spacian support effect.
