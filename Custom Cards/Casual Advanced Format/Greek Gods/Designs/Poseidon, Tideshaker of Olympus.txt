@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Poseidon, Tideshaker of Olympus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: WATER
+Monster Type: Fairy
+Effect(s): ① If a monster you control is targeted by your opponent's card or effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
+● Destroy all Spell/Trap Cards your opponent controls.
+● Look at your opponent's hand and sort it into 2 piles. Your opponent chooses 1 to send to the GY.
+ATK: 2800
+DEF: 3000
+Last Updated: 07/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Poseidon
+Flavour: The Greek god of the sea, Poseidon, specifically inspired by his depiction in EPIC: The Musical's Ruthlessness and Get in the Water.
+Artwork: Created in GIMP using:
+● Mermail Abyssgaios
+● The Sanctuary in the Sky
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

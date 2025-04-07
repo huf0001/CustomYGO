@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hades, Adjudicator Under Olympus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: DARK
+Monster Type: Fairy
+Effect(s): ① If your opponent sends a monster they control from the field to the GY (Quick Effect): You can send this card from your hand to the GY. ② If this card is sent from your Deck to the GY, add it to your hand instead. ③ If this card is in your GY while you control "The Sanctuary in the Sky", it gains the following effects.
+● This card can attack and be attacked while in your GY, but if it would be destroyed by battle or card effect, banish it instead.
+● Each time a monster(s) is sent to or leaves your opponent's GY, : Inflict 300 damage to your opponent.
+ATK: 2900
+DEF: 2900
+Last Updated: 07/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Hades
+Flavour: The Greek god of the underworld, Hades
+Artwork: Created in GIMP using:
+● Erebus the Underworld Monarch
+● The Sanctuary in the Sky
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
