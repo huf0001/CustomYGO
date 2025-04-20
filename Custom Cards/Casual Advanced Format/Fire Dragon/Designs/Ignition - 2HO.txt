@@ -1,24 +1,18 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Reactor, the Nuclear Dragon
-Card Type: Monster
-Card Subtype(s): Fusion
-Level: 10
-Attribute: FIRE
-Monster Type: Pyro
-Materials:  "Urageddon" or "Plutogeddon" + "Neutrogeddon" + "Borogeddon"
-Effect(s): Must first be Special Summoned with a "Nuclear" card. ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 3200
-DEF: 2800
-Last Updated: 03/04/2024
+Name: Ignition - 2HO
+Card Type: Spell
+Card Subtype(s): Normal
+Archetype Condition: (This card is always treated as a "Bonding" card.)
+Effect(s): ① Tribute 2 "Hydrogeddon" and 1 "Oxygeddon"; Special Summon 1 "Fire Dragon" from your hand, Deck, or GY.
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Unnamed fire dragon
-Flavour: Bastion's unnamed fire dragon counterpart to Water Dragon, flavoured as a physics-based nuclear dragon to contrast his chemistry-based Water Dragon.
+Basis: Bonding - H2O
+Flavour: A fire-based equivalent of Bonding - H2O to summmon Water Dragon's counterpart, Fire Dragon.
 Artwork: Created in GIMP using:
-● Water Dragon
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

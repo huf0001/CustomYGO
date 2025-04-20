@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Fire Dragon Inferno
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: FIRE
+Monster Type: Pyro
+Effect(s): Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a "Bonding" Spell/Trap. ① If this card is Special Summoned: You can activate this effect; skip your opponent's next Battle Phase, also halve the ATK of all monsters they control, and if you do, inflict damage to your opponent equal to the combined ATK lost by this effect. ② (Quick Effect): You can Tribute this card; Special Summon 2 "Fire Dragon" from your hand and/or Deck in Attack Position, ignoring their Summoning conditions.
+ATK: 2900
+DEF: 2500
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Fire Dragon + Water Dragon Cluster
+Flavour: An evolved counterpart of the unnamed fire dragon featured behind Bastion alongside Water Dragon in the Yu-Gi-Oh! GX opening, analogous to Water Dragon Cluster.
+Artwork: Created in GIMP using:
+● Fire Dragon?
+● Water Dragon Cluster?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,23 +1,24 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Urageddon
+Name: Atomic, the Nuclear Dragon
 Card Type: Monster
-Card Subtype(s): Effect
-Level: 3
-Attribute: EARTH
-Monster Type: Dinosaur
-Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: ????
-DEF: ????
+Card Subtype(s): Fusion
+Level: 8
+Attribute: FIRE
+Monster Type: Pyro
+Materials:  "Atom, the Nucleon Hybrid" + "Neutron, the Neutral Nucleon"
+Effect(s): Must first be Special Summoned (from your Extra Deck) by Tributing the above monsters you control. ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2800
+DEF: 2600
 Last Updated: 03/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Uranium
-Flavour: A dinosaur comprised of neutrons, as Carboneddon is comprised of carbon.
+Basis: Unnamed fire dragon
+Flavour: Bastion's unnamed fire dragon counterpart to Water Dragon, flavoured as a physics-based nuclear dragon to contrast his chemistry-based Water Dragon.
 Artwork: Created in GIMP using:
-● Carboneddon?
+● Water Dragon
 
 
 COMMENTS-----------------------------------------------------------------------

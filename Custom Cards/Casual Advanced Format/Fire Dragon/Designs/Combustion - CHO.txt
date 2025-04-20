@@ -1,24 +1,18 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Heliogeddon
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 2
-Attribute: WIND
-Monster Type: Dinosaur
-Effect(s): ① If a Dinosaur monster you control is targeted for an attack (Quick Effect): You can reveal this card in your hand; negate the attack, and if you do, Special Summon 1 "Hydrogeddon" from your Deck, also shuffle this card into the Deck. ② 
-ATK: 800
-DEF: 500
-Last Updated: 03/04/2024
+Name: Combustion - CHO
+Card Type: Spell
+Card Subtype(s): Normal
+Archetype Condition: (This card is always treated as a "Bonding" card.)
+Effect(s): You can only use effect ② of "Combustion - CHO" once per turn. ① Tribute 1 "Carboneddon", 1 "Hydrogeddon", and 1 "Oxygeddon"; Special Summon 1 "Fire Dragon" monster from your hand, Deck, or GY. (This is treated as a Special Summon with the effect of "Ignition - 2HO".) ② If "Fire Dragon", "Ember Dragon", or "Fire Dragon Inferno" is sent from the field to your GY while this card is in your GY: Add this card to your hand.
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Helium
-Flavour: A dinosaur comprised of helium, as Hydrogeddon or Oxygeddon are comprised of Hydrogen and Oxygen respectively.
+Basis: Bonding - D2O
+Flavour: A fire-based equivalent of Bonding - D2O to summmon one of the FIRE counterparts of Water Dragon.
 Artwork: Created in GIMP using:
-● Hydrogeddon?
-● Oxygeddon?
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -1,24 +1,23 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Atomic, the Nuclear Dragon
+Name: Steam Dragon
 Card Type: Monster
-Card Subtype(s): Fusion
-Level: 8
-Attribute: FIRE
+Card Subtype(s): Fusion / Effect
+Level: 10
+Attribute: WATER
 Monster Type: Pyro
-Materials:  "Urageddon" or "Plutogeddon" + "Neutrogeddon"
-Effect(s): Must first be Special Summoned with a "Nuclear" card. ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 2800
-DEF: 2600
-Last Updated: 03/04/2024
+Materials: 1 "Water Dragon" monster + 1 "Fire Dragon" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. ① If this card is Special Summoned: You can activate this effect; skip your opponent's next Battle Phase, also negate the effects of all Effect Monsters your opponent controls. ② If this card is sent from the field to the GY: You can Special Summon 1 "Water Dragon" monster and 1 "Fire Dragon" monster from your GY and/or banishment, ignoring their Summoning conditions. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 3400
+DEF: 3200
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Unnamed fire dragon
-Flavour: Bastion's unnamed fire dragon counterpart to Water Dragon, flavoured as a physics-based nuclear dragon to contrast his chemistry-based Water Dragon.
+Basis: Water Dragon + Fire Dragon
+Flavour: 
 Artwork: Created in GIMP using:
-● Water Dragon
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

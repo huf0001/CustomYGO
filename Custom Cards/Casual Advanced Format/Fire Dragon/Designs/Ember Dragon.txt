@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Ember Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: FIRE
+Monster Type: Pyro
+Archetype Condition: (This card is always treated as a "Fire Dragon" card.)
+Effect(s): Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a "Bonding" Spell/Trap. ① If this card battles an opponent's monster: You can banish 1 "Carboneddon", 1 "Hydrogeddon", or 1 "Oxygeddon" from your GY; this card gains ATK equal to half the ATK of the opponent's battling monster, until the end of the Damage Step. ② When this card is destroyed and sent to the GY: You can target 1 "Carboneddon", 1 "Hydrogeddon", and 1 "Oxygeddon" in your GY or banishment; Special Summon them.
+ATK: 2500
+DEF: 2900
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Fire Dragon
+Flavour: The unnamed fire dragon featured behind Bastion alongside Water Dragon in the Yu-Gi-Oh! GX opening.
+Artwork: Created in GIMP using:
+● Fire Dragon?
+● Water Dragon?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

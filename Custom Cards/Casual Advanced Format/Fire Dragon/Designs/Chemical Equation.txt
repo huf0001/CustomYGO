@@ -1,23 +1,18 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Neutrogeddon
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 1
-Attribute: EARTH
-Monster Type: Dinosaur
-Effect(s): ● ① You can discard this card; add 1 "Nuclear" Spell/Trap from your Deck to your hand. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 0
-DEF: 0
-Last Updated: 03/04/2024
+Name: Chemical Equation
+Card Type: Spell
+Card Subtype(s): Normal
+Name Condition: (This card is always treated as a "Bonding" card.)
+Effect(s): You can only use 1 effect of "Chemical Equation" per turn, and only once that turn. ① Banish 1 "Bonding" Spell/Trap from your GY; this effect becomes that card's effect that Special Summons a monster when the card is activated. ② You can banish this card from your GY; add 1 "Bonding" Spell/Trap from your GY to your hand.
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Neutrons
-Flavour: A dinosaur comprised of neutrons, as Carboneddon is comprised of carbon.
+Basis: 
+Flavour: 
 Artwork: Created in GIMP using:
-● Carboneddon?
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

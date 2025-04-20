@@ -1,23 +1,18 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Borageddon
-Card Type: Monster
-Card Subtype(s): Effect
-Level: 4
-Attribute: EARTH
-Monster Type: Dinosaur
-Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: ????
-DEF: ????
-Last Updated: 03/04/2024
+Name: Smouldering - CHO
+Card Type: Trap
+Card Subtype(s): Normal
+Archetype Condition: (This card is always treated as a "Bonding" card.)
+Effect(s): ① Shuffle 1 "Carboneddon", 1 "Hydrogeddon", and 1 "Oxygeddon" from your hand, GY, and/or banishment into the Deck; Special Summon 1 "Fire Dragon" monster from your hand or GY. (This is treated as a Special Summon with the effect of "Ignition - 2HO".) ② You can banish this card from your GY; add 1 "Fire Dragon" monster from your Deck or GY to your hand.
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Boron
-Flavour: A dinosaur comprised of boron, as Carboneddon is comprised of carbon, that limits or controls nuclear reactions
+Basis: Bonding - DHO
+Flavour: A fire-based equivalent of Bonding - DHO to summmon one of the FIRE counterparts of Water Dragon.
 Artwork: Created in GIMP using:
-● Carboneddon?
+● 
 
 
 COMMENTS-----------------------------------------------------------------------

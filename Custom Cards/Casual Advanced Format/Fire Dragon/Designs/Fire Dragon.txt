@@ -1,23 +1,23 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Plutogeddon
+Name: Fire Dragon
 Card Type: Monster
 Card Subtype(s): Effect
-Level: 4
-Attribute: EARTH
-Monster Type: Dinosaur
-Effect(s): ① ② If this card is sent from the field to the GY: Add 1 "Urageddon" and 1 "Heliogeddon" from your Deck to your hand. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 9999
-DEF: 9999
-Last Updated: DD/MM/YYYY
+Level: 8
+Attribute: FIRE
+Monster Type: Pyro
+Effect(s): Cannot be Normal Summoned/Set. Must be Special Summoned with "Ignition - 2HO". ① The ATK of WATER, Fish, Sea Serpent, and Aqua monsters on the field becomes 0. ② When this card is destroyed and sent to the GY: You can target 2 "Hydrogeddon" and 1 "Oxygeddon" in your GY; Special Summon them. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2900
+DEF: 2500
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Plutonium
-Flavour: A dinosaur comprised of plutonium, as Carboneddon is comprised of carbon.
+Basis: Fire Dragon
+Flavour: The unnamed fire dragon featured behind Bastion alongside Water Dragon in the Yu-Gi-Oh! GX opening.
 Artwork: Created in GIMP using:
-● Carboneddon?
+● Fire Dragon?
+● Water Dragon?
 
 
 COMMENTS-----------------------------------------------------------------------

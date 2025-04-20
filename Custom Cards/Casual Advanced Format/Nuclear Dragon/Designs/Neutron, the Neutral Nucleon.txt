@@ -1,30 +1,21 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Stellar Dwarf, the Nuclear Dragon
+Name: Neutron, the Neutral Nucleon
 Card Type: Monster
-Card Subtype(s): Fusion
-Level: 8
-Attribute: FIRE
-Monster Type: Pyro
-Materials: "Hydrogeddon" + "Hydrogeddon"
-Effect(s): Must first be Special Summoned with a "Nuclear" card. ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 2900
-DEF: 2700
+Card Subtype(s): Effect
+Level: 2
+Attribute: EARTH
+Monster Type: Thunder
+Effect(s): ① If this card is currently equipped to a "Nucleon" monster: You can Special Summon this equipped card. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 600
+DEF: 600
 Last Updated: 03/04/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Unnamed fire dragon + yellow dwarf stars
-Flavour: Bastion's unnamed fire dragon counterpart to Water Dragon, flavoured as an astrophysics-based nuclear dragon to contrast his chemistry-based Water Dragon.
-Artwork: Created in GIMP using:
-● Water Dragon
-
-
-CREATIVE-----------------------------------------------------------------------
-
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Neutrons
+Flavour: A neutron-based card for a deck used by Bastion based on nuclear physics rather than chemistry or electromagnetism.
 Artwork: Created in GIMP using:
 ● 
 
