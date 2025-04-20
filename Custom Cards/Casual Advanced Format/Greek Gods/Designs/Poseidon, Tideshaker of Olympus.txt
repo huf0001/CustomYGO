@@ -20,7 +20,8 @@ Basis: Poseidon
 Flavour: The Greek god of the sea, Poseidon, specifically inspired by his depiction in EPIC: The Musical's Ruthlessness and Get in the Water.
 Artwork: Created in GIMP using:
 ● Mermail Abyssgaios
-● The Sanctuary in the Sky
+● The Sanctuary in the Sky?
+● Torrential Tribute?
 
 
 COMMENTS-----------------------------------------------------------------------
