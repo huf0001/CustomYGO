@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Vigilante Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 7
+Attribute: DARK
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 "HERO" or "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. ① This card's Attribute becomes the Attribute of the "HERO" or "Neo-Spacian" monster banished for this card's Special Summon. ② Other monsters with the same Attribute as this card cannot be Summoned, and their effects cannot be activated. ③ Negate the effects on the field of other monsters with the same Attribute as this card. ④ Once per turn, during the End Phase: Banish this card, and if you do, inflict 500 damage to your opponent for each monster on their field or in their GY with the same Attribute as this card on the field. 
+ATK: 2500
+DEF: 2000
+Last Updated: 18/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO Air Neos, Ravedactyl
+Flavour: A Neos Fusion based on Ravedactyl, as it has come to light that Beyond Comics Inc sued Konami over Air Neos bearing resemblance to their character Ravedactyl.
+Artwork: Created in GIMP using:
+● Ravedactyl
+● Dark City
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
