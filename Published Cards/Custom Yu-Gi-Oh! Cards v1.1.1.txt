@@ -1,0 +1,56 @@
+Goat Format
+
+	Singles
+	
+		HUGO-EN001	No-Eyes Dark Maw 						(Monster/Effect)
+		HUGO-EN002	Hollow Rebirth							(Spell/Normal)
+		HUGO-EN003	Extraordinary Reincarnation				(Spell/Normal)
+		
+Gladiator Format
+
+Edison Format
+
+	Singles
+	
+		HUED-EN001	The Restless Grave						(Spell/Equip)
+		
+HAT Format
+	
+Advanced Format
+
+	Dragon Lords
+	
+		HUFF-EN000	Hatchling of the Dragon Lords			(Monster/Effect)
+		HUFF-EN000	Herald of the Dragon Lords				(Monster/Effect)
+		HUFF-EN000	Incendiary Dragon Lord Darkblaze		(Monster/Effect)
+		HUFF-EN000	Martial Dragon Lord Leyvaten			(Monster/Effect)
+		HUFF-EN000	The Creator of the Dragon Lords			(Monster/Effect)
+		HUFF-EN000	The Divine Stone of the Dragon Lords	(Monster/Tuner/Effect)
+		HUFF-EN000	The Skeletal Stone of the Dragon Lords	(Monster/Tuner/Effect)
+		HUFF-EN000	Hatchling of the Dragon Lords			(Monster/Effect)
+
+	Malefic
+	
+		HUAD-EN001	Malefic Black Rose Dragon				(Monster/Effect)
+		HUAD-EN002	Malefic Ancient Fairy Dragon			(Monster/Effect)
+		HUAD-EN003	Malefic Power Tool Dragon				(Monster/Effect)
+		HUAD-EN004	Malefic Red Dragon Archfiend			(Monster/Effect)
+		HUAD-EN005	Malefic Black-Winged Dragon				(Monster/Effect)
+		HUAD-EN006	Malefic Horus							(Monster/Effect)
+		HUAD-EN007	Malefic Vice Dragon						(Monster/Effect)
+		HUAD-EN008	Malefic Cyberdark Dragon				(Monster/Effect)
+		HUAD-EN009	Malefic Red-Eyes Darkness Metal Dragon	(Monster/Effect)
+		HUAD-EN010	Malefic Armed Dragon					(Monster/Effect)
+		HUAD-EN011	Malefic Five-Headed Dragon				(Monster/Effect)
+		HUAD-EN012	Harpie's Pet Malefic Dragon				(Monster/Effect)
+		HUAD-EN013	Malefic Gandora							(Monster/Effect)
+		HUAD-EN014	Malefic Planetary Gear					(Monster/Tuner/Effect)
+		HUAD-EN015	Malefic Exchange						(Spell/Normal)
+		
+	Neos
+	
+		HUAD-EN025	Elemental HERO Vigilante Neos			(Monster/Fusion)
+		
+	Singles
+		
+		HUAD-EN024	Syzygy, the Black Sun Dragon			(Monster/Xyz)
