@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Doriado of the Burning Forest
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: FIRE
+Monster Type: Spellcaster
+Effect(s): ① If this card is Normal or Special Summoned: You can add 1 "Burning Forest" monster or 1 Spell that inflicts 1000 or less damage to your opponent when activated from your Deck to your hand.
+ATK: 1200
+DEF: 1400
+Last Updated: 21/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Doriado
+Flavour: A Doriado supporting early Yu-Gi-Oh! burn spells.
+Artwork: Created in GIMP using:
+● Doriado
+● Burning Land
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,53 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hiita, Charmer of the Burning Forest
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: FIRE
+Monster Type: Spellcaster
+Effect(s): ① If you inflict damage to your opponent with the effect of a "Burning Forest" monster or a Spell Card: You can Special Summon this card (from your hand). ② If this card destroys an opponent's monster by battle: You can send 1 Spell that inflicts 1000 or less damage to your opponent when activated from your Deck to your GY; inflict that much damage to your opponent.
+ATK: 1850
+DEF: 1500
+Last Updated: 21/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Hiita the Fire Charmer and her variants
+Flavour: A Charmer monster supporting early Yu-Gi-Oh! burn spells.
+Artwork: Created in GIMP using:
+● Hiita the Fire Charmer?
+● Familiar-Possessed - Hiita?
+● Blazing Hiita?
+● Hiita the Fire Charmer, Ablaze?
+● Hiita the Fire Channeler?
+● Burning Land
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

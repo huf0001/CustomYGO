@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Faithful Magician of the Burning Forest
+Card Type: Monster
+Card Subtype(s): Flip / Effect
+Level: 1
+Attribute: FIRE
+Monster Type: Spellcaster
+Effect(s): ① FLIP: Target 1 "Burning Forest" monster, or 1 Spell that inflicts 1000 or less damage to your opponent when activated, in your GY or banishment, except "Faithful Magician of the Burning Forest"; add it to your hand.
+ATK: 300
+DEF: 400
+Last Updated: 21/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Magician of Faith
+Flavour: A Magician of Faith supporting early Yu-Gi-Oh! burn spells.
+Artwork: Created in GIMP using:
+● Magician of Faith
+● Burning Land
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
