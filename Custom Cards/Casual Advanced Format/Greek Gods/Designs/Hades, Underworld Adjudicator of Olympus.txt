@@ -20,7 +20,9 @@ Basis: Hades
 Flavour: The Greek god of the underworld, Hades
 Artwork: Created in GIMP using:
 ● Erebus the Underworld Monarch
-● The Sanctuary in the Sky
+● Coffin Seller
+● Magic Jammer
+● Swords of Concealing Light?
 
 
 COMMENTS-----------------------------------------------------------------------

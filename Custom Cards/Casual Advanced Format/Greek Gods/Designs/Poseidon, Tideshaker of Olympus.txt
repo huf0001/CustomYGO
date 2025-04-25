@@ -20,8 +20,7 @@ Basis: Poseidon
 Flavour: The Greek god of the sea, Poseidon, specifically inspired by his depiction in EPIC: The Musical's Ruthlessness and Get in the Water. The Spell/Trap destruction effect is wiping out Odysseus's fleet, while the hand destruction effect is placing storms in Odysseus's way when he's nearly home.
 Artwork: Created in GIMP using:
 ● Mermail Abyssgaios
-● The Sanctuary in the Sky?
-● Torrential Tribute?
+● Torrential Tribute
 
 
 COMMENTS-----------------------------------------------------------------------
