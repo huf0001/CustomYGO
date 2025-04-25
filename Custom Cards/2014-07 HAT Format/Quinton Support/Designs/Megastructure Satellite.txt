@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Megastructure Satellite
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 9
+Attribute: LIGHT
+Monster Type: Machine
+Effect(s): You can Normal Summon/Set this card without Tributing, but its original ATK and DEF become halved. You can only activate effect ② of Megastructure Satellite once per turn. ① If this card is Normal Summoned without Tributing: Send the top card of your Deck to the GY. ② You can banish this card from your GY, then target 2 LIGHT Machine monsters you control; apply 1 of the following effects.
+● Change 1 of their Levels to the Level of the other.
+● Both monsters' Levels become the combined levels of those 2 monsters.
+ATK: 2700
+DEF: 1800
+Last Updated: 25/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: 
+Flavour: 
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

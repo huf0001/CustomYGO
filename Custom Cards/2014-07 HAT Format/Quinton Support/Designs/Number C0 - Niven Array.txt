@@ -1,0 +1,56 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Number C0: Niven Array
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 10
+Attribute: LIGHT
+Monster Type: Machine
+Materials: 3 Level 10 monsters
+Effect(s): You can also Xyz Summon this card by using "Number 0: Niven Ring" you control. (Transfer is materials to this card.) When the number of materials on this card becomes 12, you win the Duel. ① Once per turn: You can attach 1 Machine monster in your hand or GY to this card as material. If this card has "Number 0: Niven Ring" as material, it gains these effects.
+● Gains 1000 ATK/DEF for every 3 materials attached to this card.
+● Cannot be targeted or destroyed by your opponent's card effects.
+ATK: 2000
+DEF: 2000
+Last Updated: 25/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Halo array
+Flavour: A superweapon composed of an array of Halo ringworlds.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://en.wikipedia.org/wiki/Ringworld
+https://en.wikipedia.org/wiki/Bishop_Ring_(habitat)
+https://www.halopedia.org/Halo_Array
+https://www.halopedia.org/Installation_04
+https://www.halopedia.org/Installation_05
+https://www.halopedia.org/Installation_07
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
