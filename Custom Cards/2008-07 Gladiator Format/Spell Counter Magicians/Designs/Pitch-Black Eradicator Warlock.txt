@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 7
 Attribute: DARK
 Monster Type: Spellcaster
-Effect(s): Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Spellcaster monster with a Spell Counter on it. ① Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. ② You can remove 2 Spell Counters from your field; inflict 2000 damage to your opponent.
+Effect(s): Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by destroying 1 Spellcaster monster you control with a Spell Counter on it. ① Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. ② You can remove 2 Spell Counters from your field; inflict 2000 damage to your opponent.
 ATK: 2500
 DEF: 2100
-Last Updated: 10/03/2025
+Last Updated: 25/04/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -28,6 +28,20 @@ https://yugipedia.com/wiki/Dark_Eradicator_Warlock
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 10/03/2025-------------------------------------------
+
+Name: Pitch-Black Eradicator Warlock
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Spellcaster monster with a Spell Counter on it. ① Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. ② You can remove 2 Spell Counters from your field; inflict 2000 damage to your opponent.
+ATK: 2500
+DEF: 2100
+Comments: Spotted a synergy with Arcane Magical Library that I could add.
+
 
 DATE: 08/03/2025-------------------------------------------
 

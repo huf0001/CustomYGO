@@ -7,10 +7,10 @@ Level: 9
 Attribute: DARK
 Monster Type: Spellcaster
 Materials: 2 Spellcaster monsters with Spell Counters on them
-Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned: Place 3 Spell Counters on it. ② Once per turn, if a Trap Card is activated (Quick Effect): You can remove 1 Spell Counter from this card; negate the activation, and if you do, destroy it.
+Effect(s): Must first be Special Summoned (from your Extra Deck) by destroying the above cards you control. ① If this card is Special Summoned: Place 3 Spell Counters on it. ② Once per turn, if a Trap Card is activated (Quick Effect): You can remove 1 Spell Counter from this card; negate the activation, and if you do, destroy it.
 ATK: 3200
 DEF: 2800
-Last Updated: 10/03/2025
+Last Updated: 25/04/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,6 +29,21 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 10/03/2025-------------------------------------------
+
+Name: Sorcerer of Pitch-Black Magic
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 9
+Attribute: DARK
+Monster Type: Spellcaster
+Materials: 2 Spellcaster monsters with Spell Counters on them
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned: Place 3 Spell Counters on it. ② Once per turn, if a Trap Card is activated (Quick Effect): You can remove 1 Spell Counter from this card; negate the activation, and if you do, destroy it.
+ATK: 3200
+DEF: 2800
+Comments: Spotted a synergy with Arcane Magical Library that I could add.
+
 
 DATE: 08/03/2025-------------------------------------------
 

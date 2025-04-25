@@ -7,10 +7,10 @@ Level: 9
 Attribute: DARK
 Monster Type: Spellcaster
 Materials: 2 Spellcaster monsters with Spell Counters on them
-Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned: Place 3 Spell Counters on it. ② Once per turn: You can remove 1 Spell Counter from this card; add 1 card that mentions Spell Counters from your Deck to your hand.
+Effect(s): Must first be Special Summoned (from your Extra Deck) by destroying the above cards you control. ① If this card is Special Summoned: Place 3 Spell Counters on it. ② Once per turn: You can remove 1 Spell Counter from this card; add 1 card that mentions Spell Counters from your Deck to your hand.
 ATK: 2800
 DEF: 3200
-Last Updated: 10/03/2025
+Last Updated: 25/04/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,6 +29,21 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 10/03/2025-------------------------------------------
+
+Name: Pitch-Black Sage
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 9
+Attribute: DARK
+Monster Type: Spellcaster
+Materials: 2 Spellcaster monsters with Spell Counters on them
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned: Place 3 Spell Counters on it. ② Once per turn: You can remove 1 Spell Counter from this card; add 1 card that mentions Spell Counters from your Deck to your hand.
+ATK: 2800
+DEF: 3200
+Comments: Spotted a synergy with Arcane Magical Library that I could add.
+
 
 DATE: 08/03/2025-------------------------------------------
 
