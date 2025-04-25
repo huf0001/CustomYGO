@@ -17,8 +17,7 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Rapid-Fire Magician
 Flavour: A retrain of Rapid-Fire Magician that uses Spell Counters
 Artwork: Created in GIMP using:
-● Rapid-Fire Magiician
-● Dark Magic Circle
+● Rapid-Fire Magician
 ● Pitch-Black Power Stone
 
 

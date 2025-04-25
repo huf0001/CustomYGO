@@ -19,7 +19,6 @@ Basis: Sorcerer of Dark Magic
 Flavour: A retrained Sorcerer of Dark Magic that uses Spell Counters
 Artwork: Created in GIMP using:
 ● Sorcerer of Dark Magic
-● Dark Magic Circle
 ● Pitch-Black Power Stone
 
 

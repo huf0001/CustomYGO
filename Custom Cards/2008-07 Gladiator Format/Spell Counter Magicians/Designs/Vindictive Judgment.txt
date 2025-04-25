@@ -12,10 +12,10 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Solemn Judgment and Anti-Spell
 Flavour: A Spell Counter Counter Trap card like Anti-Spell, but covering a broader range like Solemn Judgment
 Artwork: Created in GIMP using:
-● Chaos Command Magician
 ● Old Vindictive Magician
 ● Pitch-Black Power Stone
-● Spell Vanishing
+● Royal Magical Library
+
 
 
 COMMENTS-----------------------------------------------------------------------

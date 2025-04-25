@@ -19,7 +19,6 @@ Flavour: A retrained Apprentice Magician that can Summon more than just Old Vind
 Artwork: Created in GIMP using:
 ● Apprentice Magician
 ● Pitch Black Power Stone
-● Dark Magic Circle
 
 
 COMMENTS-----------------------------------------------------------------------

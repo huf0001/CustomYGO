@@ -18,7 +18,6 @@ Basis: Old Vindictive Magician
 Flavour: A retrain of Old Vindictive Magician, but only affecting face-up monsters, as otherwise it's just a strictly better Dark Valkyria with more or less flipped ATK/DEF
 Artwork: Created in GIMP using:
 ● Old Vindictive Magician
-● Dark Magic Circle
 ● Pitch-Black Power Stone
 
 

@@ -18,7 +18,7 @@ Basis: Chaos Command Magician
 Flavour: A retrain of Chaos Command Magician that uses Spell Counters
 Artwork: Created in GIMP using:
 ● Chaos Command Magician
-● Dark Magic Circle
+● Pitch-Black Power Stone
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -18,7 +18,6 @@ Basis: Dark Eradicator Warlock
 Flavour: A retrained Dark Eradicator Warlock
 Artwork: Created in GIMP using:
 ● Dark Eradicator Warlock
-● Dark Magic Circle
 ● Pitch-Black Power Stone
 
 

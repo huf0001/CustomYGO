@@ -19,7 +19,6 @@ Basis: Dark Sage
 Flavour: A retrained Dark Sage that uses Spell Counters
 Artwork: Created in GIMP using:
 ● Dark Sage
-● Dark Magic Circle
 ● Pitch-Black Power Stone
 
 

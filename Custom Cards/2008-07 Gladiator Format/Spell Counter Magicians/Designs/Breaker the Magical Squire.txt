@@ -18,7 +18,6 @@ Basis: Breaker the Magical Warrior
 Flavour: A weakened retrain of Breaker the Magical Warrior, since in Gladiator format, Breaker is banned.
 Artwork: Created in GIMP using:
 ● Breaker the Magical Warrior
-● Dark Magic Circle
 ● Pitch-Black Power Stone
 
 
