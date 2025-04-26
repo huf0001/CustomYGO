@@ -1,0 +1,31 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Seal of Serket
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① While your opponent controls a Set Spell/Trap Card, they cannot Set Spell/Trap Cards. ② Once while this card is face-up on the field: You can banish 1 Level 10 or higher monster in your hand that can be Normal Summoned/Set. ③ While that monster is banished, your monsters cannot be destroyed by battle, you take no battle damage, and you and your cards are unaffected by Spells. ④ During your Main Phase: You can return that banished monster from your banishment to your hand, then immediately after this effect resolves, Normal Summon/Set it. ⑤ During your Main Phase: You can send 1 "Seal of Serket" and 1 "Cup of Sealed Soul" from your hand or field to the GY, then Special Summon 1 "Mystical Beast of Serket" from your Extra Deck. ⑥ If this card leaves the field, you lose the Duel.
+Last Updated: 26/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/12/2024-------------------------------------------
+
+Name: Seal of Serket
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① While your opponent controls a Set Spell/Trap Card, they cannot Set Spell/Trap Cards. ② Once while this card is face-up on the field: You can banish 1 Level 10 or higher monster in your hand that can be Normal Summoned/Set. ③ While that monster is banished, your monsters cannot be destroyed by battle, you take no battle damage, and you and your cards are unaffected by Spells. ④ During your Main Phase: You can return that banished monster from your banishment to your hand, then immediately after this effect resolves, Normal Summon/Set it. ⑤ During your Main Phase: You can send 1 "Seal of Serket" and 1 "Cup of Sealed Soul" from your hand or field to the GY, and Special Summon 1 "Mystical Beast of Serket" from your Extra Deck. (This is treated as a Fusion Summon.) ⑥ If this card leaves the field, you lose the Duel.
+Comments: Re-templating based on Masked HEROes and Fusion Monsters Special Summoned by The Claw of Hermos or The Fang of Critias.

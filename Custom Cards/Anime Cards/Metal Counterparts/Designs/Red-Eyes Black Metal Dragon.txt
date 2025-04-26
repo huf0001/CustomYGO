@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Black Metal Dragon
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Machine
+Rules Text: Must first be Special Summoned with "Magic Metal Force", using "Red-Eyes B. Dragon".
+ATK: 2800
+DEF: 2400
+Last Updated: 26/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/12/2024-------------------------------------------
+
+Name: Red-Eyes Black Metal Dragon
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Machine
+Rules Text: "Red-Eyes B. Dragon"
+Must first be Special Summoned with "Magic Metal Force".
+ATK: 2800
+DEF: 2400
+Comments: Re-templating based on Masked HEROes and Fusion Monsters Special Summoned by The Claw of Hermos or The Fang of Critias.

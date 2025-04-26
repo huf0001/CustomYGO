@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Relinquished
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 1
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: Must first be Special Summoned with "Black Illusion Ritual". ① Once per turn: You can target 1 monster your opponent controls; equip it to this card. ② While equipped with a monster by its own effect, this card gains ATK/DEF equal to those monsters' combined ATK/DEF, and your opponent takes any battle damage you would take from battles involving this card. ③ If this card would be destroyed, destroy one of those equipped monsters instead.
+ATK: 0
+DEF: 0
+Last Updated: 26/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Requiring a "Ritual" Spell rather than "Black Illusion Ritual" to preserve most Ritual Monsters being able to be Ritual Summoned using generic Ritual Spells.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/12/2024-------------------------------------------
+
+Name: Relinquished
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 1
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: "Dark-Eyes Illusionist"
+Must first be Special Summoned with "Black Illusion Ritual". ① Once per turn: You can target 1 monster your opponent controls; equip it to this card. ② While equipped with a monster by its own effect, this card gains ATK/DEF equal to those monsters' combined ATK/DEF, and your opponent takes any battle damage you would take from battles involving this card. ③ If this card would be destroyed, destroy one of those equipped monsters instead.
+ATK: 0
+DEF: 0
+Comments: Re-templating based on Masked HEROes and Fusion Monsters Special Summoned by The Claw of Hermos or The Fang of Critias.

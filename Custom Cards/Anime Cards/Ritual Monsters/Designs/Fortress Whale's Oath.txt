@@ -1,0 +1,34 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Fortress Whale's Oath
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: (This card is always treated as a "Ritual" card.)
+① Send monsters from your field to the GY whose total Levels equal 7 or more, and, after that, Special Summon 1 "Fortress Whale" from your Extra Deck.
+Last Updated: 26/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Using non-standard templating of "and, after that" to indicate both A and B are required but sequential, which doesn't have a PSCT conjunctive to indicate it, by combining "and" (A and B required, simultaneous) and "then" "A required but not B, sequential) in the same manner that "also, after that" (neither A or B required, sequential) adapts "also" (neither A or B required, simultaneous).
+
+Making "Fortress Whale's Oath" a "Ritual" Spell to allow it to Special Summon "Fortress Whale", as I made "Fortress Whale" require a "Ritual" Spell to be Summoned, so as to preserve most Ritual Monsters being able to be Ritual Summoned using generic Ritual Spells.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/12/2024-------------------------------------------
+
+Name: Fortress Whale's Oath
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Fusion Summon 1 "Fortress Whale" from your Extra Deck, using monsters from your field whose total Levels equal 7 or more as material.
+Comments: Re-templating based on Masked HEROes and Fusion Monsters Special Summoned by The Claw of Hermos or The Fang of Critias.

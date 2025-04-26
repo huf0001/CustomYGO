@@ -1,0 +1,31 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Cup of Sealed Soul
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① If you control "Temple of the Kings": Send 1 "Seal of Serket" from your hand or field to the GY, then Special Summon 1 "Mystical Beast of Serket" from your Extra Deck.
+Last Updated: 26/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/12/2024-------------------------------------------
+
+Name: Cup of Sealed Soul
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① If you control "Temple of the Kings": Send 1 "Seal of Serket" from your hand or field to the GY, and Special Summon 1 "Mystical Beast of Serket" from your Extra Deck. (This is treated as a Fusion Summon.)
+Comments: Re-templating based on Masked HEROes and Fusion Monsters Special Summoned by The Claw of Hermos or The Fang of Critias.
