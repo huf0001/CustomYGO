@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Gate Guardian
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 11
+Attribute: DARK
+Monster Type: Warrior
+Rules Text: "Kazejin" + "Suijin" + "Sanga of the Thunder"
+Must first be Special Summoned (from your Extra Deck) by Tributing the above cards you control that were Normal Summoned without Tributing. ① When this card is Special Summoned: Target the above cards in your GY; equip them to this card, but they are still treated as monsters and share this card's battle position. ② Cannot attack or be attacked. ③ Unaffected by card effects. ④ If none of the above monsters are equipped to this card: Destroy this card.
+ATK: 0
+DEF: 0
+Last Updated: 27/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Heavily based upon u/Rolvack's implementation of Gate Guardian from Kingdom Duels, his fan made Yu-Gi-Oh! variant based on Duelist Kingdom rules rather than the Battle City onwards-inspired Master Rules of the TCG/OCG.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
