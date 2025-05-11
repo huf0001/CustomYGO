@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dragon of Revealing Light
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: "The Tail of Socrates" + "Swords of Revealing Light"
+① If this card is Special Summoned: Flip all face-down monsters your opponent controls face-up. ② Once per turn, if a monster declares an attack: You can negate the attack. ③ If you control "The Seal of Orichalcos": Destroy this card, then Set 1 "Swords of Revealing Light" from your GY.
+ATK: 0
+DEF: 2900
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Swords of Revealing Light + Legendary Dragons
+Flavour: A Legendary Dragon Fusion for Swords of Revealing Light, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● Prime Material Dragon?
+● Bright Star Dragon?
+● Stardust Chronicle Spark Dragon?
+● Chasma, Dragon Ruler of Auroras?
+● Swords of Revealing Light?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

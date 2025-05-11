@@ -1,0 +1,45 @@
+Name: Mirror Wall Dragon
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: "The Fang of Critias" + "Mirror Wall"
+① If a monster your opponent controls declares an attack: You can negate that attack, and if you do, halve the ATK of all monsters your opponent controls whose ATK hasn't already been halved by this effect, then inflict damage to your opponent equal to the combined ATK lost by those monsters this turn. ② At the start of the Damage Step, if this card battles an opponent's monster whose ATK has been halved by this card's effect: Destroy that monster. ③ If you control "The Seal of Orichalcos": Destroy this card, then Set 1 "Mirror Wall" from your GY.
+ATK: 1500
+DEF: 3000
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Mirror Wall Dragon
+Flavour: A Critias Fusion for Mirror Wall, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

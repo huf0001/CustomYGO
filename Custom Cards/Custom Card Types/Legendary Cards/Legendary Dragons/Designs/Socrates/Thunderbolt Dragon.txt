@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Thunderbolt Dragon
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: "The Tail of Socrates" + "Raigeki"
+① During your Main Phase: You can Tribute this card; destroy all monsters your opponent controls, also monsters you control cannot attack this turn. ② During the End Phase, if effect ① was activated this turn (and was not negated): You can Special Summon this card from your GY. ③ If you control "The Seal of Orichalcos": Destroy this card, then Set 1 "Raigeki" from your GY.
+ATK: 2900
+DEF: 2500
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Raigeki + Legendary Dragons
+Flavour: A Legendary Dragon Fusion for Pot of Greed, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● White-Horned Dragon
+● Raigeki?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

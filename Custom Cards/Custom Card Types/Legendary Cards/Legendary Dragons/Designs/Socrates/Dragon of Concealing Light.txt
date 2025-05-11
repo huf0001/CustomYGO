@@ -1,0 +1,52 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dragon of Concealing Light
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: "The Tail of Socrates" + "Swords of Concealing Light"
+① If this card is Special Summoned: Set all face-up monsters your opponent controls. ② Once per turn: You can target 1 face-up monster your opponent controls; Set it. ③ Monsters your opponent controls cannot change their battle positions. ④ If you control "The Seal of Orichalcos": Destroy this card, then Set 1 "Swords of Concealing Light" from your GY.
+ATK: 0
+DEF: 2900
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Swords of Concealing Light + Legendary Dragons
+Flavour: A Legendary Dragon Fusion for Swords of Concealing Light, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● Pitch-Dark Dragon?
+● Infernal Dragon?
+● Dragonecro Nethersoul Dragon?
+● Dragocytus Corrupted Nethersoul Dragon?
+● Eclipse, Dragon Ruler of Catastrophes?
+● Swords of Concealing Light?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

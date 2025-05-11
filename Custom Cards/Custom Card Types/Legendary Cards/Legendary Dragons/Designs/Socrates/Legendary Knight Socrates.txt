@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Legendary Knight Socrates
+Card Type: Legendary Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Warrior
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned with "Legend of Heart", using "The Tail of Socrates". ① When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. ② Once per turn, when this card is targeted for an attack: You can target 1 Legendary Card in your GY; until the End Phase of your next turn, this card's name becomes that target's original name, replace this effect with that target's original effects, and if that target is a Spell Card, those effects can be activated once per turn.
+ATK: 2800
+DEF: 1800
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Legendary Knights + The Tail of Socrates
+Flavour: A Legendary Knight for Socrates, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● Freed the Matchless General?
+● Grandmaster of the Six Samurai?
+● Shien Advisor?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

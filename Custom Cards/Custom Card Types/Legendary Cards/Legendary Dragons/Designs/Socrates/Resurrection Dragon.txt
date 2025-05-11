@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Resurrection Dragon
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: "The Tail of Socrates" + "Monster Reborn"
+You can only use effect ① of "Resurrection Dragon" once per turn. ① During your Main Phase: You can Tribute this card, then target 1 monster in either GY; Special Summon it. ② If this card is in your GY and you control no monsters that were Special Summoned by the effect of "Resurrection Dragon": You can Special Summon this card. ③ If you control "The Seal of Orichalcos": Destroy this card, then Set 1 "Monster Reborn" from your GY.
+ATK: 1900
+DEF: 2800
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Monster Reborn + Legendary Dragons
+Flavour: A Legendary Dragon Fusion for Monster Reborn, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● Judgment Dragon?
+● Gragonith, Lightsworn Dragon?
+● Monster Reborn?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

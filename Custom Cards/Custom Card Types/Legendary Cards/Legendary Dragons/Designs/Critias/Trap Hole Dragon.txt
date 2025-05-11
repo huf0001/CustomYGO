@@ -1,0 +1,46 @@
+Name: Trap Hole Dragon
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Dragon
+Rules Text: "The Fang of Critias" + "Trap Hole"
+You can only activate effect ① of "Trap Hole Dragon" once per turn. ① If your opponent Normal or Special Summons a monster with 1000 or more ATK: Target that monster; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK. ② If you control "The Seal of Orichalcos": Destroy this card, then Set 1 "Trap Hole" from your GY.
+ATK: 2500
+DEF: 1000
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Trap Hole + The Fang of Critias
+Flavour: A Critias Fusion for Trap Hole, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● Megarock Dragon?
+● Redox, Dragon Ruler of Boulders?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

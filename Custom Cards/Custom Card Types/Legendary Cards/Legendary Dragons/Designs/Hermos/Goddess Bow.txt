@@ -1,0 +1,45 @@
+Name: Goddess Bow
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Warrior
+Rules Text: "The Claw of Hermos" + "Queen's Knight"
+① If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. ② The original ATK of the equipped monster is doubled. ③ If the equipped monster battles an opponent's monster, and your opponent activates a monster effect on the field (Quick Effect): The equipped monster cannot be destroyed by this battle, also, after that, it can make a second attack during this Battle Phase. ④ If you control "The Seal of Orichalcos": Destroy this card, then Special Summon 1 "Queen's Knight" from your GY.
+ATK: 1500
+DEF: 1600
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Goddess Bow
+Flavour: The anime version of Goddess Bow, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● Goddess Bow
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

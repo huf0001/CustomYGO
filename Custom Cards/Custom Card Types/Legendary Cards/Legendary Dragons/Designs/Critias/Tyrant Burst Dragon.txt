@@ -1,0 +1,45 @@
+Name: Tyrant Burst Dragon
+Card Type: Legendary Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: "The Fang of Critias" + "Tyrant Wing"
+① Can attack all monsters your opponent controls, once each. ② During your Main Phase: You can target 1 monster you control; equip this card to that target. ③ While this card is equipped to a monster, the equipped monster gains 400 ATK and can attack all monsters your opponent controls, once each. ④ If you control "The Seal of Orichalcos": Destroy this card, then Set 1 "Tyrant Wing" from your GY.
+ATK: 2900
+DEF: 2500
+Last Updated: 09/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Tyrant Burst Dragon
+Flavour: The anime version of Tyrant Burst Dragon, using my Legendary supertype.
+Artwork: Created in GIMP using:
+● Tyrant Burst Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
