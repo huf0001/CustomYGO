@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Great Moth
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Insect
+Rules Text: Evolve: "Petit Moth"
+Requirement: Send 1 "Cocoon of Evolution" that has been equipped to it for 4 of your turns to the GY
+① At the end of your Battle Phase, if this card attacked an opponent's monster: Place 1 Poison Counter on each monster your opponent controls. ② At the start of each Main Phase: Monsters your opponent controls with a Poison Counter lose 100 ATK/DEF, also, after that, if it's your Main Phase 1, remove all Poison Counters on the field.
+ATK: 2600
+DEF: 2500
+Last Updated: 30/04/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
