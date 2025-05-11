@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Athena, Strategist of Olympus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: LIGHT
+Monster Type: Fairy
+Effect(s): ① If you Normal or Special Summon a monster: You can Special Summon this card from your hand. ② If you control "The Sanctuary in the Sky", your opponent cannot target monsters you control with card effects during the Battle Phase. ③ If another monster you control destroys an opponent's monster by battle: It gains 200 ATK/DEF, also the next time it would be destroyed by battle, it is not destroyed.
+ATK: 2600
+DEF: 1800
+Last Updated: 10/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Athena, EPIC: The Musical
+Flavour: The Greek goddess of wisdom and war, Athena, specifically inspired by her depiction in  EPIC: The Musical.
+Artwork: Created in GIMP using:
+● Athena
+● The Sanctuary in the Sky
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://en.wikipedia.org/wiki/Athena
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

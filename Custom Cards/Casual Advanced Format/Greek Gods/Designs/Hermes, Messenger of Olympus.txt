@@ -1,0 +1,54 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hermes, Messenger of Olympus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: WIND
+Monster Type: Fairy
+Effect(s): ① If a monster you control is targeted by your opponent's card or effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can excavate the top 3 cards of your Deck, and if you do, add 1 to your hand, also, after that, shuffle the rest back into your Deck. ③ Once per turn (Quick Effect): You can target 1 other monster you control; it is unaffected by your opponent's card effects until the end of the next turn. 
+ATK: 2300
+DEF: 2000
+Last Updated: 10/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Hermes, Wouldn't You Like, Dangerous
+Flavour: The messenger of the Greek Gods, Hermes, specifically inspired by his depiction in  EPIC: The Musical's Thunderbringer.
+Artwork: Created in GIMP using:
+● Sonic Shooter?
+● Shinobird Pigeon?
+● Sky Scout?
+● Zeradias, Herald of Heaven?
+● Djinn the Watcher of the Wind?
+● The Sanctuary in the Sky?
+● Cards from the Sky?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://en.wikipedia.org/wiki/Hermes
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
