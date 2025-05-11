@@ -1,5 +1,7 @@
 *.xcf
 *.psd
+*.pdn
 Test Decks/~$Test Deck Archetypes.xlsx
 Reference Images/*
 *.zip
+Templates/Art Templates/*
