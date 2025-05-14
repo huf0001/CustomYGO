@@ -1,0 +1,54 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Herald of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: ① Once per turn: You can discard 1 card, then activate 1 of these effects;
+● Send 1 Dragon monster from your Deck to the GY.
+● Add 1 Level 7 or 8 Dragon monster from your GY to your hand.
+● Equip 1 Level 7 or 8 Dragon monster from your GY to a monster you control, except "Herald of the Dragon Lords".
+ATK: 1700
+DEF: 100
+Last Updated: 14/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Herald of Creation
+Flavour: Herald of Creation retrained for a Dragon Lords archetype.
+Artwork: Created in GIMP using:
+● Herald of Creation
+● Ruins of the Divine Dragon Lords
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Herald of Creation: ① Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.
+
+Dragon Knight of Creation: You can only use effect ③ of "Dragon Knight of Creation" once per turn. ① Increase this card's Level by 4 during your opponent's turn only. ② When this card destroys an opponent's monster by battle and sends it to the GY: You can send 1 Level 7 or 8 Dragon monster from your Deck to the GY. ③ You can send 1 card from your hand to the GY, then target 1 Level 7 or 8 Dragon monster in your GY; send this card to the GY, and if you do, Special Summon that monster.
+
+Paladin of Felgrand: ① If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon monster from your hand or Deck to this card. ② This card is unaffected by other monsters' effects, while equipped with an Equip Card. ③ You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.
+
+Guardian of Felgrand: ① If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon-Type monster from your hand or Graveyard to this card. ② This card gains ATK and DEF equal to half the ATK and DEF of the monster equipped to it by this effect. ③ You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; Special Summon it.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 03/04/2024-------------------------------------------
+
+Name: Herald of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: Once per turn: You can discard 1 card, then activate 1 of these effects;
+● Send 1 Dragon monster from your Deck to the GY.
+● Add 1 Level 7 or 8 Dragon monster from your GY to your hand.
+● Equip 1 Level 7 or 8 Dragon monster from your GY to a monster you control, except "Herald of the Dragon Lords".
+ATK: 1700
+DEF: 100
+Comments: Not happy with my original Dragon Lords designs, so reworking and this time balancing them for HAT format.

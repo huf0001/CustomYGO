@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hatchling of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: You can only activate 1 effect of "Hatchling of the Dragon Lords" per turn, and only once that turn. ① If you Special Summon a Level 7 or 8 Dragon monster from your GY; You can equip this card from your hand or GY to it. ② The equipped monster gains ATK equal to its Level x100. ③ If this card is sent to the GY while equipped to a monster: You can add 1 Level 7 or 8 Dragon monster from your Deck or GY to your hand.
+ATK: 1700
+DEF: 100
+Last Updated: 14/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Hunter Dragon
+Flavour: Hunter Dragon retrained for a Dragon Lords archetype.
+Artwork: Created in GIMP using:
+● Hunter Dragon
+● Ruins of the Divine Dragon Lords
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Paladin of Felgrand: ① If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon monster from your hand or Deck to this card. ② This card is unaffected by other monsters' effects, while equipped with an Equip Card. ③ You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.
+
+Guardian of Felgrand: ① If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon-Type monster from your hand or Graveyard to this card. ② This card gains ATK and DEF equal to half the ATK and DEF of the monster equipped to it by this effect. ③ You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; Special Summon it.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 04/04/2024-------------------------------------------
+
+Name: Hatchling of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: If you Special Summon a Level 7 or 8 Dragon monster from your GY; You can equip this card from your hand or GY to it. The equipped monster gains ATK equal to its Level x100. If this card is sent to the GY while equipped to a monster: You can add 1 Level 7 or 8 Dragon monster from your Deck or GY to your hand. You can only use 1 effect of "Hatchling of the Dragon Lords" per turn, and only once that turn.
+ATK: 1700
+DEF: 100
+Comments: Not happy with my original Dragon Lords designs, so reworking and this time balancing them for HAT format.

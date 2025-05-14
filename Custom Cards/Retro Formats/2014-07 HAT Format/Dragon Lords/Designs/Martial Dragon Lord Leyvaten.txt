@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Martial Dragon Lord Leyvaten
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: WIND
+Monster Type: Dragon
+Rules Text: ① You can Special Summon this card from your hand or GY by banishing 1 monster you control equipped with a Level 7 or 9 Dragon monster. ② If this card is Special Summoned from the GY: You can target 1 Level 7 or 8 Dragon monster from your GY, except "Martial Dragon Lord Leyvaten"; Equip it to this card. ③ Gains ATK equal to a quarter of the original ATK of the monster equipped to it by this effect. ④ Once per turn: You can destroy 1 card equipped to this card; destroy as many face-up Spells/Traps your opponent controls as possible, and if you do, this card gains 200 ATK/DEF for each card destroyed.
+ATK: 2600
+DEF: 1200
+Last Updated: 14/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dragunity Arma Leyvaten
+Flavour: Dragunity Arma Leyvaten retrained for a Dragon Lords archetype.
+Artwork: Created in GIMP using:
+● Dragunity Arma Leyvaten
+● Ruins of the Divine Dragon Lords
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Dragunity Arma Leyvaten: ① You can Special Summon this card from your hand or Graveyard by removing from play 1 face-up monster you control equipped with a "Dragunity" card(s). ② When this card is Normal or Special Summoned, you can select 1 Dragon-Type monster in your Graveyard, except "Dragunity Arma Leyvaten", and equip it to this card. ③ When this card is sent to the Graveyard by your opponent's card effect, you can select 1 of the monsters that were equipped to this card when it was sent to the Graveyard, and Special Summon that monster from the Graveyard.
+
+Arkbrave Dragon: ① If this card is Special Summoned from the GY: You can banish as many face-up Spells/Traps your opponent controls as possible, and if you do, this card gains 200 ATK/DEF for each card banished. ② Once per turn, during the Standby Phase, if this card is in the GY because it was sent there last turn: You can target 1 Level 7 or 8 Dragon monster in your GY, except "Arkbrave Dragon"; Special Summon it.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 03/04/2024-------------------------------------------
+
+Name: Martial Dragon Lord Leyvaten
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: WIND
+Monster Type: Dragon
+Rules Text: You can Special Summon this card from your hand or GY by banishing 1 monster you control equipped with a Level 7 or 9 Dragon monster. If this card is Special Summoned from the GY: You can target 1 Level 7 or 8 Dragon monster from your GY, except "Martial Dragon Lord Leyvaten"; Equip it to this card. Gains ATK equal to a quarter of the original ATK of the monster equipped to it by this effect. If this card you control is destroyed by your opponent's card: You can target 1 Level 7 or 8 Dragon monster that was equipped to this card on the field; Special Summon it.
+ATK: 2600
+DEF: 1200
+Comments: Not happy with my original Dragon Lords designs, so reworking and this time balancing them for HAT format.

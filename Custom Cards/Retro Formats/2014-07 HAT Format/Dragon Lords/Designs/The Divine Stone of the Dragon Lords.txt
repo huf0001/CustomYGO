@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Divine Stone of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 1
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: You can only use 1 effect of "The Divine Stone of the Dragon Lords" per turn, and only once that turn. ① If this card is sent to the GY: You can add 1 Level 7 or 8 Dragon monster from your Deck to your hand. ② You can banish this card from your GY, then target 1 Level 7 or 8 Dragon monster that is equipped to a monster you control or is in your GY; add it to your hand. 
+ATK: 0
+DEF: 0
+Last Updated: 14/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The White Stone of Ancients
+Flavour: The White Stone of Ancients retrained for a Dragon Lords archetype.
+Artwork: Created in GIMP using:
+● The White Stone of Ancients
+● Ruins of the Divine Dragon Lords
+
+
+COMMENTS-----------------------------------------------------------------------
+
+The White Stone of Legend: ① If this card is sent to the GY: Add 1 "Blue-Eyes White Dragon" from your Deck to your hand.
+
+The White Stone of Ancients: You can only use effect ② of "The White Stone of Ancients" once per turn. ① Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 "Blue-Eyes" monster from your Deck. ② You can banish this card from your GY, then target 1 "Blue-Eyes" monster in your GY; add it to your hand. 
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 03/04/2024-------------------------------------------
+
+Name: The Divine Stone of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 1
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: If this card is sent to the GY: You can add 1 Level 7 or 8 Dragon monster from your Deck to your hand. You can banish this card from your GY, then target 1 Level 7 or 8 Dragon monster that is equipped to a monster you control or is in your GY; add it to your hand. You can only use 1 effect of "The Divine Stone of the Dragon Lords" per turn, and only once that turn.
+ATK: 0
+DEF: 0
+Comments: Not happy with my original Dragon Lords designs, so reworking and this time balancing them for HAT format.
