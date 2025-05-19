@@ -1,8 +1,8 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Elemental HERO Gale Neos
+Name: Elemental HERO Air Neos - Skyrip Wing
 Card Type: Monster
-Card Subtype(s): Fusion
+Card Subtype(s): Fusion / Effect
 Level: 7
 Attribute: WIND
 Monster Type: Warrior
@@ -10,7 +10,7 @@ Materials: "Elemental HERO Neos" + 1 WIND "Neo-Spacian" monster
 Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Gains ATK equal to the difference between your LP and your opponent's. ② During the End Phase: You can return this card to the Extra Deck; gain LP equal to the number of cards in your opponent's hand and field x 400, and if you do, add 1 "Neos" monster and 1 non-WIND "Neo-Spacian" monster from your Deck to your hand.
 ATK: 2500
 DEF: 2000
-Last Updated: 05/04/2025
+Last Updated: 19/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,10 +24,26 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Alternative name: Elemental HERO Gale Neos
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Elemental HERO Gale Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 7
+Attribute: WIND
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 WIND "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Gains ATK equal to the difference between your LP and your opponent's. ② During the End Phase: You can return this card to the Extra Deck; gain LP equal to the number of cards in your opponent's hand and field x 400, and if you do, add 1 "Neos" monster and 1 non-WIND "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Last Updated: 
+Comments: Renaming in-line with recent Elemental HERO retrains.
+
 
 DATE: 05/04/2025-------------------------------------------
 

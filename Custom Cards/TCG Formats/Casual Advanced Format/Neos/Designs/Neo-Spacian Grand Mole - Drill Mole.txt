@@ -1,0 +1,56 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Spacian Grand Mole - Drill Mole
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Rock
+Effect(s): ① This card's name becomes "Neo-Spacian Grand Mole" while on the field or in the GY. ② When this card is Normal Summoned: You can Special Summon 1 "Neos" or "Neo-Spacian" monster from your hand or Deck in Defense Position. ③ At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.
+ATK: 900
+DEF: 300
+Last Updated: 19/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Neo-Spacian Grand Mole
+Flavour: An updated retrain of Neo-Spacian
+Artwork: Created in GIMP using:
+● Neo-Spacian Grand Mole
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Neo-Spacian Quake Mole
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/04/2025-------------------------------------------
+
+Name: Neo-Spacian Quake Mole
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Rock
+Effect(s): ① When this card is Normal Summoned: You can Special Summon 1 "Neos" or "Neo-Spacian" monster from your hand or Deck in Defense Position. ② At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.
+ATK: 900
+DEF: 300
+Comments: Re-naming in line with recent Elemental HERO retrains, and adding a naming effect for backwards compatibility.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Quake Mole
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Rock
+Effect(s): ① At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.
+ATK: 900
+DEF: 300
+Comments: Adding a Neo-Spacian support effect.

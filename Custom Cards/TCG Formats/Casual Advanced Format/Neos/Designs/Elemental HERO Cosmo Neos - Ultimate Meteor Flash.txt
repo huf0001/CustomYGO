@@ -1,8 +1,8 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Elemental HERO Astro Neos
+Name: Elemental HERO Cosmo Neos - Ultimate Meteor Flash
 Card Type: Monster
-Card Subtype(s): Fusion
+Card Subtype(s): Fusion / Effect
 Level: 11
 Attribute: LIGHT
 Monster Type: Warrior
@@ -10,24 +10,41 @@ Materials: "Elemental HERO Neos" + 3 "Neo-Spacian" monsters with different Attri
 Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards your opponent controls, and if you do, add 1 "Neos" monster and 3 "Neo-Spacian" monsters with different Attributes from your Deck to your hand.
 ATK: 3500
 DEF: 3000
-Last Updated: 05/04/2025
+Last Updated: 19/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Elemental HERO 
-Flavour: An updated retrain of Elemental HERO
+Basis: Elemental HERO Cosmo Neos
+Flavour: An updated retrain of Elemental HERO Cosmo Neos
 Artwork: Created in GIMP using:
-● Elemental HERO
+● Elemental HERO Cosmo Neos
 ● Neo Space
 
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Alternative name: Elemental HERO Astro Neos
+
+Attack name: Ultimate Meteor Flash. As Cosmo Neos is visually a combo of Chaos, Magma, and Storm Neos, its attack name uses elements from the attack names of all three: Ultimate Typhoon (Storm Neos), Meteor Meltdown (Magma Neos), and Chaos Fury Flash (Chaos Neos).
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Astro Neos
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 11
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 3 "Neo-Spacian" monsters with different Attributes
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards your opponent controls, and if you do, add 1 "Neos" monster and 3 "Neo-Spacian" monsters with different Attributes from your Deck to your hand.
+ATK: 3500
+DEF: 3000
+Comments: Re-naming in line with recent Elemental HERO retrains.
+
 
 DATE: 05/04/2025-------------------------------------------
 

@@ -1,0 +1,58 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Spacian Glow Moss - Spore Spear
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: LIGHT
+Monster Type: Plant
+Effect(s): You can only use effect ② of "Neo-Spacian Shining Moss" once per turn. ① This card's name becomes "Neo-Spacian Glow Moss" while on the field or in the GY. ② If you Special Summon a "Neos" Fusion Monster (except during the Damage Step): You can banish this card from your GY; draw 2 cards, then shuffle 1 card from your hand into the Deck. ③ Before damage calculation, if this card battles: Draw 1 card, reveal it, then you can apply the following effect based on its card type. ● Monster: End the Battle Phase. ● Spell: Change the attacking monster's attack to a direct attack. ● Trap: Change 1 battling monster's battle position.
+ATK: 300
+DEF: 900
+Last Updated: 19/05/2025
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Neo-Spacian Glow Moss
+Flavour: An updated retrain of Neo-Spacian Glow Moss
+Artwork: Created in GIMP using:
+● Neo-Spacian Glow Moss
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Neo-Spacian Shining Moss
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/04/2025-------------------------------------------
+
+Name: Neo-Spacian Shining Moss
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: LIGHT
+Monster Type: Plant
+Effect(s): You can only use effect ① of "Neo-Spacian Shining Moss" once per turn. ① If you Special Summon a "Neos" Fusion Monster (except during the Damage Step): You can banish this card from your GY; draw 2 cards, then shuffle 1 card from your hand into the Deck. ② Before damage calculation, if this card battles: Draw 1 card, reveal it, then you can apply the following effect based on its card type. ● Monster: End the Battle Phase. ● Spell: Change the attacking monster's attack to a direct attack. ● Trap: Change 1 battling monster's battle position.
+ATK: 300
+DEF: 900
+Comments: Re-naming in line with recent Elemental HERO retrains, and adding a naming effect for backwards compatibility.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Shining Moss
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: LIGHT
+Monster Type: Plant
+Effect(s): ① Before damage calculation, if this card battles: Draw 1 card, reveal it, then you can apply the following effect based on its card type.
+● Monster: End the Battle Phase.
+● Spell: You can change the attacking monster's attack to a direct attack.
+● Trap: Change this card's battle position. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 300
+DEF: 900
+Comments: Adding a Neo-Spacian support effect and strengthening the base effect from Glow Moss.

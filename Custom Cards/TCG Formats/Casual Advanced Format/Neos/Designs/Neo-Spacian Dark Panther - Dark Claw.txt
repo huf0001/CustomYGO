@@ -1,0 +1,57 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Spacian Dark Panther - Dark Claw
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Beast
+Effect(s): ① This card's name becomes "Neo-Spacian Dark Panther" while on the field or in the GY. ② Once per turn: You can target 1 "Neos" or "Neo-Spacian" monster you control; Special Summon 1 "Neos" or "Neo-Spacian" monster with a different Attribute from your hand. ③ Once per turn: You can target 1 monster your opponent controls or in their GY; until the End Phase, this card's name and effects become that monster's original name and effects (if any), but is still treated as a "Neo-Spacian" card.
+ATK: 1000
+DEF: 500
+Last Updated: 19/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Neo-Spacian Dark Panther
+Flavour: An updated retrain of Neo-Spacian
+Artwork: Created in GIMP using:
+● Neo-Spacian Dark Panther
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Neo-Spacian Shadow Panther
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/04/2025-------------------------------------------
+
+Name: Neo-Spacian Shadow Panther
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Beast
+Effect(s): ① Once per turn: You can target 1 "Neos" or "Neo-Spacian" monster you control; Special Summon 1 "Neos" or "Neo-Spacian" monster with a different Attribute from your hand. ② Once per turn: You can target 1 monster your opponent controls or in their GY; until the End Phase, this card's name and effects become that monster's original name and effects (if any), but is still treated as a "Neo-Spacian" card.
+ATK: 1000
+DEF: 500
+Comments: Re-naming in line with recent Elemental HERO retrains, and adding a naming effect for backwards compatibility.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Shadow Panther
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Beast
+Effect(s): ① Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effects (if any). ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 1000
+DEF: 500
+Last Updated: 
+Comments: Strengthening Dark Panther's base effect and adding a Neo-Spacian support effect.

@@ -1,15 +1,15 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Neo-Spacian Gale Hummingbird
+Name: Neo-Spacian Air Hummingbird - Slaughtering Swoop 
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
 Attribute: WIND
 Monster Type: Winged Beast
-Effect(s): ① Once per turn: You can gain 500 LP for each card your opponent controls and in their hand. ② You can Tribute this card, then target 1 non-Fusion "Neos" or "Neo-Spacian" monster in your GY; Special Summon it in Defense Position.
+Effect(s): ① This card's name becomes "Neo-Spacian Air Hummingbird" while on the field or in the GY. ② Once per turn: You can gain 500 LP for each card your opponent controls and in their hand. ③ You can Tribute this card, then target 1 non-Fusion "Neos" or "Neo-Spacian" monster in your GY; Special Summon it in Defense Position.
 ATK: 800
 DEF: 600
-Last Updated: 05/04/2025
+Last Updated: 19/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -23,10 +23,24 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Alternative name: Neo-Spacian Gale Hummingbird
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Gale Hummingbird
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
+Monster Type: Winged Beast
+Effect(s): ① Once per turn: You can gain 500 LP for each card your opponent controls and in their hand. ② You can Tribute this card, then target 1 non-Fusion "Neos" or "Neo-Spacian" monster in your GY; Special Summon it in Defense Position.
+ATK: 800
+DEF: 600
+Comments: Re-naming in line with recent Elemental HERO retrains, and adding a naming effect for backwards compatibility.
+
 
 DATE: 05/04/2025-------------------------------------------
 

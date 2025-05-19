@@ -1,8 +1,8 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Elemental HERO Volcanic Neos
+Name: Elemental HERO Magma Neos - Meteor Meltdown
 Card Type: Monster
-Card Subtype(s): Fusion
+Card Subtype(s): Fusion / Effect
 Level: 9
 Attribute: FIRE
 Monster Type: Warrior
@@ -11,24 +11,40 @@ Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling th
 ② During the End Phase: You can return this card to the Extra Deck; return all cards on the field, and if you do, add 1 "Neos" monster and 2 "Neo-Spacian" monsters with different Attributes (except FIRE or EARTH) from your Deck to your hand.
 ATK: 3000
 DEF: 2500
-Last Updated: 05/04/2025
+Last Updated: 19/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Elemental HERO 
-Flavour: An updated retrain of Elemental HERO
+Basis: Elemental HERO Magma Neos
+Flavour: An updated retrain of Elemental HERO Magma Neos
 Artwork: Created in GIMP using:
-● Elemental HERO
+● Elemental HERO Magma Neos
 ● Neo Space
 
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Alternative name: Elemental HERO Volcanic Neos
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Volcanic Neos
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 9
+Attribute: FIRE
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 2 "Neo-Spacian" monsters (1 FIRE and 1 EARTH)
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Gains 400 ATK for each card on the field.
+② During the End Phase: You can return this card to the Extra Deck; return all cards on the field, and if you do, add 1 "Neos" monster and 2 "Neo-Spacian" monsters with different Attributes (except FIRE or EARTH) from your Deck to your hand.
+ATK: 3000
+DEF: 2500
+Comments: Re-naming in line with recent Elemental HERO retrains.
+
 
 DATE: 05/04/2025-------------------------------------------
 

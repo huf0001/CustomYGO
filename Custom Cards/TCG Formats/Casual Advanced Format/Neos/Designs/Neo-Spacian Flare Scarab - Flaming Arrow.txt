@@ -1,15 +1,15 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Neo-Spacian Blaze Scarab
+Name: Neo-Spacian Flare Scarab - Flaming Arrow
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
 Attribute: FIRE
 Monster Type: Insect
-Effect(s): ① Gains 400 ATK/DEF for each Spell/Trap your opponent controls. ② When this card is sent to the GY: You can add 1 "Neos" or "Neo-Spacian" monster from your Deck to your hand.
+Effect(s): ① This card's name becomes "Neo-Spacian Flare Scarab" while on the field or in the GY. ② Gains 400 ATK/DEF for each Spell/Trap your opponent controls. ③ When this card is sent to the GY: You can add 1 "Neos" or "Neo-Spacian" monster from your Deck to your hand.
 ATK: 500
 DEF: 500
-Last Updated: 06/04/2025
+Last Updated: 19/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -23,10 +23,24 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Alternative name: Neo-Spacian Blaze Scarab
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/04/2025-------------------------------------------
+
+Name: Neo-Spacian Blaze Scarab
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Insect
+Effect(s): ① Gains 400 ATK/DEF for each Spell/Trap your opponent controls. ② When this card is sent to the GY: You can add 1 "Neos" or "Neo-Spacian" monster from your Deck to your hand.
+ATK: 500
+DEF: 500
+Comments: Re-naming in line with recent Elemental HERO retrains, and adding a naming effect for backwards compatibility.
+
 
 DATE: 05/04/2025-------------------------------------------
 

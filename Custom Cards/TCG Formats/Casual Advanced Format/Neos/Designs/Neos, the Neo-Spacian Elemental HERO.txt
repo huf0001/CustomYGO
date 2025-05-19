@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 7
 Attribute: LIGHT
 Monster Type: Warrior
-Effect(s): ① This card's name becomes "Elemental HERO Neos" on the field and in the GY, but is still treated as a "Neo-Spacian" card. ② If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK/DEF become 1900/1300. ③ You can discard this card; add 1 "Neo Space" Field Spell from your Deck or GY to your hand.
+Effect(s): ① This card's name becomes "Elemental HERO Neos" while on the field or in the GY, but it is still treated as a "Neo-Spacian" card. ② If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK/DEF become 1900/1300. ③ You can discard this card; add 1 "Neo Space" Field Spell from your Deck or GY to your hand.
 ATK: 2500
 DEF: 2000
-Last Updated: 06/04/2025
+Last Updated: 19/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -28,22 +28,15 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 06/04/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Neos, the Neo-Spacian Elemental HERO
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: LIGHT
+Monster Type: Warrior
+Effect(s): ① This card's name becomes "Elemental HERO Neos" on the field and in the GY, but is still treated as a "Neo-Spacian" card. ② If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK/DEF become 1900/1300. ③ You can discard this card; add 1 "Neo Space" Field Spell from your Deck or GY to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Templating adjustment.
