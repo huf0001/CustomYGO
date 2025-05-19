@@ -6,12 +6,12 @@ Card Subtype(s): Effect
 Level: 8
 Attribute: DARK
 Monster Type: Fairy
-Effect(s): ① If your opponent sends a monster they control from the field to the GY (Quick Effect): You can send this card from your hand to the GY. ② If this card is sent from your Deck to the GY, add it to your hand instead. ③ If this card is in your GY while you control "The Sanctuary in the Sky", it gains the following effects.
-● This card can attack and be attacked while in your GY, but if it would be destroyed by battle or card effect, banish it instead.
-● Each time a monster(s) is sent to or leaves your opponent's GY, : Inflict 300 damage to your opponent.
+Effect(s): ① If your opponent sends a monster they control to the GY (Quick Effect): You can discard this card. ② If this card is sent from your Deck to the GY, add it to your hand instead. ③ While this card is in your GY, if you control "The Sanctuary in the Sky", apply the following effects.
+● This card can attack and be targeted for attacks while in your GY, but if it would be destroyed, banish it instead.
+● Each time a monster(s) is sent to or leaves your opponent's GY, inflict 300 damage to your opponent.
 ATK: 2900
 DEF: 2900
-Last Updated: 23/04/2025
+Last Updated: 19/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -31,6 +31,22 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 23/04/2025-------------------------------------------
+
+Name: Hades, Underworld Adjudicator of Olympus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: DARK
+Monster Type: Fairy
+Effect(s): ① If your opponent sends a monster they control from the field to the GY (Quick Effect): You can send this card from your hand to the GY. ② If this card is sent from your Deck to the GY, add it to your hand instead. ③ If this card is in your GY while you control "The Sanctuary in the Sky", it gains the following effects.
+● This card can attack and be attacked while in your GY, but if it would be destroyed, banish it instead.
+● Each time a monster(s) is sent to or leaves your opponent's GY, : Inflict 300 damage to your opponent.
+ATK: 2900
+DEF: 2900
+Comments: Templating adjustments.
+
 
 DATE: 07/04/2025-------------------------------------------
 

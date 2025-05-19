@@ -20,10 +20,13 @@ Basis: Circe, Puppeteer
 Flavour: The Greek goddess Circe, specifically inspired by his depiction in  EPIC: The Musical's Puppeteer.
 Artwork: Created in GIMP using:
 ● Allure Queen LV7
+	● Number 87: Queen of the Night?
+	● Selene, Queen of the Master Magicians?
 ● Magical Marionette? (for the puppet)
 ● The Sanctuary in the Sky?
 ● Change of Heart?
 ● Mind Control?
+● Mesmeric Control?
 
 
 COMMENTS-----------------------------------------------------------------------
