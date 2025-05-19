@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Gaia the Great Stone Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Dragon
+Rules Text: ① Unaffectd by Trap effects. ② During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 "Gaia the Great Stone Dragon LV8" from your hand or Deck.
+ATK: 2500
+DEF: 1000
+Last Updated: 18/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: LV Dragon monsters + Jinzo
+Flavour: The LV Dragon monsters for floodgating Trap cards, as Armed Dragons destroy monsters, and Horus the Black Flame Dragons counter Spells.
+Artwork: Created in GIMP using:
+● Gigastone Dragon
+● Wasteland
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

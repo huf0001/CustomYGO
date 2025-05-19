@@ -1,0 +1,54 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Three-Headed Dragon
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 12
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: "Armed Dragon LV7" + "Horus the Black Flame Dragon LV8" + "Gaia the Great Stone Dragon LV8"
+Must be Fusion Summoned. You can only activate effect ② of "Three-Headed Dragon" up to 3 times per turn. ① If this card is Fusion Summoned: You can destroy all monsters your opponent controls, but "Three-Headed Dragon" you control cannot attack this turn. ② If your opponent activates a Spell/Trap Card or effect (Quick Effect): You can negate the activation, and if you do, destroy it.
+ATK: 4400
+DEF: 4000
+Last Updated: 18/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: LV Dragon monsters + Jinzo
+Flavour: A combinationn of LV Dragon monsters designed to combat monsters (Armed Dragon), Spells (Horus the Black Flame Dragon), and Traps (Gaia the Great Stone Dragon).
+Artwork: Created in GIMP using:
+● Armed Dragon LV7?
+● Horus the Black Flame Dragon LV8?
+● Megarock Dragon?
+● Body (front-facing dragon):
+	● Diabolos, King of the Abyss?
+	● Lightray Diabolos?
+	● Red Supernova Dragon?
+	● Ultimate Dragon of Pride and Soul?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

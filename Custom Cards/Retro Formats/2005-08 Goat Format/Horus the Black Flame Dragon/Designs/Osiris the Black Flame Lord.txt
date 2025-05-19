@@ -5,13 +5,13 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Beast-Warrior
-Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of the next turn, it gains 700 ATK and one of the following effects, based on its original Level.
-● 4: This card is unaffected by Spell effects.
-● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
-● 8: Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
+Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the End Phase, it gains 700 ATK and 1 of the following effects, based on its "LV".
+● "LV4": Unaffected by Spell effects.
+● "LV6": When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+● "LV8": Negate all Spell effects on your opponent's field.
 ATK: 700
 DEF: 0
-Last Updated: 1/12/2024
+Last Updated: 18/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -35,10 +35,26 @@ Keep an eye on if this effect needs to be limited to hard once per turn. Also, t
 ● No bonus effect at all, and Horus just gains ATK. In this case, perhaps Temple of the Black Flame Dragon could take this part of the effect for itself and just apply it continuously, instead of the current iteration's effects.
 ● No Quick Effect status, forcing you to use it on your turn and preventing you from using it reactively to protect Horus LV4 from Spell effects.
 
-Also, there was a comparison made on Reddit between Osiris and Blackwing - Kalut the Moon Shadow (LV3 / DARK / Winged Beast / 1400 ATK / 1000 DEF) whose effect(s) read: "During the Damage Step, when your "Blackwing" monster battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 1400 ATK until the end of this turn." which is a stronger ATK boost, but more restricted in its application, and without other benefits.
+Also, there was a comparison made on Reddit between Osiris and Blackwing - Kalut the Moon Shadow (LV3 / DARK / Winged Beast / 1400 ATK / 1000 DEF) whose effects read: "During the Damage Step, when your "Blackwing" monster battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 1400 ATK until the end of this turn." which is a stronger ATK boost, but more restricted in its application, and without other benefits.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 1/12/2024-------------------------------------------
+
+Name: Osiris the Black Flame Lord
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Beast-Warrior
+Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of the next turn, it gains 700 ATK and one of the following effects, based on its original Level.
+● 4: This card is unaffected by Spell effects.
+● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+● 8: Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
+ATK: 700
+DEF: 0
+Comments: Making some tweaks to shorten and correct some of the text, and also to add some clarification in other areas.
+
 
 DATE: 24/11/2024-------------------------------------------
 
@@ -47,7 +63,7 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Warrior
-Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of the next turn, it gains 700 ATK and one of the following effects, based on its original Level.
+Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of the next turn, it gains 700 ATK and one of the following effects, based on its original Level.
 ● 4: This card is unaffected by Spell effects.
 ● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
 ● 8: Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
@@ -63,7 +79,7 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Warrior
-Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK and one of the following effects, based on its original Level.
+Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK and one of the following effects, based on its original Level.
 ● 4: This card is unaffected by Spell effects.
 ● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
 ● 8: Your opponent cannot activate Spell Cards or their effects on the field. Negate all Spell effects on your opponent's field.
@@ -79,7 +95,7 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Warrior
-Effect(s): ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK, also its effect listed below becomes the effect listed after it.
+Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the end of this turn, it gains 700 ATK, also its effect listed below becomes the effect listed after it.
 ● Control of this face-up card cannot switch.
 ● This card is unaffected by Spell effects.
 ● When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
@@ -96,7 +112,7 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Warrior
-Effect(s): ① If this card is destroyed by battle and sent to the GY: You can add 1 "Horus the Black Flame Dragon LV4" from your Deck to your hand.
+Rules text: ① If this card is destroyed by battle and sent to the GY: You can add 1 "Horus the Black Flame Dragon LV4" from your Deck to your hand.
 ATK: 900
 DEF: 0
 Comments: This effect feels too defensive or self-detrimental, perhaps something to facilitate upgrading one Horus to the next more quickly. Horus LV8 can't upgrade further, so perhaps designing it in such a way that Horus LV8 also gets a benefit? 
@@ -109,7 +125,7 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Dragon
-Effect(s): ① During the End Phase, if you control this face-up card your opponent owns: Return control of this card to its owner. ② During your Standby Phase: You can send this card to the GY; Special Summon 1 "Horus the Black Flame Dragon LV4" from your hand or Deck.
+Rules text: ① During the End Phase, if you control this face-up card your opponent owns: Return control of this card to its owner. ② During your Standby Phase: You can send this card to the GY; Special Summon 1 "Horus the Black Flame Dragon LV4" from your hand or Deck.
 ATK: 900
 DEF: 0
 Comments: Had a look at some Goat format Horus decks, and the way they try to get Horus on the field would not be helped by Horus LV2's effect as is, and adding Masked Dragon to try and facilitate its summoning method would force you to consider removing the combos for cheating out Horus LV6. Needs re-working to provide helpful support.

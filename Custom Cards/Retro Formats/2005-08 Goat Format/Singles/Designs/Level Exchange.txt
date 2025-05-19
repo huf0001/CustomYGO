@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Level Exchange
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Reveal 1 "LV" monster in your hand; shuffle it into the Deck, then add 1 of the following monsters with the same name but a lower "LV" from your Deck to your hand.
+● A monster with a "LV" 2 lower than the revealed monster.
+● A monster mentioned on the revealed monster.
+Last Updated: 18/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: LV monsters
+Flavour: Exchanging an over-levelled LV monster in your hand for a lower-levelled LV monster you can actually Summon.
+Artwork: Created in GIMP using:
+● Horus the Black Flame Dragon LV6?
+● Horus the Black Flame Dragon LV8?
+● Infinite Cards?
+	● LV8 becoming LV6 with a blurred / smudged white line gradient reveal?
+	● Other cards in a Horus lockdown deck?
+● Ante? / Exchange?
+	● LV8 stamped with "RETURN TO SENDER" in red?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): N/A
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): N/A
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
