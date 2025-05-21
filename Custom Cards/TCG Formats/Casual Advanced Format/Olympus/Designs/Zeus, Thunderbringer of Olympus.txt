@@ -6,7 +6,7 @@ Card Subtype(s): Effect
 Level: 8
 Attribute: WIND
 Monster Type: Fairy
-Effect(s): You can only activate effect ② of "Zeus, Thunderbringer of Olympus" once per turn. ① If a monster you control is destroyed: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can target any number of monsters your opponent controls; your opponent chooses 1 of the following effects for you to apply.
+Rules text: You can only activate effect ② of "Zeus, Thunderbringer of Olympus" once per turn. ① If a monster you control is destroyed: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can target any number of monsters your opponent controls; your opponent chooses 1 of these effects for you to apply.
 ● Destroy those targets.
 ● Destroy all monsters your opponent controls, except those targets.
 ATK: 3000
@@ -30,6 +30,22 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 19/05/2025-------------------------------------------
+
+Name: Zeus, Thunderbringer of Olympus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: WIND
+Monster Type: Fairy
+Rules text: You can only activate effect ② of "Zeus, Thunderbringer of Olympus" once per turn. ① If a monster you control is destroyed: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can target any number of monsters your opponent controls; your opponent chooses 1 of the following effects for you to apply.
+● Destroy those targets.
+● Destroy all monsters your opponent controls, except those targets.
+ATK: 3000
+DEF: 2800
+Comments: Templating update.
+
+
 DATE: 07/04/2025-------------------------------------------
 
 Name: Zeus, Thunderbringer of Olympus
@@ -38,10 +54,9 @@ Card Subtype(s): Effect
 Level: 8
 Attribute: WIND
 Monster Type: Fairy
-Effect(s): ① If a monster you control is destroyed by battle or card effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can target any number of monsters your opponent controls; your opponent chooses 1 of the following effects for you to apply.
+Rules text: ① If a monster you control is destroyed by battle or card effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can target any number of monsters your opponent controls; your opponent chooses 1 of the following effects for you to apply.
 ● Destroy those targets.
 ● Destroy all monsters your opponent controls, except those targets.
 ATK: 3000
 DEF: 2800
-Last Updated: 
 Comments: Adding a hard once per turn to effect ② to prevent abuse, and updating the templating.

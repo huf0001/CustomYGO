@@ -6,8 +6,8 @@ Card Subtype(s): Effect
 Level: 8
 Attribute: WATER
 Monster Type: Fairy
-Effect(s): You can only activate effect ② of "Poseidon, Tideshaker of Olympus" once per turn. ① If a monster you control battles an opponent's monster: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
-● Look at your opponent's hand and sort it into 2 piles. Your opponent chooses 1 to shuffle into the Deck, then they draw the same number of cards.
+Rules text: You can only activate effect ② of "Poseidon, Tideshaker of Olympus" once per turn. ① If a monster you control battles an opponent's monster: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of these effects.
+● Your opponent shuffles their hand into their Deck, then they draw the same number of cards.
 ● Destroy all Spell/Trap Cards your opponent controls.
 ATK: 2800
 DEF: 3000
@@ -30,6 +30,22 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 19/05/2025-------------------------------------------
+
+Name: Poseidon, Tideshaker of Olympus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: WATER
+Monster Type: Fairy
+Rules text: You can only activate effect ② of "Poseidon, Tideshaker of Olympus" once per turn. ① If a monster you control battles an opponent's monster: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
+● Look at your opponent's hand and sort it into 2 piles. Your opponent chooses 1 to shuffle into the Deck, then they draw the same number of cards.
+● Destroy all Spell/Trap Cards your opponent controls.
+ATK: 2800
+DEF: 3000
+Comments: Changing the hand-affecting option to provide less information to the player.
+
+
 DATE: 10/05/2025-------------------------------------------
 
 Name: Poseidon, Tideshaker of Olympus
@@ -38,7 +54,7 @@ Card Subtype(s): Effect
 Level: 8
 Attribute: WATER
 Monster Type: Fairy
-Effect(s): ① If a monster you control battles an opponent's monster: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
+Rules text: ① If a monster you control battles an opponent's monster: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
 ● Look at your opponent's hand and sort it into 2 piles. Your opponent chooses 1 to shuffle into the Deck, then they draw the same number of cards.
 ● Destroy all Spell/Trap Cards your opponent controls.
 ATK: 2800
@@ -54,7 +70,7 @@ Card Subtype(s): Effect
 Level: 8
 Attribute: WATER
 Monster Type: Fairy
-Effect(s): ① If a monster you control is targeted by your opponent's card or effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
+Rules text: ① If a monster you control is targeted by your opponent's card or effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
 ● Look at your opponent's hand and sort it into 2 piles. Your opponent chooses 1 to shuffle into the Deck, then they draw the same number of cards.
 ● Destroy all Spell/Trap Cards your opponent controls.
 ATK: 2800
@@ -70,7 +86,7 @@ Card Subtype(s): Effect
 Level: 8
 Attribute: WATER
 Monster Type: Fairy
-Effect(s): ① If a monster you control is targeted by your opponent's card or effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
+Rules text: ① If a monster you control is targeted by your opponent's card or effect: You can Special Summon this card from your hand. ② If this card is Summoned while you control "The Sanctuary in the Sky": You can activate 1 of the following effects.
 ● Destroy all Spell/Trap Cards your opponent controls.
 ● Look at your opponent's hand and sort it into 2 piles. Your opponent chooses 1 to send to the GY.
 ATK: 2800

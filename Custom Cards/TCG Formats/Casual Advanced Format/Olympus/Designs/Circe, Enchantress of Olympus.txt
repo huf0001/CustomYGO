@@ -6,7 +6,7 @@ Card Subtype(s): Effect
 Level: 6
 Attribute: WATER
 Monster Type: Fairy
-Effect(s): You can only activate effect ② of "Circe, Enchantress of Olympus" once per turn. ① If your opponent Special Summons a monster: You can Special Summon this card from your hand. ② During your Main Phase: You can target 1 monster your opponent controls; apply 1 of the following effects while you control "Circe, Enchantress of Olympus". 
+Rules text: You can only activate effect ② of "Circe, Enchantress of Olympus" once per turn. ① If your opponent Special Summons a monster: You can Special Summon this card from your hand. ② During your Main Phase: You can target 1 monster your opponent controls; apply 1 of the following effects while you control "Circe, Enchantress of Olympus". 
 ● The target's effects are negated, and its ATK/DEF become 0. 
 ● Take control of the target. You must control "The Sanctuary in the Sky" and no other monsters to apply this effect.
 ATK: 2200
@@ -46,11 +46,11 @@ Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-
 Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Pendulum Rules text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Monster Type: ABCDEF
 Materials: N/A
 Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+(Monster) Rules text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999
