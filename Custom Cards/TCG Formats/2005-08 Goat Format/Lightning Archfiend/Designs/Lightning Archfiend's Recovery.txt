@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Lightning Archfiend's Recovery
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① If a "Lightning Archfiend" monster you control is targeted for an attack: Target the attacking monster; negate the attack, and if you do, shuffle your "Lightning Archfiend" monster into your Deck, then draw 2 cards.
+Last Updated: 21/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Monster Recovery
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Monster Recovery
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
