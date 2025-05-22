@@ -1,0 +1,19 @@
+Version number A.B.C
+
+Increment A when:
+
+	Publishing a new archetype.
+	Publishing a new series.
+	Publishing a new custom card type.
+	Overhauling an archetype.
+	Overhauling a series.
+	Overhauling a custom card type.
+
+Increment B when:
+
+	Publishing a new single.
+	
+Increment C when:
+
+	Errata-ing a card(s).
+	Restructuring Published Cards.
