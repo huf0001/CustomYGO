@@ -1,23 +1,23 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Horned Beast of the Lightning Archfiend
+Name: Stone Soldier of the Elf Kingdom
 Card Type: Monster
 Card Subtype(s): Effect
-Level: 4
-Attribute: DARK
-Monster Type: Fiend
+Level: 3
+Attribute: EARTH
+Monster Type: Rock
 Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 1200
-DEF: 1500
-Last Updated: 21/05/2025
+ATK: 1300
+DEF: 2000
+Last Updated: 22/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Griffore
+Basis: Giant Soldier of Stone
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Griffore
+● Giant Soldier of Stone
 
 
 COMMENTS-----------------------------------------------------------------------
