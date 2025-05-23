@@ -3,10 +3,10 @@ TECHNICAL----------------------------------------------------------------------
 Name: Level Exchange
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): ① Reveal 1 "LV" monster in your hand; shuffle it into the Deck, then add 1 of the following monsters with the same name but a lower "LV" from your Deck to your hand.
-● A monster with a "LV" 2 lower than the revealed monster.
-● A monster mentioned on the revealed monster.
-Last Updated: 18/05/2025
+Effect(s): ① Reveal 1 "LV" monster in your hand; shuffle it into the Deck, then add 1 of these monsters with a lower Level from your Deck to your hand.
+● A "LV" monster that mentions the revealed monster.
+● A "LV" monster mentioned on the revealed monster.
+Last Updated: 23/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,22 +30,12 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 18/05/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Level Exchange
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Reveal 1 "LV" monster in your hand; shuffle it into the Deck, then add 1 of the following monsters with the same name but a lower "LV" from your Deck to your hand.
+● A monster with a "LV" 2 lower than the revealed monster.
+● A monster mentioned on the revealed monster.
+Comments: Templating update, as I'm not sure "same name but a lower "LV"" technically works, on account of the name being different.

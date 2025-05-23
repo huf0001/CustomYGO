@@ -5,10 +5,10 @@ Card Type: Monster
 Card Subtype(s): Effect
 Attribute: FIRE
 Monster Type: Beast-Warrior
-Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the End Phase, it gains 700 ATK and 1 of the following effects, based on its "LV".
-● "LV4": Unaffected by Spell effects.
-● "LV6": When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
-● "LV8": Negate all Spell effects on your opponent's field.
+Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the End Phase, it gains 700 ATK and 1 of these effects, based on its original Level.
+● 4: Unaffected by Spell effects.
+● 6: When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+● 8: Negate all Spell effects on your opponent's field.
 ATK: 700
 DEF: 0
 Last Updated: 18/05/2025
@@ -39,6 +39,22 @@ Also, there was a comparison made on Reddit between Osiris and Blackwing - Kalut
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/05/2025-------------------------------------------
+
+Name: Osiris the Black Flame Lord
+Card Type: Monster
+Card Subtype(s): Effect
+Attribute: FIRE
+Monster Type: Beast-Warrior
+Rules text: ① (Quick Effect): You can send this card from your hand to the GY, then target 1 "Horus the Black Flame Dragon" monster you control; until the End Phase, it gains 700 ATK and 1 of the following effects, based on its "LV".
+● "LV4": Unaffected by Spell effects.
+● "LV6": When a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+● "LV8": Negate all Spell effects on your opponent's field.
+ATK: 700
+DEF: 0
+Comments: Templating update.
+
 
 DATE: 1/12/2024-------------------------------------------
 

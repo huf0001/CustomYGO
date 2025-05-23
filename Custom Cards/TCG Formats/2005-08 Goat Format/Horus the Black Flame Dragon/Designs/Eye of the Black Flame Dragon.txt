@@ -3,10 +3,10 @@ TECHNICAL----------------------------------------------------------------------
 Name: Eye of the Black Flame Dragon
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): You can only activate 1 "Eye of the Black Flame Dragon" per turn. ① Activate 1 of the following effects.
+Effect(s): You can only activate 1 "Eye of the Black Flame Dragon" per turn. ① Activate 1 of these effects.
 ● Add 1 Level 4 or lower "Horus" or "Black Flame" monster from your Deck to your hand.
-● Reveal 1 "Horus the Black Flame Dragon" monster from your hand; add 1 card that is mentioned on that monster from your Deck to your hand, then shuffle that revealed monster into your Deck.
-Last Updated: 24/11/2024
+● Reveal 1 Level 6 or higher "Horus the Black Flame Dragon" monster in your hand; shuffle it into the Deck, then draw 2 cards.
+Last Updated: 23/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -26,6 +26,17 @@ Consider pulling back to just searching Horus LV4 for the first effect if it's t
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 24/11/2024-------------------------------------------
+
+Name: Eye of the Black Flame Dragon
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): You can only activate 1 "Eye of the Black Flame Dragon" per turn. ① Activate 1 of the following effects.
+● Add 1 Level 4 or lower "Horus" or "Black Flame" monster from your Deck to your hand.
+● Reveal 1 "Horus the Black Flame Dragon" monster from your hand; add 1 card that is mentioned on that monster from your Deck to your hand, then shuffle that revealed monster into your Deck.
+Comments: Changing how option 2 works.
+
 
 DATE: 07/10/2024-------------------------------------------
 
