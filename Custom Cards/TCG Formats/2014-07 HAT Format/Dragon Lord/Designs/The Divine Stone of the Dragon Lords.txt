@@ -6,16 +6,16 @@ Card Subtype(s): Tuner / Effect
 Level: 1
 Attribute: LIGHT
 Monster Type: Dragon
-Rules Text: You can only use 1 effect of "The Divine Stone of the Dragon Lords" per turn, and only once that turn. ① If this card is sent to the GY: You can add 1 Level 7 or 8 Dragon monster from your Deck to your hand. ② You can banish this card from your GY, then target 1 Level 7 or 8 Dragon monster that is equipped to a monster you control or is in your GY; add it to your hand. 
+Rules Text: ① If this card is Normal or Special Summoned: You can target 1 other "Dragon Lord" monster you control; increase or decrease its Level by 1. ② If this card is sent to the GY: You can add 1 Level 4 or lower "Dragon Lord" monster from your Deck to your hand.
 ATK: 0
 DEF: 0
-Last Updated: 14/05/2025
+Last Updated: 25/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: The White Stone of Ancients
-Flavour: The White Stone of Ancients retrained for a Dragon Lords archetype.
+Basis: The White Stone of Legend
+Flavour: The White Stone of Legend retrained for a Dragon Lords archetype.
 Artwork: Created in GIMP using:
 ● The White Stone of Ancients
 ● Ruins of the Divine Dragon Lords
@@ -30,7 +30,21 @@ The White Stone of Ancients: You can only use effect ② of "The White Stone of 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: 03/04/2024-------------------------------------------
+DATE: 14/05/2025-------------------------------------------
+
+Name: The Divine Stone of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 1
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: You can only use 1 effect of "The Divine Stone of the Dragon Lords" per turn, and only once that turn. ① If this card is sent to the GY: You can add 1 Level 7 or 8 Dragon monster from your Deck to your hand. ② You can banish this card from your GY, then target 1 Level 7 or 8 Dragon monster that is equipped to a monster you control or is in your GY; add it to your hand. 
+ATK: 0
+DEF: 0
+Comments: Doing the full Dragon Lords overhaul with a spreadsheet of effects and everything.
+
+
+DATE: 03/04/2025-------------------------------------------
 
 Name: The Divine Stone of the Dragon Lords
 Card Type: Monster

@@ -6,13 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Dragon
-Rules Text: ① Once per turn: You can discard 1 card, then activate 1 of these effects;
-● Send 1 Dragon monster from your Deck to the GY.
-● Add 1 Level 7 or 8 Dragon monster from your GY to your hand.
-● Equip 1 Level 7 or 8 Dragon monster from your GY to a monster you control, except "Herald of the Dragon Lords".
+Rules Text: ① If this card is Normal or Special Summoned: You can equip 1 "Dragon Lord" monster from your hand or GY to this card. ② Once per turn: You can discard 1 card or send 1 "Dragon Lord" card equipped to this card to the GY; Send 1 "Dragon Lord" monster from your Deck to your GY. ③ If this card is sent to the GY: You can target 1 "Dragon Lord" monster in your GY, except "Herald of the Dragon Lords"; either equip it to a "Dragon Lord" monster you control, or add it to your hand. 
 ATK: 1700
 DEF: 100
-Last Updated: 14/05/2025
+Last Updated: 25/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -37,7 +34,24 @@ Guardian of Felgrand: ① If this card is Normal or Special Summoned: You can eq
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: 03/04/2024-------------------------------------------
+DATE: 14/05/2025-------------------------------------------
+
+Name: Herald of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: ① Once per turn: You can discard 1 card, then activate 1 of these effects;
+● Send 1 Dragon monster from your Deck to the GY.
+● Add 1 Level 7 or 8 Dragon monster from your GY to your hand.
+● Equip 1 Level 7 or 8 Dragon monster from your GY to a monster you control, except "Herald of the Dragon Lords".
+ATK: 1700
+DEF: 100
+Comments: Doing the full overhaul of my Dragon Lords cards, with a spreadsheet of effects and everything.
+
+
+DATE: 03/04/2025-------------------------------------------
 
 Name: Herald of the Dragon Lords
 Card Type: Monster

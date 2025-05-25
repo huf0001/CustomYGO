@@ -1,12 +1,12 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: The Skeletal Stone of the Dragon Lords
+Name: Skull of the Dragon Lords
 Card Type: Monster
 Card Subtype(s): Tuner / Effect
 Level: 1
 Attribute: DARK
-Monster Type: Dragon
-Rules Text: You can only use 1 "The Skeletal Stone of the Dragon Lords" effect per turn and only once that turn. ① This card can be treated as a Zombie monster when used for a Synchro Summon. ② If a monster(s) is Special Summoned from either GY (Quick Effect): You can send this card from your hand to the GY, then target 1 of those Special Summoned monsters; negate its effects until the end of this turn. ③ If you Special Summon a Level 7 or 8 monster (Dragon or Zombie) from your GY (Quick Effect): You can Special Summon this card from your GY, but banish it when it leaves the field. 
+Monster Type: Zombie
+Rules Text: ① If this card is Normal or Special Summoned: You can target 1 other "Dragon Lord" monster you control; increase or decrease its Level by 1. ② If you Special Summon a Level 7 or higher monster (Dragon or Zombie) while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field.
 ATK: 0
 DEF: 0
 Last Updated: 14/05/2025
@@ -32,7 +32,21 @@ Skeletal Dragon Felgrand: You can only use each effect of "Skeletal Dragon Felgr
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: 04/04/2024-------------------------------------------
+DATE: 14/05/2025-------------------------------------------
+
+Name: The Skeletal Stone of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 1
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: You can only use 1 "The Skeletal Stone of the Dragon Lords" effect per turn and only once that turn. ① This card can be treated as a Zombie monster when used for a Synchro Summon. ② If a monster(s) is Special Summoned from either GY (Quick Effect): You can send this card from your hand to the GY, then target 1 of those Special Summoned monsters; negate its effects until the end of this turn. ③ If you Special Summon a Level 7 or 8 monster (Dragon or Zombie) from your GY (Quick Effect): You can Special Summon this card from your GY, but banish it when it leaves the field. 
+ATK: 0
+DEF: 0
+Comments: Doing the full Dragon Lords overhaul, with a spreadsheet of effects and everything.
+
+
+DATE: 04/04/2025-------------------------------------------
 
 Name: The Skeletal Stone of the Dragon Lords
 Card Type: Monster

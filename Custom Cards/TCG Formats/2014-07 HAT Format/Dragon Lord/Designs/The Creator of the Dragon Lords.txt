@@ -1,15 +1,15 @@
 TECHNICAL----------------------------------------------------------------------
-● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
 Name: The Creator of the Dragon Lords
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 8
 Attribute: LIGHT
 Monster Type: Thunder
-Rules Text: ① This card is also treated as a Dragon monster while in the GY. ② Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can target 1 Level 7 or 8 Dragon monster in your GY, except "The Creator of the Dragon Lords"; Special Summon it. ③ Once per turn: You can send 1 other face-up card you control to the GY, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.
+Rules Text: You can only activate effect ② of "The Creator of the Dragon Lords" once per turn. ① You can Special Summon this card (from your hand) by Tributing 1 monster equipped with a "Dragon Lord" card. ② During your Main Phase: You can target 1 monster you control that is not equipped with an Equip Spell; equip 1 "Dragon Lord" monster from your hand or GY to that target.
 ATK: 2300
 DEF: 3000
-Last Updated: 14/05/2025
+Last Updated: 25/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,7 +30,21 @@ Arkbrave Dragon: ① If this card is Special Summoned from the GY: You can banis
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: 03/04/2024-------------------------------------------
+DATE: 14/05/2025-------------------------------------------
+
+Name: The Creator of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT
+Monster Type: Thunder
+Rules Text: ① This card is also treated as a Dragon monster while in the GY. ② Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can target 1 Level 7 or 8 Dragon monster in your GY, except "The Creator of the Dragon Lords"; Special Summon it. ③ Once per turn: You can send 1 other face-up card you control to the GY, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.
+ATK: 2300
+DEF: 3000
+Comments: Doing the full Dragon Lords overhaul with a spreadsheet of effects and everything.
+
+
+DATE: 03/04/2025-------------------------------------------
 
 Name: The Creator of the Dragon Lords
 Card Type: Monster
