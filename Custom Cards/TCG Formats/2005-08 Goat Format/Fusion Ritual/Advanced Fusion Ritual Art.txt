@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Advanced Fusion Ritual Art
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Reveal 1 Fusion Monster that must first be Special Summoned by a "Fusion Ritual" card or a "Fusion Ritual" card whose name it mentions; send Normal monsters from your Deck to the GY whose total Levels equal the Level of the revealed Fusion Monster, and, after that, Special Summon that Fusion Monster. (If the Fusion Monster must first be Special Summoned with a "Fusion Ritual" card whose name it mentions, this Special Summon is treated as a Special Summon with that card.)
+Last Updated: 29/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Advanced Ritual Art
+Flavour: Advanced Ritual Art for Extra Deck (Fusion) Ritual Monsters.
+Artwork: Created in GIMP using:
+● Advanced Ritual Art
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Using non-standard templating of "and, after that" to indicate both A and B are required but sequential. Both but sequential doesn't have a PSCT conjunctive to indicate it. So I am indicating it by adapting "and" (A and B required, simultaneous) in the same manner that "also, after that" (neither A or B required, sequential) adapts "also" (neither A or B required, simultaneous).
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

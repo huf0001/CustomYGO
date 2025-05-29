@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Exxod, Guardian of the Valley of Kings
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Rock
+Rules Text: Must first be Special Summoned (from your Extra Deck) with "Royal Guard Fusion Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 0
+DEF: 4000
+Last Updated: 29/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Exxod, Master of the Guard
+Flavour: Ritual retrain of Exxod, Master of the Guard
+Artwork: Created in GIMP using:
+● Exxod, Master of the Guard
+● Spellbinding Circle
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
