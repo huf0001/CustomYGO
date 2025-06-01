@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rare Metal Ascension
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① Tribute up to 4 monsters you control with a Metal Counter on them, and, after that, Special Summon 1 "Rare Metal" monster that cannot be Normal Summoned/Set from your hand, Deck, or Extra Deck whose ATK is equal to or less than the total number of Metal Counters on the Tributed monsters x 800, then place 1 Metal Counter on the Special Summoned monster.
+Last Updated: 30/05/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Atium
+Flavour: A bead of Atium from the Pits of Hathsin, which also corrupts monsters to turn them into Rare Metal monsters.
+Artwork: Created in GIMP using:
+● Black Luster Ritual
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Rare Metal
 Card Type: Spell
 Card Subtype(s): Quick-Play
-Effect(s): Declare 1 card type (Monster, Spell, or Trap); excavate the top 5 cards of your opponent's Deck, then distribute a number of Metal Counters on face-up cards on the field equal to twice the number of excavated cards that were the declared type, also place the excavated cards on top of the Deck in the same order.
-Last Updated: 03/05/2024
+Rules Text: ① If you control a "Rare Metal" monster: Declare 1 card type (Monster, Spell, or Trap); excavate the top 3 cards of your opponent's Deck, then distribute a number of Metal Counters on face-up cards on the field equal to twice the number of excavated cards that were the declared type, also place the excavated cards on top of the Deck in the same order.
+Last Updated: 30/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,22 +24,10 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 03/05/2024-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Rare Metal
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: Declare 1 card type (Monster, Spell, or Trap); excavate the top 5 cards of your opponent's Deck, then distribute a number of Metal Counters on face-up cards on the field equal to twice the number of excavated cards that were the declared type, also place the excavated cards on top of the Deck in the same order.
+Comments: Updating formatting, plus making some adjustments to this archetype.

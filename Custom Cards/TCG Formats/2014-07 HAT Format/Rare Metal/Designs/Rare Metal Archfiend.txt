@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Fiend
-Effect(s): You can discard this card to the GY; take 1 "Rare Metal Cavern" from your Deck or GY, and either activate it or add it to your hand, and if you do, place 1 Metal Counter on 1 face-up card on the field. "Rare Metal" monsters you control gain 200 ATK/DEF for each Metal Counter on them.
+Rules Text: ① You can discard this card to the GY; take 1 "Rare Metal Cavern" from your Deck or GY, and either activate it or add it to your hand, and if you do, place 1 Metal Counter on 1 face-up card on the field. ② "Rare Metal" monsters you control gain 200 ATK/DEF for each Metal Counter on them.
 ATK: 1900
 DEF: 1100
-Last Updated: 29/04/2024
+Last Updated: 30/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,27 +24,20 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Add effect that buffs monster it gets used as Tribute for?
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 29/04/2024-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Rare Metal Archfiend
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Fiend
+Rules Text: You can discard this card to the GY; take 1 "Rare Metal Cavern" from your Deck or GY, and either activate it or add it to your hand, and if you do, place 1 Metal Counter on 1 face-up card on the field. "Rare Metal" monsters you control gain 200 ATK/DEF for each Metal Counter on them.
+ATK: 1900
+DEF: 1100
+Comments: Updating formatting, plus making some adjustments to this archetype.

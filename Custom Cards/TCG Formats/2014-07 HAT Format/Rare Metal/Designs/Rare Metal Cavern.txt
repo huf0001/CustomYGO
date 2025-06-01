@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Rare Metal Cavern
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): Once per turn: You can Special Summon 1 "Rare Metal" monster from your hand and place 1 Metal Counter on it. You cannot Normal Summon/Set during the turn you activate this effect. If a monster with a Metal Counter(s) is destroyed, place its Metal Counters on this card. While there are 6 or more Metal Counters on the field, only Level 4 monsters can attack.
-Last Updated: 03/05/2024
+Rules Text: ① Once per turn: You can Special Summon 1 "Rare Metal" monster from your hand and place 1 Metal Counter on it. You cannot Normal Summon/Set during the turn you activate this effect. ② If a monster with a Metal Counter(s) is destroyed, place its Metal Counters on this card. ③ While there are 6 or more Metal Counters on the field, only Level 4 monsters can attack.
+Last Updated: 30/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,22 +24,10 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 03/05/2024-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Rare Metal Cavern
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: Once per turn: You can Special Summon 1 "Rare Metal" monster from your hand and place 1 Metal Counter on it. You cannot Normal Summon/Set during the turn you activate this effect. If a monster with a Metal Counter(s) is destroyed, place its Metal Counters on this card. While there are 6 or more Metal Counters on the field, only Level 4 monsters can attack.
+Comments: Updating formatting, plus making some adjustments to this archetype.

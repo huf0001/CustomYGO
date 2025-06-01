@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
 Monster Type: Machine
-Effect(s): While this card has a Metal Counter, if a "Rare Metal" monster you control with a Metal Counter attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card destroys an opponent's monster by battle: You can target 1 "Rare Metal" monster in your GY; Special Summon it and place 1 Metal Counter on it.
+Rules Text: ① While this card has a Metal Counter, if a "Rare Metal" monster you control with a Metal Counter attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. ② If this card destroys an opponent's monster by battle: You can target 1 "Rare Metal" monster in your GY; Special Summon it and place 1 Metal Counter on it.
 ATK: 1800
 DEF: 500
-Last Updated: 04/05/2024
+Last Updated: 30/05/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,27 +22,20 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Add effect that buffs monster it gets used as Tribute for?
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 04/05/2024-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Rare Metal Golem
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Machine
+Rules Text: While this card has a Metal Counter, if a "Rare Metal" monster you control with a Metal Counter attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card destroys an opponent's monster by battle: You can target 1 "Rare Metal" monster in your GY; Special Summon it and place 1 Metal Counter on it.
+ATK: 1800
+DEF: 500
+Comments: Updating formatting, plus making some adjustments to this archetype.
