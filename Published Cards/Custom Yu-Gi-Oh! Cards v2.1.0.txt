@@ -10,6 +10,10 @@ Gladiator Format
 
 Edison Format
 
+	Metal Counterparts
+	
+		HUED-EN002	Metal-Armoured Ryu Kokki					(Monster/Evolution/Effect)
+	
 	Singles
 	
 		HUED-EN001	The Restless Grave							(Spell/Equip)
