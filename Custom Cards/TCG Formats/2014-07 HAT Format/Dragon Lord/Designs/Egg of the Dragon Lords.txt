@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: The Divine Stone of the Dragon Lords
+Name: Egg of the Dragon Lords
 Card Type: Monster
 Card Subtype(s): Tuner / Effect
 Level: 1
@@ -9,7 +9,7 @@ Monster Type: Dragon
 Rules Text: ① If this card is Normal or Special Summoned: You can target 1 other "Dragon Lord" monster you control; increase or decrease its Level by 1. ② If this card is sent to the GY: You can add 1 Level 4 or lower "Dragon Lord" monster from your Deck to your hand.
 ATK: 0
 DEF: 0
-Last Updated: 25/05/2025
+Last Updated: 01/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,6 +29,20 @@ The White Stone of Ancients: You can only use effect ② of "The White Stone of 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 25/05/2025-------------------------------------------
+
+Name: The Divine Stone of the Dragon Lords
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 1
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: ① If this card is Normal or Special Summoned: You can target 1 other "Dragon Lord" monster you control; increase or decrease its Level by 1. ② If this card is sent to the GY: You can add 1 Level 4 or lower "Dragon Lord" monster from your Deck to your hand.
+ATK: 0
+DEF: 0
+Comments: Forgot to re-name it.
+
 
 DATE: 14/05/2025-------------------------------------------
 
