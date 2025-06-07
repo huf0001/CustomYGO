@@ -1,18 +1,19 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Defenestration
+Name: Spell Booster
 Card Type: Spell
 Card Subtype(s): Normal
-Rules Text: ① Destroy the monster your opponent controls in the occupied Main Monster Zone or Extra Monster Zone furthest to their right (your choice if tied).
-Last Updated: 29/05/2025
-
+Rules Text: ① If your opponent controls a card, you can activate a Quick-Play Spell from your hand by discarding this card at activation, also your opponent cannot activate cards or effects in response to that Quick-Play Spell's activation, except Counter Traps. ② If your opponent controls a card, you can activate a Quick-Play Spell from your hand by bannishing this card from your GY at activation, also your opponent cannot activate cards or effects in response to that Quick-Play Spell's activation, except Counter Traps.
+Last Updated: 04/06/2025
 
 CREATIVE-----------------------------------------------------------------------
 
 Basis: ABCDEF
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Skyscraper?
+● Mystical Refpanel?
+● Mystical Space Typhoon (Card)
+● Mystical Cards of Light
 
 
 COMMENTS-----------------------------------------------------------------------
