@@ -64,3 +64,4 @@ Advanced Format
 	Singles
 		
 		HUAD-EN024	Syzygy, the Black Sun Dragon				(Monster/Xyz/Effect)
+		HUAD-EN029	Trap Restoration							(Trap/Normal)

@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Trap Restoration
 Card Type: Trap
 Card Subtype(s): Normal
-Rules Text: ① If your opponent controls a card, you can activate a Trap Card from your hand by discarding this card at activation. ② If your opponent controls a card, you can activate a Trap Card from your hand by bannishing this card from your GY at activation.
-Last Updated: 02/06/2025
+Rules Text: ① If your opponent controls a card, you can activate a Trap Card from your hand by discarding this card at activation. ② If your opponent controls a card, you can activate a Trap Card from your hand by banishing this card from your GY at activation.
+Last Updated: 07/06/2025
 
 CREATIVE-----------------------------------------------------------------------
 
@@ -14,8 +14,9 @@ Artwork: Created in GIMP using:
 ● Fake Trap
 ● Fiend's Mirror
 ● Mirror Resonator
-● Mirror Force (Card)
+● Mirror Force (DB2-EN081 Unlimited Edition)
 ● Mystical Cards of Light
+● Gateway to Chaos
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -25,20 +26,10 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 02/06/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Trap Restoration
+Card Type: Trap
+Card Subtype(s): Normal
+Rules Text: ① If your opponent controls a card, you can activate a Trap Card from your hand by discarding this card at activation. ② If your opponent controls a card, you can activate a Trap Card from your hand by bannishing this card from your GY at activation.
+Comments: Typo.
