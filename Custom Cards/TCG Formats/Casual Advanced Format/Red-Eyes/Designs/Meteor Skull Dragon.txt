@@ -6,8 +6,8 @@ Card Subtype(s): Fusion
 Level: 8
 Attribute: DARK
 Monster Type: Dragon
-Materials: "Summoned Skull" + "Meteor Dragon" 
-Archetype Condition: (This card is always treated as an "Archfiend" card.)
+Rules Text: "Summoned Skull" + "Meteor Dragon" 
+(This card is always treated as an "Archfiend" card.)
 ATK: 3350
 DEF: 2250
 Last Updated: 26/12/2024
@@ -18,7 +18,10 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Summoned Skull + Meteor Dragon
 Flavour: A Red-Eyes-related Fusion Monster combining Summoned Skull and Meteor Dragon.
 Artwork: Created in GIMP using:
-● 
+● Lavalval Salamander?
+● Magmacho Dragon?
+● Koa'ki Meiru Valafar?
+● Meteor Swarm Dragon?
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -40,9 +43,7 @@ Left Pendulum Scale: 0
 Right Pendulum Scale: 0
 Pendulum Effect(s): N/A
 Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
+(Monster) Rules Text: N/A
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999

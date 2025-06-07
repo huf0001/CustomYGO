@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Archfiend Meteor Dragon
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 11
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: 1 Level 7 "Red-Eyes" monster + 1 Level 6 "Archfiend" monster + 1 Level 6 Dragon monster 
+① If this card is Fusion Summoned: You can destroy all monsters your opponent controls, and if you do, inflict damage to your opponent equal to half their combined original ATK, also skip your next Battle Phase. ② Your opponent cannot activate cards and effects during the Battle Phase. ③ If this card is sent from the field to the GY: You can banish 2 of the materials used for this card's Fusion Summon from your GY; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions a "Red-Eyes" monster as material and can be Fusion Summoned using only the banished monsters as material.
+ATK: 4250
+DEF: 3250
+Last Updated: 26/12/2024
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: A retrained Red-Eyes Black Dragon + Summoned Skull + Meteor Dragon Fusion Monster
+Flavour: A retrained Red-Eyes-related Fusion monster combining Red-Eyes Black Dragon, Summoned Skull, and Meteor Dragon.
+Artwork: Created in GIMP using:
+● Volcanic Emperor?
+● Veidos the Dragon of Endless Darkness?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/12/2024-------------------------------------------
+
+Name: Archfiend Black Meteor Dragon
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 11
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: 1 Level 7 "Red-Eyes" monster + 1 Level 6 "Archfiend" monster + 1 Level 6 Dragon monster 
+① If this card is Fusion Summoned: You can destroy all monsters your opponent controls, and if you do, inflict damage to your opponent equal to half their combined original ATK, also skip your next Battle Phase. ② Your opponent cannot activate cards and effects during the Battle Phase. ③ If this card is sent from the field to the GY: You can banish 2 of the materials used for this card's Fusion Summon from your GY; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions a "Red-Eyes" monster as material and can be Fusion Summoned using only the banished monsters as material.
+ATK: 4250
+DEF: 3250
+Comments: Rename
