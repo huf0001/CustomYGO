@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Living Arrow
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① Activate 1 of these effects.
+● When a Spell Card or effect is activated that would affect a monster(s) you control: Negate the activation, and if you do, destroy it, then apply the negated effect.
+● Target 1 Spell in your opponent's GY that meets its activation conditions and could either affect a monster(s) you control or Fusion Summon a monster when activated; apply that Spell's effect when that card is activated. If that efect Fusion Summons a monster, use monsters from both players' appropriate location(s) (field, GY, or banishment, or your hand or Deck) as material, and Fusion Summon that monster to your opponent's field.
+Last Updated: 06/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Living Arrow
+Flavour: An anime/manga-accurate version of Living Arrow, rather than the TCG rework of Spell-Shattering Arrow
+Artwork: Created in GIMP using:
+● Living Arrow (Anime)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
