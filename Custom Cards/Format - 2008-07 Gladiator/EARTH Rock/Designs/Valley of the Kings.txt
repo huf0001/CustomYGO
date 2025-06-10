@@ -1,29 +1,23 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Exxod, Guardian of the Valley of Kings
-Card Type: Monster
-Card Subtype(s): Fusion / Effect
-Level: 8
-Attribute: EARTH
-Monster Type: Rock
-Rules Text: Must first be Special Summoned (from your Extra Deck) with "Royal Guard Fusion Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 0
-DEF: 4000
-Last Updated: 29/05/2025
+Name: Valley of the Kings
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: ① You can Flip Summon monsters in face-up Defense Position. ② Non-Flip monsters with effects that activate when they are Flip Summoned are treated as Flip monsters, and those effects are treated as Flip effects. ③ EARTH Rock Flip Monsters can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.
+Last Updated: 10/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Exxod, Master of the Guard
-Flavour: Ritual retrain of Exxod, Master of the Guard
+Basis: ABCDEF
+Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Exxod, Master of the Guard
-● Spellbinding Circle
+● 
 
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Using non-standard templating of "and, after that" to indicate both A and B are required but sequential. Both but sequential doesn't have a PSCT conjunctive to indicate it. So I am indicating it by adapting "and" (A and B required, simultaneous) in the same manner that "also, after that" (neither A or B required, sequential) adapts "also" (neither A or B required, simultaneous).
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
