@@ -1,27 +1,29 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Royal Guard Fusion
-Card Type: Spell
-Card Subtype(s): Normal
-Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Special Summon 1 "Exxod, Guardian of the Valley of Kings" from your Extra Deck.
-Last Updated: 29/05/2025
+Name: Supersonic Duck
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WIND
+Monster Type: Winged Beast
+Rules Text: ① When this card is Normal or Flip Summoned: You can add 1 "Fusion Ritual" Spell from your Deck to your hand.
+ATK: 1400
+DEF: 1000
+Last Updated: 11/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
+Basis: Sonic Bird, Sonic Duck, Ritual Fusion monsters
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Exxod, Master of the Guard (back ring)
-● Spellbinding Circle
-
-● Necrovalley Temple
-● Advanced Ritual Art (glowing light pillar)
+● Sonic Bird
+● Fusion Gate
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Using non-standard templating of "and, after that" to indicate both A and B are required but sequential. Both but sequential doesn't have a PSCT conjunctive to indicate it. So I am indicating it by adapting "and" (A and B required, simultaneous) in the same manner that "also, after that" (neither A or B required, sequential) adapts "also" (neither A or B required, simultaneous).
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
