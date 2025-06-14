@@ -1,15 +1,17 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Supersonic Duck
+Name: Ritual Scholar
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
 Attribute: WIND
 Monster Type: Winged Beast
-Rules Text: ① When this card is Normal or Flip Summoned: You can add 1 "Fusion Ritual" Spell from your Deck to your hand.
+Rules Text: ① When this card is Normal or Flip Summoned: You can activate 1 of these effects.
+● Target 1 Fusion Monster in your GY that must first be Special Summoned with a "Fusion Ritual" card; return it to your Extra Deck.
+● Target 1 "Fusion Ritual" Spell in your GY; add it to your hand.
 ATK: 1400
 DEF: 1000
-Last Updated: 11/06/2025
+Last Updated: 14/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -17,7 +19,7 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Sonic Bird, Sonic Duck, Ritual Fusion monsters
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Sonic Bird
+● Spirit of the Books
 ● Fusion Gate?
 
 
