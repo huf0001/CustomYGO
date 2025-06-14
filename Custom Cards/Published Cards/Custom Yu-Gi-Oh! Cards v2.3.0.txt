@@ -1,14 +1,15 @@
-Goat Format
+Goat Format (4)
 
 	Singles
 	
 		HUGO-EN001	No-Eyes Dark Maw 							(Monster/Effect)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
+		HUGO-EN004	Tower Golem									(Monster/Effect)
 		
 Gladiator Format
 
-Edison Format
+Edison Format (2)
 
 	Metal Counterparts
 	
@@ -18,9 +19,9 @@ Edison Format
 	
 		HUED-EN001	The Restless Grave							(Spell/Equip)
 		
-HAT Format
+HAT Format (0)
 	
-Advanced Format
+Advanced Format (30)
 
 	Dragon Lords
 	
@@ -65,3 +66,4 @@ Advanced Format
 		
 		HUAD-EN024	Syzygy, the Black Sun Dragon				(Monster/Xyz/Effect)
 		HUAD-EN029	Trap Restoration							(Trap/Normal)
+		HUAD-EN030	World of Fantasy - Toon World				(Spell/Continuous)
