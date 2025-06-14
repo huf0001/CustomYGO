@@ -4,10 +4,8 @@ Name: World of Fantasy - Toon World
 Card Type: Spell
 Card Subtype(s): Continuous
 Rules Text: (This card's name is always treated as "Toon World".)
-① Non-Effect Monsters you control are treated as Toon monsters. ② You do not pay LP to declare an attack with a Toon monster. ③ Toon monsters you control that can attack and change their battle position gain these effects: 
-● Cannot be destroyed by battle with a non-Toon monster, also you take no battle damage from that battle.
-● At the end of the Damage Step, if this Attack Position card battled a non-Toon monster: Destroy that monster.
-Last Updated: 04/06/2025
+① Non-Effect Monsters you control are treated as Toon monsters. ② You do not pay LP to declare an attack with a Toon monster. ③ Toon monsters you control that can attack and change their battle position cannot be destroyed by battle with a non-Toon monster, also you take no battle damage from those battles.
+Last Updated: 14/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -16,6 +14,7 @@ Basis: Toon World (anime version)
 Flavour: Toon World in Duelist Kingdom
 Artwork: Created in GIMP using:
 ● Toon World
+● Yami (Rush Duel)
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -25,22 +24,13 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 04/06/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: World of Fantasy - Toon World
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: (This card's name is always treated as "Toon World".)
+① Non-Effect Monsters you control are treated as Toon monsters. ② You do not pay LP to declare an attack with a Toon monster. ③ Toon monsters you control that can attack and change their battle position gain these effects: 
+● Cannot be destroyed by battle with a non-Toon monster, also you take no battle damage from that battle.
+● At the end of the Damage Step, if this Attack Position card battled a non-Toon monster: Destroy that monster.
+Comments: Toon Monsters never destroyed anything with more ATK/DEF, so that part of the effect needs fixing.
