@@ -1,0 +1,58 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: XXXX Jar of Rituals
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1-4
+Attribute: EARTH
+Monster Type: Rock
+Rules Text: ① When you Tribute a monster(s) to Special Summon a Fusion Monster with a "Fusion Ritual" card, you can banish this card from your GY as 1 of those Tributes. ② A Fusion Monster that was Special Summoned with a "Fusion Ritual" card by Tributing this card gains this effect.
+● 
+ATK: ?
+DEF: ?
+Last Updated: 14/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Djinn of Rituals monsters, Ritual Fusion monsters
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Ancient Jar?
+● Morphing Jar?
+● Morphing Jar #2?
+● Cyber Jar?
+● Absorbing Jar?
+● Reverse Jar?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Djinn of Rituals bonus effects:
+● If the monster Ritual Summoned using this card destroys a monster by battle, the controller of the Ritual Monster draws 1 card.
+● If a player Ritual Summons using this card, the other player cannot Special Summon while that Ritual Summoned monster is face-up on the field.
+● While the monster Ritual Summoned using this card is face-up on the field, Synchro Monsters' effects are negated.
+● The monster Ritual Summoned using this card is unaffected by Trap effects.
+● If you Ritual Summon using this card, if that Ritual Summoned monster inflicts battle damage to your opponent, they discard 1 card.
+● If a player Ritual Summons using this card, that Ritual Summoned monster cannot be targeted by the card effects of the other player.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

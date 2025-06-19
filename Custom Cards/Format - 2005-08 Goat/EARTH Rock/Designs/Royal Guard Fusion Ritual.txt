@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Royal Guard Fusion
+Name: Royal Guard Fusion Ritual
 Card Type: Spell
 Card Subtype(s): Normal
 Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Special Summon 1 "Exxod, Guardian of the Valley of Kings" from your Extra Deck.
