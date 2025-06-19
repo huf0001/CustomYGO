@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Ring of Aggression
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: ① When this card is equipped to a monster: Change that monster to Attack Position. ② The equipped monster cannot change its battle position, also it must attack if able.
+Last Updated: 20/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: A combo piece with piercing damage spells.
+Flavour: Antithesis of Ring of Magnetism
+Artwork: Created in GIMP using:
+● Ring of Magnetism
+● Shadow of Eyes?
+● Wolf in Sheep's Clothing?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
