@@ -1,20 +1,20 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Ring of Aggression
+Name: Friendly Fire Boomerang
 Card Type: Spell
 Card Subtype(s): Equip
-Rules Text: ① When this card is equipped to a monster: Change that monster to Attack Position. ② The equipped monster cannot change its battle position, also it must attack if able.
-Last Updated: 20/06/2025
+Rules Text: ① The equipped monster cannot attack you directly or attack other monsters you control. ② The equipped monster can attack your opponent directly and attack other monsters they control.
+Last Updated: 21/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: A combo piece with piercing damage spells.
-Flavour: Antithesis of Ring of Magnetism
+Basis: Boomerangs + friendly fire
+Flavour: 
 Artwork: Created in GIMP using:
-● Ring of Magnetism
-● Shadow of Eyes?
-● Wolf in Sheep's Clothing?
+● Cyclone Boomerang
+● Sound the Retreat
+● Question?
 
 
 COMMENTS-----------------------------------------------------------------------

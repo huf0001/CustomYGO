@@ -1,0 +1,33 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Sword of Wrath
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: ① When this card is equipped to a monster: Change that monster to Attack Position. ② The equipped monster cannot change its battle position, also it must attack if able.
+Last Updated: 21/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: A combo piece with piercing damage spells.
+Flavour: 
+Artwork: Created in GIMP using:
+● Sword of Deep Seated
+● Shadow of Eyes?
+● Wolf in Sheep's Clothing?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 20/06/2025-------------------------------------------
+
+Name: Ring of Aggression
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: ① When this card is equipped to a monster: Change that monster to Attack Position. ② The equipped monster cannot change its battle position, also it must attack if able.
+Comments: Rename.
