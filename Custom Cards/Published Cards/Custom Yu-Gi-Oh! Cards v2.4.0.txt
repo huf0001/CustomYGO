@@ -10,6 +10,7 @@ Goat Format (4)
 		HUGO-EN001	No-Eyes Dark Maw 							(Monster/Effect)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
+		HUGO-EN006	The Hateful Blade							(Spell/Equip)
 		
 Gladiator Format
 
