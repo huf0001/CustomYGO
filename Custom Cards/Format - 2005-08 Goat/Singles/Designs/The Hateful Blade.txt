@@ -1,10 +1,11 @@
 TECHNICAL----------------------------------------------------------------------
 
 Name: The Hateful Blade
-Card Type: Spell
-Card Subtype(s): Equip
-Rules Text: ① When this card is equipped to a monster: Change that monster to Attack Position. ② The equipped monster cannot change its battle position, also it must attack if able.
-Last Updated: 22/06/2025
+Card Type: Trap
+Card Subtype(s): Normal
+Rules Text: ① Target 1 monster on the field; if it is in Defense Position, change it to face-up Attack Position, then you can equip this card to it with this effect.
+● The equipped monster cannot change its battle position, also it must attack if able.
+Last Updated: 23/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,6 +25,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/06/2025-------------------------------------------
+
+Name: Sword of Wrath
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: ① When this card is equipped to a monster: Change that monster to Attack Position. ② The equipped monster cannot change its battle position, also it must attack if able.
+Comments: Rename.
+
 
 DATE: 21/06/2025-------------------------------------------
 
