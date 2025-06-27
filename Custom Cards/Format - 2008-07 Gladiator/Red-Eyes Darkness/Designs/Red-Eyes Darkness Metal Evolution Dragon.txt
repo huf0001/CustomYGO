@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Darkness Metal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 10
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: Evolve: "Red-Eyes Darkness Evolution Dragon"
+Requirement: Send 1 "Metalmorph" equipped to it to the GY
+① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Gains 400 ATK for each Dragon monster in your GY. ③ When a Spell Card is activated: You can discard 1 card; negate the activation, and if you do, destroy it. If the Spell Card targeted this card, you do not discard to activate this effect.
+ATK: 2800
+DEF: 2400
+Last Updated: 26/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Darkness Metal Dragon (anime)
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
