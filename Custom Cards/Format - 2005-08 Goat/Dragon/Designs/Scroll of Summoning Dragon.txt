@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Scroll of Summoning Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Dragon
+Rules Text: ① If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower Dragon monster from your hand, except "Scroll of Summoning Dragon". ② Monsters your opponent controls cannot target Dragon monsters you control with monster effects, except this one.
+ATK: 1200
+DEF: 300
+Last Updated: 27/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Marauding Captain
+Flavour: A Marauding Captain variant for a Dragon army deck.
+Artwork: Created in GIMP using:
+● Yamatano Dragon Scroll
+● Divine Dragon Apocralyph (for orange colour sample)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/06/2025-------------------------------------------
+
+Name: Scroll of Summoning Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Dragon
+Rules Text: ① When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Dragon monster from your hand. ② Monsters your opponent controls cannot target Dragon monsters for monster effects, except this one.
+ATK: 1200
+DEF: 300
+Comments: Modifying to be able to use more reactively, also fixing templating.

@@ -1,0 +1,35 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dragon Power Jar
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: Equip only to a Level 4 or lower Dragon monster. ① The equipped monster gains 100 ATK/DEF for each Dragon monster in your GY, also it cannot be destroyed by your opponent's card effects. ② If this card is sent from the field to your GY: You can draw 1 card.
+Last Updated: 27/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: 
+Flavour: 
+Artwork: Created in GIMP using:
+● Dragon Capture Jar
+● Tyrant Dragon / The Claw of Hermos (for red maroon colour sample)
+● Crimson Fire?
+● Dragon's Mind?
+● Black Luster Ritual?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/06/2025-------------------------------------------
+
+Name: Dragon Power Jar
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: Equip only to a Level 4 or lower Dragon monster. ① The equipped monster gains 100 ATK/DEF for each Dragon monster in your GY. ② If the equipped monster destroys an opponent's monster by battle: Inflict damage to your opponent equal to half the destroyed monster's original ATK.
+Comments: Needs to provide more Defensive power than offensive power.

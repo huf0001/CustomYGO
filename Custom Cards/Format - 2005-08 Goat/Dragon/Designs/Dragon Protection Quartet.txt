@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dragon Protection Quartet
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: WIND
+Monster Type: Dragon
+Rules Text: You can only activate effect ① of "Dragon Protection Quartet" once per turn. ① If your opponent activates a Spell/Trap Card that targets a Dragon monster you control (Quick Effect): You can send this card from your hand to the GY; negate the activation, and if you do, destroy it.
+ATK: 400
+DEF: 400
+Last Updated: 27/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: 
+Flavour: 
+Artwork: Created in GIMP using:
+● Dragon Piper x2
+● Pot the Trick x2
+● Kumouri Dragon (for wings)?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

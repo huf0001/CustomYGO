@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Recruiter Dragons
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
+Monster Type: Dragon
+Rules Text: ① If this card is Normal or Special Summoned: You can add 1 Dragon monster with 1200 or less DEF from your Deck to your hand.
+ATK: 1400
+DEF: 700
+Last Updated: 27/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: 
+Flavour: 
+Artwork: Created in GIMP using:
+● One-Eyed Shield Dragon
+● Troop Dragon
+● Lizard Soldier
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/06/2025-------------------------------------------
+
+Name: Recruitment Dragons
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
+Monster Type: Dragon
+Rules Text: ① When this card is destroyed by battle and sent to the GY: You can add 1 Dragon monster with 1200 or less DEF from your Deck to your hand.
+ATK: 600
+DEF: 1200
+Comments: Changing from Search to resurrection.
