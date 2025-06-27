@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Familiar Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: ① (Quick Effect): You can Tribute this card; Special Summon 1 "Rare Metal Dragon" from your hand, Deck, or GY, and if you do, it gains this effect.
+● If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half that monster's original ATK.
+ATK: 1400
+DEF: 1200
+Last Updated: 27/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Familiar Knight
+Flavour: Familiar Knight for a Dragon army deck.
+Artwork: Created in GIMP using:
+● Metal Dragon?
+● Rare Metal Dragon / Familiar Knight (for silver colour sample)?
+● Tyrant Dragon / The Claw of Hermos (for red maroon colour sample)?
+● Mystical Cards of Light?
+● Gateway to Chaos?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/06/2025-------------------------------------------
+
+Name: Familiar Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: ① When this card is destroyed by battle and sent to the GY: You can target 1 Level 4 or lower Dragon monster in your GY, except Familiar Dragon; Special Summon it.
+ATK: 1400
+DEF: 1200
+Last Updated: 
+Comments: Rename and re-work to directly support Rare Metal Dragon
