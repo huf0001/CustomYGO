@@ -1,9 +1,11 @@
-Goat Format (4)
+Goat Format (8)
 
 	Typal Searchers
 		
 		HUGO-EN004	Tower Golem									(Monster/Effect)
 		HUGO-EN005	Angelic Egg									(Monster/Effect)
+		HUGO-EN007	Machine Soldier								(Monster/Effect)
+		HUGO-EN008	Assistant Magician							(Monster/Effect)
 
 	Singles
 	
