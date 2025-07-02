@@ -18,7 +18,9 @@ Basis: Typal serachers (Masked Dragon, Pyramid Turtle, Warrior Lady of the Waste
 Flavour: A typal searcher for Machine monsters
 Artwork: Created in GIMP using:
 ● Machine Attacker
-● 
+● Machine Conversion Factory
+● Launcher Spider (for colour samples)
+● Pendulum Machine (for colour samples)
 
 
 COMMENTS-----------------------------------------------------------------------
