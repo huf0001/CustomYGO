@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Des Slime
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 2
+Attribute: WATER
+Monster Type: Aqua
+Rules Text: ① When this card is destroyed by battle and sent to the GY: You can add 1 "Slime" monster from your Deck to your hand. ② While this card is in your GY, when a "Revival Jam" you control is destroyed by battle and sent to the GY: Special Summon that destroyed "Revival Jam".
+ATK: 0
+DEF: 800
+Last Updated: 04/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: 
+Flavour: Support for Revival Jam to give it its anime functionality.
+Artwork: Created in GIMP using:
+● Necro Defender
+● Humanoid Slime (colour reference)
+● Revival Jam (colour reference)
+● Eye of Illusion
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Revival Jam and Jam Defender would need erratas to be treated as "Slime" cards.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 03/07/2025-------------------------------------------
+
+Name: Des Slime
+Card Type: Monster
+Card Subtype(s): Flip / Effect
+Level: 2
+Attribute: WATER
+Monster Type: Aqua
+Rules Text: ① FLIP: Add 1 "Slime" monster from your Deck to your hand. ② While this card is in your GY, the effect of "Revival Jam" becomes "When this card is destroyed by battle and sent to the GY: You can Special Summon this card from your GY."
+ATK: 0
+DEF: 800
+Comments: Modifying the search effect so it can't be abused with cards flipping Des Slime face-down, and re-working the effect to revive Revival Jam.

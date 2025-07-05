@@ -1,5 +1,10 @@
-Goat Format (8)
+Goat Format (9)
 
+	Slime
+		HUGO-EN009	Des Slime									(Monster/Effect)
+			Errata: LON-EN006 Revival Jam						(Monster/Effect)
+			Errata: LON-EN028 Jam Defender						(Trap/Continuous)
+	
 	Typal Searchers
 		
 		HUGO-EN004	Tower Golem									(Monster/Effect)
