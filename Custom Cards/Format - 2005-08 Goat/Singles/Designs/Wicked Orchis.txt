@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Wicked Orchis
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Plant
+Rules Text: ① You can Special Summon this card (from your hand) by Tributing 1 Plant monster you control, but if you do, your opponent takes no battle damage this turn. ② If this card destroys an opponent's monster by battle: Special Summon 1 "Wicked Plant Token" (Plant/EARTH/Level 1/ATK 800/DEF 800). ③ If this card would be destroyed by battle, you can destroy 1 other Plant monster you control instead.
+ATK: 2500
+DEF: 1800
+Last Updated: 05/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Vampiric Orchis + Des Dendle
+Flavour: Retrain of Vampiric Orchis equipped with Des Dendle.
+Artwork: Created in GIMP using:
+● Vampiric Orchis
+● Des Dendle
+● Wicked Plant Token
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① 
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
