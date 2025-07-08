@@ -18,7 +18,8 @@ Basis: Typal serachers (Masked Dragon, Pyramid Turtle, Warrior Lady of the Waste
 Flavour: A typal searcher for Spellcaster monsters
 Artwork: Created in GIMP using:
 ● Boo Koo
-● 
+● Apprentice Magician (colour samples)
+● Dark Magical Circle
 
 
 COMMENTS-----------------------------------------------------------------------

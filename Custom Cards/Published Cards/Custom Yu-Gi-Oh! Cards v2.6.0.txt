@@ -19,7 +19,7 @@ Goat Format (9)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
 		
-Gladiator Format
+Gladiator Format (0)
 
 Edison Format (2)
 
