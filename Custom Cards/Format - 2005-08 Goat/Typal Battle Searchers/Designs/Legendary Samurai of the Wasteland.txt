@@ -9,7 +9,7 @@ Monster Type: Warrior
 Rules Text: ① When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Warrior monster with 1500 or less ATK from your Deck.
 ATK: 1300
 DEF: 1450
-Last Updated: 24/06/2025
+Last Updated: 08/07/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -17,10 +17,11 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Typal serachers (Masked Dragon, Pyramid Turtle, Warrior Lady of the Wasteland, etc.), Warrior monsters
 Flavour: A typal searcher for Warrior monsters
 Artwork: Created in GIMP using:
-● Zanki?
-● Masaki the Legendary Swordsman?
-● Warrior Lady of the Wasteland?
-● Marauding Captain?
+● Zanki
+● Masaki the Legendary Swordsman (colour sample)
+● Marauding Captain (colour sample)
+● Warrior Lady of the Wasteland (colour sample, buildings)
+● Wasteland
 
 
 COMMENTS-----------------------------------------------------------------------
