@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Lycanthrope, Enduring
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: 2 Level 6 monsters
+You can also Xyz Summon this card by using 1 "Lycanthrope" and 1 other Beast-Warrior monster you control. You can only use effect ② of "Lycanthrope, Enduring" once per turn. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② You can detach 1 material from this card, then declare 1 Monster Card name; monsters with that original name on the field or in either GY are also treated as Beast-Warrior monsters in your GY for the rest of this Duel. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+ATK: 2400
+DEF: 1800
+Last Updated: 20/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Lycanthrope
+Flavour: A Lycanthrope retrain in the vein of the Summoned Skull retrains for each Summoning mechanic, taking inspiration from MTG werewolves.
+Artwork: Created in GIMP using:
+● Tri-Brigade Rugal the Silver Sheller
+● Wasteland
+● Warrior Lady of the Wasteland
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Possible weakening of the "treated as a Beast-Warrior in your GY" effect: (Quick Effect): You can detach 1 material from this card, then target 1 monster on the field or in either GY; it is also treated as a Beast-Warrior monster in your GY until the end of this turn.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/06/2025-------------------------------------------
+
+Name: Lycanthrope, Evolved
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: 2 Level 6 monsters
+If you use "Lycanthrope" and 1 other Beast-Warrior monster with a Level for the Xyz Summon of this card, treat that Beast-Warrior monster as Level 6. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2400
+DEF: 1800
+Comments: Renamed based on intended art basis.

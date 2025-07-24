@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Lycanthrope Template
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: Cannot be Tributed or used as material for the Special Summon of a monster, except a "Lycanthrope" monster. You can only activate effect ① of "Lycanthrope, Senescent" once per turn. ① If this card is in your GY: You can target 1 Level 4 or higher Beast-Warrior monster you control; reduce its Level by 2, and if you do, Special Summon this card.
+ATK: 600
+DEF: 800
+Last Updated: 21/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Lycanthrope, Level Eater
+Flavour: An archetypal Level Eater supporting Lycanthrope retrains for each Summoning mechanic.
+Artwork: Created in GIMP using:
+● Aloof Lupine
+● Skyscraper?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/06/2025-------------------------------------------
+
+Name: Lycanthrope, Senescent
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 2
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: Cannot be Tributed, or used as material, for the Special Summon of a monster, except a "Lycanthrope" monster. ① If this card is in your GY: You can target 1 Level 4 or higher Beast-Warrior monster you control; reduce its Level by 2, and if you do, Special Summon this card.
+ATK: 600
+DEF: 800
+Comments: Probably prudent to add a HOPT to effect ①. Also, renaming.

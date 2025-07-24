@@ -6,10 +6,10 @@ Card Subtype(s): Fusion / Effect
 Level: 6
 Attribute: EARTH
 Monster Type: Beast-Warrior
-Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② All "Lycanthrope" you control gain 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ The first time this card would be destroyed each turn, you can banish 1 Beast-Warrior monster from your GY instead.
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gain 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
 ATK: 2400
 DEF: 1800
-Last Updated: 18/06/2025
+Last Updated: 21/07/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -18,7 +18,8 @@ Basis: Lycanthrope
 Flavour: A Lycanthrope retrain in the vein of the Summoned Skull retrains for each Summoning mechanic.
 Artwork: Created in GIMP using:
 ● Lycanthrope
-● 
+● Duel Tower
+● Dark City
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -28,20 +29,15 @@ Is Lycanthrope on field/GY. Grant Lycanthropes / BWs 200 ATK/DEF per BW in GY. F
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 18/06/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Lycanthrope, Synthesised
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② All "Lycanthrope" you control gain 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ The first time this card would be destroyed each turn, you can banish 1 Beast-Warrior monster from your GY instead.
+ATK: 2400
+DEF: 1800
+Comments: Templating changes.

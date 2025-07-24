@@ -1,25 +1,25 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Lycanthrope, Refined
+Name: Lycanthrope Test Subject
 Card Type: Monster
-Card Subtype(s): Synchro / Effect
-Level: 6
+Card Subtype(s): Effect
+Rank: 6
 Attribute: EARTH
 Monster Type: Beast-Warrior
-Rules Text: 1 Tuner monster + 1+ non-Tuner monsters
-① This card's name becomes "Lycanthrope" on the field and in the GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Rules Text: ① You can Normal Summon this card without Tributing, but its original ATK becomes 1800. ② If this face-up card is used as material for the Special Summon of a "Lycanthrope" monster from your Extra Deck, its name can be treated as "Lycanthrope".
 ATK: 2400
 DEF: 1800
-Last Updated: 18/06/2025
+Last Updated: 21/07/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
 Basis: Lycanthrope
-Flavour: A Lycanthrope retrain in the vein of the Summoned Skull retrains for each Summoning mechanic.
+Flavour: The test subject that would become Lycanthrope
 Artwork: Created in GIMP using:
-● K9 - EX "Werewolf"
-● 
+● Lone Wolf
+● Wolf in Sheep's Clothing?
+● Forest?
 
 
 COMMENTS-----------------------------------------------------------------------

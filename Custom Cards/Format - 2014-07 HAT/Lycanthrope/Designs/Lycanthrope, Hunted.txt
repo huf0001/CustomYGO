@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Lycanthrope, Hunted
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: "Lycanthrope" + 1 Beast-Warrior monster
+① This card's name becomes "Lycanthrope" on the field and in the GY. ② When a card or effect is activated that targets a "Lycanthrope(s)" you control (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it, also during the next Standby Phase, Special Summon 1 "Lycanthrope" from your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+ATK: 2400
+DEF: 1800
+Last Updated: 21/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Lycanthrope
+Flavour: A Lycanthrope retrain in the vein of the Summoned Skull retrains for each Summoning mechanic.
+Artwork: Created in GIMP using:
+● Lycanthrope
+● Wolf in Sheep's Clothing
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/06/2025-------------------------------------------
+
+Name: Lycanthrope, Integrated
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: "Lycanthrope" + 1 Beast-Warrior monster
+① This card's name becomes "Lycanthrope" on the field and in the GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2400
+DEF: 1800
+Comments: Renaming it and giving it effects.

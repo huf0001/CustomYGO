@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Lycanthrope, Rampaging
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: 1 Tuner monster + 1+ non-Tuner Beast-Warrior monsters
+① This card's name becomes "Lycanthrope" on the field and in the GY. ② At the end of the damage step, if this card battled an opponent's monster: Destroy that opponent's monster. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+ATK: 2400
+DEF: 1800
+Last Updated: 21/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Lycanthrope
+Flavour: A Lycanthrope retrain in the vein of the Summoned Skull retrains for each Summoning mechanic.
+Artwork: Created in GIMP using:
+● K9 - EX "Werewolf"
+● Overload Future Fusion
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/06/2025-------------------------------------------
+
+Name: Lycanthrope, Refined
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: 1 Tuner monster + 1+ non-Tuner monsters
+① This card's name becomes "Lycanthrope" on the field and in the GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2400
+DEF: 1800
+Comments: Re-named based on intended art basis, and fleshed its rules text out further.
