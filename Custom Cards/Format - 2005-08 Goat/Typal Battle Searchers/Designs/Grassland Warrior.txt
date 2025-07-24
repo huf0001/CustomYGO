@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Grassland Warrior
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: ① When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Beast-Warrior monster with 1500 or less DEF from your Deck.
+ATK: 900
+DEF: 1500
+Last Updated: 17/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Typal serachers (Masked Dragon, Pyramid Turtle, Warrior Lady of the Wasteland, etc.), Beast-Warrior monsters
+Flavour: A typal searcher for Warrior monsters
+Artwork: Created in GIMP using:
+● Mountain Warrior
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 16/07/2025-------------------------------------------
+
+Name: Mountain Sentry
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: ① When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Beast-Warrior monster with 1500 or less DEF from your Deck.
+ATK: 900
+DEF: 1500
+Comments: Rename

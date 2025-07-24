@@ -1,4 +1,4 @@
-Goat Format (10)
+Goat Format (12)
 
 	Slime
 		HUGO-EN009	Des Slime									(Monster/Effect)
@@ -12,6 +12,8 @@ Goat Format (10)
 		HUGO-EN007	Machine Soldier								(Monster/Effect)
 		HUGO-EN008	Assistant Magician							(Monster/Effect)
 		HUGO-EN010	Legendary Samurai of the Wasteland			(Monster/Effect)
+		HUGO-EN011	Grassland Warrior							(Monster/Effect)
+		HUGO-EN012	Vengeful Arbor								(Monster/Effect)
 
 	Singles
 	
