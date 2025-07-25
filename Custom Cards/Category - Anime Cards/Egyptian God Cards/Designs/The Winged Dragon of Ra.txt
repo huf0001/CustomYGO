@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Winged Dragon of Ra
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: DIVINE
+Monster Type: Divine-Beast
+Rules Text: Requires 3 Tributes to Normal Summon/Set. You can only activate 1 of effects ⑩ or ⑪ of "The Winged Dragon of Ra" per turn. ① This card's original ATK/DEF become the total ATK/DEF that the monsters Tributed to Normal Summon it had on the field. ② If this card is Special Summoned: This turn, it can attack all monsters your opponent controls once each, and if it does, it can attack your opponent directly, if able. ③ If this card is Special Summoned in Defense Position while a monster you control is targeted for an attack or card effect, you can change the target to this card. ④ Control of this card cannot switch. ⑤ Activated cards and effects only affect this card until the End Phase. ⑥ Cannot leave the field by card effects, except DIVINE monsters or Spells that do not target this card. ⑦ Cannot be Tributed by an opponent's card or effect. ⑧ Unaffected by other cards' effects that negate attacks or prevent monsters from attacking. ⑨ If an Equip Card(s) is equipped to this card: Destroy that card(s). ⑩ (Quick Effect): You can activate 1 of these effects. ● Tribute all other monsters you control; this card gains ATK/DEF equal to the total ATK/DEF those monsters had on the field. ● Pay all but 1 LP; this card gains that much ATK/DEF. ● If this card has ATK/DEF gained from the previous effect: You can discard "De-Fusion"; this card's ATK/DEF become 0, gain LP equal to the ATK lost, and if it is attacking, negate that attack. ⑪ (Quick Effect): You can have this card gain these effects until the end of this turn. ● Unaffected by other cards' effects. ● Cannot be destroyed by battle. ● Players take no battle damage from battles involving this card. ● While this card can attack (Quick Effect): You can pay 1000 LP; destroy all monsters your opponent controls, ignoring card effects. (This is treated as an attack.) ⑫ During the End Phase, if this card was Special Summoned: Return it to the location it was Special Summoned from.
+ATK: ????
+DEF: ????
+Last Updated: 25/07/2025
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Slifer the Sky Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: DIVINE
+Monster Type: Divine-Beast
+Rules Text: Requires 3 Tributes to Normal Summon/Set. ① This card is also a Dragon monster on the field. ② If this card is Special Summoned in Defense Position while a monster you control is targeted for an attack or card effect, you can change the target to this card. ③ Control of this card cannot switch. ④ Activated cards and effects only affect this card until the End Phase. ⑤ Cannot leave the field by activated effects, except DIVINE monsters or Spells that do not target this card. ⑥ Cannot be Tributed by an opponent's card or effect. ⑦ If an Equip Card(s) is equipped to this card: Destroy that card(s). ⑧ Gains 1000 ATK/DEF for each card in your hand. ⑨ While this card can attack, if a monster(s) is Summoned to your opponent's field: That monster(s) loses 2000 ATK (if it is in Attack Position) or 2000 DEF (if it is in Defense Position), then if its ATK or DEF has been reduced to 0 as a result, destroy it. (This is treated as an attack.) ⑩ During the End Phase, if this card was Special Summoned: Return it to the location it was Special Summoned from.
+ATK: X000
+DEF: X000
+Last Updated: 25/07/2025
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
