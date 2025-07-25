@@ -1,0 +1,60 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Horus, Divine Avatar of the Sky
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: DIVINE
+Monster Type: Divine-Beast
+Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
+● Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by tributing 3 monsters. 
+● Cannot be Special Summoned, except by the effect of a "God of Egypt" card. 
+● Unaffected by your opponent's monster effects and Spell Cards and effects. 
+● If a Spell Card or effect is activated: You can negate the activation, and if you do, destroy it.
+
+ATK: 3000
+DEF: 1800
+Last Updated: 03/04/0224
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Horus the Black Flame Dragon LV8
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Archetypal retrain; compare with other Horus retrains
+
+Horus	Transliteration: hrw, hor, pronunciation: Haruw, Heru, Herwer, Ha:re, Ho:re
+
+Archetype name ideas:
+	● Ancient God
+	● Divine Avatar
+	● Holy God
+	● God of Egypt
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

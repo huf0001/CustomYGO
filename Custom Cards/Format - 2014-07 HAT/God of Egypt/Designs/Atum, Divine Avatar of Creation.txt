@@ -1,0 +1,61 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Atum, Divine Avatar of Creation
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: DIVINE
+Monster Type: Divine-Beast
+Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
+● Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by tributing 3 monsters. 
+● Cannot be Special Summoned, except by the effect of a "God of Egypt" card. 
+● Unaffected by your opponent's Spell/Trap Cards and effects. 
+● Once per turn: You can target 1 "God of Egypt" monster in your hand or GY; Special Summon it, but if it is a Level 10 monster, send it to the GY during the End Phase.
+
+ATK: 2300
+DEF: 3000
+Last Updated: 03/04/0224
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Creator
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Archetypal retrain; compare with other The Creator retrains. If Obelisk gets matched with Set, consider making The Creator's retrain Atum rather than Amun, as Amun is the only Ogdoad deity listed here.
+
+Atum	Transliteration jtm or tm, pronunciation: Atum, Atem, Temu, Tem.
+Amun	Transliteration: imn. "the hiden one".
+
+Archetype name ideas:
+	● Ancient God
+	● Divine Avatar
+	● Holy God
+	● God of Egypt
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

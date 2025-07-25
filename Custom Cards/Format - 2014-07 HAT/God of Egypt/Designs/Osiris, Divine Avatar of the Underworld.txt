@@ -1,0 +1,61 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Osiris, Divine Avatar of the Underworld
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: DIVINE
+Monster Type: Divine-Beast
+Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
+● Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by tributing 3 monsters. 
+● Cannot be Special Summoned, except by the effect of a "God of Egypt" card. 
+● Gains 1000 ATK/DEF for each card in your hand. 
+● Unaffected by your opponent's cards and effects. 
+● If your opponent Summons a monster(s): Those monsters lose 2000 ATK/DEF, then destroy any of them now have 0 ATK/DEF.
+
+ATK: ?
+DEF: ?
+Last Updated: 03/04/0224
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Slifer the Sky Dragon
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Archetypal retrain. Double check anime effect. Japanese version is named for Osiris.
+
+Osiris	Transliteration wsjr, pronunciation Asar, Ausar, Ausir, Wesir, Usir, Usire
+
+Archetype name ideas:
+	● Ancient God
+	● Divine Avatar
+	● Holy God
+	● God of Egypt
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
