@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Darkness Inferno Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 9
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: Evolve: "Darkblaze Dragon"
+Requirement: It was Special Summoned from your GY
+(This card is always treated as a "Darkblaze" card.)
+① Gains 300 ATK for each Dragon monster in your GY. ② While this card has material, if it destroys an opponent's monster by battle: Inflict damage to your opponent equal to that destroyed monster's original ATK. ③ If this card would be destroyed, you can detach 1 material from this card instead.
+ATK: 2400
+DEF: 2000
+Last Updated: 25/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Darkblaze Dragon, Red-Eyes Darkness Dragon
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Darkblaze Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

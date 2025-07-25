@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dark Blaze
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: "Darkblaze Dragon" cannot attack the turn you activate this card. ① Target 1 "Darkblaze Dragon" you control and 1 monster your opponent controls with ATK less than or equal to that "Darkblaze Dragon's" ATK; destroy that opponent's monster, and if you do, inflict damage to your opponent equal to that monster's original ATK.
+Last Updated: 25/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Inferno Fire Blast
+Flavour: Inferno Fire Blast, but for Darkblaze Dragon
+Artwork: Created in GIMP using:
+● Darkblaze Dragon?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
