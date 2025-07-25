@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Kazejin, Storm God of Wind
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: WIND
+Monster Type: Spellcaster
+Rules Text: (This card's name is always treated as "Kazejin".)
+① You can Normal Summon this card without Tributing, but its effects are negated and it cannot be targeted for attacks, but it does not prevent your opponent from attacking you directly. ② Once per turn, when an opponent's monster declares an attack: You can negate the attack.
+ATK: 2400
+DEF: 2200
+Last Updated: 25/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/04/2025-------------------------------------------
+
+Name: Kazejin
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: WIND
+Monster Type: Spellcaster
+Rules Text: You can Normal Summon this card without Tributing, but its effects are negated and it cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. ① Once per turn, when an opponent's monster declares an attack: You can negate the attack.
+ATK: 2400
+DEF: 2200
+Last Updated: 
+Comments: Re-naming to make it a re-train.

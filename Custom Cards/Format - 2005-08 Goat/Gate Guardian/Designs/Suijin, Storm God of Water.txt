@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Suijin, Storm God of Water
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: WATER
+Monster Type: Aqua
+Rules Text: (This card's name is always treated as "Suijin".)
+① You can Normal Summon this card without Tributing, but its effects are negated and it cannot be targeted for attacks, but it does not prevent your opponent from attacking you directly. ② Once per turn, when an opponent's monster declares an attack: You can negate the attack.
+ATK: 2500
+DEF: 2400
+Last Updated: 25/07/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/04/2025-------------------------------------------
+
+Name: ABCDEF
+Name: Suijin
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: WATER
+Monster Type: Aqua
+Rules Text: 25
+ATK: 2500
+DEF: 2400
+Comments: Dunno why the effect is "25", fixing that and re-naming as a re-train.
