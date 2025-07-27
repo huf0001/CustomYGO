@@ -1,12 +1,18 @@
-Goat Format (12)
+Goat Format (14)
 
+	Lycanthrope
+	
+		HUGO-EN013	Lycanthrope, Synthesised					(Monster/Fusion/Effect)
+		HUGO-EN014	Synthesis Fusion Ritual						(Spell/Normal)
+	
 	Slime
+	
 		HUGO-EN009	Des Slime									(Monster/Effect)
 			Errata: LON-EN006 Revival Jam						(Monster/Effect)
 			Errata: LON-EN028 Jam Defender						(Trap/Continuous)
 	
 	Typal Searchers
-		
+	
 		HUGO-EN004	Tower Golem									(Monster/Effect)
 		HUGO-EN005	Angelic Egg									(Monster/Effect)
 		HUGO-EN007	Machine Soldier								(Monster/Effect)
@@ -14,18 +20,18 @@ Goat Format (12)
 		HUGO-EN010	Legendary Samurai of the Wasteland			(Monster/Effect)
 		HUGO-EN011	Grassland Warrior							(Monster/Effect)
 		HUGO-EN012	Vengeful Arbor								(Monster/Effect)
-
+	
 	Singles
 	
 		HUGO-EN001	No-Eyes Dark Maw 							(Monster/Effect)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
-		
+
 Gladiator Format (0)
 
 Edison Format (2)
-
+	
 	Metal Counterparts
 	
 		HUED-EN002	Metal-Armoured Ryu Kokki					(Monster/Evolution/Effect)
@@ -33,11 +39,11 @@ Edison Format (2)
 	Singles
 	
 		HUED-EN001	The Restless Grave							(Spell/Equip)
-		
-HAT Format (0)
-	
-Advanced Format (30)
 
+HAT Format (0)
+
+Advanced Format (30)
+	
 	Dragon Lords
 	
 		HUFF-EN000	Hatchling of the Dragon Lords				(Monster/Effect)
@@ -66,19 +72,19 @@ Advanced Format (30)
 		HUAD-EN013	Malefic Gandora								(Monster/Effect)
 		HUAD-EN014	Malefic Planetary Gear						(Monster/Tuner/Effect)
 		HUAD-EN015	Malefic Exchange							(Spell/Normal)
-		
+	
 	Neos
 	
 		HUAD-EN025	Elemental HERO Vigilante Neos				(Monster/Fusion/Effect)
-		
+	
 	Olympus
 	
 		HUAD-EN026	Zeus, Thunderbringer of Olympus				(Monster/Effect)
 		HUAD-EN027	Poseidon, Tideshaker of Olympus				(Monster/Effect)
 		HUAD-EN028	Hades, Underworld Adjudicator of Olympus 	(Monster/Effect)					
-		
+	
 	Singles
-		
+	
 		HUAD-EN024	Syzygy, the Black Sun Dragon				(Monster/Xyz/Effect)
 		HUAD-EN029	Trap Restoration							(Trap/Normal)
 		HUAD-EN030	World of Fantasy - Toon World				(Spell/Continuous)

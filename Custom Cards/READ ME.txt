@@ -2,16 +2,16 @@ Version number A.B.C
 
 Increment A when:
 
-	Publishing a new archetype.
-	Publishing a new series.
+	Publishing a new custom archetype or series.
 	Publishing a new custom card type.
-	Overhauling an archetype.
-	Overhauling a series.
+	Overhauling an archetype or series.
 	Overhauling a custom card type.
 
 Increment B when:
 
 	Publishing a new single.
+	Adding new support for an archetype or series that has already had custom cards published.
+	Adding new support that makes an existing custom card that was a single part of an archetype or series.
 	
 Increment C when:
 

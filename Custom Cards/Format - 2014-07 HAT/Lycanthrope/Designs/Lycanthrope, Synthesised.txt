@@ -6,7 +6,7 @@ Card Subtype(s): Fusion / Effect
 Level: 6
 Attribute: EARTH
 Monster Type: Beast-Warrior
-Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gain 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gains 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
 ATK: 2400
 DEF: 1800
 Last Updated: 21/07/2025
@@ -28,6 +28,20 @@ Is Lycanthrope on field/GY. Grant Lycanthropes / BWs 200 ATK/DEF per BW in GY. F
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/07/2025-------------------------------------------
+
+Name: Name: Lycanthrope, Synthesised
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gain 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+ATK: 2400
+DEF: 1800
+Comments: Noticed a typo.
+
 
 DATE: 18/06/2025-------------------------------------------
 
