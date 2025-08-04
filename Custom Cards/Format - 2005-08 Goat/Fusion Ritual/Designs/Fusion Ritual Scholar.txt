@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Ritual Scholar
+Name: Fusion Ritual Scholar
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
@@ -11,7 +11,7 @@ Rules Text: ① When this card is Normal or Flip Summoned: You can activate 1 of
 ● Target 1 "Fusion Ritual" Spell in your GY; add it to your hand.
 ATK: 1400
 DEF: 1000
-Last Updated: 14/06/2025
+Last Updated: 29/07/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,20 +30,18 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 14/06/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Ritual Scholar
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WIND
+Monster Type: Winged Beast
+Rules Text: ① When this card is Normal or Flip Summoned: You can activate 1 of these effects.
+● Target 1 Fusion Monster in your GY that must first be Special Summoned with a "Fusion Ritual" card; return it to your Extra Deck.
+● Target 1 "Fusion Ritual" Spell in your GY; add it to your hand.
+ATK: 1400
+DEF: 1000
+Last Updated: 
+Comments: Re-name to clearly communicate it deals with Fusion Ritual cards.
