@@ -8,7 +8,7 @@ Attribute: DARK
 Monster Type: Zombie
 Rules Text: Evolve: "Ryu Kokki"
 Requirement: Send 1 "Metalmorph" equipped to it to the GY
-① While this card has material, this card is also treated as a Machine monster, it gains 400 ATK/DEF, and is unaffected by your opponent's Spell effects. ② If this card would be destroyed, you can detach 1 material from this card instead. ③ If this card destroys a monster by battle while it has no material: You can attach that destroyed monster to this card as material.
+① While this card has material, it is also treated as a Machine monster, it gains 400 ATK/DEF, and it is unaffected by your opponent's Spell effects. ② If this card would be destroyed, you can detach 1 material from this card instead. ③ If this card destroys a monster by battle while it has no material: You can attach that destroyed monster to this card as material.
 ATK: 2400
 DEF: 2000
 Last Updated: 25/07/2025
@@ -30,6 +30,22 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 25/07/2025-------------------------------------------
+
+Name: Metal-Armoured Ryu Kokki
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Zombie
+Rules Text: Evolve: "Ryu Kokki"
+Requirement: Send 1 "Metalmorph" equipped to it to the GY
+① While this card has material, this card is also treated as a Machine monster, it gains 400 ATK/DEF, and is unaffected by your opponent's Spell effects. ② If this card would be destroyed, you can detach 1 material from this card instead. ③ If this card destroys a monster by battle while it has no material: You can attach that destroyed monster to this card as material.
+ATK: 2400
+DEF: 2000
+Comments: Templating errata for effect ①
+
 
 DATE: 14/05/2025-------------------------------------------
 
