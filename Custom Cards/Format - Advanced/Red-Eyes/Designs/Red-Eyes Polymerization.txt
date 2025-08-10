@@ -1,32 +1,23 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Meteor Skull Dragon
-Card Type: Monster
-Card Subtype(s): Fusion
-Level: 8
-Attribute: DARK
-Monster Type: Dragon
-Rules Text: "Summoned Skull" + "Meteor Dragon" 
-(This card is always treated as an "Archfiend" card.)
-ATK: 3350
-DEF: 2250
-Last Updated: 26/12/2024
+Name: Red-Eyes Polymerization
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: You can only use "Red-Eyes Polymerization" once per turn. ① Fusion Summon 1 Dragon Fusion Monster that lists a "Red-Eyes", "Archfiend", and/or "Meteor" monster as material from your Extra Deck, using monsters from your hand or field, and up to 1 monster from your Deck, as Fusion Material, also you cannot Special Summon for the rest of this turn, except Dragon or Fiend monsters.
+Last Updated: 10/08/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Summoned Skull + Meteor Dragon
-Flavour: A Red-Eyes-related Fusion Monster combining Summoned Skull and Meteor Dragon.
+Basis: Red-Eyes Fusion
+Flavour: Red-Eyes Fusion that improves on Red-Eyes Fusion's weaknesses
 Artwork: Created in GIMP using:
-● Lavalval Salamander?
-● Magmacho Dragon?
-● Koa'ki Meiru Valafar?
-● Meteor Swarm Dragon?
+● 
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Make it Goat-format legal.
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
@@ -41,9 +32,9 @@ Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-
 Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Monster Type: ABCDEF
-(Monster) Rules Text: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999

@@ -1,32 +1,30 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Meteor Skull Dragon
+Name: Red-Eyes Skull Archfiend
 Card Type: Monster
-Card Subtype(s): Fusion
-Level: 8
+Card Subtype(s): Effect
+Level: 6
 Attribute: DARK
-Monster Type: Dragon
-Rules Text: "Summoned Skull" + "Meteor Dragon" 
-(This card is always treated as an "Archfiend" card.)
-ATK: 3350
-DEF: 2250
-Last Updated: 26/12/2024
+Monster Type: Fiend
+Rules Text: ① If this card is used as Fusion Material, it is treated as a Normal Monster for that Fusion Summon. ② If this card is Normal or Special Summoned: You can target 1 "Red-Eyes" monster in your GY; Special Summon it, and if you do, you can increase or decrease the Level of 1 monster you control by 1.
+ATK: 2500
+DEF: 1200
+Last Updated: 10/08/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Summoned Skull + Meteor Dragon
-Flavour: A Red-Eyes-related Fusion Monster combining Summoned Skull and Meteor Dragon.
+Basis: Summoned Skull, Red-Eyes Skull Archfiend of Lightning, Archfiend's Advent
+Flavour: A non-Gemini Red-Eyes Summoned Skull
 Artwork: Created in GIMP using:
-● Lavalval Salamander?
-● Magmacho Dragon?
-● Koa'ki Meiru Valafar?
-● Meteor Swarm Dragon?
+● Skull Archfiend of Lightning?
+● Red-Eyes Archfiend of Lightning?
+● Summoned Skull?
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Make it Goat-format legal.
+Does it need a restriction in effect ①, i.e. "If this card is used as Fusion Material for a "Red-Eyes", "Archfiend", or "Meteor" monster"?
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
@@ -41,9 +39,9 @@ Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-
 Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Monster Type: ABCDEF
-(Monster) Rules Text: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999

@@ -1,32 +1,25 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Meteor Skull Dragon
-Card Type: Monster
-Card Subtype(s): Fusion
-Level: 8
-Attribute: DARK
-Monster Type: Dragon
-Rules Text: "Summoned Skull" + "Meteor Dragon" 
-(This card is always treated as an "Archfiend" card.)
-ATK: 3350
-DEF: 2250
-Last Updated: 26/12/2024
+Name: Red-Eyes Graverobber
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① Target 1 "Red-Eyes" card in your GY, except "Red-Eyes Graverobber"; apply 1 of these effects, based on its Type.
+● Monster: Special Summon it, and if you do, you can increase or decrease the Level of 1 monster you control by 1.
+● Spell/Trap: Set it, and if it is a Trap or Quick-Play Spell, you can activate it this turn.
+Last Updated: 10/08/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Summoned Skull + Meteor Dragon
-Flavour: A Red-Eyes-related Fusion Monster combining Summoned Skull and Meteor Dragon.
+Basis: Graverobber
+Flavour: A Graverobber for Red-Eyes decks.
 Artwork: Created in GIMP using:
-● Lavalval Salamander?
-● Magmacho Dragon?
-● Koa'ki Meiru Valafar?
-● Meteor Swarm Dragon?
+● Graverobber
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Make it Goat-format legal.
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
@@ -41,9 +34,9 @@ Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-
 Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Monster Type: ABCDEF
-(Monster) Rules Text: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999

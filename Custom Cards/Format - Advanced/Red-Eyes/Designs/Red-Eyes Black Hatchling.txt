@@ -1,32 +1,28 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Meteor Skull Dragon
+Name: Red-Eyes Black Hatchling
 Card Type: Monster
-Card Subtype(s): Fusion
-Level: 8
+Card Subtype(s): Effect
+Level: 1
 Attribute: DARK
 Monster Type: Dragon
-Rules Text: "Summoned Skull" + "Meteor Dragon" 
-(This card is always treated as an "Archfiend" card.)
-ATK: 3350
-DEF: 2250
-Last Updated: 26/12/2024
+Rules Text: You can only use each effect of "Red-Eyes Black Hatchling" once per turn. ① You can send this card from your hand to the GY; Special Summon 1 "Red-Eyes" monster from your hand, and if you do, you can increase or decrease the Level of 1 monster you control by 1. ② You can banish this card from your GY, then target 1 "Red-Eyes" Spell/Trap in your GY; add it to your hand, and if you do, inflict 800 damage to your opponent.
+ATK: 800
+DEF: 500
+Last Updated: 10/08/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Summoned Skull + Meteor Dragon
-Flavour: A Red-Eyes-related Fusion Monster combining Summoned Skull and Meteor Dragon.
+Basis: Black Dragon's Chick
+Flavour: Making Black Dragon's Chick a proper Red-Eyes monster
 Artwork: Created in GIMP using:
-● Lavalval Salamander?
-● Magmacho Dragon?
-● Koa'ki Meiru Valafar?
-● Meteor Swarm Dragon?
+● Black Dragon's Chick
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Make it Goat-format legal.
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
@@ -41,9 +37,9 @@ Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-
 Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Monster Type: ABCDEF
-(Monster) Rules Text: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999
