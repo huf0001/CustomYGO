@@ -1,9 +1,9 @@
-Goat Format (14)
-
+Goat Format (15)
+	
 	Lycanthrope
 	
-		HUGO-EN013	Lycanthrope, Synthesised					(Monster/Fusion/Effect)
-		HUGO-EN014	Synthesis Fusion Ritual						(Spell/Normal)
+		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Fusion/Effect)
+		HUGO-EN015	Synthesis Fusion Ritual						(Spell/Normal)
 	
 	Slime
 	
@@ -20,6 +20,8 @@ Goat Format (14)
 		HUGO-EN010	Legendary Samurai of the Wasteland			(Monster/Effect)
 		HUGO-EN011	Grassland Warrior							(Monster/Effect)
 		HUGO-EN012	Vengeful Arbor								(Monster/Effect)
+		HUGO-EN013	Lava Eye									(Monster/Effect)
+		HUGO-EN016	Chameleon									(Monster/Effect)
 	
 	Singles
 	
