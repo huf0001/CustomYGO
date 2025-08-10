@@ -1,22 +1,21 @@
-Name: Big Bang Dragon Blow
-Card Type: Legendary Monster
-Card Subtype(s): Fusion / Effect
-Level: 4
-Attribute: EARTH
-Monster Type: Machine
-Rules Text: "The Claw of Hermos" + "Big Bang Blow"
-① If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. ② While this card is equipped to a monster (Quick Effect): You can Tribute 1 Dragon monster you control; destroy all monsters your opponent controls, and if you do, inflict damage to your opponent equal to the destroyed monsters' combined ATK. ③ If you control "The Seal of Orichalcos": Destroy this card, then Special Summon 1 "Big Bang Blow" from your GY.
-ATK: 0
-DEF: 0
-Last Updated: 09/05/2025
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Legendary Dragons
+Card Type: Rule
+Rules Text: ① While you control "The Seal of Orichalcos", if you control a Fusion Monster that was Special Summoned with a "Legendary Dragon" Spell Card, return that Fusion Monster to your Extra Deck and apply 1 of these effects.
+● Special Summon the monster that was sent to the GY for its Special Summon.
+● Set the Spell or Trap Card that was sent to the GY for its Special Summon.
+Last Updated: 07/08/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Big Bang Dragon Blow
-Flavour: Big Bang Dragon Blow, using my Legendary supertype.
+Basis: Battle City
+Flavour: Imposes Battle City anime rules
 Artwork: Created in GIMP using:
-● Big Bang Dragon Blow
+● The Seal of Orichalcos?
+● Legend of Heart
+● Revoke Fusion
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -38,6 +37,8 @@ Left Pendulum Scale: 0
 Right Pendulum Scale: 0
 Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
 (Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
