@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Vehicroid Space Shuttle
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: EARTH
+Monster Type: Machine
+Rules Text: ① When this card is targeted for an attack: You can banish this card. ② Once per turn, during your next Standby Phase after this card was banished by this effect: Special Summon this banished card. ③ If Summoned this way: Inflict 1000 damage to your opponent.
+ATK: 1200
+DEF: 1200
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Shuttleroid
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Shuttleroid
+● Megaroid City
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Shuttleroid
+https://yugipedia.com/wiki/Card_Appearances:Shuttleroid
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

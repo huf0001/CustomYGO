@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Super Vehicroid Mobile Mech
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 10
+Attribute: EARTH
+Monster Type: Machine
+Rules Text: 1 "Vehicroid" Fusion Monster + 1 "Vehicroid" monster
+You can only use effect ① of "Super Vehicroid Mobile Mech" once per turn. ① You can target 1 face-up monster your opponent controls; Special Summon 1 "Vehicroid" monster from your Deck or Extra Deck with ATK less than or equal to that monster. ② Once per turn, during the End Phase: You can target 1 "Vehicroid" monster in your Main Monster Zone (other than this card); return that monster you control to the hand, and if you do, move this card you control to that monster's Monster Zone. 
+ATK: 0
+DEF: 5000
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Super Vehicroid - Mobile Base
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Super Vehicroid - Mobile Base
+● Megaroid City
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Super_Vehicroid_-_Mobile_Base
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

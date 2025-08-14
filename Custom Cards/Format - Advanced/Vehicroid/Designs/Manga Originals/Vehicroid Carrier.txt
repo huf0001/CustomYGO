@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Vehicroid Carrier
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WATER
+Monster Type: Machine
+Rules Text: ① When an opponent activates a card or effect that targets and would destroy a Spell/Trap you control: You can discard 1 card; negate the activation, and if you do, destroy it. 
+ATK: 1000
+DEF: 800
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Carrierroid
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Carrierroid
+● Megaroid City
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Carrierroid
+https://yugipedia.com/wiki/Card_Appearances:Carrierroid
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

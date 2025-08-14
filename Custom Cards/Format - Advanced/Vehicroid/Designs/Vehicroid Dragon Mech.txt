@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Vehicroid Dragon Mech
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: WIND
+Monster Type: Machine
+Rules Text: You can only use effect ② of "Dragonroid" once per turn. ① This card is also treated as a Dragon monster while in the GY. ② You can discard this card; activate 1 of these effects.
+● Add 1 "Vehicroid" card from your Deck or GY to your hand.
+● This turn, your opponent cannot activate cards or effects when a monster is Fusion Summoned or when you activate a card or effect that would Fusion Summon a Fusion Monster.
+ATK: 2900
+DEF: 1000
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dragonroid
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Dragonroid
+● Megaroid City
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Dragonroid
+https://yugipedia.com/wiki/Card_Appearances:Dragonroid
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

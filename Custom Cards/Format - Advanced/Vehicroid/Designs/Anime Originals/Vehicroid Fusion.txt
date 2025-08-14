@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Vehicroid Fusion
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Fusion Summon 1 "Super Vehicroid" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials, and if you do, it cannot be destroyed by card effects, and its effects cannot be negated. 
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Vehicroid Connection Zone
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Vehicroid Connection Zone
+● Polymerization (GX)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Vehicroid_Connection_Zone
+https://yugipedia.com/wiki/Card_Appearances:Vehicroid_Connection_Zone
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

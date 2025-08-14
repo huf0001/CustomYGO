@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Super Vehicroid Emergency Services
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 6
+Attribute: FIRE
+Monster Type: Machine
+Rules Text: 2 "Vehicroid" monsters with different names
+You can only activate each effect of "Super Vehicroid Emergency Services" once per turn. ① If a "Vehicroid" monster you control is attacked: You can negate the attack. ② During your Main Phase: You can target 1 "Vehicroid" monster in your GY; add it to your hand. 
+ATK: 2400
+DEF: 1800
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Ambulance Rescueroid
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Ambulance Rescueroid
+● Megaroid City
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Ambulance_Rescueroid
+https://yugipedia.com/wiki/Card_Appearances:Ambulance_Rescueroid
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

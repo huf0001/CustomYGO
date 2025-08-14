@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Vehicroid Cement Mixer
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WIND
+Monster Type: Machine
+Rules Text: You can only use each effect of "Vehicroid Cement Mixer" once per turn. ① You can Tribute 1 Machine monster; Special Summon 1 non-WIND "roid" monster from your Deck. ② You can pay half your LP and banish any number of Machine monsters from your GY, including this card; Special Summon from your Extra Deck, 1 "roid" Fusion Monster with the same Level as the number of those banished monsters, ignoring its Summoning conditions, but destroy it during the End Phase. 
+ATK: 0
+DEF: 2200
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Jetroid
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Jetroid
+● Megaroid City
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Mixeroid
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

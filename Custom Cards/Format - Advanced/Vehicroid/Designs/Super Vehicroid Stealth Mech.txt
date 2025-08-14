@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Super Vehicroid Stealth Mech
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 10
+Attribute: LIGHT
+Monster Type: Machine
+Rules Text: 4 "Vehicroid" monsters
+① Once per turn: You can target 1 face-up monster your opponent controls; equip it to this card. ② While equipped with a monster by effect ①, this card can make a second attack during each Battle Phase, but your opponent takes no battle damage from that attack. ③ If this card attacks a Defense Position monster, inflict piercing battle damage. 
+ATK: 3600
+DEF: 3000
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Super Vehicroid - Stealth Union
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Super Vehicroid - Stealth Union
+● Megaroid City
+
+
+COMMENTS-----------------------------------------------------------------------
+
+https://yugipedia.com/wiki/Super_Vehicroid_-_Stealth_Union
+https://yugipedia.com/wiki/Card_Appearances:Super_Vehicroid_-_Stealth_Union
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
