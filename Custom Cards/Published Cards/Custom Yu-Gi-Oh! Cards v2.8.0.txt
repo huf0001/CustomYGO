@@ -1,4 +1,4 @@
-Goat Format (15)
+Goat Format (17)
 	
 	Lycanthrope
 	
@@ -22,6 +22,7 @@ Goat Format (15)
 		HUGO-EN012	Vengeful Arbor								(Monster/Effect)
 		HUGO-EN013	Lava Eye									(Monster/Effect)
 		HUGO-EN016	Chameleon									(Monster/Effect)
+		HUGO-EN017	Armordillo Rat								(Monster/Effect)
 	
 	Singles
 	
@@ -44,7 +45,7 @@ Edison Format (2)
 
 HAT Format (0)
 
-Advanced Format (30)
+Advanced Format (31)
 	
 	Dragon Lords
 	
@@ -90,3 +91,4 @@ Advanced Format (30)
 		HUAD-EN024	Syzygy, the Black Sun Dragon				(Monster/Xyz/Effect)
 		HUAD-EN029	Trap Restoration							(Trap/Normal)
 		HUAD-EN030	World of Fantasy - Toon World				(Spell/Continuous)
+		HUAD-EN031	The Living Level							(Monster/Effect)
