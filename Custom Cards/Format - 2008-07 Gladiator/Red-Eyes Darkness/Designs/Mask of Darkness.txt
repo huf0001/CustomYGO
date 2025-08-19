@@ -3,10 +3,10 @@ TECHNICAL----------------------------------------------------------------------
 Name: Mask of Darkness
 Card Type: Spell
 Card Subtype(s): Normal
-Rules Text: ① Add 1 monster from a category below from your Deck to your hand. ② You can target 1 monster you control from a category below; equip this card from your hand or GY to it as an Equip Spell with one of these effects based on its category, but banish this card when it leaves the field. 
-● "Red-Eyes" monster: If the equipped monster destroys an oppponent's monster by battle: Inflict damage to your opponent equal to the number of different Attributes among Dragon monsters in your GY x 200.
-● Monster that mentions "Clear World": During the Standby Phase: inflict 200 damage to the turn player for each effect of "Clear World" they are currently receiving.
-Last Updated: 26/06/2025
+Rules Text: ① Add 1 monster from a category below from your Deck to your hand, then you can discard 1 card. ② You can target 1 monster you control from a category below; equip this card from your hand or GY to it as an Equip Spell with one of these effects based on its category, but banish this card when it leaves the field. 
+● "Red-Eyes Darkness" monster: If the equipped monster battles an opponent's monster: Inflict damage to your opponent equal to the number of different Attributes among Dragon monsters in your GY x 200.
+● Monster that mentions "Clear World": During the Standby Phase: Inflict 200 damage to the turn player for each effect of "Clear World" they are currently receiving.
+Last Updated: 18/08/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,20 +24,12 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 26/06/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Mask of Darkness
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Add 1 monster from a category below from your Deck to your hand. ② You can target 1 monster you control from a category below; equip this card from your hand or GY to it as an Equip Spell with one of these effects based on its category, but banish this card when it leaves the field. 
+● "Red-Eyes" monster: If the equipped monster destroys an oppponent's monster by battle: Inflict damage to your opponent equal to the number of different Attributes among Dragon monsters in your GY x 200.
+● Monster that mentions "Clear World": During the Standby Phase: inflict 200 damage to the turn player for each effect of "Clear World" they are currently receiving.
+Comments: Tweaking the Red-Eyes effect so it doesn't have to destroy a monster, only battle it.

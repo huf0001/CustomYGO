@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Blue-Eyes Shining Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute: LIGHT
+Monster Type: Dragon
+Rules Text: Evolve: "Blue-Eyes White Dragon"
+Requirement: Send 1 "Burst Stream of Destruction" from your hand to the GY
+① This card's name is also treated as "Blue-Eyes White Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
+ATK: 3000
+DEF: 2500
+Last Updated: 12/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Typal serachers (Masked Dragon, Pyramid Turtle, Warrior Lady of the Wasteland, etc.), Beast monsters
+Flavour: A typal searcher for Beast monsters
+Artwork: Created in GIMP using:
+● Armored Rat
+● Forest
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

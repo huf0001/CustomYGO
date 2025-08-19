@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Darkness Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 9
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: Send 1 "Inferno Fire Blast" from your hand to the GY
+① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
+ATK: 2400
+DEF: 2000
+Last Updated: 18/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Darkness Dragon
+Flavour: 
+Artwork: Created in GIMP using:
+● Red-Eyes Darkness Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/06/2025-------------------------------------------
+
+Name: Red-Eyes Darkness Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 9
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: While it is equipped with "Mask of Darkness": Send 1 Dragon monster from your Deck to the GY
+① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY.
+ATK: 2400
+DEF: 2000
+Comments: Tweaking to bring in line with Blue-Eyes Shining Evolution Dragon, and putting in the Goat format folder.

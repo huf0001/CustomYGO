@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Metal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Machine
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: Send 1 "Metalmorph" from your hand to the GY
+① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Unaffected by your opponent's Spell effects. ③ If this card would be destroyed by battle or card effect, you can detach 1 material from this card to banish it until the End Phase instead.
+ATK: 2800
+DEF: 2400
+Last Updated: 26/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Black Metal Dragon
+Flavour: 
+Artwork: Created in GIMP using:
+● Red-Eyes Black Metal Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

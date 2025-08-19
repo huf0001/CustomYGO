@@ -1,23 +1,23 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Red-Eyes Darkness
+Name: Red-Eyes Darkness Baby Dragon
 Card Type: Monster
-Card Subtype(s): Union/Effect
-Level: 4
-Attribute: DARK
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
 Monster Type: Dragon
-Rules Text: ① Once per turn: You can reveal 1 "Red-Eyes" Evolution Monster from your Extra Deck, then declare 1 card name mentioned on it, except the name of an Evolution Monster; this card's name becomes the declared name until the End Phase, even if it becomes an Equip Spell. ② Once per turn, you can either: Target 1 DARK monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. ③ If the equipped monster would be destroyed by battle or card effect, destroy this card instead.
-ATK: 1800
-DEF: 1600
-Last Updated: 10/08/2025
+Rules Text: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 1200
+DEF: 900
+Last Updated: 26/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
+Basis: Baby Dragon, Red-Eyes Baby Dragon
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● 
+● Black Dragon's Chick
 
 
 COMMENTS-----------------------------------------------------------------------

@@ -1,37 +1,28 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Red-Eyes Darkness Evolution Dragon
+Name: Red-Eyes Darkness Stone
 Card Type: Monster
-Card Subtype(s): Evolution / Effect
-Level: 9
-Attribute: DARK
+Card Subtype(s): Effect
+Level: 1
+Attribute: EARTH
 Monster Type: Dragon
-Rules Text: Evolve: "Red-Eyes Black Dragon"
-Requirement: While it is equipped with "Mask of Darkness": Send 1 Dragon monster from your Deck to the GY
-① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY.
-ATK: 2400
-DEF: 2000
+Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 0
+DEF: 0
 Last Updated: 26/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Red-Eyes Darkness Dragon
-Flavour: 
+Basis: Black Dragon's Chick
+Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● 
+● Black Dragon's Chick
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Alternate name ideas:
-
-	● Red-Eyes Deep Darkness Dragon
-	● Red-Eyes Despairing Darkness Dragon
-	● Red-Eyes Descending Darkness Dragon
-	● Red-Eyes Falling Darkness Dragon
-	● Red-Eyes Fallen Darkness Dragon
-	● Red-Eyes Eternal Darkness Dragon (for REDMED, perhaps?)
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

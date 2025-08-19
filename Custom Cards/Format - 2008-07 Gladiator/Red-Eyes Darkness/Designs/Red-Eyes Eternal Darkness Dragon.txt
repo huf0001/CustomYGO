@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Eternal Darkness Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 10
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: Send 1 "Mask of Darkness" from your hand to the GY
+You can only activate effect ② of "Red-Eyes Eternal Darkness Dragon" once per turn. ① Gains 500 ATK for each Attribute among Dragon monsters in your GY. ② During your Standby Phase: You can send 1 Dragon monster with a different Attribute from Dragon monsters in your GY from your Deck to the GY. ③ While you have LIGHT, DARK, EARTH, WATER, FIRE, and WIND Dragon monsters in your GY, if your opponent activates a Spell/Trap Card or effect that would affect this card, you can choose 1 monster your opponent controls to be affected instead.
+ATK: 2800
+DEF: 2400
+Last Updated: 18/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Darkness Dragon
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

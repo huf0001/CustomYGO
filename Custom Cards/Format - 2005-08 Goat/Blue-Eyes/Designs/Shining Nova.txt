@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Shining Nova
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): ① Send 1 "Blue-Eyes White Dragon" from your hand or field to the GY; Special Summon 1 "Blue-Eyes Shining Dragon" from your hand, Deck, or GY, ignoring its Summoning conditions. ② You can banish this card from your GY and Tribute 1 "Blue-Eyes Shining Dragon" you control, then  target any number of cards on the field; destroy them.
-Last Updated: 31/10/2024
+Effect(s): ① Tribute 1 "Blue-Eyes Shining Dragon" or "Blue-Eyes Shining Evolution Dragon" you control, then target any number of cards on the field; destroy them, and if you do, you can Special Summon 1 "Blue-Eyes White Dragon" from your GY.
+Last Updated: 18/08/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -20,6 +20,15 @@ Keep an eye on the ATK boost effect, the 400 ATK or including field monsters mig
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/10/2024-------------------------------------------
+
+Name: Shining Nova
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): ① Send 1 "Blue-Eyes White Dragon" from your hand or field to the GY; Special Summon 1 "Blue-Eyes Shining Dragon" from your hand, Deck, or GY, ignoring its Summoning conditions. ② You can banish this card from your GY and Tribute 1 "Blue-Eyes Shining Dragon" you control, then  target any number of cards on the field; destroy them.
+Comments: Downscaling to be just the destruction effect if I'm gonna put together BESED.
+
 
 DATE: 06/10/2024-------------------------------------------
 
