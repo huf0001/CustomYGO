@@ -1,0 +1,75 @@
+NORMAL TRAPS-------------------------------------------------------------------
+
+Normal Traps that equip themselves to a monster:
+
+	Altergeist Camouflage
+	Amaze Attraction Cyclo-Coaster
+	Amaze Attraction Horror House
+	Amaze Attraction
+
+
+CONTINUOUS TRAPS---------------------------------------------------------------
+
+Single-target Continuous Traps that self-destruct when the target leaves the field:
+
+	Buff:
+			
+		Battle-Scarred
+		Battleguard Rage
+		Dimension Guardian
+		Dimension Sphinx
+		Dragon's Bind
+		Follow Wing
+		Moon Dance Ritual
+		Phantom Knights' Sword
+		Rare Metalmorph
+		Safe Zone
+		
+	Debuff
+	
+		Dimension Mirage
+		Fiendish Chain
+		Miniaturize
+		Nightmare Wheel
+		Phantom Knights' Fog Blade
+		Shadow Spell
+		Shattered Axe
+		Spellbinding Circle
+		Vain Betrayer
+	
+	Special Summon
+	
+		From Deck
+			
+			Abyss-sphere
+		
+		From GY
+		
+			Amazoness Willpower
+			Birthright
+			Call of the Haunted
+			Core Reinforcement
+			Fossil Excavation
+			Glorious Illusion
+			Graceful Revival
+			Limit Reverse
+			Monster Rebone
+			Oasis of Dragon Souls
+			Powerful Rebirth
+			Psychic Tuning
+			Soul Resurrection
+			Wicked Rebirth
+			
+		From Banishment
+			
+			Brain Hazard
+			Escape from the Dark Dimension
+			Miraculous Descent
+			Release from Stone
+	
+	Take Control
+		
+		Brainwashing Beam
+		Crackdown
+		Evil Eye Mesmerism
+		Tuner's Scheme
