@@ -2,10 +2,9 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: The Hateful Blade
 Card Type: Trap
-Card Subtype(s): Normal
-Rules Text: ① Target 1 monster on the field; if it is in Defense Position, change it to face-up Attack Position, then you can equip this card to it with this effect.
-● The equipped monster must attack if able, also it cannot change its battle position.
-Last Updated: 24/06/2025
+Card Subtype(s): Equip
+Rules Text: ① Activate this card by targeting 1 monster on the field: If it is in Defense Position, change it to face-up Attack Position, also, after that, equip it with this card. ② The equipped monster must attack if able, also it cannot change its battle position.
+Last Updated: 01/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +24,16 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 24/06/2025-------------------------------------------
+
+Name: The Hateful Blade
+Card Type: Trap
+Card Subtype(s): Normal
+Rules Text: ① Target 1 monster on the field; if it is in Defense Position, change it to face-up Attack Position, then you can equip this card to it with this effect.
+● The equipped monster must attack if able, also it cannot change its battle position.
+Comments: Errata-ing to be a proper Equip Trap Card.
+
 
 DATE: 23/06/2025-------------------------------------------
 
