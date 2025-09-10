@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rare Metal Dragon of Rebirth
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. ① If a Dragon monster you control is destroyed: You can Special Summon this card from your hand. ② Once per turn: You can target 1 Dragon monster in your GY; this card's Level becomes that target's Level until the end of this turn. ③ If this card is destroyed: You can target 1 Level 8 or lower Dragon monster in your GY; Special Summon it.
+ATK: 2400
+DEF: 1200
+Last Updated: 07/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Rare Metal Dragon
+Flavour: Playable Rare Metal Dragon retrain
+Artwork: Created in GIMP using:
+● Rare Metal Dragon
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Magical Hat Token
+Card Type: Monster
+Card Subtype(s): Legendary Token/Effect
+Level: 1
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: Must be Special Summoned with "Hats of Illusion - Magical Hats." ① Cannot attack, be Tributed, or be used as material for the Special Summon of a monster from the Extra Deck. ② Neither player takes battle damage from battles involving this card. ③ Does not prevent monsters from being Summoned/Set in the zone this card occupies. ④ During your Main Phase, or if this card is targeted for an attack or by a card or effect that would make it leave the field, and it's in a column recorded for a card banished by "Hats of Illusion - Magical Hats": You can destroy this card; apply 1 of these effects, based on its type. ● Monster: return that banished monster to the field in this card's Monster Zone, then if this card was targeted for an attack or by a card or effect, change the target to that monster. ● Spell/Trap: If its activation timing is correct, activate it as if it was activated in the same Chain Link as this effect, otherwise send it to the GY.
+ATK: 0
+DEF: 0
+Last Updated: 07/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Magical Hats
+Flavour: A hat from Magical Hats
+Artwork: Created in GIMP using:
+● Magical Hats
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

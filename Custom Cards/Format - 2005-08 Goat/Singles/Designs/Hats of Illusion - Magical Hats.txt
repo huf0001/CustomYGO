@@ -1,0 +1,33 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hats of Illusion - Magical Hats
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① If you do not control a "Magical Hat Token": Choose 4 of your Main Monster Zones; banish all monsters in those zones face-down (min. 1), then Special Summon 4 "Magical Hat Tokens" in Defense Position, also apply these effects while you control a "Magical Hat Token". ● If you Summon/Set a monster in a zone occupied by a "Magical Hat Token", banish it face-down. ● If you Set a Spell/Trap, you can banish it face-down. ● When you banish a card with "Hats of Illusion - Magical Hats", record a column occupied by a "Magical Hat Token" (max. 1 card per column). ● If a "Magical Hat Token" you control leaves the field, except by its own effect, send the card banished by "Hats of Illusion - Magical Hats" with its column recorded (if any) to the GY. ● If you control only 1 "Magical Hat Token", or a card or effect is activated that would negate the effects of "Hats of Illusion - Magical Hats": Destroy all "Magical Hats" you control.
+Last Updated: 10/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Magical Hats
+Flavour: Anime-accurate Magical Hats
+Artwork: Created in GIMP using:
+● Magical Hats
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 10/09/2025-------------------------------------------
+
+Name: Hats of Illusion - Magical Hats
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① If you do not control a "Hat of Illusion - Magical Hat": Choose 4 of your Main Monster Zones; banish any monsters in those zones face-down (min. 1), then Special Summon 4 "Hat of Illusion - Magical Hats" in Defense Position, also apply these effects while you control a "Hat of Illusion - Magical Hats". ● If you Summon/Set a monster in a zone occupied by a "Hat Token", banish it face-down. ● If you Set a Spell/Trap, you can banish it face-down. ● When you banish a card with "Hats of Illusion - Magical Hats", record a column occupied by a "Hat Token" (max. 1 card per column). ● During your Main Phase, or if a "Hat Token" you control is targeted for an attack or by a card or effect that would make it leave the field, and it's in a column recorded for a card banished by "Hats of Illusion - Magical Hats": You can destroy that "Hat Token"; if the banished card is a monster, return it to the field in the same Monster Zone, then if the "Hat Token" was targeted for an attack or by your opponent's card or effect, change the target to that monster. If it is a Spell/Trap, if its activation timing is correct, you can activate it as if it was activated in the same Chain Link as this effect, otherwise send it to the GY. ● If a "Hat Token" leaves the field, except by the above effect, send the card banished by "Hats of Illusion - Magical Hats" with its column recorded (if any) to the GY. ● If you control only 1 "Hat Token", or a card or effect is activated that would negate the effects of "Hats of Illusion - Magical Hats", activate the effect before last for all "Hat Tokens" you control, ignoring its activation requirements.
+ATK: 9999
+DEF: 9999
+Comments: Splitting into an Extra Deck Token Monster and this card to Summon them.
