@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Mystic Dark Magician
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: You can only use effect ③ of "Mystic Dark Magician" once per turn. ① This card's name is also treated as "Dark Magician" while on the field or in the GY. ② If your opponent controls a monster, you can Normal Summon this card without Tributing. ③ If you control another monster that mentions "Fusion Ritual of Light and Darkness": You can choose 1 of your unused Main Monster Zones, then target up to 1 monster in that column; move this card to that Main Monster Zone, also destroy that target (if any).
+ATK: 2500
+DEF: 2100
+Last Updated: DD/MM/YYYY
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Dark Magician
+● Mystic Box
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

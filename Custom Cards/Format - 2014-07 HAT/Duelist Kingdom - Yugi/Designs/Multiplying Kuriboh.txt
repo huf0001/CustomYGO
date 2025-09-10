@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Multiplying Kuriboh
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: DARK
+Monster Type: Fiend
+Rules Text: ① When an opponent's monster declares an attack targeting a monster you control that mentions "Fusion Ritual of Light and Darkness" (Quick Effect); You can send this card from your hand to the GY; Special Summon 3 "Kuriboh Tokens" (Fiend/DARK/Level 1/ATK 300/DEF 200) in Defense Position. They cannot be Tributed for a Tribute Summon. ② While this card is in your GY, "Kuriboh Tokens" you control gain this effect. 
+● Monsters your opponent controls cannot target monsters that mention "Fusion Ritual of Light and Darkness" for attacks, except this one.
+ATK: 9999
+DEF: 9999
+Last Updated: DD/MM/YYYY
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Effect related to Kuriboh's original effect and Multiply
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

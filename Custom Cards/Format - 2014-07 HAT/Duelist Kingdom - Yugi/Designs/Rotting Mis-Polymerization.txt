@@ -1,0 +1,38 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Rotting Mis-Polymerization
+Card Type: Trap
+Card Subtype(s): Equip
+Rules Text: ① When an opponent's monster declares an attack targeting a face-up monster you control that mentions "Fusion Ritual of Light and Darkness": Target the attacking monster; equip it with this card. ② The equipped monster cannot attack or change its battle position, also its effects are negated. ③ Once per turn, during the Standby Phase: The equipped monster loses 400 ATK/DEF, and if it does, inflict 400 damage to its controller.
+Last Updated: 05/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Mammoth Graveyard
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 03/09/2025-------------------------------------------
+
+Name: Graveyard Horde
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Zombie
+Rules Text: ① When this card is destroyed by battle and sent to the GY: Equip it to the monster that destroyed it as an Equip Spell with this effect.
+● Once per turn, during your Standby Phase: The equipped monster loses 500 ATK/DEF, and if it does, inflict 500 damage to its controller.
+ATK: 1200
+DEF: 800
+Last Updated: 
+Comments: Re-working as an Equip Trap, and removing Zombie Warrior as part of the art.
