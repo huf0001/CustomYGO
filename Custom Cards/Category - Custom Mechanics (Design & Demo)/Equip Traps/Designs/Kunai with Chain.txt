@@ -1,0 +1,33 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Kunai with Chain
+Card Type: Trap
+Card Subtype(s): Equip
+Rules Text: ① Activate 1 or both of these effects (simultaneously);
+● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.
+● Target 1 face-up monster you control; equip this card to that target as an Equip Trap that gives it 500 ATK. 
+Last Updated: 02/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 02/09/2025-------------------------------------------
+
+Name: Kunai with Chain
+Card Type: Trap
+Card Subtype(s): Equip
+Rules Text: ① Activate this card by targeting 1 attacking monster your opponent controls, and/or 1 face-up monster you control; change the attacking monster (if any) to Defense Position, also equip this card to your targeted monster (if any). ② The equipped monster gains 500 ATK. 
+Comments: I don't believe this one would actually work within the rules, given how Equip Cards and PSCT conjunctives work. Reverting to a Normal Trap, but making it become an Equip Trap specifically.
