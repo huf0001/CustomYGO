@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Twenty-One Cannon Symphony
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Banish 21 cards from your GY; inflict 2100 damage to your opponent.
+Last Updated: 14/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Tchaikovsky No!
+Flavour: Tchaikovsky yes! Tchaikovsky ALWAYS YES!!
+Artwork: Created in GIMP using:
+● Mass Driver?
+● Ancient Gear cards?
+● Superdreadnaught Rail Cannon Gustav Max?
+● Magic Cylinder?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
