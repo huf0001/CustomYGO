@@ -1,20 +1,17 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Last Updated: DD/MM/YYYY
+Name: Black Luster Soldier - Envoy of the Evening Twilight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: LIGHT/DARK
+Monster Type: Warrior
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT monsters or all DARK monsters from your GY, while you have an equal number of each in your GY. ① When this card is Special Summoned: You can activate the appropriate effect, based on the Attribute of the monsters banished for the Special Summon. You cannot conduct your Battle Phase the turn you activate this effect.
+● LIGHT: Target 1 monster on the field; banish it.
+● DARK: Banish 1 random card from your opponent's hand face-down, until your opponent's End Phase.
+ATK: 3000
+DEF: 2500
+Last Updated: 11/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,7 +24,10 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Edition: 1st Edition
+Set Number: JUMP-EN069
+Card ID: 77498348
+Copyright: 1996 Kazuki Takahashi
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
