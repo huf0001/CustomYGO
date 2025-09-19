@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Defenestrate
 Card Type: Spell
 Card Subtype(s): Normal
-Rules Text: ① Destroy the 1 monster your opponent controls in their occupied Monster Zone furthest to your left (your choice, if tied).
+Rules Text: ① Destroy the 1 monster your opponent controls in their rightmost occupied Monster Zone (your choice, if tied).
 Last Updated: 19/09/2025
 
 
@@ -24,20 +24,10 @@ If this card was released in pre-VRAINS Yu-Gi-Oh!, it would not have the "your c
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 19/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Defenestrate
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Destroy the 1 monster your opponent controls in their occupied Monster Zone furthest to your left (your choice, if tied).
+Comments: Re-wording slightly after checking for monsters that refer to left and right.
