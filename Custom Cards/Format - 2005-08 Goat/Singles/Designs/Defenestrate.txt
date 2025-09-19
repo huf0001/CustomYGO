@@ -1,28 +1,25 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Twenty-One Cannon Symphony
+Name: Defenestrate
 Card Type: Spell
 Card Subtype(s): Normal
-Rules Text: ① Banish 21 cards from your GY; inflict 2100 damage to your opponent.
-Last Updated: 14/09/2025
+Rules Text: ① Destroy the 1 monster your opponent controls in their occupied Monster Zone furthest to your left (your choice, if tied).
+Last Updated: 19/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Tchaikovsky No!
-Flavour: Tchaikovsky yes! Tchaikovsky ALWAYS YES!!
+Basis: Defenestration
+Flavour: The monster in the zone closest to the graveyard gets thrown out the window into the graveyard.
 Artwork: Created in GIMP using:
-● Mass Driver?
-● Ancient Gear cards?
-● Superdreadnaught Rail Cannon Gustav Max?
-● Magic Cylinder?
+● Ojamas?
+● Castle Walls?
+● What cards depict building windows in their artwork?
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Alternative names:
-● Symphony of the Cannons
-● Cannon Symphony
+If this card was released in pre-VRAINS Yu-Gi-Oh!, it would not have the "your choice, if tied" clause, on account of there being only 1 Monster Zone in each column, so there wouldn't be the possibility for 2 monsters to both be in that player's right-most occupied column.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
