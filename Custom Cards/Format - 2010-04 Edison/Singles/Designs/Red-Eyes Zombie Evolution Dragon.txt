@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Zombie Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 7
+Attribute: DARK
+Monster Type: Zombie / Dragon
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: It is a Zombie monster
+① Gains 100 ATK/DEF for each Zombie monster in your GY. ② When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster.
+ATK: 2400
+DEF: 2000
+Last Updated: 14/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Zombie Dragon
+Flavour: Red-Eyes Zombie Dragon, if Evolution Monsters existed.
+Artwork: Created in GIMP using:
+● Red-Eyes Zombie Dragon
+● Zombie World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
