@@ -1,28 +1,30 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Metal Fiend Zoa
 Card Type: Monster
-Card Subtype(s): Effect
-Level: 6
+Card Subtype(s): Evolution / Effect
+Level: 8
 Attribute: DARK
-Monster Type: Thunder/Fiend
-Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 2500
-DEF: 1200
-Last Updated: 21/09/2025
+Monster Type: Machine/Fiend
+Rules Text: Evolve: "Zoa"
+Requirement: Send 1 "Metalmorph" from your hand to the GY
+① This card's name is also treated as "Zoa" while on the field, except if used as Evolution Material. ② Unaffected by your opponent's Spell effects.
+ATK: 3000
+DEF: 2300
+Last Updated: 20/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Metalzoa
+Flavour: 
 Artwork: Created in GIMP using:
-● 
+● Metalzoa
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Normal Summon without Tribute, Makiu (anime)-esque effect
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

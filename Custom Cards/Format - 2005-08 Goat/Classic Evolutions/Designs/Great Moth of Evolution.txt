@@ -1,28 +1,29 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Great Moth of Evolution
 Card Type: Monster
-Card Subtype(s): Effect
-Level: 6
-Attribute: DARK
-Monster Type: Thunder/Fiend
-Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 2500
-DEF: 1200
-Last Updated: 21/09/2025
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: EARTH/WIND
+Monster Type: Insect
+Rules Text: Evolve: "Great Cocoon of Evolution"
+Requirement: It must have 4 or more Moth Counters on it
+① Once per turn: You can activate this effect; all face-up monsters your opponent currently controls lose 700 ATK, also they cannot target this card for attacks. This card cannot attack the turn you activate this effect.
+ATK: 2600
+DEF: 2500
+Last Updated: 20/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Great Moth
+Flavour: A retrained Great Moth
 Artwork: Created in GIMP using:
-● 
-
+● Great Moth
 
 COMMENTS-----------------------------------------------------------------------
 
-Normal Summon without Tribute, Makiu (anime)-esque effect
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

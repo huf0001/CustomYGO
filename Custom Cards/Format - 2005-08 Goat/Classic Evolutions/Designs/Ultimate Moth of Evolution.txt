@@ -1,27 +1,25 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Blue-Eyes Shining Evolution Dragon
+Name: Ultimate Moth of Evolution
 Card Type: Monster
-Card Subtype(s): Effect
-Level: 10
-Attribute: LIGHT
-Monster Type: Dragon
-Rules Text: Evolve: "Blue-Eyes White Dragon"
-Requirement: Send 1 "Burst Stream of Destruction" from your hand to the GY
-① This card's name is also treated as "Blue-Eyes White Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
-ATK: 3000
-DEF: 2500
-Last Updated: 12/08/2025
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: EARTH/WIND
+Monster Type: Insect
+Rules Text: Evolve: "Great Cocoon of Evolution"
+Requirement: It must have 6 or more Moth Counters on it
+① Once per turn: You can activate this effect; all face-up monsters your opponent currently controls lose 1000 ATK, also they cannot attack and their effects are negated. This card cannot attack the turn you activate this effect.
+ATK: 3500
+DEF: 3000
+Last Updated: 20/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Typal serachers (Masked Dragon, Pyramid Turtle, Warrior Lady of the Wasteland, etc.), Beast monsters
-Flavour: A typal searcher for Beast monsters
+Basis: Perfectly Ultimate Great Moth
+Flavour: A retrained Perfectly Ultimate Great Moth
 Artwork: Created in GIMP using:
-● Armored Rat
-● Forest
-
+● Perfectly Ultimate Great Moth
 
 COMMENTS-----------------------------------------------------------------------
 

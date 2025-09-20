@@ -1,0 +1,46 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Metal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Machine/Dragon
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: Send 1 "Metalmorph" from your hand to the GY
+① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Unaffected by your opponent's Spell effects. ③ If this card would be destroyed by battle or card effect, you can detach 1 material from this card to banish it until the End Phase instead.
+ATK: 2800
+DEF: 2400
+Last Updated: 26/06/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Black Metal Dragon
+Flavour: 
+Artwork: Created in GIMP using:
+● Red-Eyes Black Metal Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Effect 3 isn't anime accurate, so should I keep it? Or hold onto it as a reference to Time Machine?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/06/2025-------------------------------------------
+
+Name: Red-Eyes Metal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Machine
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: Send 1 "Metalmorph" from your hand to the GY
+① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Unaffected by your opponent's Spell effects. ③ If this card would be destroyed by battle or card effect, you can detach 1 material from this card to banish it until the End Phase instead.
+ATK: 2800
+DEF: 2400
+Last Updated: 
+Comments: Updating typing to Machine/Dragon

@@ -1,25 +1,26 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Red-Eyes Metal Evolution Dragon
+Name: Sage of a Thousand Years - Dark Sage
 Card Type: Monster
 Card Subtype(s): Evolution / Effect
-Level: 8
+Level: 9
 Attribute: DARK
-Monster Type: Machine
-Rules Text: Evolve: "Red-Eyes Black Dragon"
-Requirement: Send 1 "Metalmorph" from your hand to the GY
-① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Unaffected by your opponent's Spell effects. ③ If this card would be destroyed by battle or card effect, you can detach 1 material from this card to banish it until the End Phase instead.
+Monster Type: Spellcaster
+Rules Text: Evolve: "Dark Magician"
+Requirement: Send 1 "Time Wizard" from your hand to the GY
+You can only activate each effect of "Dark Sage" once per turn. ① During your Draw Phase, instead of conducting your normal draw: You can add 1 Spell Card from your Deck to your hand. ② During your opponent's turn (Quick Effect): You can send 1 Normal Spell from your hand to the GY; this effect becomes that card's activation effect.
 ATK: 2800
-DEF: 2400
-Last Updated: 26/06/2025
+DEF: 3200
+Last Updated: 20/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Red-Eyes Black Metal Dragon
-Flavour: 
+Basis: Dark Sage
+Flavour: Anime accurate Dark Sage.
 Artwork: Created in GIMP using:
-● Red-Eyes Black Metal Dragon
+● Dark Sage
+● Time-Wizard
 
 
 COMMENTS-----------------------------------------------------------------------

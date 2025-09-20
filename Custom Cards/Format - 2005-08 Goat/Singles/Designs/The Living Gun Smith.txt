@@ -5,11 +5,11 @@ Card Type: Monster
 Card Subtype(s): Flip / Effect
 Level: 2
 Attribute: DARK
-Monster Type: Spellcaster
-Rules Text: ① FLIP: Target 1 Equip Spell, or 1 card with an effect that can equip it to a monster, in your GY; add it to your hand.
+Monster Type: Spellcaster/Warrior
+Rules Text: ① FLIP: Target 1 Equip Spell/Trap, or 1 card with an effect that can equip it to a monster, in your GY; add it to your hand.
 ATK: 200
 DEF: 800
-Last Updated: 23/06/2025
+Last Updated: 21/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,20 +27,15 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 23/06/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: The Living Gun Smith
+Card Type: Monster
+Card Subtype(s): Flip / Effect
+Level: 2
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: ① FLIP: Target 1 Equip Spell, or 1 card with an effect that can equip it to a monster, in your GY; add it to your hand.
+ATK: 200
+DEF: 800
+Comments: Updating to take advantage of Equip Traps, and to give it a dual type.

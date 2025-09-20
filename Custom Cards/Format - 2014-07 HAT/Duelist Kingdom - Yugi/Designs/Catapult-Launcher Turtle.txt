@@ -5,7 +5,7 @@ Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
 Attribute: WATER
-Monster Type: Aqua
+Monster Type: Aqua/Machine
 Rules Text: ● You can only use effect ① of "Catapult-Launcher Turtle" once per turn. ① You can Tribute 1 other monster you control that mentions "Fusion Ritual of Light and Darkness", or 1 monster you control that is owned by your opponent, then target 1 Spell/Trap your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to half the Tributed monster's ATK on the field.
 ATK: 1000
 DEF: 2000
@@ -27,20 +27,15 @@ Tribute archetype monster; destroy spell/trap & deal damage
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 05/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Catapult-Launcher Turtle
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: WATER
+Monster Type: Aqua
+Rules Text: ● You can only use effect ① of "Catapult-Launcher Turtle" once per turn. ① You can Tribute 1 other monster you control that mentions "Fusion Ritual of Light and Darkness", or 1 monster you control that is owned by your opponent, then target 1 Spell/Trap your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to half the Tributed monster's ATK on the field.
+ATK: 1000
+DEF: 2000
+Comments: Updating to use dual-typing.

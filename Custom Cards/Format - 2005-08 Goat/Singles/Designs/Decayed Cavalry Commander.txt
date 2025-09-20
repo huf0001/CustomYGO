@@ -5,11 +5,11 @@ Card Type: Monster
 Card Subtype(s): Effect
 Level: 6
 Attribute: EARTH
-Monster Type: Zombie
+Monster Type: Zombie/Warrior
 Rules Text: ① You can Special Summon this card (from your hand) by Tributing 1 Zombie monster you control, but if you do, your opponent takes no battle damage this turn. ② At the end of the Damage Step, if this card attacked: Select 1 random card in your opponent's hand, and either discard it or equip it to this card (max. 1). ③ If this card would be destroyed by battle, destroy that equipped card instead.
 ATK: 2400
 DEF: 2100
-Last Updated: 05/07/2025
+Last Updated: 21/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -28,20 +28,15 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 05/07/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Decayed Cavalry Commander
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Zombie/Warrior
+Rules Text: ① You can Special Summon this card (from your hand) by Tributing 1 Zombie monster you control, but if you do, your opponent takes no battle damage this turn. ② At the end of the Damage Step, if this card attacked: Select 1 random card in your opponent's hand, and either discard it or equip it to this card (max. 1). ③ If this card would be destroyed by battle, destroy that equipped card instead.
+ATK: 2400
+DEF: 2100
+Comments: Updating to use dual-typing.

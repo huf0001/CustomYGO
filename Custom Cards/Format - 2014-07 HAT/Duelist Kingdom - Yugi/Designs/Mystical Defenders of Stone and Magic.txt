@@ -4,12 +4,12 @@ Name: Mystical Defenders of Stone and Magic
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
-Attribute: LIGHT
-Monster Type: Rock
+Attribute: EARTH/LIGHT
+Monster Type: Rock/Spellcaster
 Rules Text: ① If this card is Normal or Special Summoned: Change this card to Defense Position, then place 1 Moon Counter on it (max. 1). ② Gains 300 ATK/DEF for each Moon Counter on it. ③ (Quick Effect): You can remove 1 Moon Counter from this card, then target 1 other face-up monster you control; until the end of the next turn, that target gains 800 ATK/DEF, also monsters your opponent controls cannot attack or change their battle positions.
 ATK: 1300
 DEF: 2000
-Last Updated: 03/09/2025
+Last Updated: 21/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,20 +29,15 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 03/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Mystical Defenders of Stone and Magic
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: LIGHT
+Monster Type: Rock
+Rules Text: ① If this card is Normal or Special Summoned: Change this card to Defense Position, then place 1 Moon Counter on it (max. 1). ② Gains 300 ATK/DEF for each Moon Counter on it. ③ (Quick Effect): You can remove 1 Moon Counter from this card, then target 1 other face-up monster you control; until the end of the next turn, that target gains 800 ATK/DEF, also monsters your opponent controls cannot attack or change their battle positions.
+ATK: 1300
+DEF: 2000
+Comments: Updating to use dual types and Attributes.

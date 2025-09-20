@@ -5,11 +5,11 @@ Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
-Monster Type: Spellcaster
+Monster Type: Spellcaster/Warrior
 Effect(s): ① If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). ② You can remove 1 Spell Counter from this card, then target 1 face-up Spell/Trap on your opponent controls, or, if you control "Royal Magical Library", target 1 Spell/Trap instead; destroy that target.
 ATK: 1600
 DEF: 1000
-Last Updated: 10/03/2025
+Last Updated: 21/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,20 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 10/03/2025-------------------------------------------
+
+Name: Breaker the Magical Squire
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Spellcaster
+Effect(s): ① If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). ② You can remove 1 Spell Counter from this card, then target 1 face-up Spell/Trap on your opponent controls, or, if you control "Royal Magical Library", target 1 Spell/Trap instead; destroy that target.
+ATK: 1600
+DEF: 1000
+Comments: Updating to use dual-typing.
+
 
 DATE: 10/03/2025-------------------------------------------
 

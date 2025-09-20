@@ -5,7 +5,7 @@ Card Type: Monster
 Card Subtype(s): Fusion / Effect
 Level: 6
 Attribute: DARK
-Monster Type: Fiend
+Monster Type: Thunder/Fiend
 Rules Text: Must first be Special Summoned with "Lightning Archfiend Ritual". ① This card's name is also treated as "Summoned Skull" on the field and in the GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 2500
 DEF: 1200
@@ -28,20 +28,15 @@ https://yugipedia.com/wiki/Structure_Deck:_Black_Magic_Ritual
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 21/05/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Summoned Skull, the Lightning Archfiend
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: DARK
+Monster Type: Fiend
+Rules Text: Must first be Special Summoned with "Lightning Archfiend Ritual". ① This card's name is also treated as "Summoned Skull" on the field and in the GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2500
+DEF: 1200
+Comments: Updating to be dual-type.

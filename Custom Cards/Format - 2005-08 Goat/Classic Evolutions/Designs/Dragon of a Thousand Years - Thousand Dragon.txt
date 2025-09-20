@@ -1,28 +1,31 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Dragon of a Thousand Years - Thousand Dragon
 Card Type: Monster
-Card Subtype(s): Effect
-Level: 6
-Attribute: DARK
-Monster Type: Thunder/Fiend
-Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 2500
-DEF: 1200
-Last Updated: 21/09/2025
+Card Subtype(s): Evolution / Effect
+Level: 7
+Attribute: WIND
+Monster Type: Dragon
+Rules Text: Evolve: "Baby Dragon"
+Requirement: Send 1 "Time Wizard" from your hand to the GY
+① If this card is Evolution Summoned: Halve the ATK/DEF of all face-up monsters your opponent controls, also their effects are negated.
+ATK: 2400
+DEF: 2000
+Last Updated: 20/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Thousand Dragon
+Flavour: Anime accurate Thousand Dragon that was Special Summoned by Time Wizard.
 Artwork: Created in GIMP using:
-● 
+● Thousand Dragon
+● Time-Wizard
 
 
 COMMENTS-----------------------------------------------------------------------
 
-Normal Summon without Tribute, Makiu (anime)-esque effect
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

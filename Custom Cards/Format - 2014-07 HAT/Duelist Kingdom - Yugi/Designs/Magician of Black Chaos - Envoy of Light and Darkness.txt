@@ -1,14 +1,14 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
+Name: Magician of Black Chaos - Envoy of Light and Darkness
 Card Type: Monster
-Card Subtype(s): Effect
-Level: 6
-Attribute: DARK
-Monster Type: Thunder/Fiend
-Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-ATK: 2500
-DEF: 1200
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: LIGHT/DARK
+Monster Type: Spellcaster
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2800
+DEF: 2600
 Last Updated: 21/09/2025
 
 
@@ -22,7 +22,7 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-Normal Summon without Tribute, Makiu (anime)-esque effect
+None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

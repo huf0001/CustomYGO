@@ -1,29 +1,25 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: (This card is always treated as a "Chaos" card.)
-Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Last Updated: DD/MM/YYYY
+Name: Larvae Moth of Evolution
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 2
+Attribute: EARTH
+Monster Type: Insect
+Rules Text: Evolve: "Great Cocoon of Evolution"
+Requirement: It must have 1 or more Moth Counters on it
+① Once per turn, if an attack is declared involving this card and an opponent's face-up monster: You can target that opponent's monster; negate the attack, and if you do, it loses 700 ATK, and until the end of the next turn, it cannot attack and its effects are negated.
+ATK: 500
+DEF: 400
+Last Updated: 20/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: ABCDEF
-Flavour: ABCDEF
+Basis: Larvae Moth
+Flavour: A retrained Larvae Moth
 Artwork: Created in GIMP using:
-● 
+● Larvae Moth
 
 
 COMMENTS-----------------------------------------------------------------------
