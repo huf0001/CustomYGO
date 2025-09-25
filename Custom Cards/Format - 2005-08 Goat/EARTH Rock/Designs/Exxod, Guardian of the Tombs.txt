@@ -5,7 +5,7 @@ Card Type: Monster
 Card Subtype(s): Fusion / Effect
 Level: 8
 Attribute: EARTH
-Monster Type: Rock/Warrior
+Monster Type: Rock / Warrior
 Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000

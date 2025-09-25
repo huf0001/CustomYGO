@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Jigen Bakudan, the Time Bomb
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 2
+Attribute: FIRE
+Monster Type: Pyro / Machine
+Rules Text: ① Your opponent's monsters cannot target this card for attacks. ② During your opponent's 2nd End Phase after this card was Summoned: Tribute this card; destroy as many monsters on the field as possible, and if you do, inflict damage to each player equal to the total original ATK of the destroyed monsters they own.
+ATK: 200
+DEF: 1000
+Last Updated: 24/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Jigen Bakudan
+Flavour: Anime-accurate Jigen Bakudan
+Artwork: Created in GIMP using:
+● Jigen Bakudan
+● Yami?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+During your opponent's 2nd End Phase after this card has been Summoned, destroy this card. Then, destroy all monsters on the field. Both players take damage equal to the original ATK of the monsters they owned. None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

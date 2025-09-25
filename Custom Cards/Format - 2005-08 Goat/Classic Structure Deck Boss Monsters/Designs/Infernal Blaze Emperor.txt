@@ -1,0 +1,46 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Infernal Blaze Emperor
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: FIRE
+Monster Type: Pyro / Beast
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① When this card is Special Summoned from your Extra Deck: You can banish up to 5 FIRE monsters from your GY; destroy Spells/Traps on the field equal to the number of monsters banished to activate this effect.
+ATK: 2700
+DEF: 1600
+Last Updated: 24/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Infernal Flame Emperor
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Infernal Flame Emperor
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Daedalus, the Ocean Dragon Lord
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: WATER
+Monster Type: Sea Serpent
+Rules Text: Evolve: "Levia-Dragon - Daedalus"
+Requirement: It was Normal Summoned with 1 Tribute while you controlled a card whose original name is "A Legendary Ocean".
+① You can send 1 "Umi" you control to the GY; send as many other cards in both players' hands and on the field as possible to the GY. 
+ATK: 3000
+DEF: 2100
+Last Updated: 24/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Ocean Dragon Lord - Neo-Daedalus
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Ocean Dragon Lord - Neo-Daedalus
+● A Legendary Ocean
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
