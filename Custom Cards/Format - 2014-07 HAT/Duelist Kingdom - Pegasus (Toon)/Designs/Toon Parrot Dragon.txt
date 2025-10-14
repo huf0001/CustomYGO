@@ -5,11 +5,11 @@ Card Type: Monster
 Card Subtype(s): Toon / Effect
 Level: 5
 Attribute: WIND
-Monster Type: Dragon
+Monster Type: Winged Beast / Dragon
 Effect(s): ① If your opponent controls a monster, you can Normal Summon this card without Tributing. ② If this card is Summoned while you control "Toon World": You can target 1 monster your opponent controls; halve its ATK/DEF, also its effects are negated. ③ Cannot attack the turn it is Summoned. ④ While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly.
 ATK: 2000
 DEF: 1300
-Last Updated: 13/11/2024
+Last Updated: 30/09/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,22 +29,15 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 13/11/2024-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Toon Parrot Dragon
+Card Type: Monster
+Card Subtype(s): Toon / Effect
+Level: 5
+Attribute: WIND
+Monster Type: Dragon
+Effect(s): ① If your opponent controls a monster, you can Normal Summon this card without Tributing. ② If this card is Summoned while you control "Toon World": You can target 1 monster your opponent controls; halve its ATK/DEF, also its effects are negated. ③ Cannot attack the turn it is Summoned. ④ While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly.
+ATK: 2000
+DEF: 1300
+Comments: Updating for dual-typing.

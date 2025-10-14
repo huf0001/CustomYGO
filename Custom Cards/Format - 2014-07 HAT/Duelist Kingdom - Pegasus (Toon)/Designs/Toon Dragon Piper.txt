@@ -1,23 +1,23 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Toon Bickuribox
+Name: Toon Dragon Piper
 Card Type: Monster
 Card Subtype(s): Toon / Effect
-Level: 7
-Attribute: DARK
-Monster Type: Fiend
-Effect(s): ① If your opponent controls a monster, you can Normal Summon this card without Tributing. ② Cannot attack the turn it is Summoned. ③ While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. ④ If this card inflicts battle damage to your opponent while you control "Toon World": Send 1 card from their Deck to the GY for every 500 damage you inflicted.
-ATK: 2300
-DEF: 2000
+Level: 3
+Attribute: FIRE
+Monster Type: Pyro
+Effect(s): ① If this card is Summoned: You can target 1 monster your opponent controls that is affected by the effect of your "Toon" card; banish it, then Special Summon that banished monster, and if you do, it is treated as a Toon monster. ② Cannot attack the turn it is Summoned. ③ While you control "Toon World" and your opponent controls no Toon monsters, this card and monsters you control that were Special Summoned by "Toon Dragon Piper" can attack your opponent directly.
+ATK: 200
+DEF: 1800
 Last Updated: 13/11/2024
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Bickuribox
-Flavour: Level 5+ monsters could be Normal Summoned without Tribute during Duelist Kingdom, hence this card's Summon effect. After being attacked with Bickuribox, Kaiba lost by Deck-Out, so the mill effect facilitates that.
+Basis: Dragon Piper
+Flavour: A retrain of Dragon Piper that takes control of monsters affected by "Toon" cards rather than "Dragon Capture Jar".
 Artwork: Created in GIMP using:
-● Bickuribox
+● Dragon Piper
 ● Toon World
 
 
@@ -38,11 +38,9 @@ Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-
 Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Effect(s): N/A
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999
