@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dismantle Fusion
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the materials that were used for its Fusion Summon are in your GY, you can Special Summon as many of them as possible. If a Fusion Monster would be Special Summoned by this effect, return it to the Extra Deck instead, and if all the materials that were used for its Fusion Summon are in your GY, you can Special Summon as many of them as possible.
+Last Updated: 03/10/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: De-Fusion
+Flavour: De-Fusion that De-Fusions any Fusion Monsters used as Fusion Material
+Artwork: Created in GIMP using:
+● Revoke Fusion
+● De-Fusion
+
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Does a Fusion Monster in the GY remember what monsters were used for its Fusion Summon? If not, change to "and if all the materials it mentions are in your GY, you can Special Summon as many of them as possible."
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
