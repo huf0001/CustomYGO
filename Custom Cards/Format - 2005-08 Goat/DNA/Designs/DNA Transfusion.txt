@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: DNA Transfusion
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: Activate this card by delcaring 1 monster Attribute. ① All face-up monsters become that Attribute in addition to their other Attribute.
+Last Updated: 03/10/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: DNA Transplant
+Flavour: An additive DNA Transplant
+Artwork: Created in GIMP using:
+● DNA Surgery?
+● DNA Transplant?
+● DNA Checkup?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
