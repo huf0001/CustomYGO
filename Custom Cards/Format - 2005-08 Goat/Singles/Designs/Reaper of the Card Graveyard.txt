@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Reaper of the Card Graveyard
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 2
+Attribute: FIRE
+Monster Type: Pyro / Machine
+Rules Text: ① You can Normal Summon this card without Tributing. ② Once per turn, during your Battle Phase: You can target 1 Set Spell/Trap your opponent controls; until the end of the next battle, it is also treated as a Normal Monster with 0 ATK/DEF, also, immediately after this effect resolves, this card must target it for an attack, but neither player takes battle damage from that battle.
+ATK: 1380
+DEF: 1930
+Last Updated: 24/09/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Reaper of the Cards
+Flavour: Anime-accurate Reaper of the Cards
+Artwork: Created in GIMP using:
+● Reaper of the Cards
+● Call of the Haunted
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
