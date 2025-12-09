@@ -1,0 +1,55 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Clear Vice Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: NONE
+Monster Type: Dragon
+Rules Text: ① If this card attacks an opponent's monster, this card's ATK becomes twice the ATK of the attack target, during damage calculation only. ② If this card would be destroyed by battle, you can discard 1 card instead. ③ When a card or effect is activated that would destroy this card (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it.
+ATK: 0
+DEF: 0
+Last Updated: 09/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Vice Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: You are unaffected by the effects of "Clear World". If this card attacks an opponent's monster, this card's ATK becomes twice the ATK of the attack target, during damage calculation only. If this card would be destroyed by an opponent's card effect, you can discard 1 card instead. 
+ATK: 0
+DEF: 0
+Comments: TCG version.
+
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Vice Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: While this card is face-up on the field, it is not treated as a DARK monster. If this card attacks, its ATK becomes equal to twice the ATK of your opponent's battling monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. When a card or effect is activated that would destroy this card, you can discard 1 card to negate the activation, and destroy that card. If this card would be destroyed by battle, you can discard 1 card to negate its destruction. 
+ATK: 0
+DEF: 0
+Comments: Anime version.

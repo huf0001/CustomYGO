@@ -1,0 +1,55 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Clear Phantom
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: NONE
+Monster Type: Fiend
+Rules Text: You can only use effect ① of "Clear Phantom" once per turn. ① You can discard 2 cards, including this card; add 2 cards from your Deck to your hand, that are "Clear World" or Spells/Traps that mention it. ② If this card is destroyed: You can target 1 monster your opponent controls; destroy it, and if you do, send the top 3 cards of their Deck to the GY.
+ATK: 1200
+DEF: 800
+Last Updated: 09/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Phantom
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Fiend
+Rules Text: You are unaffected by the effects of "Clear World". You can discard 2 cards, including this card; add 2 cards from your Deck to your hand, that are "Clear World" or Spells/Traps that mention it. You can only use this effect of "Clear Phantom" once per turn. If this card is destroyed: You can target 1 monster your opponent controls; destroy it, and if you do, send the top 3 cards of their Deck to the GY. 
+ATK: 1200
+DEF: 800
+Comments: TCG version.
+
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Phantom
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Fiend
+Rules Text: While this card is face-up on the field, it is not treated as a DARK monster. When this Attack Position card is sent to the Graveyard by battle, destroy 1 opponent's monster and send it to the Graveyard, and send the top 3 cards of your opponent's Deck to the Graveyard. 
+ATK: 1200
+DEF: 800
+Comments: Anime version.

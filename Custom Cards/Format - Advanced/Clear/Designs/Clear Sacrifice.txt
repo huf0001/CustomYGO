@@ -1,0 +1,31 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Clear Sacrifice
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Immediately after this effect resolves, Tribute Summon/Set 1 monster with no Attribute by Tributing monsters you control and/or banishing monsters with no Attribute from your GY, equal to the number of Tributes that monster requires. ② If "Clear World" you control would be destroyed, you can banish this card from your GY instead.
+Last Updated: 09/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Sacrifice
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: Remove from play "Clear" monsters in your Graveyard equal to the number of monsters required to Tribute Summon a "Clear" monster. You can Normal Summon/Set that monster without Tributing. 
+Comments: Anime version.

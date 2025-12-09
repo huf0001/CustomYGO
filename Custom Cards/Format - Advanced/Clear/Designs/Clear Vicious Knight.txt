@@ -1,0 +1,55 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Clear Vicious Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: NONE
+Monster Type: Warrior
+Rules Text: You can Tribute Summon this card by Tributing 1 "Clear" monster with no Attribute. ① Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied). ② While this Tribute Summoned card is in the Monster Zone, your opponent cannot activate the effects of Special Summoned monsters on the field with less ATK than this card.
+ATK: 2300
+DEF: 1100
+Last Updated: 09/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Vicious Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: DARK
+Monster Type: Warrior
+Rules Text: You can Tribute Summon this card by Tributing 1 monster that mentions "Clear World". Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied). You are unaffected by the effects of "Clear World". While this Tribute Summoned card is in the Monster Zone, your opponent cannot activate the effects of Special Summoned monsters on the field with less ATK than this card. 
+ATK: 2300
+DEF: 1100
+Comments: TCG version.
+
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Vicious Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 7
+Attribute: DARK
+Monster Type: Warrior
+Rules Text: While this card is face-up on the field, it is not treated as a DARK monster. If your opponent controls a monster(s), you can Normal Summon this card with 1 Tribute. If you control no other cards and have no cards in your hand, this card gains ATK equal to the original ATK of the 1 face-up monster your opponent controls with the highest original ATK.
+ATK: 2300
+DEF: 1100
+Comments: Anime version.

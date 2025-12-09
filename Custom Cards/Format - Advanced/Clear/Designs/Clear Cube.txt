@@ -1,0 +1,55 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Clear Cube
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: DARK
+Monster Type: Machine
+Rules Text: ① During your Main Phase, you can Normal Summon 1 "Clear" monster with no Attribute, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) ② If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 "Clear" monster with no Attribute from your Deck.
+ATK: 0
+DEF: 0
+Last Updated: 09/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Cube
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: DARK
+Monster Type: Machine
+Rules Text: You are unaffected by the effects of "Clear World". During your Main Phase, you can Normal Summon 1 monster that mentions "Clear World", in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 monster that mentions "Clear World" from your Deck. 
+ATK: 0
+DEF: 0
+Comments: TCG version.
+
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Cube
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: DARK
+Monster Type: Machine
+Rules Text: While this card is face-up on the field, it is not treated as a DARK monster. When this card is removed from the field, you can Special Summon 1 "Clear Cube" from your Deck. 
+ATK: 0
+DEF: 0
+Comments: Anime version.

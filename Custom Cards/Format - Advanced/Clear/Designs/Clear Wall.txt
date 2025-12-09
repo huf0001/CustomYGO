@@ -1,0 +1,40 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Clear Wall
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: You can only use effect ① of "Clear Wall" once per turn. ① If "Clear World" is on the field: You can add 1 "Clear" monster with no Attribute from your Deck to your hand. ② "Clear" monsters with no Attribute cannot be destroyed by battle, also you take no battle damage from that battle. ③ While you control a Level 7 or higher "Clear" monster with no Attribute, apply all effects of "Clear World" to your opponent, regardless of the monster Attributes they control.
+Last Updated: 09/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Wall
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: If "Clear World" is on the field: You can add 1 monster that mentions "Clear World" from your Deck to your hand. You can only use this effect of "Clear Wall" once per turn. Monsters that mention "Clear World" cannot be destroyed by battle, also you take no battle damage from that battle. While you control a Level 7 or higher monster that mentions "Clear World", your opponent receives all effects of "Clear World", regardless of the monster Attributes they control. 
+Comments: TCG version.
+
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear Wall
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: If "Clear World" is not face-up on the field, destroy this card. Negate the destruction by battle of face-up Attack Position "Clear" monsters you control, and any Battle Damage you would take that is less than 1000 becomes 0. If you would take 1000 or more Battle Damage, destroy this card and make that damage become 0. 
+Comments: Anime version.

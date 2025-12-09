@@ -1,0 +1,58 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Clear World
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: ① If you control a "Clear" monster with no Attribute, you are unaffected by effect ② of "Clear World". ② Apply these effects to each player, depending on the monster Attributes they control.
+● EARTH: During your Standby Phase, destroy 1 face monster you control.
+● WATER: During your End Phase, discard 1 card.
+● FIRE: During your End Phase, take 1000 damage.
+● WIND: You must pay 500 LP to activate a Spell Card.
+● LIGHT: Play with your hand revealed at all times.
+● DARK: You cannot declare an attack.
+Last Updated: 09/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear World
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: Once per turn, during your End Phase, pay 500 LP or destroy this card. Each player receives effects, depending on the monster Attributes they control.
+● LIGHT: Play with your hand revealed at all times.
+● DARK: If you control 2 or more monsters, you cannot declare an attack.
+● EARTH: During your Standby Phase, destroy 1 face-up Defense Position monster you control.
+● WATER: During your End Phase, discard 1 card.
+● FIRE: During your End Phase, take 1000 damage.
+● WIND: You must pay 500 LP to activate a Spell Card. 
+Comments: TCG version.
+
+
+DATE: 09/12/2025-------------------------------------------
+
+Name: Clear World
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: Each player receives certain effects, depending on the monster Attributes they control.
+● LIGHT: Play with your hand revealed at all times.
+● DARK: You cannot declare an attack.
+● EARTH: Once per turn, destroy 1 monster you control.
+● WATER: During your End Phase, discard 1 card.
+● FIRE: During your End Phase, take 1000 damage.
+● WIND: You cannot activate Spell Cards. 
+Comments: Anime version.
