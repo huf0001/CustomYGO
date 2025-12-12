@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Harpie Lady Sisters 2 & 3
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 6
+Attribute: WIND
+Monster Type: Winged Beast
+Rules Text: "Harpie Lady Sister #2" + "Harpie Lady"
+Must first be Special Summoned (from your Extra Deck) by sending the above monsters you control to the GY. Cannot be used as Fusion Material. ① This card's name is also treated as "Harpie Lady" and "Harpie Lady Sisters" while on the field or in the hand, Deck, GY, or banishment. ② EFFECT ③ If this card was Special Summoned using "Harpie Lady Sister #3" as material: COST; EFFECT. ④ If the monsters that were used as material for this card's Special Summon are in your GY: You can target those monsters; return this card to your Extra Deck, then Special Summon those targets, but you cannot use them as material to Special Summon "Harpie Lady Sisters 1 & 2" this turn. ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 1950
+DEF: 2100
+Last Updated: 11/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Harpie Lady Sisters + Triangle Ecstasy Spark
+Flavour: Harpie Lady Sisters, but modernised, with HAT-appropriate effects, and fewer issues that the original had.
+Artwork: Created in GIMP using:
+● Harpie Lady Sisters?
+● Harpie Lady 2?
+● Harpie Lady 3?
+● Elegant Egotist
+
+
+COMMENTS-----------------------------------------------------------------------
+
+This card's name is also always treated as "Harpie Lady" and "Harpie Lady Sisters".
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
