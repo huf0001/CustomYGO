@@ -4,8 +4,10 @@ https://jisho.org/search/%E8%A4%87
 
 Hiragana: ふく
 
+Romaji: Fuku
+
 	Kanji in this word (https://jisho.org/word/%E8%A4%87): 
-		- 複: duplicate, double, compound, multiple
+		- 複 (Fuku): duplicate, double, compound, multiple
 
 	1) Prefix
 		- Compound, composite, multiple, re-, bi-
@@ -24,9 +26,11 @@ https://jisho.org/search/%E8%A4%87%E6%95%B0
 
 Hiragana:  ふくすう
 
+Romaji: Fukusū
+
 	Kanji in this word (https://jisho.org/word/%E8%A4%87%E6%95%B0):
-		- 複: duplicate, double, compound, multiple
-		- 数: number, strength, fate, law, figures
+		- 複 (Fuku): duplicate, double, compound, multiple
+		- 数 (Kazu): number, strength, fate, law, figures
 		
 	1) Noun which may take the genetive case particle "no", Noun
 		- Plural, multiple
@@ -45,8 +49,10 @@ https://jisho.org/search/%E5%A4%9A
 
 Hiragana: た
 
+Romaji: Ta
+
 	Kanji in this word (https://jisho.org/word/%E5%A4%9A):
-		- 多: many, frequent, much
+		- 多 (Ta): many, frequent, much
 		
 	1) Noun, Prefix
 		- Multi-
@@ -59,9 +65,11 @@ https://jisho.org/search/%E5%A4%9A%E6%95%B0
 
 Hiragana: たすう
 
+Romaji: Tasū
+
 	Kanji in this word (https://jisho.org/word/%E5%A4%9A%E6%95%B0):
-		- 多: many, frequent, much
-		- 数: number, strength, fate, law, figures
+		- 多 (Ta): many, frequent, much
+		- 数 (Kazu): number, strength, fate, law, figures
 		
 	1) Noun, Noun which may take the genetive case particle "no"
 		- Large number (of), many (antonym: 少数)
