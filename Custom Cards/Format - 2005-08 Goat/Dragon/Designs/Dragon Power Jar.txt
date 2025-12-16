@@ -1,9 +1,14 @@
 TECHNICAL----------------------------------------------------------------------
 
 Name: Dragon Power Jar
-Card Type: Spell
-Card Subtype(s): Equip
-Rules Text: Equip only to a Level 4 or lower Dragon monster. ① The equipped monster gains 100 ATK/DEF for each Dragon monster in your GY, also it cannot be destroyed by your opponent's card effects. ② If this card is sent from the field to your GY: You can draw 1 card.
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: EARTH
+Monster Type: Rock Dragon
+Rules Text: ① You can target 1 Level 4 or lower Dragon monster you control; equip this monster from your hand to that target. The equipped monster gains 100 ATK/DEF for each Dragon monster in your GY, also it cannot be destroyed by your opponent's card effects. ② If this card is sent from the field to your GY: You can draw 1 card.
+ATK: 100
+DEF: 100
 Last Updated: 27/06/2025
 
 

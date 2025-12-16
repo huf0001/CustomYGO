@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Call of the Dragon Army
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: You can only activate each effect of "Call of the Dragon Army" once per turn. ① When this card is activated: Excavate the top 4 cards of your deck, and if you do, you can add 1 excavated Dragon monster to your hand, also place the rest on the bottom of the Deck in any order. ② During your Main Phase: You can activate 1 of these effects.
+● If you control no monsters: You can Special Summon 1 Dragon monster with 2400 or less ATK from your hand.
+● Special Summon 1 Level 4 or lower Dragon monster from your hand, but it cannot attack this turn.
+Last Updated: 15/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Call of the Mummy
+Flavour: Call of the Mummy, but for Dragon monsters.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Could name after a group of dragons?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

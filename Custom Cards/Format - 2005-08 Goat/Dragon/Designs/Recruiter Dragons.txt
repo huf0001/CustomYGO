@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 3
 Attribute: WIND
 Monster Type: Dragon
-Rules Text: ① If this card is Normal or Special Summoned: You can add 1 Dragon monster with 1200 or less DEF from your Deck to your hand.
+Rules Text: ① If this card is Normal or Special Summoned: You can add 1 Dragon monster with 1500 or less DEF from your Deck to your hand.
 ATK: 1400
 DEF: 700
-Last Updated: 27/06/2025
+Last Updated: 15/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -28,6 +28,20 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/06/2025-------------------------------------------
+
+Name: Recruiter Dragons
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WIND
+Monster Type: Dragon
+Rules Text: ① If this card is Normal or Special Summoned: You can add 1 Dragon monster with 1200 or less DEF from your Deck to your hand.
+ATK: 1400
+DEF: 700
+Comments: Let's broaden the DEF restriction to make it more generally useful in Dragon decks.
+
 
 DATE: 27/06/2025-------------------------------------------
 
