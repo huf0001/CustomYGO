@@ -1,0 +1,1 @@
+Panik monsters: death/sent from field to GY triggers, perhaps only when sent by opponent's cards? I.e. effects that cause fear and anxiety. See Innistrad articles and designs.
