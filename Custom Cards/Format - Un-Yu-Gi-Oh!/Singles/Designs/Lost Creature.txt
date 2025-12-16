@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Lost Creature
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: EARTH
+Monster Type: Rock
+Rules Text: ① When this card is Normal Summoned: Change it to Defense Position. ② Once per turn, during your Standby Phase: Change this card to Attack Position. ③ Change this card to Defense Position; destroy target Special Summoned monster your opponent controls.
+Flavour Text: "Wait, this isn't R&D. I must have the wrong address."
+ATK: 100
+DEF: 100
+Last Updated: 15/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Fblthp
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Fblthp, the Lost
+● Duelist Kingdom?
+● Duel Tower?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
