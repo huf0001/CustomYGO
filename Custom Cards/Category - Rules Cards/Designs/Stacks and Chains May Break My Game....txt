@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Stacks and Chains May Break My Game
+Card Type: Rule
+Rules Text: ① After a Chain Link resolves, both players may activate additional cards and add them to the Chain. Those cards' activation requirements must still be correct, and their costs must still be paid. Those cards must have a Spell Speed equal or greater than the Spell Speed of the next unresolved Chain Link.
+Last Updated: 07/08/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Chain vs Stack
+Flavour: Makes the Chain a stack that can have more cards added after a Chain Link resolves.
+Artwork: Created in GIMP using:
+● Chain-related cards?
+● A pile of cards in a chain, plus resolved cards in an untidy pile, with a card back being added to the chain?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

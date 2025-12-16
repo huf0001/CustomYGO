@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Duel Academy
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): Reveal this card from your Deck and activate it before the start of the Duel, also its effects cannot be negated. ① Apply the following effects for the rest of the Duel: ● Both players' starting LP become 4000. ● Monsters can be Normal or Flip Summoned in face-up Defense Position. ● Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ● When a Ritual, Fusion, Synchro, Xyz, or Link Monster being attacked leaves the field before damage calculation by a card effect and the materials used to Ritual, Fusion, Synchro, Xyz, or Link Summon it are Special Summoned, negate that attack. ● Ritual, Fusion, Synchro, Xyz, and Link Monsters can be Special Summoned from the GY or banishment even if they were not properly Ritual, Fusion, Synchro, Xyz,or Link Summoned first. ● "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
-Last Updated: 26/03/2025
+Effect(s): ① Both players' starting LP become 4000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ④ When a Ritual, Fusion, Synchro, Xyz, or Link Monster being attacked leaves the field before damage calculation by a card effect and the materials used to Ritual, Fusion, Synchro, Xyz, or Link Summon it are Special Summoned, negate that attack. ⑤ Ritual, Fusion, Synchro, Xyz, and Link Monsters can be Special Summoned from the GY or banishment even if they were not properly Ritual, Fusion, Synchro, Xyz,or Link Summoned first. ⑥ "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
+Last Updated: 15/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,22 +22,10 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 26/03/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Effect(s): ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Duel Academy
+Card Type: Spell
+Card Subtype(s): Normal
+Effect(s): Reveal this card from your Deck and activate it before the start of the Duel, also its effects cannot be negated. ① Apply the following effects for the rest of the Duel: ● Both players' starting LP become 4000. ● Monsters can be Normal or Flip Summoned in face-up Defense Position. ● Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ● When a Ritual, Fusion, Synchro, Xyz, or Link Monster being attacked leaves the field before damage calculation by a card effect and the materials used to Ritual, Fusion, Synchro, Xyz, or Link Summon it are Special Summoned, negate that attack. ● Ritual, Fusion, Synchro, Xyz, and Link Monsters can be Special Summoned from the GY or banishment even if they were not properly Ritual, Fusion, Synchro, Xyz,or Link Summoned first. ● "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
+Comments: Finally getting around to updating this card as a Rule Card, not a Spell Card.

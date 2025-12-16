@@ -2,10 +2,10 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: The Legendary Dragons
 Card Type: Rule
-Rules Text: ① While you control "The Seal of Orichalcos", if you control a Fusion Monster that was Special Summoned with a "Legendary Dragon" Spell Card, return that Fusion Monster to your Extra Deck and apply 1 of these effects.
-● Special Summon the monster that was sent to the GY for its Special Summon.
+Rules Text: ① While you control "The Seal of Orichalcos", if you control a Fusion Monster that was Special Summoned with a "Legendary Dragon" Spell Card, return that Fusion Monster to your Extra Deck and do 1 of these actions.
+● Return the monster that was sent to the GY for its Special Summon to the field.
 ● Set the Spell or Trap Card that was sent to the GY for its Special Summon.
-Last Updated: 07/08/2025
+Last Updated: 15/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,22 +25,11 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 07/08/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-Materials: N/A
-Name/Archetype/Level/Rank Condition: N/A
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: The Legendary Dragons
+Card Type: Rule
+Rules Text: ① While you control "The Seal of Orichalcos", if you control a Fusion Monster that was Special Summoned with a "Legendary Dragon" Spell Card, return that Fusion Monster to your Extra Deck and apply 1 of these effects.
+● Special Summon the monster that was sent to the GY for its Special Summon.
+● Set the Spell or Trap Card that was sent to the GY for its Special Summon.
+Comments: Distinguishing effects from actions allowed/required by additional rules.
