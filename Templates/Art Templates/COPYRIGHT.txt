@@ -1,0 +1,13 @@
+Here are some art assets and templates I've created for my own use when creating custom cards. They were designed to be used to edit card images that were made using www.customcardmaker.net, specifically the High-Res option (1388 x 2026).
+
+If you would like to use them as well, you're welcome to. Just please credit me as the creator of those templates when sharing your custom cards online that you made using them:
+
+	- Sam Huffer
+	- Reddit: u/huf0002
+
+My art assets/templates:					Dimensions:
+
+	- Custom Attribute Cards.xcf			(1388 x 2026)
+	- Custom Attribute Icons.xcf			(132 x 132)
+	- Custom Attribute Icons/*.png			(132 x 132)
+	- Custom Attribute Icons/*/*.png		(132 x 132)
