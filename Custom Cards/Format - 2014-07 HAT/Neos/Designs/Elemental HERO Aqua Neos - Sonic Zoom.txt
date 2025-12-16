@@ -1,0 +1,74 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Aqua Neos - Sonic Zoom
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: WATER
+Monster Type: Aqua Warrior
+Materials: "Elemental HERO Neos" + 1 WATER "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn: You can destroy 1 random card in your opponent's hand. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards in your opponent's hand, and if you do, your opponent draws the same number of cards, also add 1 "Neos" monster and 1 non-WATER "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO Aqua Neos
+Flavour: An updated retrain of Elemental HERO Aqua Neos
+Artwork: Created in GIMP using:
+● Elemental HERO Aqua Neos
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Elemental HERO Wave Neos
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 19/05/2025-------------------------------------------
+
+Name: Elemental HERO Aqua Neos - Sonic Zoom
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: WATER
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 WATER "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn: You can destroy 1 random card in your opponent's hand. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards in your opponent's hand, and if you do, your opponent draws the same number of cards, also add 1 "Neos" monster and 1 non-WATER "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Type and Attribute update.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Wave Neos
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: WATER
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 WATER "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn: You can destroy 1 random card in your opponent's hand. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards in your opponent's hand, and if you do, your opponent draws the same number of cards, also add 1 "Neos" monster and 1 non-WATER "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Re-naming to match recent Elemental HERO retrains.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Wave Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 7
+Attribute: WATER
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 WATER "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn: You can destroy 1 random card in your opponent's hand. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards in your opponent's hand, and if you do, your opponent draws the same number of cards, also add 1 "Elemental HERO Neos" and 1 non-WATER "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

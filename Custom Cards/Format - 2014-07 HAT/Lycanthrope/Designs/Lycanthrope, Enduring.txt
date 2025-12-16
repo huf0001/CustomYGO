@@ -18,7 +18,8 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Lycanthrope
 Flavour: A Lycanthrope retrain in the vein of the Summoned Skull retrains for each Summoning mechanic, taking inspiration from MTG werewolves.
 Artwork: Created in GIMP using:
-● Tri-Brigade Rugal the Silver Sheller
+● Tri-Brigade Rugal the Silver Sheller?
+● Folgo, Justice Fur Hire?
 ● Wasteland
 ● Warrior Lady of the Wasteland
 

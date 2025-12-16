@@ -1,0 +1,76 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Cosmo Neos - Ultimate Meteor Flash
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 11
+Attribute: EARTH WATER FIRE WIND
+Monster Type: Fairy Warrior
+Materials: "Elemental HERO Neos" + 3 "Neo-Spacian" monsters with different Attributes
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards your opponent controls, and if you do, add 1 "Neos" monster and 3 "Neo-Spacian" monsters with different Attributes from your Deck to your hand.
+ATK: 3500
+DEF: 3000
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO Cosmo Neos
+Flavour: An updated retrain of Elemental HERO Cosmo Neos
+Artwork: Created in GIMP using:
+● Elemental HERO Cosmo Neos
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Elemental HERO Astro Neos
+
+Attack name: Ultimate Meteor Flash. As Cosmo Neos is visually a combo of Chaos, Magma, and Storm Neos, its attack name uses elements from the attack names of all three: Ultimate Typhoon (Storm Neos), Meteor Meltdown (Magma Neos), and Chaos Fury Flash (Chaos Neos).
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 19/05/2025-------------------------------------------
+
+Name: Elemental HERO Cosmo Neos - Ultimate Meteor Flash
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 11
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 3 "Neo-Spacian" monsters with different Attributes
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards your opponent controls, and if you do, add 1 "Neos" monster and 3 "Neo-Spacian" monsters with different Attributes from your Deck to your hand.
+ATK: 3500
+DEF: 3000
+Comments: Type and Attribute update.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Astro Neos
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 11
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 3 "Neo-Spacian" monsters with different Attributes
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards your opponent controls, and if you do, add 1 "Neos" monster and 3 "Neo-Spacian" monsters with different Attributes from your Deck to your hand.
+ATK: 3500
+DEF: 3000
+Comments: Re-naming in line with recent Elemental HERO retrains.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Astro Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 11
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 3 "Neo-Spacian" monsters with different Attributes
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. ② During the End Phase: You can return this card to the Extra Deck; destroy all cards your opponent controls, and if you do, add 1 "Elemental HERO Neos" and 3 "Neo-Spacian" monsters with different Attributes from your Deck to your hand.
+ATK: 3500
+DEF: 3000
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

@@ -38,3 +38,30 @@ Manticore
 
 
 Monsters gain effects if they have Metal Counters on them, and each Rare Metal effect that summons a Rare Metal monster gives it a Metal Counter. Allows for Rare Metal cards that remove or move counters, or that give extra counters.
+
+Rare Metal Revival Dragon 
+Rare Metal Weapon / Ballista 
+Rare Metal Shining Dragon 
+Rare Metal Guardian 
+Rare Metal Paladin 
+
+Rare Metal boss monsters, Trigger small effect when placing a counter on them, trigger larger effect by removing a counter? Or is that too strong?
+
+If cavern only caches counters on monsters being destroyed, then having a trap that destroys monsters on both sides of the field to bypass removal that doesn't destroy might be worthwhile, and it could copy/increase the counters on the destroyed monster's. Also check if cavern only caches counters on your own rare Metal monsters, or if it caches counters from multiple card types, or if it also allows caching from opponent's cards, which if it does, might need removal to prevent mirror matches needing a ruling on what to do about metal counters on destruction when both players have cavern active.
+
+Continuous card that gives out counters slowly? 
+
+Spell/trap that quickly awards some counters, but not too many. 
+
+For testing, adding dark counterpart monsters, especially the dark creator, would blend nicely
+
+Thunderbird, destroy spell/trap, or bounce all spell/traps
+
+Burst Stream of Destruction => rare Metal lightning?
+
+Hemalurgic spike theme for Rare Metal archetype: perhaps extra Rare Metal Special Summon monsters are unnecessary, maybe they could be retooled as Rare Metal cards that Summon Rare Metal Dragon (and Ritual Monsters - should they be Fusion Rituals?) and impart it with bonus effects as if pierced with Hemalurgic spikes? Could use that to reduce the number of effects afforded by the Ritual Monsters to make them less text heavy? 
+
+The effects could be granted by the regular effect monsters when they're used as tributes for RMD or the Ritual monsters 
+
+
+

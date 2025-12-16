@@ -1,0 +1,74 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Glow Neos - Lightning Strike
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: LIGHT
+Monster Type: Plant Warrior
+Materials: "Elemental HERO Neos" + 1 LIGHT "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn, during your Main Phase 1: You can target 1 card on the field; destroy it, and if you do, apply the following effect based on its card type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack directly this turn. ● Trap: Change this card to Defense Position. ② During the End Phase: You can return this card to the Extra Deck, then target 1 monster and 2 Spell/Traps your opponent controls; destroy them, and if you do, add 1 "Neos" monster and 1 non-LIGHT "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO  Glow Neos
+Flavour: An updated retrain of Elemental HERO Glow Neos
+Artwork: Created in GIMP using:
+● Elemental HERO Glow Neos
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Elemental HERO Shining Neos
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 19/05/2025-------------------------------------------
+
+Name: Elemental HERO Glow Neos - Lightning Strike
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 LIGHT "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn, during your Main Phase 1: You can target 1 card on the field; destroy it, and if you do, apply the following effect based on its card type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack directly this turn. ● Trap: Change this card to Defense Position. ② During the End Phase: You can return this card to the Extra Deck, then target 1 monster and 2 Spell/Traps your opponent controls; destroy them, and if you do, add 1 "Neos" monster and 1 non-LIGHT "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Type and Attribute update.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Shining Neos
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 LIGHT "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn, during your Main Phase 1: You can target 1 card on the field; destroy it, and if you do, apply the following effect based on its card type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack directly this turn. ● Trap: Change this card to Defense Position. ② During the End Phase: You can return this card to the Extra Deck, then target 1 monster and 2 Spell/Traps your opponent controls; destroy them, and if you do, add 1 "Neos" monster and 1 non-LIGHT "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Re-naming in line with recent Elemental HERO retrains.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Shining Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 7
+Attribute: LIGHT
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 LIGHT "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Once per turn, during your Main Phase 1: You can target 1 card on the field; destroy it, and if you do, apply the following effect based on its card type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack directly this turn. ● Trap: Change this card to Defense Position. ② During the End Phase: You can return this card to the Extra Deck, then target 1 monster and 2 Spell/Traps your opponent controls; destroy them, and if you do, add 1 "Elemental HERO Neos" and 1 non-LIGHT "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

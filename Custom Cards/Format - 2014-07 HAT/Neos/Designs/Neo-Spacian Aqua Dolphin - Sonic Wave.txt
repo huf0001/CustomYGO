@@ -1,0 +1,72 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Neo-Spacian Aqua Dolphin - Sonic Wave
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Aqua
+Effect(s): You can only use effect ② of "Neo-Spacian Wave Dolphin" once per turn. ① This card's name becomes "Neo-Spacian Aqua Dolphin" while on the field or in the GY. ② You can send this card from your hand or field to the GY; Special Summon 1 non-Fusion "Neos" or "Neo-Spacian" monster from your hand or GY. ③ Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. Destroy it, and if you do, inflict 500 damage to your opponent.
+ATK: 600
+DEF: 800
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Neo-Spacian Aqua Dolphin
+Flavour: An updated retrain of Neo-Spacian Aqua Dolphin
+Artwork: Created in GIMP using:
+● Neo-Spacian Aqua Dolphin
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Neo-Spacian Wave Dolphin
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 19/05/2025-------------------------------------------
+
+Name: Neo-Spacian Aqua Dolphin - Sonic Wave
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): You can only use effect ② of "Neo-Spacian Wave Dolphin" once per turn. ① This card's name becomes "Neo-Spacian Aqua Dolphin" while on the field or in the GY. ② You can send this card from your hand or field to the GY; Special Summon 1 non-Fusion "Neos" or "Neo-Spacian" monster from your hand or GY. ③ Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. Destroy it, and if you do, inflict 500 damage to your opponent.
+ATK: 600
+DEF: 800
+Last Updated: 
+Comments: Re-naming typing to give each Neo-Spacian a non-Warrior Type.
+
+
+DATE: 06/04/2025-------------------------------------------
+
+Name: Neo-Spacian Wave Dolphin
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): You can only use effect ① of "Neo-Spacian Wave Dolphin" once per turn. ① You can send this card from your hand or field to the GY; Special Summon 1 non-Fusion "Neos" or "Neo-Spacian" monster from your hand or GY. ② Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. Destroy it, and if you do, inflict 500 damage to your opponent.
+ATK: 600
+DEF: 800
+Comments: Re-naming in line with recent Elemental HERO retrains, and adding a naming effect for backwards compatibility.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Neo-Spacian Wave Dolphin
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Warrior
+Effect(s): ① Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. Destroy it if you control a monster with ATK greater than or equal to its ATK, and if you do, inflict 500 damage to your opponent. Otherwise, take 500 damage. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 600
+DEF: 800
+Last Updated: 
+Comments: Strengthening Aqua Dolphin's base effect and adding a Neo-Spacian support effect.

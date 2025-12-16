@@ -1,0 +1,5 @@
+Glyph monsters: stony grey and/or brown frame texture 
+
+Could use Synchro frame as the base with a partially transparent texture over the main frame
+
+ASK concept creator for permission before designing.

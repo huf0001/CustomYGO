@@ -25,6 +25,10 @@ COMMENTS-----------------------------------------------------------------------
 
 https://en.wikipedia.org/wiki/Athena
 
+Messenger notes:
+	Athena, General of Olympus 
+	On Summon: monsters you control cannot have their effects negated, gain ATK/DEF equal to their Level/Rank x100, and (Quick Thought effect) 
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

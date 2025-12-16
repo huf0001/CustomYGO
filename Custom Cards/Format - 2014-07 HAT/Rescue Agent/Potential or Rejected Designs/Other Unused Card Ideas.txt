@@ -12,3 +12,30 @@ Scott taking leadership => Rescue Agent's Ascension
 Brains' Lab => Rescue Agent's Lab
 Child stowaway on Thunderbird 2 => Coverup of the Rescue Agents
 Alan taking Thunderbird 1
+
+Cutting Rescue Agents' Bulldozer down to 2 effects? Make the indestructability a second option for its ignition effect, such that detaching a material lets you pick between shuffling a monster / card at the cost of attacking for the turn, or gives indestructability for the turn.
+
+Check what parameters I've given LV 4, 6, and 8 Rescue Agents, then see what following that pattern will allow for LV 10. Could TB5 be 2000ATK / 3500 DEF? 3500 DEF is priority over high ATK, but 2000 ATK would be nice. Swap TB4 ATK and DEF? Is it worth limiting it to 1600 ATK?
+
+Also, do any of the XYZ monsters warrant swapping ATK and DEF so they can actually destroy stuff in battle?
+
+Compare with tellarknights, specifically their debut cards and XYZ monsters
+
+Butler as archetypal honest? Look up honest, check variants in trivia
+
+If they're not already set up this way, transmitter tractor should just change battle position, flipping face down should be reserved for Starship. Bulldozer should shuffle monsters only, submarine should only shuffle spells and traps. 
+
+Should any of the Xyz's effects come at the cost of being unable to attack after using them? Possibly Bulldozer, maybe neutralizer. Should Stabiliser be unable to attack while it's target is on the field? 
+
+Incorporate Limiter Removal, Reinforcement of the Army, The Warrior Returning Alive, and other synergistic cards into playtesting 
+
+Also generic R4 and LV 6, 8, and 10 Synchros, as well as external Tuners that can be used for Rescue Agent Synchros or combined with Rescue Agent monsters for other Synchros and Xyz's. Maybe R6 and R8 testing might be advisable if it proves easy to Xyz summon with the LV 6 and 8 Rescue Agents
+
+Changeover, if it needs nerfing, could restrict summons to the same or lower levelled monsters for Synchro Summons, and the same or fewer number of materials for Xyz Summons.
+
+Remove the Hood from the Rescue Agents, make a Disaster Agent archetype? All main deck monsters, punish Extra Deck users? (Hood takes control of Extra Deck monsters and draws when they are Summoned)
+
+Disaster Agent Mastermind, can self tribute a la Stardust Dragon to take control of an opponent's extra deck monster until the end phase, and while you control Mastermind, you draw each time your opponents summons an extra deck monster
+
+Disaster Agent Imposters, negate an extra deck monster's effects until end of turn and gain those effects until end of turn. If it's a Link monster, Imposters is treated as having Link Arrows matching the target's.
+

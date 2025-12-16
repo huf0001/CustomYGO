@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: An Elemental HERO Emerges
+Card Type: Trap
+Card Subtype(s): Normal
+Rules Text: ① When an opponent's monster targets an "Elemental HERO" monster you control for an attack: Fusion Summon 1 "Elemental HERO" Fusion Monster, by shuffling "Elemental HERO" monsters from your hand, field, or GY into your Deck, and if you do, that Fusion Summoned monster becomes the attack target. 
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: A Hero Emerges
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● A Hero Emerges
+● Elemental HERO Flame Wingman? Something that has Flame Wingman in its art?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Maybe only field or GY?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

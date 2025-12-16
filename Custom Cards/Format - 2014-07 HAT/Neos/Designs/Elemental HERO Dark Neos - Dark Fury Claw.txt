@@ -1,0 +1,74 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Dark Neos - Dark Fury Claw
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: DARK
+Monster Type: Beast Warrior
+Materials: "Elemental HERO Neos" + 1 DARK "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① You can target 1 face-up Effect Monster on the field; negate its effects while you control this face-up card. (You can only target 1 monster at a time with this effect.) ② During the End Phase: You can return this card to the Extra Deck; negate the effects of all face-up monsters your opponent controls until the end of your next turn, and if you do, add 1 "Neos" monster and 1 non-DARK "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO Dark Neos
+Flavour: An updated retrain of Elemental HERO Dark Neos
+Artwork: Created in GIMP using:
+● Elemental HERO Dark Neos
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Elemental HERO Shadow Neos
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 19/05/2025-------------------------------------------
+
+Name: Elemental HERO Dark Neos - Dark Fury Claw
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: DARK
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 DARK "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① You can target 1 face-up Effect Monster on the field; negate its effects while you control this face-up card. (You can only target 1 monster at a time with this effect.) ② During the End Phase: You can return this card to the Extra Deck; negate the effects of all face-up monsters your opponent controls until the end of your next turn, and if you do, add 1 "Neos" monster and 1 non-DARK "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Type and Attribute update.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Shadow Neos
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: DARK
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 DARK "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① You can target 1 face-up Effect Monster on the field; negate its effects while you control this face-up card. (You can only target 1 monster at a time with this effect.) ② During the End Phase: You can return this card to the Extra Deck; negate the effects of all face-up monsters your opponent controls until the end of your next turn, and if you do, add 1 "Neos" monster and 1 non-DARK "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Re-naming in line with recent Elemental HERO retrains.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Shadow Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 7
+Attribute: DARK
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 DARK "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① You can target 1 face-up Effect Monster on the field; negate its effects while you control this face-up card. (You can only target 1 monster at a time with this effect.) ② During the End Phase: You can return this card to the Extra Deck; negate the effects of all face-up monsters your opponent controls until the end of your next turn, and if you do, add 1 "Elemental HERO Neos" and 1 non-DARK "Neo-Spacian" monster from your Deck to your hand. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 2500
+DEF: 2000
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

@@ -1,0 +1,74 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Flare Neos - Flare Storm
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: FIRE
+Monster Type: Insect Warrior
+Materials: "Elemental HERO Neos" + 1 FIRE "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Gains 400 ATK for each Spell/Trap Card on the field. ② During the End Phase: You can return this card to the Extra Deck; inflict damage to your opponent equal to the number of Spell/Trap Cards on the field x 400, and if you do, add 1 "Neos" monster and 1 non-FIRE "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Elemental HERO Flare Neos
+Flavour: An updated retrain of Elemental HERO Flare Neos
+Artwork: Created in GIMP using:
+● Elemental HERO Flare Neos
+● Neo Space
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Alternative name: Elemental HERO Blaze Neos
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 19/05/2025-------------------------------------------
+
+Name: Elemental HERO Flare Neos - Flare Storm
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: FIRE
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 FIRE "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Gains 400 ATK for each Spell/Trap Card on the field. ② During the End Phase: You can return this card to the Extra Deck; inflict damage to your opponent equal to the number of Spell/Trap Cards on the field x 400, and if you do, add 1 "Neos" monster and 1 non-FIRE "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Type and Attribute update.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Blaze Neos
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: FIRE
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 FIRE "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Gains 400 ATK for each Spell/Trap Card on the field. ② During the End Phase: You can return this card to the Extra Deck; inflict damage to your opponent equal to the number of Spell/Trap Cards on the field x 400, and if you do, add 1 "Neos" monster and 1 non-FIRE "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Re-naming in line with recent Elemental HERO retrains.
+
+
+DATE: 05/04/2025-------------------------------------------
+
+Name: Elemental HERO Blaze Neos
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 7
+Attribute: FIRE
+Monster Type: Warrior
+Materials: "Elemental HERO Neos" + 1 FIRE "Neo-Spacian" monster
+Effect(s): Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. ① Gains 400 ATK for each Spell/Trap Card on the field. ② During the End Phase: You can return this card to the Extra Deck; inflict damage to your opponent equal to the number of Spell/Trap Cards on the field x 400, and if you do, add 1 "Elemental HERO Neos" and 1 non-FIRE "Neo-Spacian" monster from your Deck to your hand.
+ATK: 2500
+DEF: 2000
+Comments: Broadening "Elemental HERO Neos" to "Neos" monster for the End Phase effect.

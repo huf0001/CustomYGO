@@ -34,3 +34,7 @@ Armeggaddon => Calamity, Black Magnetic Lord (LV 10, 3000 ATK/DEF)
 Libris => Grey Magnetic Dragon (LV 10, 3000 ATK/DEF, no original attribute, cannot attack if it has no attribute, gains attributes of all other monsters on the field, can ignore attribute requirements of "Magnetic Gear" Equip Spells)
 
 See Reddit post about Draconium color <==> Yu-Gi-Oh! attribute to determine attributes of different cards.
+
+Dragon booster archetype, "Magnetic" archetype, with "Magnetic Warrior", "Magnetic Dragon", and "Magnetic Lord" subsets. "Magnetic Lord" monsters are treated as Warrior and Dragon type monsters. Gear can be equipped to any Warrior or to Dragons of a matching attribute. Gauntlets of power are fusion spells for summoning boosters / mortis / drakkus, using a "Magnetic Warrior" monster and a "Magnetic Dragon" monster of the correct attribute, any equip spells carry over to the Fusion monster. Can also banish from GY to prevent destruction by de-fusing, and equip spells carry over to fusion materials of the appropriate type. Bone marks can also be equip spells, maybe they prevent fusion summoning in exchange for extra power? Libris has no attribute, gains the attributes of any other monsters, and can be treated as any attribute for the conditions of "Magnetic" equip spells.
+
+Mag-City 

@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Skyscraper 3: Fusion City
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: You can only activate 1 effect of "Skyscraper 3: Fusion City" per turn, and only once per turn. ① You can activate this effect; Fusion Summon 1 "Elemental HERO" Fusion Monster, by using "Elemental HERO" monsters from your hand or field as material. ② You can banish this card from your GY; Fusion Summon 1 "Elemental HERO" Fusion Monster, by shuffling "Elemental HERO" monsters from your GY into your Deck as material.
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Skyscraper and Skyscraper 2: Hero City
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

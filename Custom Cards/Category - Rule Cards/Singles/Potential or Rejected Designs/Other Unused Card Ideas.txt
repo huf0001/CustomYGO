@@ -1,0 +1,15 @@
+Rule cards 
+* 2000/4000 LP 
+* Summon Limit 
+* Ritual Monsters can be placed in the Extra Deck.
+* Speed Duel: 3 Monster Zones, 3 Spell/Trap Zones
+* Pendulum Zones are separate.
+* Extra Monster Zones are centre left and centre right main monster zones.
+* All Limited and Semi-Limited cards are Forbidden.
+* All Forbidden Cards are Limited.
+* All Forbidden, Limited, and Semi-Limited Cards are Unlimited.
+* Minimum Deck Size is 30.
+* Minimum Deck Size is 60.
+* Minimum and Maximum Deck Size is 100.
+* All Unlimited and Semi-Limited cards are Limited.
+* All cards' rules text is treated as their last pre-functional errata rules text. 

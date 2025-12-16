@@ -33,6 +33,10 @@ COMMENTS-----------------------------------------------------------------------
 
 https://en.wikipedia.org/wiki/Circe
 
+Messenger notes:
+	Circe, Witch of Olympus
+	Summon if opponent Summons a monster. On Summon: Target monster becomes an EARTH Beast Normal Monster named "Swine Puppet" with 2000 ATK/DEF, and you take control of it while Circe is on the field. It doesn't change back once Circe leaves the field. 
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

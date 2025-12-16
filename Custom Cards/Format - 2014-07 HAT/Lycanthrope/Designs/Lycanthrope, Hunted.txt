@@ -18,7 +18,8 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Lycanthrope
 Flavour: A Lycanthrope retrain in the vein of the Summoned Skull retrains for each Summoning mechanic.
 Artwork: Created in GIMP using:
-● Lycanthrope
+● Lycanthrope?
+● Tri-Brigade Rugal the Silver Sheller?
 ● Wolf in Sheep's Clothing
 
 

@@ -25,6 +25,8 @@ COMMENTS-----------------------------------------------------------------------
 
 Supports DARK monsters with ATK or DEF indivisible by 50.
 
+Effect/condition for it to be counted as a monster with ATK/DEF indivisible by 50 for effects that check for that, or modify its ATK/DEF to fit that pattern?
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

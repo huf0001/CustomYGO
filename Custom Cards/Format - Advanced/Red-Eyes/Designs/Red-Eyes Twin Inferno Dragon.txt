@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Twin Inferno Dragon
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 10
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: 2 Level 7 "Red-Eyes" monsters
+Must first be either Fusion Summoned, or Special Summoned by Tributing above monsters you control. ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 3600
+DEF: 3000
+Last Updated: 16/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Blue-Eyes Twin Burst Dragon, Cyber Twin Dragon
+Flavour: A 2-Red-Eyes Fusion Monster
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 10/08/2025-------------------------------------------
+
+Name: Red-Eyes Twin Inferno Dragon
+Card Type: Monster
+Card Subtype(s): Fusion
+Level: 10
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: 2 Level 7 "Red-Eyes" monsters
+Must first be either Fusion Summoned, or Special Summoned by Tributing above monsters you control. ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 3600
+DEF: 3000
+Comments: Renaming
