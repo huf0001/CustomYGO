@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Odd-Eyes Dark Wing Dragon
+Card Type: Monster
+Card Subtype(s): Dark Synchro / Effect
+Level: -8
+Attribute: DARK
+Left Pendulum Scale: 10
+Right Pendulum Scale: 10
+Pendulum Rules Text: ① Once per turn, before damage calculation, if your monster battles an opponent's monster: You can make that opponent's monster's ATK 0, until the end of the Damage Step.
+Monster Type: Dragon
+Monster Rules Text: 1 non-Tuner "Clear Wing" monster - 1 Dark Tuner monster
+If you can Pendulum Summon Level 8, you can Pendulum Summon this face-up card in your Extra Deck. You can only use 1 of effects ① or ② of "Odd-Eyes Dark Wing Dragon" per turn, and only once that turn. ① You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. ② During the Battle Phase, if you control this Dark Synchro Summoned card (Quick Effect): You can destroy all Level/Rank 5 or higher monsters your opponent controls. ③ If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
+ATK: 3000
+DEF: 2500
+Last Updated: 18/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Odd-Eyes monsters + Dark Synchro  Monsters
+Flavour: What if a Z-ARC-corrupted Yuya had a Dark Synchro Monster?
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Odd-Eyes Underworld Execution
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: You cannot Pendulum Summon the turn you activate this card. ① Target 1 face-up "Odd-Eyes Pendulum Dragon" in your Extra Deck and 1 Synchro Monster in your Graveyard; Special Summon them, but their effects are negated, also that "Odd-Eyes Pendulum Dragon" is treated as a Level 8 Dark Tuner, and that Synchro Monster is treated as a Level 0 monster, then immediately after this effect resolves, Dark Synchro Summon 1 Dark Synchro Pendulum Monster from your Extra Deck, using only the Summoned monsters as Materials. ② You can banish this card from your GY; Special Summon 1 Dark Synchro Pendulum Monster from your Pendulum Zone. (This Special Summon is treated as a Dark Synchro Summon.)
+Last Updated: 18/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Odd-Eyes Synchrogate
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
