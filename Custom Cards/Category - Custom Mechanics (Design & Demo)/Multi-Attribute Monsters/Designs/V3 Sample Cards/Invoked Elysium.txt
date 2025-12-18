@@ -6,10 +6,11 @@ Card Subtype(s): Fusion / Effect
 Level: 10
 Attribute: EARTH/WATER/FIRE/WIND/LIGHT/DARK
 Monster Type: Fairy
-Rules Text: Must first be Fusion Summoned with the above Fusion Materials. ① Once per turn (Quick Effect): You can target 1 "Invoked" monster you control or in your GY; banish it and all monsters your opponent controls with the same Attribute as that monster. 
+Rules Text: 1 "Invoked" monster + 1 monster that was Special Summoned from the Extra Deck
+Must first be Fusion Summoned with the above Fusion Materials. ① Once per turn (Quick Effect): You can target 1 "Invoked" monster you control or in your GY; banish it and all monsters your opponent controls with the same Attribute as that monster. 
 ATK: 3200
 DEF: 4000
-Last Updated: 14/12/2025
+Last Updated: 18/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,20 +31,15 @@ Copyright: 1996 Kazuki Takahashi
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 14/12/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Invoked Elysium
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 10
+Attribute: EARTH/WATER/FIRE/WIND/LIGHT/DARK
+Monster Type: Fairy
+Rules Text: Must first be Fusion Summoned with the above Fusion Materials. ① Once per turn (Quick Effect): You can target 1 "Invoked" monster you control or in your GY; banish it and all monsters your opponent controls with the same Attribute as that monster. 
+ATK: 3200
+DEF: 4000
+Comments: Forgot the Fusion Materials.
