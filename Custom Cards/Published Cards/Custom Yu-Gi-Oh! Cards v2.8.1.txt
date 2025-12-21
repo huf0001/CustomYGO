@@ -2,8 +2,8 @@ Goat Format (17)
 	
 	Lycanthrope
 	
-		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Fusion/Effect)
-		HUGO-EN015	Synthesis Fusion Ritual						(Spell/Normal)
+		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Advanced Ritual/Effect)
+		HUGO-EN015	Advanced Synthesis Ritual					(Spell/Ritual)
 	
 	Slime
 	

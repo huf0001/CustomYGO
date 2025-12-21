@@ -2,9 +2,9 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rare Metal Conversion
 Card Type: Spell
-Card Subtype(s): Ritual
-Rules Text: ① Tribute up to 4 monsters on the field with a Metal Counter on them, including up to 1 monster your opponent controls, and, after that, Special Summon 1 "Rare Metal" monster that cannot be Normal Summoned/Set from your hand, Deck, or Extra Deck whose ATK is equal to or less than the total number of Metal Counters on the Tributed monsters x 800. If you Tributed an opponent's monster, that Special Summoned monster cannot attack this turn.
-Last Updated: 30/05/2025
+Card Subtype(s): Normal
+Rules Text: ① Tribute up to 4 monsters on the field with a Metal Counter on them, including up to 1 monster your opponent controls, and, after that, Special Summon 1 "Rare Metal" monster that cannot be Normal Summoned/Set from your hand or Deck, or Ritual Summon 1 "Rare Metal" Ritual Monster, whose ATK is equal to or less than the total number of Metal Counters on the Tributed monsters x 800. If you Tributed an opponent's monster, that Summoned monster cannot attack this turn.
+Last Updated: 21/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -23,6 +23,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 30/05/2025-------------------------------------------
+
+Name: Rare Metal Conversion
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① Tribute up to 4 monsters on the field with a Metal Counter on them, including up to 1 monster your opponent controls, and, after that, Special Summon 1 "Rare Metal" monster that cannot be Normal Summoned/Set from your hand, Deck, or Extra Deck whose ATK is equal to or less than the total number of Metal Counters on the Tributed monsters x 800. If you Tributed an opponent's monster, that Special Summoned monster cannot attack this turn.
+Comments: Cleaning up to explicitly call out that the Extra Deck monsters are being Ritual Summoned.
+
 
 DATE: 03/05/2024-------------------------------------------
 

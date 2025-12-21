@@ -2,9 +2,9 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Lightning Archfiend Ritual
 Card Type: Spell
-Card Subtype(s): Normal
-Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 6 or more, and, after that, Special Summon 1 "Summoned Skull, the Lightning Archfiend" from your Extra Deck.
-Last Updated: 21/05/2025
+Card Subtype(s): Ritual
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 6 or more, and, after that, Ritual Summon 1 "Summoned Skull, the Lightning Archfiend".
+Last Updated: 21/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,20 +22,10 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 21/05/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Lightning Archfiend Ritual
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 6 or more, and, after that, Special Summon 1 "Summoned Skull, the Lightning Archfiend" from your Extra Deck.
+Comments: Converting to a Ritual Spell to more clearly communicate the intent.

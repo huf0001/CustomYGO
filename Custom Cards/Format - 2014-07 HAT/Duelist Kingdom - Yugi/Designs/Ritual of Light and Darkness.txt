@@ -1,0 +1,33 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Ritual of Light and Darkness
+Card Type: Spell
+Card Subtype(s): Ritual 
+Rules Text: (This card is always treated as a "Chaos" card.)
+① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "BLACK LUSTER SOLDIER" or "MAGICIAN OF BLACK CHAOS".
+Last Updated: 21/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Need to re-name retrains of BLS and MBC
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/09/2025-------------------------------------------
+
+Name: Fusion Ritual of Light and Darkness
+Card Type: Spell
+Card Subtype(s): Normal 
+Rules Text: (This card is always treated as a "Chaos" card.)
+① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Special Summon 1 "BLACK LUSTER SOLDIER" or "MAGICIAN OF BLACK CHAOS" from your Extra Deck.
+Comments: Converting to a Ritual Spell to more clearly communicate the intent.

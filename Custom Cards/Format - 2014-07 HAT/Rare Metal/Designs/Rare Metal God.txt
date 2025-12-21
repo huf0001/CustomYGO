@@ -2,16 +2,16 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rare Metal God
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
+Card Subtype(s): Advanced Ritual / Effect
 Level:4
 Attribute: DARK
 Monster Type: Fiend
-Effect(s): Must first be Special Summoned (from your Extra Deck) with a "Rare Metal" card. You can only use effect ① of "Rare Metal God" once per turn. ① You can target 1 monster your opponent controls with a Metal Counter; remove Metal Counters from the field (min. 1 from the target), then apply the appropriate effect until the end of this turn. 
+Effect(s): You can Ritual Summon this card (from your Extra Deck) with any "Rare Metal" card. You can only use effect ① of "Rare Metal God" once per turn. ① You can target 1 monster your opponent controls with a Metal Counter; remove Metal Counters from the field (min. 1 from the target), then apply the appropriate effect until the end of this turn. 
 ● 4: Negate the target's effects, and if you do, a "Rare Metal" monster you control gains those effects.
 ● 8: Take control of that target.
 ATK: 3200
 DEF: 3200
-Last Updated: 30/05/2025
+Last Updated: 21/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,6 +30,22 @@ If God gets a proper name, it would be "Calamity, Rare Metal God".
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 30/05/2025-------------------------------------------
+
+Name: Rare Metal God
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level:4
+Attribute: DARK
+Monster Type: Fiend
+Effect(s): Must first be Special Summoned (from your Extra Deck) with a "Rare Metal" card. You can only use effect ① of "Rare Metal God" once per turn. ① You can target 1 monster your opponent controls with a Metal Counter; remove Metal Counters from the field (min. 1 from the target), then apply the appropriate effect until the end of this turn. 
+● 4: Negate the target's effects, and if you do, a "Rare Metal" monster you control gains those effects.
+● 8: Take control of that target.
+ATK: 3200
+DEF: 3200
+Comments: Converting to an Extra Deck Ritual Monster to make the intent clearer.
+
 
 DATE: 03/05/2024-------------------------------------------
 

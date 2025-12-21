@@ -27,7 +27,7 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion Monster.)
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

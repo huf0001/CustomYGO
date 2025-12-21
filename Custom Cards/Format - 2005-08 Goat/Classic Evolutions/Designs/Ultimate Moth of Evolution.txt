@@ -23,7 +23,7 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

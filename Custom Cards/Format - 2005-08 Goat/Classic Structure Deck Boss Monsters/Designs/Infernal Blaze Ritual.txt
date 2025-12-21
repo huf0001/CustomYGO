@@ -1,0 +1,32 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Infernal Blaze Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "Infernal Blaze Emperor".
+Last Updated: 21/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Infernal Flame Emperor
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Using non-standard templating of "and, after that" to indicate both A and B are required but sequential. Both but sequential doesn't have a PSCT conjunctive to indicate it. So I am indicating it by adapting "and" (A and B required, simultaneous) in the same manner that "also, after that" (neither A or B required, sequential) adapts "also" (neither A or B required, simultaneous).
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 24/09/2025-------------------------------------------
+
+Name: Infernal Blaze Fusion Ritual
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Special Summon 1 "Infernal Blaze Emperor" from your Extra Deck.
+Last Updated: 
+Comments: Converting to a Ritual Spell to more clearly communicate the intent.

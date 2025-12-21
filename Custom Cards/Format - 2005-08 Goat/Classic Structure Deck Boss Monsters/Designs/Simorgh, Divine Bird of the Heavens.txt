@@ -2,11 +2,11 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Simorgh, Divine Bird of the Heavens
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
+Card Subtype(s): Advanced Ritual / Effect
 Level: 7
 Attribute: WIND
 Monster Type: Winged Beast
-Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① Once per turn, during the End Phase: inflict 1000 damage to both players. The damage inflicted to each player is decreased by 500 for each Spell/Trap Card that player controls.
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Divine Bird Ritual". ① Once per turn, during the End Phase: inflict 1000 damage to both players. The damage inflicted to each player is decreased by 500 for each Spell/Trap Card that player controls.
 ATK: 2700
 DEF: 1000
 Last Updated: 24/09/2025
@@ -23,25 +23,20 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion Monster.)
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 24/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Simorgh, Divine Bird of the Heavens
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 7
+Attribute: WIND
+Monster Type: Winged Beast
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① Once per turn, during the End Phase: inflict 1000 damage to both players. The damage inflicted to each player is decreased by 500 for each Spell/Trap Card that player controls.
+ATK: 2700
+DEF: 1000
+Comments: Converting to an Extra Deck Ritual Monster to more clearly communicate the intent.

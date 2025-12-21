@@ -2,14 +2,14 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Gilford, the Legendary Swordsman
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
+Card Subtype(s): Advanced Ritual / Effect
 Level: 8
 Attribute: EARTH
 Monster Type: Warrior
-Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① When this card is Special Summoned from your Extra Deck: You can equip as many Equip Spells from your GY as possible to a Warrior monster(s) you control. 
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Legendary Swordsman Ritual". ① When this card is Special Summoned from your Extra Deck: You can equip as many Equip Spells from your GY as possible to a Warrior monster(s) you control. 
 ATK: 2600
 DEF: 2000
-Last Updated: 24/09/2025
+Last Updated: 21/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,25 +22,20 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion Monster.)
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 24/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Gilford, the Legendary Swordsman
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Warrior
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① When this card is Special Summoned from your Extra Deck: You can equip as many Equip Spells from your GY as possible to a Warrior monster(s) you control. 
+ATK: 2600
+DEF: 2000
+Comments: Converting to an Extra Deck Ritual Monster to more clearly communicate the intent.
