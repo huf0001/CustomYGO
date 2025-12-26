@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Zombie Dragon Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: You can only use effect ② of "Zombie Dragon Ritual" once per turn. ① This card is used to Ritual Summon "Paladin of Zombie Dragon". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 Zombie monster from your GY, then target 1 Level 4 Zombie monster in your GY; Special Summon it.
+Last Updated: 26/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Paladin of the Cursed Dragon + Paladins of Dragons series
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Raregold Armor?
+● Zombie World?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

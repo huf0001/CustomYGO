@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Paladin of Zombie Dragon
+Card Type: Monster
+Card Subtype(s): Ritual
+Level: 4
+Attribute: DARK
+Monster Type: Zombie
+Rules Text: You can Ritual Summon this card with "Zombie Dragon Ritual". You can only use effect ② of "Paladin of Zombie Dragon" once per turn. ① If this attacking monster would be destroyed by battle, your opponent's monster is destroyed by that battle instead, also you take no damage from that battle. ② You can Tribute this card; Special Summon 1 Zombie monster from either GY.
+ATK: 1900
+DEF: 1200
+Last Updated: 26/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Paladins of Dragons + Paladin of the Cursed Dragon + Red-Eyes Zombie Dragon
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Paladin of the Cursed Dragon
+● Red-Eyes Zombie Dragon
+● Zombie World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
