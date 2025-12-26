@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hybrid Ritual Art
+Card Type: Rule
+Rules Text: ① Ritual Monsters can be put in the Main Deck or the Extra Deck. ② Cards that Ritual Summon Ritual Monsters but don't specify where they are Summoned from can Ritual Summon them from the hand, Deck, or Extra Deck. ③ If a Ritual Monster that started the Duel in the Extra Deck is moved to the hand or Deck, it is moved to the Extra Deck instead. If a Ritual Monster that started the Duel in the Deck is moved to the Extra Deck, it is moved to the Deck instead. ④ Ritual Monsters that apply continous effects to themselves while in the hand or Deck also apply those effects while in the Extra Deck. ⑤ Ritual Monsters, Ritual Spells, and cards that mention them or Ritual Summoning but not other Extra Deck monster card types or Summoning mechanics, that prevent a player(s) from Special Summoning monsters from the Extra Deck prevent non-Ritual Monsters from being Special Summoned from the Extra Deck instead, or if they apply a continuous effect to all of a player's monsters Special Summoned from the Extra Deck, they apply that effect to non-Ritual Monsters Special Summoned from the Extra Deck instead.
+Last Updated: 26/12/2025
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Extra Deck Ritual Monsters
+Flavour: Lets players turns standard Ritual Monsters into Extra Deck Ritual Monsters, and makes a few tweaks according to that.
+Artwork: Created in GIMP using:
+● Ritual-related cards?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Rule codes:
+	① EDRIMO
+	② SUMMON
+	③ RETRIV
+	④ CNTEFF
+	⑤ NOEDSS
+	
+See Ascension of the Rituals for which cards from which formats would need to be errata'd because of the rules with the same 6-letter codes. (Ascension of the Rituals has more rules, so they are numbered differently.)
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

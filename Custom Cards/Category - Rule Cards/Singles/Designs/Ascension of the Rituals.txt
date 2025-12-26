@@ -1,0 +1,304 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Ascension of the Rituals
+Card Type: Rule
+Rules Text: ① Ritual Monsters are put in the Extra Deck, not the Main Deck. ② Cards that Summon Ritual Monsters from the hand or Deck Summon them from the Extra Deck instead. Summoning conditions that require Ritual Monsters to be Summoned from the hand or Deck specify the Extra Deck instead. ③ Cards that add Ritual Monsters from the Deck to the hand, or move excavated Ritual Monsters, move Ritual Spells instead, based on how they're specified. (Excavated Ritual Spells that are moved to the field this way are Set.) ● By name or archetype: a Ritual Spell that Ritual Summons Ritual Monsters of that name or archetype, is of that archetype, or shares an archetype with that named Ritual Monster. ● Other (Attribute, Monster Type, etc.): a Ritual Spell that Ritual Summons either any Ritual Monster or only Ritual Monsters of that quality(s), or that shares an archetype with the activated card. ● Doesn't specify: any Ritual Spell. ④ Cards that send Ritual Monsters from the Deck to the GY or banishment send them from the Extra Deck instead. ⑤ Cards that reveal Ritual Monsters from the hand return them from the GY to the Extra Deck instead. Cards that reveal them from the Deck reveal them from the Extra Deck instead. ⑥ Cards that move Ritual Monsters from the hand to the GY or banishment (except by Tributing them) banish them from the GY instead. ⑦ Cards that Tribute Ritual Monsters from the hand Tribute them from the field instead. ⑧ Cards that equip Ritual Monsters from the hand or Deck to monsters on the field equip them from the GY or Extra Deck respectively instead. ⑨ Cards that move Ritual Monsters to the Deck, or to the hand (except from the Deck), move them to the Extra Deck instead. ⑩ Ritual Monsters that apply continous effects to themselves while in the hand or Deck apply those effects while in the Extra Deck instead. ⑪ Ritual Monsters, Ritual Spells, and cards that mention them or Ritual Summoning but not other Extra Deck monster card types or Summoning mechanics, that prevent a player(s) from Special Summoning monsters from the Extra Deck prevent non-Ritual Monsters from being Special Summoned from the Extra Deck instead, or if they apply a continuous effect to all of a player's monsters Special Summoned from the Extra Deck, they apply that effect to non-Ritual Monsters Special Summoned from the Extra Deck instead.
+Last Updated: 26/12/2025
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Extra Deck Ritual Monsters
+Flavour: Turns standard Ritual Monsters into Extra Deck Ritual Monsters, and handles the issues that comes with that.
+Artwork: Created in GIMP using:
+● Ritual-related cards?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Rule codes:
+	① EDRIMO
+	② SUMMON
+	③ SEARCH
+	④ MILL
+	⑤ REVEAL
+	⑥ DISCRD
+	⑦ TRIBUT
+	⑧ EQUIP
+	⑨ RETRIV
+	⑩ CNTEFF
+	⑪ NOEDSS
+
+Cards that would need erratas to comply with this Rule Card (as of 26/12/2025):
+	- Goat Format (pre 02/07/2005) (2):
+		- Other (2):
+			- Senju of the Thousand Hands						③ SEARCH
+			- Manju of the Ten Thousand Hands					③ SEARCH
+	
+	- Gladiator Format (02/07/2005 - 14/05/2008) (1):
+		- Other (1):
+			- Ritual Forgone									② SUMMON
+	
+	- Edison Format (14/05/2008 - 06/03/2010) (1):
+		- Other (1):
+			- Preparation of Rites								③ SEARCH
+	
+	- Tengu Plant Format (06/03/2010 - 13/08/2011) (0):
+		- N/A
+	
+	- HAT Format (13/08/2011 - 17/05/2014) (6):
+		- Galaxy / Photon (1):
+			- Luminous Dragon Ritual							② SUMMON
+		- Gishki (5):
+			- Aquamirror Illusion								② SUMMON
+			- Gishki Aquamirror									⑨ RETRIV
+			- Gishki Chain										③ SEARCH
+			- Gishki Marker										⑨ RETRIV
+			- Gishki Vision										③ SEARCH
+	
+	- Draco Zoo Format (17/05/2014 - 19/07/2017) (33):
+		- Amorphage (1):
+			- Amorphous Persona									② SUMMON
+		- Black Luster Soldier (4):
+			- Evening Twilight Knight							③ SEARCH
+			- Gateway to Chaos									③ SEARCH
+			- Super Soldier Ritual								② SUMMON
+			- Super Soldier Synthesis							② SUMMON
+		- Cyber Angel (4):
+			- Cyber Angel Dakini								⑨ RETRIV
+			- Cyber Angel Vrash									⑨ RETRIV
+			- Cyber Petit Angel									③ SEARCH
+			- Ritual Sanctuary									③ SEARCH
+		- Dark Magician (1):
+			- Chaos Scepter Blast								② SUMMON
+		- Nekroz (15):
+			- Exa, Enforcer of the Nekroz*						③ SEARCH
+			- Great Sorcerer of the Nekroz*						③ SEARCH
+			- Nekroz Cycle										② SUMMON
+			- Nekroz Mirror										② SUMMON
+			- Nekroz of Brionac									③ SEARCH ⑥ DISCRD
+			- Nekroz of Catastor								⑥ DISCRD
+			- Nekroz of Clausolas								⑥ DISCRD
+			- Nekroz of Decisive Armor							⑥ DISCRD
+			- Nekroz of Gungnir									⑥ DISCRD
+			- Nekroz of Sophia*									② SUMMON ⑥ DISCRD ⑪ NOEDSS
+			- Nekroz of Trishula								⑥ DISCRD
+			- Nekroz of Unicore									⑥ DISCRD
+			- Nekroz of Valkyrus*								⑥ DISCRD
+			- Shurit, Strategist of the Nekroz*					③ SEARCH
+			- Zefrasaber, Swordmaster of the Nekroz				② SUMMON
+		- Herald (1):
+			- Herald of the Arc Light							③ SEARCH
+		- Odd-Eyes (1):
+			- Odd-Eyes Advent									② SUMMON
+		- Prediction Princess (1):
+			- Prediction Princess Crystaldine					③ SEARCH ⑨ RETRIV
+		- Shinobird (2):
+			- Shinobaroness Peacock								⑨ RETRIV
+			- Shinobaron Peacock								⑨ RETRIV
+		- Other (3):
+			- Pre-Preparation of Rites							⑨ RETRIV
+			- Sauravis, the Ancient and Ascended				⑥ DISCRD ⑨ RETRIV
+			- Spiritual Whisper									③ SEARCH
+	
+	- Adamancipator Format (19/07/2017 - 05/08/2020) (39):
+		- Cyber Angel (4):
+			- Cyber Angel Izana									⑨ RETRIV
+			- Incarnated Machine Angel							② SUMMON ⑦ TRIBUT
+			- Magnificent Machine Angel							⑦ TRIBUT
+			- Merciful Machine Angel							⑦ TRIBUT
+		- Dark Magician (2):
+			- Magician of Chaos									② SUMMON
+			- Secrets of Dark Magic								② SUMMON
+		- Demise and Ruin (8):
+			- Demise, Agent of Armageddon						⑩ CNTEFF
+			- Demise, Supreme King of Armageddon				⑩ CNTEFF
+			- Ruin, Angel of Oblivion							⑩ CNTEFF
+			- Ruin, Supreme Queen of Oblivion					⑩ CNTEFF
+			- Breaking of the World								⑤ REVEAL
+			- Cycle of the World								⑨ RETRIV
+			- Renewal of the World								④ MILL
+			- Turning of the World								② SUMMON ⑦ TRIBUT			
+		- Fire Fist (1):
+			- Fire Formation - Domei							② SUMMON
+		- Herald (1):
+			- Herald of Mirage Lights							⑨ RETRIV
+		- Impcantation (6):
+			- Crealtar, the Impcantation Originator				⑤ REVEAL
+			- Impcantation Bookstone							⑪ NOEDSS
+			- Impcantation Candoll								⑪ NOEDSS
+			- Impcantation Chalislime							⑤ REVEAL
+			- Impcantation Penciplume							⑨ RETRIV ⑤ REVEAL ⑪ NOEDSS
+			- Impcantation Talismandra							③ SEARCH ⑤ REVEAL ⑪ NOEDSS
+		- Megalith (9):
+			- Megalith Aratron									⑥ DISCRD ⑨ RETRIV
+			- Megalith Bethor									② SUMMON ⑥ DISCRD
+			- Megalith Emergence								⑨ RETRIV
+			- Megalith Hagith									② SUMMON
+			- Megalith Och										② SUMMON
+			- Megalith Ophiel*									② SUMMON ③ SEARCH
+			- Megalith Phaleg									② SUMMON ⑥ DISCRD
+			- Megalith Portal									⑨ RETRIV
+			- Megalith Unformed									② SUMMON
+		- Salamangreat (1):
+			- Rise of the Salamangreat							② SUMMON
+		- Vendread (4):
+			- Revendread Evolution								② SUMMON
+			- Revendread Originator								② SUMMON
+			- Vendread Battlelord								③ SEARCH
+			- Vendread Reunion									② SUMMON ⑤ REVEAL
+		- Other (3):
+			- Cyberse Witch										③ SEARCH
+			- Execution of the Contract							⑤ REVEAL
+			- Litmus Doom Ritual								⑨ RETRIV
+	
+	- Tearlaments Format (05/08/2020 - 01/12/2022) (29):
+		- Dark Magician (1):
+			- Illusion of Chaos									③ SEARCH ⑤ REVEAL ⑨ RETRIV
+		- Dogmatika (4):
+			- Dogmatikalamity									⑪ NOEDSS
+			- Dogmatikamacabre									② SUMMON
+			- Dogmatikaturgy									② SUMMON
+			- White Knight of Dogmatika							⑪ NOEDSS
+		- Drytron (3):
+			- Drytron Alpha Thuban								③ SEARCH
+			- Drytron Delta Altais								⑤ REVEAL
+			- Meteonis Drytron									② SUMMON
+		- Libromancer (7):
+			- Libromancer Agent									⑤ REVEAL
+			- Libromancer Fire									⑤ REVEAL
+			- Libromancer First Appearance						② SUMMON
+			- Libromancer Geek Boy								⑤ REVEAL
+			- Libromancer Intervention							⑨ RETRIV
+			- Libromancer Magigirl								② SUMMON ⑤ REVEAL
+			- Libromancer Realized								⑤ REVEAL
+		- Magikey (2):
+			- Magikey Duo										② SUMMON
+			- Magikey Maftea									② SUMMON
+		- Megalith (1):
+			- Megalith Phul										② SUMMON ⑨ RETRIV
+		- Nekroz (1):
+			- Nekroz of Areadbhair								② SUMMON ⑥ DISCRD
+		- Nephthys (1):
+			- Conductor of Nephthys								② SUMMON
+		- Odd-Eyes (1):
+			- Odd-Eyes Pendulumgraph Dragon						⑨ RETRIV
+		- Prediction Princess (1):			
+			- Underworld Ritual of Prediction					② SUMMON
+		- Shinobird (1):
+			- Stars Align across the Milky Way					③ SEARCH ⑤ REVEAL 
+		- Vendread (1):
+			- Ravenous Vendread									② SUMMON
+		- Other (5):
+			- High Ritual Art									② SUMMON ⑨ RETRIV
+			- Raging Storm Dragon - Beaufort IX					⑥ DISCRD ⑨ RETRIV
+			- Sonic Tracker										④ MILL
+			- Transonic Bird									③ SEARCH
+			- Yakusa, Lord of the Eight Thunders				⑨ RETRIV
+	
+	- Ryzeal Format (01/12/2022 - 31/12/2024) (29):
+		- Black Luster Soldier (1):
+			- Black Luster Soldier - Legendary Swordsman		⑤ REVEAL
+		- Dogmatika (1):
+			- Dogmatikamatrix									③ SEARCH
+		- Drytron (2):
+			- Drytron Meteonis DA Draconids						② SUMMON
+			- Meteoroa Drytron									② SUMMON
+		- Gishki (1):
+			- Evigishki Neremanas								⑨ RETRIV
+		- Mikanko (2):
+			- Arahime the Manifested Mikanko					⑨ RETRIV ⑧ EQUIP
+			- Ohime the Manifested Mikanko						③ SEARCH ⑤ REVEAL
+		- Nouvelles (9):
+			- Baelgrill de Nouvelles							② SUMMON
+			- Balameuniere de Nouvelles							② SUMMON
+			- Buerillabaisse de Nouvelles						② SUMMON
+			- Confiras de Nouvelles								② SUMMON
+			- Foie Glasya de Nouvelles							② SUMMON
+			- Nouvelles Restaurant "At Table"					⑨ RETRIV
+			- Poeltis de Nouvelles								② SUMMON
+			- Poissonniere de Nouvelles							② SUMMON ③ SEARCH
+			- Recette de Personnel (Staff Recipe)				② SUMMON
+		- Shinobird (3):
+			- Shinobaroness Shade Peacock						⑨ RETRIV ⑩ CNTEFF
+			- Shinobaron Shade Peacock							⑨ RETRIV ⑩ CNTEFF
+			- Stars Align Above the Shrine						② SUMMON
+		- Voiceless Voice (8):
+			- Barrier of the Voiceless Voice					③ SEARCH
+			- Blessing of the Voiceless Voice					② SUMMON
+			- Guardian of the Voiceless Voice					② SUMMON
+			- Prayers of the Voiceless Voice					② SUMMON
+			- Radiance of the Voiceless Voice					⑨ RETRIV
+			- Saffira, Dragon Queen of the Voiceless Voice		② SUMMON ③ SEARCH ⑨ RETRIV
+			- Sauravis, Dragon Sage of the Voiceless Voice		② SUMMON
+			- Skull Guardian, Protector of the Voiceless Voice	③ SEARCH
+		- Other (2):
+			- Choju of the Trillion Hands						③ SEARCH
+			- Dyna Mondo										⑨ RETRIV
+	
+	- Advanced Format (31/12/2024 - Present (25/12/2025) (17):
+		- Archfiend (1):
+			- Throne of Archfiends								② SUMMON
+		- Blue-Eyes (1):
+			- Majesty of the White Dragons						② SUMMON
+		- Demise and Ruin (1):
+			- End of the World Ruler							⑤ REVEAL ⑩ CNTEFF
+		- Megalith (2):
+			- Megalith Anastasis*								③ SEARCH
+			- Megalith Notrah Plura								⑤ REVEAL
+		- Mitsurugi (4):
+			- Ame no Habakiri no Mitsurugi						③ SEARCH ⑤ REVEAL
+			- Mitsurugi Magatama								② SUMMON
+			- Mitsurugi Mirror									② SUMMON
+			- Mitsurugi Ritual									② SUMMON
+		- Nekroz (2):
+			- Emilia, Dance Priestess of the Nekroz				③ SEARCH
+			- Nekroz Divinemirror								② SUMMON
+		- Nouvelles (1):
+			- Angry Burger*										② SUMMON ⑤ REVEAL ⑨ RETRIV
+		- Other (5):
+			- ASHLAN U1000										③ SEARCH ⑤ REVEAL
+			- Code Igniter										② SUMMON ③ SEARCH
+			- Dark Necromancer									④ MILL   ⑥ DISCRD
+			- Miracle Raven										③ SEARCH
+			- Readying of Rites									③ SEARCH ⑪ NOEDSS
+	
+	- Skill Cards (3):
+		- Alexis (1):
+			- Machine Angel Ascension							③ SEARCH ⑨ RETRIV
+		- Emma (1):
+			- Ritual Ceremony									⑤ REVEAL
+		- Pegasus (1):
+			- Thousand-Eyes Spell								② SUMMON
+		
+	- Notes:
+		- Megalith:
+			- Megalith Anastasis (③ SEARCH); and Megalith Ophiel (② SUMMON ③ SEARCH): Both add 1 or more "Megalith" monster(s) from your Deck to your hand. At time of writing, all "Megalith" monsters are Ritual Monsters, so it adds a "Megalith" Ritual Spell(s), or a Ritual Spell(s) that Ritual Summons "Megalith" monsters (1 for Level 4 or lower "Megalith" monsters and 1 for Level 8 or higher "Megalith" monsters for Megalith Anastasis), from your Deck to your hand instead.
+		- Nekroz:
+			- Exa, Enforcer of the Nekroz (③ SEARCH); Great Sorcerer of the Nekroz (③ SEARCH); and Shurit, Strategist of the Nekroz (③ SEARCH): Each adds 1 "Nekroz" Ritual Monster of the same type (Dragon, Spellcaster, and Warrior respectively) from the Deck to the hand. They can search "Nekroz" Ritual Spells or Ritual Spells that Ritual Summons "Nekroz" Ritual Monsters of only that type.
+			- Nekroz of Sophia (② SUMMON ⑥ DISCRD ⑪ NOEDSS): It discards itself and 1 "Nekroz" Spell to prevent your opponent from Special Summoning monsters from the Extra Deck during this phase. This becomes discarding 1 "Nekroz" Spell and banishing itself from the GY to prevent your opponent from Special Summoning non-Ritual Monsters from the Extra Deck during this phase.
+			- Nekroz of Valkyrus (⑥ DISCRD): It discards itself and banishes 1 "Nekroz" card from your GY to negate an attack and end the Battle Phase. This becomes banishing itself and 1 other "Nekroz" card from the GY.
+		- Nouvelles:
+			- Angry Burger (② SUMMON ⑤ REVEAL ⑨ RETRIV): It reveals itself from the hand to add 1 "Nouvelles" monster from your Deck to your hand, then shuffles itself into the Deck. Shuffling itself into the Deck would become returning itself to the Extra Deck, but that is redundant because revealing itself in the hand for the cost becomes returning itself from the GY to the Extra Deck, so ignore the self-shuffle part of the effect.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
