@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Gilford, the Legendary Swordsman
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 8
 Attribute: EARTH
 Monster Type: Warrior

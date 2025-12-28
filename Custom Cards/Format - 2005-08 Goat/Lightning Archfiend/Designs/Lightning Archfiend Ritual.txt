@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Lightning Archfiend Ritual
 Card Type: Spell
 Card Subtype(s): Ritual
-Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 6 or more, and, after that, Ritual Summon 1 "Summoned Skull, the Lightning Archfiend".
-Last Updated: 21/12/2025
+Rules Text: ① This card is used to Ritual Summon "Summoned Skull, the Lightning Archfiend". You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. 
+Last Updated: 28/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,6 +21,15 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/12/2025-------------------------------------------
+
+Name: Lightning Archfiend Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 6 or more, and, after that, Ritual Summon 1 "Summoned Skull, the Lightning Archfiend".
+Comments: Retemplating to match typical Ritual Spell templating.
+
 
 DATE: 21/05/2025-------------------------------------------
 

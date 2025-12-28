@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Infernal Blaze Emperor
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 8
 Attribute: FIRE
 Monster Type: Pyro / Beast

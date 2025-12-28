@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Lycanthrope, Synthesised
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 6
 Attribute: EARTH
 Monster Type: Beast-Warrior

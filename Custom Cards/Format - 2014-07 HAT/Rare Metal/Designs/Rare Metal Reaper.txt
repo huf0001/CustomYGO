@@ -2,11 +2,11 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rare Metal Reaper
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level:4
 Attribute: DARK
 Monster Type: Spellcaster
-Rules Text: You can Ritual Summon this card (from your Extra Deck) with any "Rare Metal" card. ① Once per turn: You can target 1 card on the field with a Metal Counter; remove 1 Metal Counter from it, and if you do, place 1 Metal Counter on this card. ② Gains effects based on the number of Metal Counters on it.
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with a "Rare Metal" card. ① Once per turn: You can target 1 card on the field with a Metal Counter; remove 1 Metal Counter from it, and if you do, place 1 Metal Counter on this card. ② Gains effects based on the number of Metal Counters on it.
 ● 1+: If this card would be leave the field, you can remove 1 Metal Counter from it instead.
 ● 2+: Gains 800 ATK/DEF.
 ● 3+: This card can make up to 2 attacks on monsters during each Battle Phase.

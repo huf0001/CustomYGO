@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Legendary Swordsman Ritual
 Card Type: Spell
 Card Subtype(s): Ritual
-Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "Gilford, the Legendary Swordsman".
-Last Updated: 21/12/2025
+Rules Text: ① This card is used to Ritual Summon "Gilford, the Legendary Swordsman". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. 
+Last Updated: 28/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,6 +21,15 @@ Using non-standard templating of "and, after that" to indicate both A and B are 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/12/2025-------------------------------------------
+
+Name: Legendary Swordsman Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "Gilford, the Legendary Swordsman".
+Comments: Retemplating to match typical Ritual Spell templating.
+
 
 DATE: 24/09/2025-------------------------------------------
 

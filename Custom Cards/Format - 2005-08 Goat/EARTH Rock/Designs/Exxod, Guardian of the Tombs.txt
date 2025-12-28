@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Exxod, Guardian of the Tombs
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 8
 Attribute: EARTH
 Monster Type: Rock / Warrior

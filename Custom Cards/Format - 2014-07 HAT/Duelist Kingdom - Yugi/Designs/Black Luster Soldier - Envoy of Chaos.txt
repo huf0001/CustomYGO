@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Black Luster Soldier - Envoy of Chaos
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 8
 Attribute: LIGHT/DARK
 Monster Type: Warrior

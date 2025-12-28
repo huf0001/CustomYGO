@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Blue-Eyes Shining Evolution Dragon
 Card Type: Monster
-Card Subtype(s): Effect
+Card Subtype(s): Evolution / Effect
 Level: 10
 Attribute: LIGHT
 Monster Type: Machine/Dragon
@@ -43,4 +43,4 @@ Requirement: Send 1 "Burst Stream of Destruction" from your hand to the GY
 ① This card's name is also treated as "Blue-Eyes White Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
 ATK: 3000
 DEF: 2500
-Comments: A metal dragon like this should be a Machine Dragon monster.
+Comments: A metal dragon like this should be a Machine Dragon monster. Also, forgot to add the Evolution type.

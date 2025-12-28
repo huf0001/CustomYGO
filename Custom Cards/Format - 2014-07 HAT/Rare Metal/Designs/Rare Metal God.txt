@@ -2,11 +2,11 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rare Metal God
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level:4
 Attribute: DARK
 Monster Type: Fiend
-Effect(s): You can Ritual Summon this card (from your Extra Deck) with any "Rare Metal" card. You can only use effect ① of "Rare Metal God" once per turn. ① You can target 1 monster your opponent controls with a Metal Counter; remove Metal Counters from the field (min. 1 from the target), then apply the appropriate effect until the end of this turn. 
+Effect(s): You can Ritual Summon this card (from your Extra Deck) with a "Rare Metal" card. You can only use effect ① of "Rare Metal God" once per turn. ① You can target 1 monster your opponent controls with a Metal Counter; remove Metal Counters from the field (min. 1 from the target), then apply the appropriate effect until the end of this turn. 
 ● 4: Negate the target's effects, and if you do, a "Rare Metal" monster you control gains those effects.
 ● 8: Take control of that target.
 ATK: 3200

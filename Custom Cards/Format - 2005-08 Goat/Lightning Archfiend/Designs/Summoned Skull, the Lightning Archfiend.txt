@@ -2,10 +2,10 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Summoned Skull, the Lightning Archfiend
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 6
 Attribute: DARK
-Monster Type: Thunder/Fiend
+Monster Type: Thunder / Fiend
 Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Lightning Archfiend Ritual". ① This card's name is also treated as "Summoned Skull" on the field and in the GY. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 2500
 DEF: 1200

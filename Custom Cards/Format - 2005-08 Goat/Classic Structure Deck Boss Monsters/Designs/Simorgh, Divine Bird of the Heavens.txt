@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Simorgh, Divine Bird of the Heavens
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 7
 Attribute: WIND
 Monster Type: Winged Beast

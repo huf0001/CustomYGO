@@ -4,8 +4,8 @@ Name: Ritual of Light and Darkness
 Card Type: Spell
 Card Subtype(s): Ritual 
 Rules Text: (This card is always treated as a "Chaos" card.)
-① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "BLACK LUSTER SOLDIER" or "MAGICIAN OF BLACK CHAOS".
-Last Updated: 21/12/2025
+① This card is used to Ritual Summon "Black Luster Soldier - Envoy of Chaos" or "Magician of Black Chaos - Envoy of Light and Darkness". You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. 
+Last Updated: 28/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -22,6 +22,16 @@ Need to re-name retrains of BLS and MBC
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/12/2025-------------------------------------------
+
+Name: Ritual of Light and Darkness
+Card Type: Spell
+Card Subtype(s): Ritual 
+Rules Text: (This card is always treated as a "Chaos" card.)
+① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "BLACK LUSTER SOLDIER" or "MAGICIAN OF BLACK CHAOS".
+Comments: Retemplating to match typical Ritual Spell templating.
+
 
 DATE: 05/09/2025-------------------------------------------
 

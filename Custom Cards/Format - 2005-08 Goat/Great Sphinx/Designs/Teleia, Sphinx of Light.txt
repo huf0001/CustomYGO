@@ -6,7 +6,7 @@ Card Subtype(s): Fusion / Effect
 Level: 10
 Attribute: LIGHT
 Monster Type: Beast
-Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Divine Sphinx Ritual". ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 2500
 DEF: 3000
 Last Updated: 16/10/2025

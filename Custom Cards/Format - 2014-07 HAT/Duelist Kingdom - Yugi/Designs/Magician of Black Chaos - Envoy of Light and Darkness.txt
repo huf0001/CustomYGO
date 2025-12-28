@@ -2,7 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Magician of Black Chaos - Envoy of Light and Darkness
 Card Type: Monster
-Card Subtype(s): Advanced Ritual / Effect
+Card Subtype(s): Ritual / Effect
 Level: 8
 Attribute: LIGHT/DARK
 Monster Type: Spellcaster

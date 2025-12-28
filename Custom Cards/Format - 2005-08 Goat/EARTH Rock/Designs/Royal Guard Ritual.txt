@@ -2,9 +2,9 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Royal Guard Ritual
 Card Type: Spell
-Card Subtype(s): Normal
-Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "Exxod, Guardian of the Valley of Kings".
-Last Updated: 21/12/2025
+Card Subtype(s): Ritual
+Rules Text: ① This card is used to Ritual Summon "Exxod, Guardian of the Tombs". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. 
+Last Updated: 28/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -25,6 +25,15 @@ Using non-standard templating of "and, after that" to indicate both A and B are 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/12/2025-------------------------------------------
+
+Name: Royal Guard Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 8 or more, and, after that, Ritual Summon 1 "Exxod, Guardian of the Valley of Kings".
+Comments: Retemplating to match typical Ritual Spell templating.
+
 
 DATE: 29/05/2025-------------------------------------------
 

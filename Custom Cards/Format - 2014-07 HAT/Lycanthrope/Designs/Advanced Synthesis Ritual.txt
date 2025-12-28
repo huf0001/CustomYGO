@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Advanced Synthesis Ritual
 Card Type: Spell
 Card Subtype(s): Ritual
-Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 6 or more, and, after that, Ritual Summon 1 "Lycanthrope, Synthesised".
-Last Updated: 21/12/2025
+Rules Text: ① This card is used to Ritual Summon "Lycanthrope, Synthesised". You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. 
+Last Updated: 28/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,6 +24,15 @@ Is Lycanthrope on field/GY. Grant Lycanthropes / BWs 200 ATK/DEF per BW in GY. F
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/12/2025-------------------------------------------
+
+Name: Advanced Synthesis Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal 6 or more, and, after that, Ritual Summon 1 "Lycanthrope, Synthesised".
+Comments: Retemplating to match typical Ritual Spell templating.
+
 
 DATE: 18/06/2025-------------------------------------------
 
