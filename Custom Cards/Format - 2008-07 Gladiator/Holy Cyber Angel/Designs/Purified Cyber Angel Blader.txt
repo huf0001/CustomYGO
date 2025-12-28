@@ -1,0 +1,46 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Purified Cyber Angel Blader
+Card Type: Monster
+Card Subtype(s): Ritual
+Level: 6
+Attribute: LIGHT
+Monster Type: Machine Fairy
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Purified Machine Angel Ritual". ① If this card is Special Summoned: You can target 1 face-up monster your opponent controls; negate its effects. ② "Cyber Angel" monsters you control gain these effects based on the number of monsters your opponent controls. ● 1+: The first time this card would be destroyed by battle each turn, it is not destroyed. ● 2+: Gains 1000 ATK/DEF. ● 3+: The first time this card would be destroyed by a card effect each turn, it is not destroyed.
+ATK: 2100
+DEF: 800
+Last Updated: 28/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Cyber Blader
+Flavour: The Cyber Angel archetype, if Sartorius had given Alexis an evolved version that could all be Ritual Summoned from the Extra Deck.
+Artwork: Created in GIMP using:
+● Cyber Blader
+● Light of Intervention (with the subject whited out)?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Purifying Machine Angel Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① This card can be used to Ritual Summon any "Cyber Angel" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. ② This card's name becomes "Machine Angel Ritual" while in the Deck or GY. ③ If a "Cyber Angel" monster(s) you control would be destroyed while this card is in your GY, you can banish this card instead.
+Last Updated: 28/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Machine Angel Ritual
+Flavour: The Cyber Angel archetype, if Sartorius had given Alexis an evolved version that could all be Ritual Summoned from the Extra Deck.
+Artwork: Created in GIMP using:
+● Machine Angel Ritual?
+● Light of Intervention (with the subject whited out)?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
