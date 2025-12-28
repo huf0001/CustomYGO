@@ -1,10 +1,10 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Dragon Paladin Ritual
+Name: Metalsilver Paladin Ritual
 Card Type: Spell
 Card Subtype(s): Ritual
-Rules Text: You can only use effect ② of "Dragon Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, if you Ritual Summoned a Level 4 monster, you can add 1 Equip Spell from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
-Last Updated: 26/12/2025
+Rules Text: You can only use effect ② of "Metalsilver Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, you can add 1 "Metalsilver Armor" from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
+Last Updated: 27/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -12,14 +12,27 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Ritual Weapon + Paladins of Dragons
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Ritual Weapon?
+● Metalsilver Armor
 ● Paladins of Dragons monsters?
-● Dragons Summoned by Paladins of Dragons monsters?
+● Red-Eyes Black Dragon?
+● Ritual support or anti-support cards?
 
 
 COMMENTS-----------------------------------------------------------------------
 
 Knight of Armor Dragon is always treated as a "Paladin" Ritual Monster
+
+Metalsilver Armor's effect: As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster. 
+
+Card art featuring Metalsilver Armor:
+● Centrifugal Field
+● Dark Contract with the Yamimakai
+● Formation Union
+● Frontline Base
+● Dark Blade
+● Dark Blade the Dragon Knight
+● Dark Blade the Captain of the Evil World
+● Fusion Deployment
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

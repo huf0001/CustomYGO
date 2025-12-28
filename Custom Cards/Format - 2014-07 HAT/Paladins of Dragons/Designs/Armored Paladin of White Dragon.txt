@@ -1,24 +1,29 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Zombie Dragon Ritual
-Card Type: Spell
+Name: Armoured Paladin of White Dragon
+Card Type: Monster
 Card Subtype(s): Ritual
-Rules Text: You can only use effect ② of "Zombie Dragon Ritual" once per turn. ① This card is used to Ritual Summon "Paladin of Zombie Dragon". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 Zombie monster from your GY, then target 1 Level 4 Zombie monster in your GY; Special Summon it.
-Last Updated: 26/12/2025
+Level: 4
+Attribute: LIGHT
+Monster Type: Dragon Warrior
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with any "Paladin" Ritual Spell. You can only use effect ② of "Armoured Paladin of White Dragon" once per turn. ① At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster. ② You can Tribute this card; Special Summon 1 "Blue-Eyes" monster from your hand or Deck. 
+ATK: 1900
+DEF: 1200
+Last Updated: 27/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Paladin of the Cursed Dragon + Paladins of Dragons series
+Basis: Paladins of Dragons + Paladin of the Cursed Dragon + Red-Eyes Zombie Dragon
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Raregold Armor?
-● Zombie World?
+● Paladin of White Dragon
+● Blue-Eyes support cards?
 
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion Monster.)
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

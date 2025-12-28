@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Armored Paladin of the Cursed Dragon
+Card Type: Monster
+Card Subtype(s): Ritual
+Level: 4
+Attribute: DARK
+Monster Type: Zombie Warrior
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with any "Paladin" Ritual Spell. You can only use effect ② of "Armoured Paladin of the Cursed Dragon" once per turn. ① When this card destroys an opponent's monster by battle and sends it to the Graveyard: Special Summon that monster. ② You can Tribute this card; Special Summon 1 Zombie monster from your hand or GY.
+ATK: 1900
+DEF: 1200
+Last Updated: 27/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Paladins of Dragons + Paladin of the Cursed Dragon + Red-Eyes Zombie Dragon
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Paladin of the Cursed Dragon
+● Red-Eyes Zombie Dragon?
+● Zombie World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion Monster.)
+
+Paladin of the Cursed Dragon's effect: Once per turn: You can target 1 Level 4 or lower Zombie monster in your opponent's GY, that was destroyed by battle; Special Summon that target. 
+
+Red-Eyes Zombie Dragon's effect: When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster. 
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/12/2025-------------------------------------------
+
+Name: Paladin of Zombie Dragon
+Card Type: Monster
+Card Subtype(s): Ritual
+Level: 4
+Attribute: DARK
+Monster Type: Zombie
+Rules Text: You can Ritual Summon this card with "Zombie Dragon Ritual". You can only use effect ② of "Paladin of Zombie Dragon" once per turn. ① If this attacking monster would be destroyed by battle, your opponent's monster is destroyed by that battle instead, also you take no damage from that battle. ② You can Tribute this card; Special Summon 1 Zombie monster from either GY.
+ATK: 1900
+DEF: 1200
+Comments: Changing to an Advanced Ritual while making this a full archetype retraining the Paladins of Dragons.

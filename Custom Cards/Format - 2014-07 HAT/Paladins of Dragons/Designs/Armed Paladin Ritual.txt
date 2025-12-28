@@ -1,0 +1,36 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dragon Paladin Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: You can only use effect ② of "Armed Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, you can add 1 "Ritual Weapon" from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
+Last Updated: 27/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Ritual Weapon + Paladins of Dragons
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Ritual Weapon
+● Paladins of Dragons monsters?
+● Dragons Summoned by Paladins of Dragons monsters?
+● Ritual support or anti-support cards?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Knight of Armor Dragon is always treated as a "Paladin" Ritual Monster
+
+Alternate on Ritual Summon bonus effect: Then, you can add 1 Equip Spell from your Deck or GY to your hand.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 26/12/2025-------------------------------------------
+
+Name: Dragon Paladin Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: You can only use effect ② of "Dragon Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, if you Ritual Summoned a Level 4 monster, you can add 1 Equip Spell from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
+Comments: Making adjustments, also renaming.

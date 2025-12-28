@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Armory Exchange
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Reveal 1 Equip Spell/Trap in your hand; draw 2 cards, then shuffle the revealed card into your Deck.
+Last Updated: 27/12/2025
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Ritual Weapon + Paladins of Dragons
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Cards of Consonance?
+● Exchange?
+● Raregold Armor (Card)?
+● Metalsilver Armor (Card)?
+● Ritual Weapon (Card)?
+● Card back?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Knight of Armor Dragon is always treated as a "Paladin" Ritual Monster
+
+Alternate on Ritual Summon bonus effect: Then, you can add 1 Equip Spell from your Deck or GY to your hand.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
