@@ -1,30 +1,28 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Armory Exchange
+Name: Reinforced Paladin Ritual
 Card Type: Spell
-Card Subtype(s): Normal
-Rules Text: ① Reveal 1 Equip Spell/Trap in your hand; draw 2 cards, then shuffle the revealed card into your Deck.
-Last Updated: 27/12/2025
+Card Subtype(s): Ritual
+Rules Text: ① Target 1 "Paladin" Ritual Spell you control; this card gains that card's effects, also, after that, this effect becomes that card's effect that Ritual Summons a "Paladin" Ritual Monster.
+Last Updated: 30/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Ritual Weapon + Paladins of Dragons
+Basis: Raregold Armor/Metalsilver Armor/Ritual Weapon + Paladins of Dragons
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Cards of Consonance?
-● Exchange?
-● Raregold Armor (Card)?
-● Metalsilver Armor (Card)?
-● Ritual Weapon (Card)?
-● Card back?
+● Raregold Armor?
+● Metalsilver Armor?
+● Ritual Weapon?
+● Paladins of Dragons monsters?
+● Dragons Summoned by Paladins of Dragons monsters?
+● Ritual support or anti-support cards?
 
 
 COMMENTS-----------------------------------------------------------------------
 
 Knight of Armor Dragon is always treated as a "Paladin" Ritual Monster
-
-Alternate on Ritual Summon bonus effect: Then, you can add 1 Equip Spell from your Deck or GY to your hand.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

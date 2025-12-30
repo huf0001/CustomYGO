@@ -1,9 +1,9 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Dragon Paladin Ritual
+Name: Armed Paladin Ritual
 Card Type: Spell
 Card Subtype(s): Ritual
-Rules Text: You can only use effect ② of "Armed Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, you can add 1 "Ritual Weapon" from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
+Rules Text: ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, equip this card to it as an Equip Spell (this card is also still a Ritual Spell). ② While this card is equipped to a monster, the equipped monster gains 1500 ATK/DEF. ③ If this Equip Spell is returned to the hand, shuffle it into the Deck instead.
 Last Updated: 27/12/2025
 
 
@@ -26,6 +26,14 @@ Alternate on Ritual Summon bonus effect: Then, you can add 1 Equip Spell from yo
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 27/12/2025-------------------------------------------
+
+Name: Armed Paladin Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: You can only use effect ② of "Armed Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, you can add 1 "Ritual Weapon" from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
+Comments: Trying out another way this could work.
 
 DATE: 26/12/2025-------------------------------------------
 

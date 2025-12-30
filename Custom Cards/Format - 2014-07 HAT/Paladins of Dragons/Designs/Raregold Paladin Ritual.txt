@@ -3,13 +3,13 @@ TECHNICAL----------------------------------------------------------------------
 Name: Raregold Paladin Ritual
 Card Type: Spell
 Card Subtype(s): Ritual
-Rules Text: You can only use effect ② of "Raregold Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, you can add 1 "Raregold Armor" from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
-Last Updated: 27/12/2025
+Rules Text: ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, equip this card to it as an Equip Spell (this card is also still a Ritual Spell). ② While this card is equipped to a monster, your opponent's monsters can only target that monster for attacks. ③ If this Equip Spell is returned to the hand, shuffle it into the Deck instead.
+Last Updated: 30/12/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Ritual Weapon + Paladins of Dragons
+Basis: Raregold Armor + Paladins of Dragons
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
 ● Raregold Armor
@@ -37,19 +37,10 @@ Card art featuring Raregold Armor:
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 27/12/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Raregold Paladin Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: You can only use effect ② of "Raregold Paladin Ritual" once per turn. ① This card can be used to Ritual Summon any "Paladin" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. Then, you can add 1 "Raregold Armor" from your Deck or GY to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into your Deck, then target 1 "Paladin" Ritual Monster and 1 Equip Spell in your GY; add them to your hand.
+Comments: Trying out another way this could work.
