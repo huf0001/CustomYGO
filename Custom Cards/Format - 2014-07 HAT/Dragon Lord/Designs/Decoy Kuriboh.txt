@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Decoy Kuriboh
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute: FIRE
+Monster Type: Dragon
+Rules Text: You can only use 1 effect of Decoy Kuriboh pwe turn, and only once that thurn. ① If a monster your opponent controls declares an attack: You can send this card from your hand or field to the GY, then target 1 Level 7 or higher Dragon monster in your GY; Special Summon it, and if you do, change the attack target to it and perform damage calculation. ② During your Main Phase: You can banish this card from your GY; send 1 Dragon monster from your Deck to your GY.
+ATK: 300
+DEF: 200
+Last Updated: 02/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Kuriboh + Decoy Dragon
+Flavour: A Kuriboh that acts like a Decoy Dragon for Dragon Lord Decks.
+Artwork: Created in GIMP using:
+● Kuriboh (Alt art? Anime art? Winged Kuriboh, but no wings?)
+● Decoy Dragon?
+● Metaphys Decoy Dragon?
+● Felgrand Dragon?
+● Darkblaze Dragon?
+● Ruins of the Divine Dragon Lords
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

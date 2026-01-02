@@ -4,12 +4,12 @@ Name: Familiar Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
-Attribute: DARK
+Attribute: EARTH
 Monster Type: Metal Dragon
-Rules Text: ① If this card is destroyed by battle: Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck.
+Rules Text: ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Metal or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Metal or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
 ATK: 1400
 DEF: 1200
-Last Updated: 01/01/2026
+Last Updated: 02/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,6 +30,20 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 01/01/2026-------------------------------------------
+
+Name: Familiar Metal Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Metal Dragon
+Rules Text: ① If this card is destroyed by battle: Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck.
+ATK: 1400
+DEF: 1200
+Comments: Turning into a dual-Type battle searcher, and adding extra constraints to prevent abuse if used in large chains of battle searchers with other dual-Type Dragons. Also don't want it to be strictly better than Masked Dragon.
+
 
 DATE: 15/12/2025-------------------------------------------
 

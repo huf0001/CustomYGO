@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Plaguespreader Kuriboh
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Tuner / Effect
+Level: 1
+Attribute: DARK
+Monster Type: Zombie
+Rules Text: You can only use 1 effect of "Plaguespreader Kuriboh" per turn, and only once that turn. ① During your Main Phase: You can banish this card from your GY, then target 1 Zombie monster in either GY; Special Summon it. ② If a monster your opponent controls declares an attack: You can Special Summon this card (from your hand), and if you do, negate the attack and end the battle phase, also this card gains this effect.
+● This card's name becomes "Plaguespreader Zombie" on the field, and it can be treated as a Level 2 monster for the Synchro Summon of a Zombie monster.
+ATK: 300
+DEF: 200
+Last Updated: 02/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Kuriboh + Plaguespreader Zombie
+Flavour: A Kuriboh Battle Fader that becomes Plaguespreader Zombie
+Artwork: Created in GIMP using:
+● Kuriboh (Alt art? Anime art? Winged Kuriboh, but no wings?)
+● Zombie World
+● Red-Eyes Zombie Dragon?
+● Paladin of the Cursed Dragon?
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

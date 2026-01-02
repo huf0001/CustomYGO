@@ -1,0 +1,1 @@
+End of the World as a background card for Rare Metal cards, or maybe just the boss monsters?

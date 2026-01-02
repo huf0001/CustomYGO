@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Shaking Earth Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Rock Dragon
+Rules Text: ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Rock or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Rock or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
+ATK: 1400
+DEF: 1200
+Last Updated: 02/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dual-Type Masked Dragon
+Flavour: Masked Dragon for Rock and Dragon monsters
+Artwork: Created in GIMP using:
+● The Dragon Dwelling in the Cave
+● Bayerock Dragon?
+● Golem Dragon?
+● Reactan, Dragon Ruler of Pebbles?
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
