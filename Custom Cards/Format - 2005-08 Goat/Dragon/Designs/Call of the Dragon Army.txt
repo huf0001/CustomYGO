@@ -21,6 +21,8 @@ COMMENTS-----------------------------------------------------------------------
 
 Could name after a group of dragons?
 
+Does it need the no attack restriction?
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

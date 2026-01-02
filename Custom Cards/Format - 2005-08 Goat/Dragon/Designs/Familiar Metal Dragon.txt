@@ -1,15 +1,15 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Familiar Dragon
+Name: Familiar Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
 Attribute: DARK
-Monster Type: Dragon
-Rules Text: ① If this card is destroyed: Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck.
+Monster Type: Metal Dragon
+Rules Text: ① If this card is destroyed by battle: Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck.
 ATK: 1400
 DEF: 1200
-Last Updated: 15/12/2025
+Last Updated: 01/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -17,7 +17,7 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Familiar Knight
 Flavour: Familiar Knight for a Dragon army deck.
 Artwork: Created in GIMP using:
-● Metal Dragon?
+● Metal Dragon
 ● Rare Metal Dragon / Familiar Knight (for silver colour sample)?
 ● Tyrant Dragon / The Claw of Hermos (for red maroon colour sample)?
 ● Mystical Cards of Light?
@@ -31,9 +31,23 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 15/12/2025-------------------------------------------
+
+Name: Familiar Metal Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: DARK
+Monster Type: Dragon
+Rules Text: ① If this card is destroyed: Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck.
+ATK: 1400
+DEF: 1200
+Comments: Type update, plus tweaking the Summoning effect.
+
+
 DATE: 27/06/2025-------------------------------------------
 
-Name: Familiar Dragon
+Name: Familiar Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
