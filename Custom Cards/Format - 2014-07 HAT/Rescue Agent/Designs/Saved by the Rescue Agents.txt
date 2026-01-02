@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Saved by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): ① If you control a "Rescue Agent" monster: Target 1 card on the field; shuffle it into the Deck, and if you do, draw 1 card. ② If this card is in your GY, except the turn it was sent there: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it is unaffected by your opponent's card effects until the end of this turn.
+Rules Text: ① If you control a "Rescue Agent" monster: Target 1 card on the field; shuffle it into the Deck, and if you do, draw 1 card. ② If this card is in your GY, except the turn it was sent there: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it is unaffected by your opponent's card effects until the end of this turn.
 Last Updated: 21/11/2024
 
 
@@ -27,7 +27,7 @@ DATE: 31/05/2024-------------------------------------------
 Name: Evacuated by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
+Rules Text: Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
 Comments: Formatting update, rename, and stealing Secrecy of the Rescue Agents' GY effect since it's being put on the back burner.
 
 
@@ -36,7 +36,7 @@ DATE: 13/04/2024-------------------------------------------
 Name: Evacuated by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
+Rules Text: Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except the turn this card was sent to the GY: You can banish this card from your GY; attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster.
 Comments: Going to update Evacuated to follow the OCG's numbered effect formatting.
 
 
@@ -45,7 +45,7 @@ DATE: 12/04/2024-------------------------------------------
 Name: Airlifted by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except during the turn this card was sent to the GY: attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster, and if you do, banish this card.
+Rules Text: Target 1 card on the field; shuffle it into the Deck, then, if you control a "Rescue Agent" monster, draw 1 card. If you Xyz Summon a "Rescue Agent" monster, except during the turn this card was sent to the GY: attach 1 "Rescue Agent" monster in your GY to that Xyz Summoned monster, and if you do, banish this card.
 Comments: Wording update for its banishment effect. Also, renaming to give it a more generically applicable name.
 
 
@@ -54,5 +54,5 @@ DATE: 11/04/2024-------------------------------------------
 Name: Airlifted by the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Target 1 card on the field; shuffle it into the Deck. You must control a "Rescue Agent" monster to activate and to resolve this effect.
+Rules Text: Target 1 card on the field; shuffle it into the Deck. You must control a "Rescue Agent" monster to activate and to resolve this effect.
 Comments: Might need some more effects to make it a better pick for Rescue Agent decks than the likes of Compulsory Evacuation Device. Also, might tweak the name to "Evacuated" rather than "Airlifted", as that's more generic.

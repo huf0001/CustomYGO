@@ -6,7 +6,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): ① During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set, except "Rescue Agent Transporter". (You can only gain this effect once per turn.)
+Rules Text: ① During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set, except "Rescue Agent Transporter". (You can only gain this effect once per turn.)
 ATK: 1200
 DEF: 1700
 Last Updated: 31/05/2024
@@ -35,7 +35,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set, except "Rescue Agent Transporter". (You can only gain this effect once per turn.)
+Rules Text: During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set, except "Rescue Agent Transporter". (You can only gain this effect once per turn.)
 ATK: 1200
 DEF: 1700
 Comments: Going to update Transporter to follow the OCG's numbered effect formatting.
@@ -49,7 +49,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+Rules Text: During your Main Phase, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
 ATK: 1200
 DEF: 1700
 Comments: Might prevent it from Normal Summoning itself to maintain consistency with other Rescue Agents that don't Summon / search / etc. themselves.

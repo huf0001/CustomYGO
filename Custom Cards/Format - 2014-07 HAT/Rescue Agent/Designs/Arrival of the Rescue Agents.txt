@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Arrival of the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): ① Special Summon 1 "Rescue Agent" monster from your hand or GY. You cannot Special Summon monsters during the turn you activate this effect, except "Rescue Agent" monsters. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; this turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+Rules Text: ① Special Summon 1 "Rescue Agent" monster from your hand or GY. You cannot Special Summon monsters during the turn you activate this effect, except "Rescue Agent" monsters. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; this turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
 Last Updated: 31/05/2024
 
 
@@ -27,7 +27,7 @@ DATE: 13/04/2024-------------------------------------------
 Name: Arrival of the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY. You cannot Special Summon monsters during the turn you activate this effect, except "Rescue Agent" monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; this turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+Rules Text: Special Summon 1 "Rescue Agent" monster from your hand or GY. You cannot Special Summon monsters during the turn you activate this effect, except "Rescue Agent" monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; this turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
 Comments: Going to update Arrival to follow the OCG's numbered effect formatting.
 
 
@@ -36,7 +36,7 @@ DATE: 12/04/2024-------------------------------------------
 Name: Arrival of the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY. You cannot Special Summon monsters during the turn you activate this effect, except "Rescue Agent" monsters. During your Main Phase, except the turn this card is sent to the GY: You can banish this card from your GY; This turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+Rules Text: Special Summon 1 "Rescue Agent" monster from your hand or GY. You cannot Special Summon monsters during the turn you activate this effect, except "Rescue Agent" monsters. During your Main Phase, except the turn this card is sent to the GY: You can banish this card from your GY; This turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
 Comments: Needs a wording adjustment for grammatical correctness.
 
 
@@ -45,5 +45,5 @@ DATE: 12/04/2024-------------------------------------------
 Name: Arrival of the Rescue Agents
 Card Type: Trap
 Card Subtype(s): Normal
-Effect(s): Special Summon 1 "Rescue Agent" monster from your hand or GY. You can banish this card from your GY; during your Main Phase this turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only use 1 "Arrival of the Rescue Agents" effect per turn, and only once that turn.
+Rules Text: Special Summon 1 "Rescue Agent" monster from your hand or GY. You can banish this card from your GY; during your Main Phase this turn, you can Normal Summon 1 "Rescue Agent" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only use 1 "Arrival of the Rescue Agents" effect per turn, and only once that turn.
 Coments: Might need some more restrictions on the Special Summon effect. Also, the banish from GY effect could be reworded.

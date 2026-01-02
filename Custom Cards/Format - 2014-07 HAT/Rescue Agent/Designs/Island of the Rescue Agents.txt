@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Island of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): ① "Rescue Agent" monsters you control gain ATK/DEF equal to their Level/Rank x100. ② If a card would be shuffled into the Deck by the effect of a "Rescue Agent" monster you control, you can attach it to a "Rescue Agent" Xyz monster you control instead. ③ Once per turn, if a card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
+Rules Text: ① "Rescue Agent" monsters you control gain ATK/DEF equal to their Level/Rank x100. ② If a card would be shuffled into the Deck by the effect of a "Rescue Agent" monster you control, you can attach it to a "Rescue Agent" Xyz Monster you control instead. ③ Once per turn, if a card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
 Last Updated: 21/11/2024
 
 
@@ -27,7 +27,7 @@ DATE: 30/05/2024-------------------------------------------
 Name: Island of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): ① When this card is activated: You can add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Island of the Rescue Agents". ② "Rescue Agent" monsters you control gain 300 ATK/DEF. ③ Once per turn, if an opponent's card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
+Rules Text: ① When this card is activated: You can add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Island of the Rescue Agents". ② "Rescue Agent" monsters you control gain 300 ATK/DEF. ③ Once per turn, if an opponent's card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
 Comments: Adapting some effects from Hangar of the Rescue Agents and putting Hangar on the back burner.
 
 
@@ -36,7 +36,7 @@ DATE: 12/04/2024-------------------------------------------
 Name: Island of the Rescue Agents
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): When this card is activated: You can add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Island of the Rescue Agents". "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, if an opponent's card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
+Rules Text: When this card is activated: You can add 1 "Rescue Agent" Spell/Trap from your Deck to your hand, except "Island of the Rescue Agents". "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, if an opponent's card is shuffled into the Deck by the effect of a "Rescue Agent" monster you control (Quick Effect): You can draw 1 card.
 Comments: Going to update Island to follow the OCG's numbered effect formatting.	
 
 
@@ -45,7 +45,7 @@ DATE: 12/04/2024-------------------------------------------
 Name: Rescue Agent's Island
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): When this card is activated: You can add 1 "Rescue Agent" card from your Deck to your hand, except "Rescue Agents' Island. "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, during the End Phase, if an opponent's monster left the field this turn by the effect of a "Rescue Agent" card you control: You can draw 1 card.
+Rules Text: When this card is activated: You can add 1 "Rescue Agent" card from your Deck to your hand, except "Rescue Agents' Island. "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, during the End Phase, if an opponent's monster left the field this turn by the effect of a "Rescue Agent" card you control: You can draw 1 card.
 Comments: Changing the name to match the formatting of other Spell/Trap names compared to monsters' names.	
 
 
@@ -54,7 +54,7 @@ DATE: 12/04/2024-------------------------------------------
 Name: Rescue Agent's Island
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): When this card is activated: You can add 1 "Rescue Agent" card from your Deck to your hand. "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, during the End Phase, if an opponent's monster left the field this turn by the effect of a "Rescue Agent" card you control: You can draw 1 card.
+Rules Text: When this card is activated: You can add 1 "Rescue Agent" card from your Deck to your hand. "Rescue Agent" monsters you control gain 300 ATK/DEF. Once per turn, during the End Phase, if an opponent's monster left the field this turn by the effect of a "Rescue Agent" card you control: You can draw 1 card.
 Comments: Probably shouldn't be able to search itself.
 
 
@@ -63,7 +63,7 @@ DATE: 11/04/2024-------------------------------------------
 Name: Tracy Island
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): All "Thunderbird" monsters gain 400 ATK. While you control this card, you cannot activate any Field Spell Cards. Once per turn, you can pay 1000 LP: Special Summon 1 "Thunderbird" monster from your hand. During your End Phase, if a "Thunderbird" monster was Special Summoned this turn: Target the "POD" or "Thunderbird" monster you control with the lowest level (your choice if tied); gain LP equal to its level x100.
+Rules Text: All "Thunderbird" monsters gain 400 ATK. While you control this card, you cannot activate any Field Spell Cards. Once per turn, you can pay 1000 LP: Special Summon 1 "Thunderbird" monster from your hand. During your End Phase, if a "Thunderbird" monster was Special Summoned this turn: Target the "POD" or "Thunderbird" monster you control with the lowest level (your choice if tied); gain LP equal to its level x100.
 Comments: Overhauling the archetype from the ground up.
 
 
@@ -72,5 +72,5 @@ DATE: 11/04/2024-------------------------------------------
 Name: Tracy Island
 Card Type: Spell
 Card Subtype(s): Field
-Effect(s): All "Thunderbird" monsters gain 400 ATK. Once per turn: you can pay 500 LP; Special Summon 1 "Thunderbird" monster from your hand or graveyard. During the End Phase: Gain LP equal to the total levels of all "Thunderbird" monsters summoned this turn x100.
+Rules Text: All "Thunderbird" monsters gain 400 ATK. Once per turn: you can pay 500 LP; Special Summon 1 "Thunderbird" monster from your hand or graveyard. During the End Phase: Gain LP equal to the total levels of all "Thunderbird" monsters summoned this turn x100.
 Comments: None

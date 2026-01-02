@@ -2,14 +2,14 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rescue Agent Commander
 Card Type: Monster
-Card Subtype(s): Tuner / Effect
+Card Subtype(s): Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it gains ATK/DEF equal to its Level/Rank x100 until the end of the next turn.
+Rules Text: ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it gains ATK/DEF equal to its Level/Rank x200 until the end of the next turn.
 ATK: 1700
 DEF: 1200
-Last Updated: 21/11/2024
+Last Updated: 02/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,20 @@ As a Level 4 "Rescue Agent" monster, its ATK/DEF should add up to 2900.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 21/11/2024-------------------------------------------
+
+Name: Rescue Agent Commander
+Card Type: Monster
+Card Subtype(s): Tuner / Effect
+Level: 4
+Attribute: WIND
+Monster Type: Warrior
+Rules Text: ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it gains ATK/DEF equal to its Level/Rank x100 until the end of the next turn.
+ATK: 1700
+DEF: 1200
+Comments: Making Rescue Agents a pure Xyz archetype, so this card could do with a tweak or two.
+
+
 DATE: 31/05/2024-------------------------------------------
 
 Name: Rescue Agent Commander
@@ -35,7 +49,7 @@ Card Subtype(s): Tuner / Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+Rules Text: ① You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. ② A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
 ● Gains 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control.
 ATK: 1700
 DEF: 1200
@@ -50,7 +64,7 @@ Card Subtype(s): Tuner / Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+Rules Text: You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
 ● Gains 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control.
 ATK: 1700
 DEF: 1200
@@ -65,7 +79,7 @@ Card Subtype(s): Tuner / Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
+Rules Text: You can discard this card; add 1 "Island of the Rescue Agents" from your Deck to your hand. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
 ● This card gains 300 ATK/DEF for each card type (Fusion, Synchro, Xyz) among "Rescue Agent" monsters you control.
 ATK: 1700
 DEF: 1200
@@ -80,7 +94,7 @@ Card Subtype(s): Tuner / Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): You can discard this card; add 1 "Rescue Agents' Island" from your Deck to your hand.
+Rules Text: You can discard this card; add 1 "Rescue Agents' Island" from your Deck to your hand.
 ATK: 2100
 DEF: 800
 Comments: If Commander is going to have a bonus effect for monsters Summoned using it as material, then 2100 ATK is too high. Also, its effect text needs adjusting after renaming Island anyway. Also, shortening the effect adding effect.

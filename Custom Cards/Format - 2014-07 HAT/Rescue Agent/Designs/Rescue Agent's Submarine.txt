@@ -3,14 +3,14 @@ TECHNICAL----------------------------------------------------------------------
 Name: Rescue Agent's Submarine
 Card Type: Monster
 Card Subtype(s): Xyz / Effect
-Level: 4
+Rank: 3
 Attribute: WATER
 Monster Type: Machine
-Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): You can only activate effect ② of "Rescue Agent's Submarine" once per turn. ① This card can be treated as a Level 6 monster for the Synchro Summon of a "Rescue Agent" monster. ② You can detach 1 material from this card, then target 1 monster in either GY: Special Summon it if it is a "Rescue Agent" monster in your GY. Otherwise, shuffle it into the Deck. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: 2 Level 3 "Rescue Agent" monsters
+Must first be Xyz Summoned, or Special Summoned (from your Extra Deck) with a "Rescue Agent" card or effect. You can also Xyz Summon this card using 2 Level 4 "Rescue Agent" monsters you control. You can only activate effect ① of "Rescue Agent's Submarine" once per turn. ① You can detach 1 material from this card, then target 1 monster in either GY: Special Summon it if it is a "Rescue Agent" monster in your GY. Otherwise, shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 1600
 DEF: 2400
-Last Updated: 21/11/2024
+Last Updated: 02/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,6 +30,21 @@ Keep an eye on if its Spell/Trap removal should prevent the opponent from activa
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 21/11/2024-------------------------------------------
+
+Name: Rescue Agent's Submarine
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Level: 4
+Attribute: WATER
+Monster Type: Machine
+Rules Text: 2 Level 4 "Rescue Agent" monsters
+You can only activate effect ② of "Rescue Agent's Submarine" once per turn. ① This card can be treated as a Level 6 monster for the Synchro Summon of a "Rescue Agent" monster. ② You can detach 1 material from this card, then target 1 monster in either GY: Special Summon it if it is a "Rescue Agent" monster in your GY. Otherwise, shuffle it into the Deck. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1600
+DEF: 2400
+Comments: Had a different idea for how the Pod machines could work, so overhauling the archetype to be a pure Xyz Monster archetype.
+
+
 DATE: 31/05/2024-------------------------------------------
 
 Name: Rescue Agent's Submarine
@@ -38,8 +53,8 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WATER
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): You can only use effect ③ of "Rescue Agent's Submarine" once per turn. ① If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+You can only use effect ③ of "Rescue Agent's Submarine" once per turn. ① If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field.
 ATK: 1600
 DEF: 2400
 Comments: Turning into an Xyz monster as it is also a Pod vehicle, albeit also one of the main Thunderbirds monsters.
@@ -53,8 +68,8 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WATER
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Rescue Agent's Sumbarine" once per turn.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+If this card is Synchro Summoned: You can target 1 Spell/Trap your opponent controls; shuffle it into the Deck. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY, except the turn it was sent there: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Rescue Agent's Sumbarine" once per turn.
 ATK: 1600
 DEF: 2400
 Comments: Going to update Sumbarine to follow the OCG's numbered effect formatting.
@@ -68,8 +83,8 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WATER
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Sumbarine" once per turn. If this card is Special Summoned: You can target 1 face-up card your opponent controls; return it to the hand. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Sumbarine" once per turn. If this card is Special Summoned: You can target 1 face-up card your opponent controls; return it to the hand. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
 ATK: 1600
 DEF: 2400
 Comments: If Excavator is moving away from Spell/Trap removal, this card can go back to being Spell/Trap removal, not anything removal. Also, let's see how that effect fares when restricted to Synchro Summons only, not any Special Summon, and not preventing the opponent from using that card in response.
@@ -83,8 +98,8 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WATER
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Sumbarine" once per turn. If this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Sumbarine" once per turn. If this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If you Fusion, Synchro, or Xyz Summon a "Rescue Agent" monster while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
 ATK: 1600
 DEF: 2400
 Comments: Both this and Excavator deal with Spells and Traps, might need to distinguish them better so they're not filling the same role. Also, Rescue Agent cards shouldn't be destroying anything with card effects.
@@ -98,7 +113,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Machine
-Effect(s): You can pay 800 LP, then target 1 card in your opponent's graveyard; Shuffle it into their Deck. During either player's turn, if this card is targeted for an opponent's attack or effect: You can pay 800 LP and tribute this card; Negate the attack/effect, and destroy that card. (This is a Quick Effect). This card returns to the field during the End Phase. You can only use 1 "Thunderbird 4" effect per turn, and only once that turn. When this card is Summoned, if you control another "Thunderbird 4": Banish all "Thunderbird 4s" you control and take damage equal to their combined level x100. (This effect activates even if an effect of "Thunderbird 4" has been used this turn.)
+Rules Text: You can pay 800 LP, then target 1 card in your opponent's graveyard; Shuffle it into their Deck. During either player's turn, if this card is targeted for an opponent's attack or effect: You can pay 800 LP and tribute this card; Negate the attack/effect, and destroy that card. (This is a Quick Effect). This card returns to the field during the End Phase. You can only use 1 "Thunderbird 4" effect per turn, and only once that turn. When this card is Summoned, if you control another "Thunderbird 4": Banish all "Thunderbird 4s" you control and take damage equal to their combined level x100. (This effect activates even if an effect of "Thunderbird 4" has been used this turn.)
 ATK: 1900
 DEF: 1200
 Comments: Overhauling the archetype from the ground up.
@@ -112,7 +127,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Machine
-Effect(s): Once per turn: You can pay 500 LP; Banish one card in your opponent's graveyard. During either player's turn, if a card or effect would be activated that would cause this card to leave the field, or if this card is attacked: Pay 500 LP; negate the attack or effect, and destroy the card. (This is a Quick Effect). You can only activate this effect once while this card is face-up on the field.
+Rules Text: Once per turn: You can pay 500 LP; Banish one card in your opponent's graveyard. During either player's turn, if a card or effect would be activated that would cause this card to leave the field, or if this card is attacked: Pay 500 LP; negate the attack or effect, and destroy the card. (This is a Quick Effect). You can only activate this effect once while this card is face-up on the field.
 ATK: 1900
 DEF: 1200
 Comments: None

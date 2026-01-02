@@ -3,14 +3,13 @@ TECHNICAL----------------------------------------------------------------------
 Name: Rescue Agent's Bulldozer
 Card Type: Monster
 Card Subtype(s): Xyz / Effect
-Rank: 4
+Rank: 3
 Attribute: FIRE
 Monster Type: Machine
-Materials: 3 Level 4 "Rescue Agent" monsters
-Effect(s): ① Cannot be destroyed by battle while it has a material. ② Once per turn: You can detach 1 material from this card, then target 1 card on the field; shuffle it into the Deck. This card cannot attack the turn this effect is activated. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
-ATK: 2400
-DEF: 2100
-Last Updated: 31/05/2024
+Rules Text: Cannot be Xyz Summoned. Must first be Special Summoned (from your Extra Deck) with a "Rescue Agent" card or effect. ① Cannot be destroyed by battle while it has a material. ② Once per turn: You can detach 1 material from this card, then target 1 card on the field; shuffle it into the Deck. This card cannot attack the turn this effect is activated. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2200
+DEF: 1800
+Last Updated: 02/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -35,6 +34,21 @@ Keep an eye on its indestructability effect, in case that makes Bulldozer too st
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Bulldozer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: FIRE
+Monster Type: Machine
+Rules Text: 3 Level 4 "Rescue Agent" monsters
+① Cannot be destroyed by battle while it has a material. ② Once per turn: You can detach 1 material from this card, then target 1 card on the field; shuffle it into the Deck. This card cannot attack the turn this effect is activated. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2400
+DEF: 2100
+Comments: Had a different idea for how the Pod machines could work, so overhauling the archetype to be a pure Xyz Monster archetype.
+
+
 DATE: 13/04/2024-------------------------------------------
 
 Name: Rescue Agent's Bulldozer
@@ -43,8 +57,8 @@ Card Subtype(s): Xyz / Effect
 Rank: 4
 Attribute: FIRE
 Monster Type: Machine
-Materials: 3 Level 4 "Rescue Agent" monsters
-Effect(s):  Cannot be destroyed by battle while it has a material. Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: 3 Level 4 "Rescue Agent" monsters
+Cannot be destroyed by battle while it has a material. Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; shuffle it into the Deck. This card cannot attack the turn this effect is activated. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2400
 DEF: 2100
 Comments: Going to update Bulldozer to follow the OCG's numbered effect formatting.
@@ -58,8 +72,8 @@ Card Subtype(s): Xyz / Effect
 Rank: 4
 Attribute: FIRE
 Monster Type: Machine
-Materials: 3 Level 4 "Rescue Agent" monsters
-Effect(s): Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. Cannot be destroyed by battle while it has a material. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+Rules Text: 3 Level 4 "Rescue Agent" monsters
+Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. Cannot be destroyed by battle while it has a material. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
 ATK: 2400
 DEF: 2100
 Comments: All Extra Deck monsters should share the same battle effect. If Bulldozer uses its effect, it shouldn't be able to attack during the same turn, that's probably a bit too much for it to be able to clear the opponent's board and attack in the same turn.
@@ -73,8 +87,8 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Machine
-Archetype Condition: This card is always treated as a "POD" monster.
-Effect(s): If you control "Firefly", this card cannot be Summoned or Set. When this card is Normal or Special Summoned: You can target 1 card in your opponent's hand or on their field; destroy it. If the target was a Monster Card, gain LP equal to its level x100.
+Rules Text: (This card is always treated as a "POD" monster.)
+If you control "Firefly", this card cannot be Summoned or Set. When this card is Normal or Special Summoned: You can target 1 card in your opponent's hand or on their field; destroy it. If the target was a Monster Card, gain LP equal to its level x100.
 ATK: 1950
 DEF: 1000
 Comments: Overhauling the archetype from the ground up.
@@ -88,8 +102,8 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: LIGHT
 Monster Type: Machine
-Archetype Condition: This card is always treated as a "POD" monster.
-Effect(s): When this card is Summoned; You can banish 1 card from your opponent's field (face up) OR 1 random card from your opponent's hand (face down), then you can gain LP equal to the combined level of all "POD" and "Thunderbird" monsters you control x100.
+Rules Text: (This card is always treated as a "POD" monster.)
+When this card is Summoned; You can banish 1 card from your opponent's field (face up) OR 1 random card from your opponent's hand (face down), then you can gain LP equal to the combined level of all "POD" and "Thunderbird" monsters you control x100.
 ATK: 1900
 DEF: 1400
 Comments: None

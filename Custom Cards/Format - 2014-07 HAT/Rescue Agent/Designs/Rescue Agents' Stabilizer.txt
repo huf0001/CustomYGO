@@ -3,14 +3,13 @@ TECHNICAL----------------------------------------------------------------------
 Name: Rescue Agent's Stabilizer
 Card Type: Monster
 Card Subtype(s): Xyz / Effect
-Rank: 4
+Rank: 3
 Attribute: FIRE
 Monster Type: Machine
-Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): ① Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: Cannot be Xyz Summoned. Must first be Special Summoned (from your Extra Deck) with a "Rescue Agent" card or effect. ① Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 1500
 DEF: 2500
-Last Updated: 21/11/2024
+Last Updated: 02/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -36,8 +35,23 @@ Card Subtype(s): Xyz / Effect
 Rank: 4
 Attribute: FIRE
 Monster Type: Machine
-Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): ① Once per turn: You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: 2 Level 4 "Rescue Agent" monsters
+① Once per turn: You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 1500
+DEF: 2500
+Comments: Had a different idea for how the Pod machines could work, so overhauling the archetype to be a pure Xyz Monster archetype.
+
+
+DATE: 21/11/2024-------------------------------------------
+
+Name: Rescue Agent's Stabilizer
+Card Type: Monster
+Card Subtype(s): Xyz / Effect
+Rank: 4
+Attribute: FIRE
+Monster Type: Machine
+Rules Text: 2 Level 4 "Rescue Agent" monsters
+① Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 1500
 DEF: 2500
 Comments: Increasing the power level for testing.
@@ -51,8 +65,8 @@ Card Subtype(s): Xyz / Effect
 Rank: 4
 Attribute: FIRE
 Monster Type: Machine
-Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): Once per turn: You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: 2 Level 4 "Rescue Agent" monsters
+Once per turn: You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack and its effects are negated while it and this card are face-up on the field. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 1500
 DEF: 2500
 Comments: Going to update Stabilizer to follow the OCG's numbered effect formatting.
@@ -66,8 +80,8 @@ Card Subtype(s): Xyz / Effect
 Rank: 4
 Attribute: FIRE
 Monster Type: Machine
-Materials: 2 Level 4 "Rescue Agent" monsters
-Effect(s): Once per turn (Quick Effect): You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack or change its battle position while this card is face-up on the field. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
+Rules Text: 2 Level 4 "Rescue Agent" monsters
+Once per turn (Quick Effect): You can detach 2 materials from this card, then target 1 monster your opponent controls; it cannot attack or change its battle position while this card is face-up on the field. Monsters destroyed by battle with this card are attached to this card instead of going to the GY.
 ATK: 1500
 DEF: 2500
 Comments: Extra Deck monsters should all share the same battle effect. Having its effect be a Quick Effect might be a bit too strong, let's see how it goes being a Spell Speed 1 effect. Also, there's enough Rescue Agent monsters interacting with battle positions, so let's see how it goes with negating effects.

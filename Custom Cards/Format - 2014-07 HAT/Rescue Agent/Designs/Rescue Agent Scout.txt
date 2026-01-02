@@ -6,7 +6,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): ① If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand, except "Rescue Agent Scout".
+Rules Text: ① If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand, except "Rescue Agent Scout".
 ATK: 1100
 DEF: 1800
 Last Updated: 31/05/2024
@@ -35,7 +35,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand, except "Rescue Agent Scout".
+Rules Text: If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand, except "Rescue Agent Scout".
 ATK: 1100
 DEF: 1800
 Comments: Going to update Scout to follow the OCG's numbered effect formatting.
@@ -49,7 +49,7 @@ Card Subtype(s): Effect
 Level: 4
 Attribute: WIND
 Monster Type: Warrior
-Effect(s): If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand.
+Rules Text: If this card is Normal or Special Summoned: You can add 1 "Rescue Agent" monster from your Deck to your hand.
 ATK: 1100
 DEF: 1800
 Comments: Probably shouldn't be able to search itself.

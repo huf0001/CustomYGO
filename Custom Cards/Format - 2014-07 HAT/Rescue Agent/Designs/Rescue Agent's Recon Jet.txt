@@ -2,15 +2,15 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rescue Agent's Recon Jet
 Card Type: Monster
-Card Subtype(s): Synchro / Effect
-Level: 6
+Card Subtype(s): Xyz / Effect
+Rank: 4
 Attribute: WIND
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Synchro and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: 2 Level 4 "Rescue Agent" monsters
+You can only use effect ③ of "Rescue Agent's Recon Jet" once per turn. ① If this card is Xyz Summoned: You can look at your opponent's hand and Set cards they control. ② Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. ③ If a card or effect is activated that would destroy a "Rescue Agent" monster(s) you control (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, shuffle it into the Deck.
 ATK: 2100
 DEF: 1900
-Last Updated: 31/05/2024
+Last Updated: 02/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -38,8 +38,23 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WIND
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Synchro and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+ATK: 2100
+DEF: 1900
+Comments: Had a different idea for how the Pod machines could work, so overhauling the archetype to be a pure Xyz Monster archetype.
+
+
+DATE: 31/05/2024-------------------------------------------
+
+Name: Rescue Agent's Recon Jet
+Card Type: Monster
+Card Subtype(s): Synchro / Effect
+Level: 6
+Attribute: WIND
+Monster Type: Machine
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+You can only use effect ② of "Rescue Agent's Recon Jet" once per turn. ① If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. ② During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. ③ Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2100
 DEF: 1900
 Comments: Changed Limousine to an Xyz Monster, so removing all mentions of Fusion Monsters.
@@ -53,8 +68,8 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WIND
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. You can only use this effect of "Rescue Agent's Recon Jet" once per turn. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+If this card is Synchro Summoned: You can Special Summon 1 "Rescue Agent" monster from your hand. During your Main Phase: You can look at random cards in your opponent's hand or Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control. You can only use this effect of "Rescue Agent's Recon Jet" once per turn. Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY.
 ATK: 2100
 DEF: 1900
 Comments: Going to update Recon Jet to follow the OCG's numbered effect formatting.
@@ -68,8 +83,8 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WIND
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: Special Summon 1 "Rescue Agent" monster from your hand or Deck. During your Main Phase: You can look at Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: Special Summon 1 "Rescue Agent" monster from your hand or Deck. During your Main Phase: You can look at Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
 ATK: 2100
 DEF: 1900
 Comments: Might be worth restricting its on-Summon effect to only when it's Synchro Summoned. Also, there's a typo that needs fixing.
@@ -83,8 +98,8 @@ Card Subtype(s): Synchro / Effect
 Level: 6
 Attribute: WIND
 Monster Type: Machine
-Materials: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
-Effect(s): Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: Special Summon 1 "Rescue Agent" monster from your hand or Deck. During your Main Phase: You can look at Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
+Rules Text: 1 Tuner + 1+ non-Tuner "Rescue Agent" monsters
+Monsters destroyed by battle with this card are shuffled into the Deck instead of going to the GY. You can only use each of the following effects of "Rescue Agent's Recon Jet" once per turn. If this card is Special Summoned: Special Summon 1 "Rescue Agent" monster from your hand or Deck. During your Main Phase: You can look at Set cards your opponent controls, up to the number of "Rescue Agent" Fusion, Synchro, and Xyz monsters you control.
 ATK: 2100
 DEF: 1900
 Comments: Is being able to Summon from the Deck a bit too strong? Let's see how it fares only being able to Summon from the hand.
@@ -98,7 +113,7 @@ Card Subtype(s): Effect
 Level: 6
 Attribute: LIGHT
 Monster Type: Machine
-Effect(s): If your opponent controls a monster(s) and you control no monsters, you can special summon this card (from your hand), then take 500 damage. Once per turn: you can pay 500 LP; Excavate the top 3 cards of your opponent's deck, place one on the bottom of their deck and put the rest on top of their deck in any order.
+Rules Text: If your opponent controls a monster(s) and you control no monsters, you can special summon this card (from your hand), then take 500 damage. Once per turn: you can pay 500 LP; Excavate the top 3 cards of your opponent's deck, place one on the bottom of their deck and put the rest on top of their deck in any order.
 ATK: 2500
 DEF: 1800
 Comments: Overhauling the archetype from the ground up.
@@ -112,7 +127,7 @@ Card Subtype(s): Effect
 Level: 6
 Attribute: LIGHT
 Monster Type: Machine
-Effect(s): If your opponent controls a monster(s) and you control no monsters, you can special summon this card (from your hand), then take 500 damage. Once per turn: you can pay 500 LP; Excavate the top 3 cards of your opponent's deck, place one on the bottom of their deck and put the rest on top of their deck in any order.
+Rules Text: If your opponent controls a monster(s) and you control no monsters, you can special summon this card (from your hand), then take 500 damage. Once per turn: you can pay 500 LP; Excavate the top 3 cards of your opponent's deck, place one on the bottom of their deck and put the rest on top of their deck in any order.
 ATK: 2500
 DEF: 1800
 Comments: None

@@ -2,14 +2,14 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Rescue Agent Engineer
 Card Type: Monster
-Card Subtype(s): Effect / Tuner
-Level: 2
+Card Subtype(s): Effect
+Level: 4
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): You can only Special Summon "Rescue Agent Engineer" with effect ① once per turn. ① If only your opponent controls a monster, you can Special Summon this card (from your hand). ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it cannot be destroyed by card effects until the end of the next turn.
+Rules Text: You can only Special Summon "Rescue Agent Engineer" with effect ① once per turn. ① If only your opponent controls a monster, you can Special Summon this card (from your hand). ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it cannot be destroyed by card effects until the end of the next turn.
 ATK: 0
 DEF: 1500
-Last Updated: 21/11/2024
+Last Updated: 02/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,20 @@ As a Level 2 "Rescue Agent" monster, its ATK/DEF should add up to 1500.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 21/11/2024-------------------------------------------
+
+Name: Rescue Agent Engineer
+Card Type: Monster
+Card Subtype(s): Effect / Tuner
+Level: 2
+Attribute: EARTH
+Monster Type: Warrior
+Rules Text: You can only Special Summon "Rescue Agent Engineer" with effect ① once per turn. ① If only your opponent controls a monster, you can Special Summon this card (from your hand). ② During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Rescue Agent" monster you control; it cannot be destroyed by card effects until the end of the next turn.
+ATK: 0
+DEF: 1500
+Comments: Making Rescue Agents a pure Xyz archetype, so this card needs some tweaking.
+
+
 DATE: 31/05/2024-------------------------------------------
 
 Name: Rescue Agent Engineer
@@ -35,7 +49,7 @@ Card Subtype(s): Effect / Tuner
 Level: 2
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): You can only Special Summon "Rescue Agent Engineer" with effect ① once per turn. ① If only your opponent controls a monster, you can Special Summon this card (from your hand). ② A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+Rules Text: You can only Special Summon "Rescue Agent Engineer" with effect ① once per turn. ① If only your opponent controls a monster, you can Special Summon this card (from your hand). ② A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
 ● Cannot be destroyed by your opponent's card effects.
 ATK: 0
 DEF: 1500
@@ -50,7 +64,7 @@ Card Subtype(s): Effect / Tuner
 Level: 2
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): If only your opponent controls a monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Engineer" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
+Rules Text: If only your opponent controls a monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Engineer" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains this effect until the end of the next turn after it was Special Summoned:
 ● Cannot be destroyed by your opponent's card effects.
 ATK: 0
 DEF: 1500
@@ -65,7 +79,7 @@ Card Subtype(s): Effect / Tuner
 Level: 2
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Engineer" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
+Rules Text: If you control a "Rescue Agent" monster, you can Special Summon this card (from your hand). You can only Special Summon "Rescue Agent Engineer" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field gains the following effect:
 ● The first time this card would be destroyed by your opponent's card effect each turn, it is not destroyed.
 ATK: 0
 DEF: 1500
@@ -80,7 +94,7 @@ Card Subtype(s): Effect / Tuner
 Level: 2
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): If you control a "Rescue Agent" monster, you can "Special Summon" this card (from your hand). You can only Special Summon "Engineer of the Rescue Agents" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as material ganes the following effect:
+Rules Text: If you control a "Rescue Agent" monster, you can "Special Summon" this card (from your hand). You can only Special Summon "Engineer of the Rescue Agents" once per turn this way. A "Rescue Agent" monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as material ganes the following effect:
 ● The first time this card would be destroyed by your opponent's card effect each turn, it is not destroyed.
 ATK: 0
 DEF: 1500
@@ -95,7 +109,7 @@ Card Subtype(s): Effect / Tuner
 Level: 2
 Attribute: EARTH
 Monster Type: Warrior
-Effect(s): If you control a "Rescue Agent" monster, you can "Special Summon" this card (from your hand). You can only Special Summon "Engineer of the Rescue Agents" once per turn this way.
+Rules Text: If you control a "Rescue Agent" monster, you can "Special Summon" this card (from your hand). You can only Special Summon "Engineer of the Rescue Agents" once per turn this way.
 ATK: 0
 DEF: 1500
 Comments: Maybe the Tuners should have effects that benefit the monsters used to Synchro Summon them. Also, should be renamed to shorten the name.
