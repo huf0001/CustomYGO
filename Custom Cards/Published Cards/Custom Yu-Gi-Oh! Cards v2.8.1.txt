@@ -1,8 +1,8 @@
-Goat Format (17)
+Goat Format (19)
 	
 	Lycanthrope
 	
-		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Advanced Ritual/Effect)
+		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Ritual/Effect)
 		HUGO-EN015	Advanced Synthesis Ritual					(Spell/Ritual)
 	
 	Slime
@@ -30,6 +30,8 @@ Goat Format (17)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
+		HUGO-EN018	Hats of Illusion - Magical Hats				(Spell/Quick Play)
+		HUGO-EN019	Magical Hat Token							(Monster/Token/Effect)
 
 Gladiator Format (0)
 
