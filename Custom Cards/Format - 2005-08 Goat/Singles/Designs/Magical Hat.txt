@@ -1,0 +1,79 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Magical Hat
+Card Type: Monster
+Card Subtype(s): Container/Effect
+Rules Text: ① Does not prevent monsters from being Summoned/Set in this card's Monster Zone. ② During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field (Quick Effect): You can destroy this card and apply 1 of these effects, based on the type of card inside this card (if any). ● Monster: Return that monster to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it. ● Spell/Trap: If its activation timing is correct: activate it as if it was activated in the same Chain Link as this effect. (You must still pay its costs when this effect is activated. If this card was being attacked, the attack is negated after the Chain resolves.)
+Last Updated: 05/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Magical Hats
+Flavour: A hat from Magical Hats
+Artwork: Created in GIMP using:
+● Magical Hats
+
+
+COMMENTS-----------------------------------------------------------------------
+
+TCG Magical Hats:
+Normal Trap
+During your opponent's Battle Phase: Choose 2 Spells/Traps from your Deck and 1 monster in your Main Monster Zone. Special Summon them as Normal Monsters (ATK 0/DEF 0) in face-down Defense Position, Set the chosen monster if it is face-up, and shuffle them on the field. The 2 cards chosen from your Deck are destroyed at the end of the Battle Phase, and cannot remain on the field except during this Battle Phase. 
+
+Anime Magical Hats:
+Normal Spell
+This card's effect caused four large hats to appear on the player's side of the field while they had a Magician in play. The player could then hide any of their cards on the field inside them. (If a new card was placed underneath a hat, the hats' positions on the field would be randomly shuffled again.) Furthermore, it was also possible to hide multiple Spell/Trap Cards inside a single hat. The opponent would have to target one of the hats for their attacks or effects without knowing what lay underneath them. If the attacked hat was empty, it would be immediately destroyed. In the case it had a monster in it, the battle with that monster would proceed as usual, and in the case a Spell/Trap Card was hidden underneath, that card would then be activated, if possible.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 04/01/2026-------------------------------------------
+
+Name: Magical Hat
+Card Type: Monster
+Card Subtype(s): Container/Effect
+Rules Text: ① Does not prevent monsters from being Summoned/Set in this card's Monster Zone. ② During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field, including as a result of "Hats of Illusion - Magical Hats's" effects or by game mechanics (Quick Effect): You can destroy this card and apply 1 of these effects, based on the type of card inside this card (if any). ● Monster: Return that monster to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it. ● Spell/Trap: If its activation timing is correct: activate it as if it was activated in the same Chain Link as this effect. (You must still pay its costs when this effect is activated. If this card was being attacked, the attack is negated after the Chain resolves.)
+Comments: Removing the check for effects that would remove Magical Hat from the field due to game mechanics or "Hats of Illusion - Magical Hats", as those would remove it by dispelling the hat, not destroying it and triggering anything inside it.
+
+
+DATE: 03/01/2026-------------------------------------------
+
+Name: Magical Hat Token
+Card Type: Monster
+Card Subtype(s): Token/Effect
+Level: 0
+Attribute: NONE
+Monster Type: None
+Rules Text: You can Special Summon this card (from your Token Deck) with "Hats of Illusion - Magical Hats." ① Cannot attack, be Tributed, or be material for a Special Summon. ② Players take no battle damage from this card's battles. ③ Does not prevent monsters from being Summoned/Set in this card's Monster Zone. ④ During your Main Phase, or if this card is attacked, or a card or effect is activated that would make this card leave the field, and it's in a column recorded for a card banished by "Hats of Illusion - Magical Hats": You can destroy this card; apply 1 of these effects, based on its card type. ● Monster: Return that banished monster to the field in this card's Monster Zone, then if this card was attacked or targeted by a card or effect, change the target to it. ● Spell/Trap: If its activation timing is correct, activate it as if it was activated in the same Chain Link as this effect, otherwise send it to the GY.
+ATK: 0
+DEF: 0
+Comments: Nope, nevermind, had an idea that would overhaul Magical Hats entirely.
+
+
+DATE: 20/09/2025-------------------------------------------
+
+Name: Magical Hat Token
+Card Type: Monster
+Card Subtype(s): Token/Effect
+Level: 1
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: You can Special Summon this card (from your Token Deck) with "Hats of Illusion - Magical Hats." ① Cannot attack, be Tributed, or be used as material for the Special Summon of a monster from the Extra Deck. ② Neither player takes battle damage from battles involving this card. ③ Does not prevent monsters from being Summoned/Set in the zone this card occupies. ④ During your Main Phase, or if this card is targeted for an attack or by a card or effect that would make it leave the field, and it's in a column recorded for a card banished by "Hats of Illusion - Magical Hats": You can destroy this card; apply 1 of these effects, based on its type. ● Monster: return that banished monster to the field in this card's Monster Zone, then if this card was targeted for an attack or by a card or effect, change the target to that monster. ● Spell/Trap: If its activation timing is correct, activate it as if it was activated in the same Chain Link as this effect, otherwise send it to the GY.
+ATK: 0
+DEF: 0
+Comments: Minor tweaking and cleanup ready for publication.
+
+
+DATE: 07/09/2025-------------------------------------------
+
+Name: Magical Hat Token
+Card Type: Monster
+Card Subtype(s): Legendary Token/Effect
+Level: 1
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: Must be Special Summoned with "Hats of Illusion - Magical Hats." ① Cannot attack, be Tributed, or be used as material for the Special Summon of a monster from the Extra Deck. ② Neither player takes battle damage from battles involving this card. ③ Does not prevent monsters from being Summoned/Set in the zone this card occupies. ④ During your Main Phase, or if this card is targeted for an attack or by a card or effect that would make it leave the field, and it's in a column recorded for a card banished by "Hats of Illusion - Magical Hats": You can destroy this card; apply 1 of these effects, based on its type. ● Monster: return that banished monster to the field in this card's Monster Zone, then if this card was targeted for an attack or by a card or effect, change the target to that monster. ● Spell/Trap: If its activation timing is correct, activate it as if it was activated in the same Chain Link as this effect, otherwise send it to the GY.
+ATK: 0
+DEF: 0
+Comments: Swapping the Legendary Token typing for using a Token Deck to indicate pre-defined Tokens.

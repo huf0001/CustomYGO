@@ -1,0 +1,38 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Fairy Box Hole
+Card Type: Monster
+Card Subtype(s): Container/Effect
+Rules Text: ① If this card is empannot be destroyed by battle. ② At the end of the Damage Step, if this card battled: Rearrange the positions of all "Fairy Box Holes" you control. ③ During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field, including as a result of the effect of "Whack-a-Mole Fairy Box" (Quick Effect): You can destroy this card, and if it's not empty, return the monster inside this card to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it.
+Last Updated: 05/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+TCG Fairy Box:
+Continuous Trap
+When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. Once per turn, during your Standby Phase, pay 500 LP, or destroy this card.
+
+Anime Fairy Box:
+Normal Spell
+All Attack Position monsters on your side of the field are hidden in a box to disrupt enemy attacks. 
+The box in question functioned like a Whac-A-Mole game, whereby any opponent's attacking monster had a chance of either hitting or missing its attack target as it rapidly popped in and out of the box's multiple holes. Furthermore, if the field was somehow covered in water, like through the effect of "Umi", the box itself would end up underwater and any monsters unable to breathe underwater that were hiding in it would be forced outside.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 04/01/2026-------------------------------------------
+
+Name: Fairy Box Hole
+Card Type: Monster
+Card Subtype(s): Container/Effect
+Rules Text: ① If this card is empannot be destroyed by battle. ② At the end of the Damage Step, if this card battled: Rearrange the positions of all "Fairy Box Holes" you control. ③ During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field, including as a result of the effect of "Whack-a-Mole Fairy Box's" effects or by game mechanics (Quick Effect): You can destroy this card, and if it's not empty, return the monster inside this card to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it.
+Comments: A little bit of cleanup after some rules tweaks.
