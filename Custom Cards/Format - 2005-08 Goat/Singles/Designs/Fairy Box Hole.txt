@@ -4,7 +4,7 @@ Name: Fairy Box Hole
 Card Type: Monster
 Card Subtype(s): Container/Effect
 Rules Text: ① Cannot be removed from the field if it is empty. ② During your Main Phase, if this card has a monster inside it: You can dispell all "Fairy Box Holes" you control. ③ While this card has a face-up monster inside it, you can still activate that monster's effects as if it was not inside this card. If you do, dispell all "Fairy Box Holes" you control. ④ While this card has a monster inside it, perform any damage calculation involving this card using that monster's ATK/DEF and battle position. ⑤ If this card would be removed from the field by a card or effect while it is not empty, it is not, and only the card inside it is sent to that location instead. ⑥ At the end of the Damage Step, if this card battled: Rearrange the positions of all "Fairy Box Holes" you control.
-Last Updated: 05/01/2026
+Last Updated: 06/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------

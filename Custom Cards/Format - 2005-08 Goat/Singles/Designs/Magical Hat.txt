@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Magical Hat
 Card Type: Monster
 Card Subtype(s): Container/Effect
-Rules Text: ① This empty card does not prevent monsters from being Summoned/Set in this card's Monster Zone. ② During your Main Phase, if this card has a monster inside it: You can dispell this card. ③ While this card has a card inside it, you can still activate the card inside it or its effects as if it was not inside this card. If you do, dispell this card. ④ While this card has a monster inside it, perform any damage calculation involving this card using that monster's ATK/DEF and battle position.
-Last Updated: 05/01/2026
+Rules Text: ① This empty card does not prevent monsters from being Summoned or Set in this card's Monster Zone. ② During your Main Phase, if this card has a monster inside it: You can dispell this card. ③ While this card has a card inside it, you can still activate the card inside it or its effects as if it was not inside this card. If you do, dispell this card. ④ While this card has a monster inside it, perform any damage calculation involving this card using that monster's ATK/DEF and battle position.
+Last Updated: 06/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------

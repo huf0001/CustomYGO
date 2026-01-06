@@ -1,10 +1,10 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Whack-a-Mole Fairy Box
+Name: Mystic Fairy Box
 Card Type: Spell
 Card Subtype(s): Quick-Play
 Rules Text: ① If you control a monster and no "Fairy Box Holes": Special Summon 5 "Fairy Box Holes", place all monsters in your Main Monster Zones inside the "Fairy Box Holes", and apply these effects until you control none of those "Fairy Box Holes". ● If a card is placed inside a "Fairy Box Hole(s)" you control, rearrange the positions of all "Fairy Box Holes" you control. ● Cards and effects that would remove a "Fairy Box Hole(s)" you control from the field, except "Fairy Box Hole", remove all "Fairy Box Holes" you control from the field instead. ● If a "Fairy Box Hole(s)" you control would be dispelled, dispell all "Fairy Box Holes" you control instead. ● If all "Fairy Box Holes" you control are empty, dispell them.
-Last Updated: 05/01/2026
+Last Updated: 06/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -35,7 +35,7 @@ Name: Whack-a-Mole Fairy Box
 Card Type: Spell
 Card Subtype(s): Quick-Play
 Rules Text: ① If you control a monster and no "Fairy Box Holes": Special Summon 5 "Fairy Box Holes", place all monsters in your Main Monster Zones inside the "Fairy Box Holes", and apply these effects until you control none of those "Fairy Box Holes". ● If a card is placed inside a "Fairy Box Hole(s)" you control, rearrange the positions of all "Fairy Box Holes" you control. ● Cards and effects that would destroy a "Fairy Box Hole(s)" you control, except "Fairy Box Hole", destroy all "Fairy Box Holes" you control instead. ● If a card or effect is activated that would negate the effects of a "Fairy Box Hole(s)" you control, it negates the effects of all "Fairy Box Holes" you control instead. ● If a card or effect is activated that would negate these effects of "Whack-a-Mole Fairy Box", it also negates the effects of all "Fairy Box Holes" you control.
-Comments: More changes to handle stuff I hadn't thought of previously, and to handle other stuff better.
+Comments: More changes to handle stuff I hadn't thought of previously, and to handle other stuff better. Also, renaming.
 
 
 DATE: 04/01/2026-------------------------------------------

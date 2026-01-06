@@ -32,7 +32,7 @@ Goat Format (21)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
 		HUGO-EN018	Hats of Illusion - Magical Hats				(Spell/Quick-Play)
 		HUGO-EN019	Magical Hat									(Monster/Container/Effect)
-		HUGO-EN020	Whack-a-Mole Fairy Box						(Spell/Quick-Play)
+		HUGO-EN020	Mystic Fairy Box							(Spell/Quick-Play)
 		HUGO-EN021	Fairy Box Hole								(Monster/Container/Effect)
 
 Gladiator Format (0)
