@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Magical Hat
 Card Type: Monster
 Card Subtype(s): Container/Effect
-Rules Text: ① Does not prevent monsters from being Summoned/Set in this card's Monster Zone. ② During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field (Quick Effect): You can destroy this card and apply 1 of these effects, based on the type of card inside this card (if any). ● Monster: Return that monster to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it. ● Spell/Trap: If its activation timing is correct: activate it as if it was activated in the same Chain Link as this effect. (You must still pay its costs when this effect is activated. If this card was being attacked, the attack is negated after the Chain resolves.)
+Rules Text: ① This empty card does not prevent monsters from being Summoned/Set in this card's Monster Zone. ② During your Main Phase, if this card has a monster inside it: You can dispell this card. ③ While this card has a card inside it, you can still activate the card inside it or its effects as if it was not inside this card. If you do, dispell this card. ④ While this card has a monster inside it, perform any damage calculation involving this card using that monster's ATK/DEF and battle position.
 Last Updated: 05/01/2026
 
 
@@ -27,6 +27,15 @@ This card's effect caused four large hats to appear on the player's side of the 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/01/2026-------------------------------------------
+
+Name: Magical Hat
+Card Type: Monster
+Card Subtype(s): Container/Effect
+Rules Text: ① Does not prevent monsters from being Summoned/Set in this card's Monster Zone. ② During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field (Quick Effect): You can destroy this card and apply 1 of these effects, based on the type of card inside this card (if any). ● Monster: Return that monster to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it. ● Spell/Trap: If its activation timing is correct: activate it as if it was activated in the same Chain Link as this effect. (You must still pay its costs when this effect is activated. If this card was being attacked, the attack is negated after the Chain resolves.)
+Comments: More changes to handle stuff I hadn't thought of previously, and to handle other stuff better.
+
 
 DATE: 04/01/2026-------------------------------------------
 

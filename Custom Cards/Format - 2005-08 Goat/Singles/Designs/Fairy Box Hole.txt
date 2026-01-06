@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Fairy Box Hole
 Card Type: Monster
 Card Subtype(s): Container/Effect
-Rules Text: ① If this card is empannot be destroyed by battle. ② At the end of the Damage Step, if this card battled: Rearrange the positions of all "Fairy Box Holes" you control. ③ During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field, including as a result of the effect of "Whack-a-Mole Fairy Box" (Quick Effect): You can destroy this card, and if it's not empty, return the monster inside this card to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it.
+Rules Text: ① Cannot be removed from the field if it is empty. ② During your Main Phase, if this card has a monster inside it: You can dispell all "Fairy Box Holes" you control. ③ While this card has a face-up monster inside it, you can still activate that monster's effects as if it was not inside this card. If you do, dispell all "Fairy Box Holes" you control. ④ While this card has a monster inside it, perform any damage calculation involving this card using that monster's ATK/DEF and battle position. ⑤ If this card would be removed from the field by a card or effect while it is not empty, it is not, and only the card inside it is sent to that location instead. ⑥ At the end of the Damage Step, if this card battled: Rearrange the positions of all "Fairy Box Holes" you control.
 Last Updated: 05/01/2026
 
 
@@ -28,6 +28,14 @@ The box in question functioned like a Whac-A-Mole game, whereby any opponent's a
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/01/2026-------------------------------------------
+
+Name: Fairy Box Hole
+Card Type: Monster
+Card Subtype(s): Container/Effect
+Rules Text: ① If this card is empannot be destroyed by battle. ② At the end of the Damage Step, if this card battled: Rearrange the positions of all "Fairy Box Holes" you control. ③ During your Main Phase as Chain Link 1, OR during the Battle Step or at the start of the Damage Step if this card is attacked, OR if a card or effect is activated that would make this card leave the field, including as a result of the effect of "Whack-a-Mole Fairy Box" (Quick Effect): You can destroy this card, and if it's not empty, return the monster inside this card to the field in this card's Monster Zone in the same battle position it was in when it was placed inside this card, and if this card was targeted for an attack, card, or effect, change the target to it.Comments: More changes to handle stuff I hadn't thought of previously, and to handle other stuff better.
+
 
 DATE: 04/01/2026-------------------------------------------
 

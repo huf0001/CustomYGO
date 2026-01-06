@@ -3,7 +3,7 @@ TECHNICAL----------------------------------------------------------------------
 Name: Hats of Illusion - Magical Hats
 Card Type: Spell
 Card Subtype(s): Quick-Play
-Rules Text: ① If you control a monster and no "Magical Hats": Special Summon "Magical Hats" in 4 of your adjacent Main Monster Zones, place all monsters in those zones inside the "Magical Hats", and apply these effects until you control none of those "Magical Hats". ● Monsters Summoned/Set in the same zone as an empty "Magical Hat" are placed inside it instead. ● If you Set a Spell/Trap, you can place it inside an empty "Magical Hat" instead. ● If a card is placed inside a "Magical Hat(s)" you control, rearrange the positions of all "Magical Hats" you control. ● If you control only 1 "Magical Hat": Destroy it. ● If a card or effect is activated that would negate these effects of "Hats of Illusion - Magical Hats", it also negates the effects of all "Magical Hats" you control.
+Rules Text: ① If you control a monster and no "Magical Hats": Special Summon "Magical Hats" in 4 of your adjacent Main Monster Zones, place all monsters in those zones inside the "Magical Hats", and apply these effects until you control none of those "Magical Hats". ● Monsters Summoned/Set in the same zone as an empty "Magical Hat" are placed inside it instead. ● If you Set a Spell/Trap, you can place it inside an empty "Magical Hat" instead. ● If a card is placed inside a "Magical Hat" you control, rearrange the positions of all "Magical Hats" you control. ● If you control only 1 "Magical Hat" or all "Magical Hats" you control are empty, dispell them.
 Last Updated: 05/01/2026
 
 
@@ -27,6 +27,15 @@ This card's effect caused four large hats to appear on the player's side of the 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 05/01/2026-------------------------------------------
+
+Name: Hats of Illusion - Magical Hats
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① If you control a monster and no "Magical Hats": Special Summon "Magical Hats" in 4 of your adjacent Main Monster Zones, place all monsters in those zones inside the "Magical Hats", and apply these effects until you control none of those "Magical Hats". ● Monsters Summoned/Set in the same zone as an empty "Magical Hat" are placed inside it instead. ● If you Set a Spell/Trap, you can place it inside an empty "Magical Hat" instead. ● If a card is placed inside a "Magical Hat(s)" you control, rearrange the positions of all "Magical Hats" you control. ● If you control only 1 "Magical Hat": Destroy it. ● If a card or effect is activated that would negate these effects of "Hats of Illusion - Magical Hats", it also negates the effects of all "Magical Hats" you control.
+Comments: More changes to handle stuff I hadn't thought of previously, and to handle other stuff better.
+
 
 DATE: 04/01/2026-------------------------------------------
 
