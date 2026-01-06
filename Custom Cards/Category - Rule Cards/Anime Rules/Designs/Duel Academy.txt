@@ -2,8 +2,8 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Duel Academy
 Card Type: Rule
-Effect(s): ① Both players' starting LP become 4000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ④ When a Ritual, Fusion, Synchro, Xyz, or Link Monster being attacked leaves the field before damage calculation by a card effect and the materials used to Ritual, Fusion, Synchro, Xyz, or Link Summon it are Special Summoned, negate that attack. ⑤ Ritual, Fusion, Synchro, Xyz, and Link Monsters can be Special Summoned from the GY or banishment even if they were not properly Ritual, Fusion, Synchro, Xyz,or Link Summoned first. ⑥ "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
-Last Updated: 15/12/2025
+Rules Text: ① Both players' starting LP become 4000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ④ When a Special Summon Monster being attacked leaves the field before damage calculation by a card effect and any materials used to properly Special Summon it by its correct procedure are Special Summoned, negate that attack. ⑤ Special Summon Monsters can be Special Summoned from the GY or banishment even if they were not properly Special Summoned by their correct procedure first. ⑥ "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
+Last Updated: 06/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -21,10 +21,18 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 15/12/2025-------------------------------------------
+
+Name: Duel Academy
+Card Type: Rule
+Rules Text: ① Both players' starting LP become 4000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ④ When a Ritual, Fusion, Synchro, Xyz, or Link Monster being attacked leaves the field before damage calculation by a card effect and the materials used to Ritual, Fusion, Synchro, Xyz, or Link Summon it are Special Summoned, negate that attack. ⑤ Ritual, Fusion, Synchro, Xyz, and Link Monsters can be Special Summoned from the GY or banishment even if they were not properly Ritual, Fusion, Synchro, Xyz,or Link Summoned first. ⑥ "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
+Comments: Condensing some of the text slightly.
+
+
 DATE: 26/03/2025-------------------------------------------
 
 Name: Duel Academy
 Card Type: Spell
 Card Subtype(s): Normal
-Effect(s): Reveal this card from your Deck and activate it before the start of the Duel, also its effects cannot be negated. ① Apply the following effects for the rest of the Duel: ● Both players' starting LP become 4000. ● Monsters can be Normal or Flip Summoned in face-up Defense Position. ● Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ● When a Ritual, Fusion, Synchro, Xyz, or Link Monster being attacked leaves the field before damage calculation by a card effect and the materials used to Ritual, Fusion, Synchro, Xyz, or Link Summon it are Special Summoned, negate that attack. ● Ritual, Fusion, Synchro, Xyz, and Link Monsters can be Special Summoned from the GY or banishment even if they were not properly Ritual, Fusion, Synchro, Xyz,or Link Summoned first. ● "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
+Rules Text: Reveal this card from your Deck and activate it before the start of the Duel, also its effects cannot be negated. ① Apply the following effects for the rest of the Duel: ● Both players' starting LP become 4000. ● Monsters can be Normal or Flip Summoned in face-up Defense Position. ● Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ● When a Ritual, Fusion, Synchro, Xyz, or Link Monster being attacked leaves the field before damage calculation by a card effect and the materials used to Ritual, Fusion, Synchro, Xyz, or Link Summon it are Special Summoned, negate that attack. ● Ritual, Fusion, Synchro, Xyz, and Link Monsters can be Special Summoned from the GY or banishment even if they were not properly Ritual, Fusion, Synchro, Xyz,or Link Summoned first. ● "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
 Comments: Finally getting around to updating this card as a Rule Card, not a Spell Card.

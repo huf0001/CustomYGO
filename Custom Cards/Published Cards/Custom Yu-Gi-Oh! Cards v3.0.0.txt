@@ -1,4 +1,4 @@
-Goat Format (21)
+Goat Format (17)
 	
 	Lycanthrope
 	
@@ -30,10 +30,6 @@ Goat Format (21)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
-		HUGO-EN018	Hats of Illusion - Magical Hats				(Spell/Quick-Play)
-		HUGO-EN019	Magical Hat									(Monster/Container/Effect)
-		HUGO-EN020	Mystic Fairy Box							(Spell/Quick-Play)
-		HUGO-EN021	Fairy Box Hole								(Monster/Container/Effect)
 
 Gladiator Format (0)
 
@@ -97,8 +93,10 @@ Advanced Format (31)
 		HUAD-EN030	World of Fantasy - Toon World				(Spell/Continuous)
 		HUAD-EN031	The Living Level							(Monster/Effect)
 		
-Rule Cards (1)
+Rule Cards (3)
 
 	Singles
 	
-		HURU-EN001	Container Monsters							(Rule)
+		HURU-EN001	Duelist Kingdom								(Rule)
+		HURU-EN002	Battle City									(Rule)
+		HURU-EN003	Duel Academy								(Rule)
