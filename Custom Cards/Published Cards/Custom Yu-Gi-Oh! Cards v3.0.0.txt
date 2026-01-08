@@ -31,7 +31,11 @@ Goat Format (17)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
 
-Gladiator Format (0)
+Gladiator Format (1)
+
+	Yubel
+	
+		HUGL-EN001	Divine Yubel - The Singularity of Love		(Monster/Fusion/Effect)
 
 Edison Format (2)
 	
@@ -42,6 +46,8 @@ Edison Format (2)
 	Singles
 	
 		HUED-EN001	The Restless Grave							(Spell/Equip)
+		
+Tengu Plant Format (0)
 
 HAT Format (0)
 
