@@ -1,9 +1,9 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Face-Up, Face-Down
+Name: Quick Flip
 Card Type: Rule
-Rules Text: ① Monsters can be Normal or Flip Summoned in Defense Position. ② Monsters can be Set in Attack Position.
-Last Updated: 15/12/2025
+Rules Text: ● ① If a Flip Monster is attacked and flipped face-up for damage calculation, its Flip effect can be activated before damage calculation instead of after. ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Last Updated: 07/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -11,7 +11,9 @@ CREATIVE-----------------------------------------------------------------------
 Basis: 
 Flavour: 
 Artwork: Created in GIMP using:
-● 
+● Morphing Jar?
+● Man-Eater Bug?
+● Penguin Soldier?
 
 
 COMMENTS-----------------------------------------------------------------------

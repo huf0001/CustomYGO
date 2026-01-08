@@ -1,0 +1,30 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Face-Up
+Card Type: Rule
+Rules Text: ① Monsters can be Normal or Flip Summoned in face-up Defense Position.
+Last Updated: 07/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: 
+Flavour: 
+Artwork: Created in GIMP using:
+● Summoner Monk?
+● Effect monsters that would benefit from being Normal Summoned in Defense Position.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/12/2025-------------------------------------------
+
+Name: Face-Up, Face-Down
+Card Type: Rule
+Rules Text: ① Monsters can be Normal or Flip Summoned in Defense Position. ② Monsters can be Set in Attack Position.
+Comments: Splitting into two cards so the rules can be applied separately.

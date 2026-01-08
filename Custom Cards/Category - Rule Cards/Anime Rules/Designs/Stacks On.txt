@@ -1,0 +1,29 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Stacks On
+Card Type: Rule
+Rules Text: ① Cards can be placed underneath cards that are not Xyz Monsters for card effects. ② Cards that are not Xyz Monsters can be stacked on top of other cards. ③ Cards underneath cards that are not Xyz Monsters are not on the field, and they are not in the zone of the card they are underneath. ④ Cards underneath cards that are not Xyz Monsters are not Xyz materials, and they are not attached to that card. ⑤ If a card with other cards underneath it leaves the field, the cardss underneath it are sent to the GY. ⑥ ⑦ ⑧ ⑨ ⑩
+Last Updated: 07/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Non-Xyz Monsters in the anime stacking cards under them.
+Flavour: 
+Artwork: Created in GIMP using:
+● Stacking-related cards?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 07/01/2026-------------------------------------------
+
+Name: Stacks On
+Card Type: Rule
+Rules Text: ① Cards can be stacked underneath cards that are not Xyz Monsters for card effects. ② Cards stacked under Spell/Trap Cards and non-Xyz Monsters are not Xyz materials, or are they attached to the card they are stacked under. ③ If a card with other cards stacked underneath it leaves the field, send those cards stacked under it to the GY.
+Comments: Making some changes and additions after looking at some anime-only cards that place other cards underneath themselves.

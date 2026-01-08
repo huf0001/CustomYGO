@@ -1,0 +1,30 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Face-Down
+Card Type: Rule
+Rules Text: ① Monsters can be Set in face-down Attack Position.
+Last Updated: 07/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: 
+Flavour: 
+Artwork: Created in GIMP using:
+● Darkness Approaches?
+● Miraculous Hats?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/12/2025-------------------------------------------
+
+Name: Face-Up, Face-Down
+Card Type: Rule
+Rules Text: ① Monsters can be Normal or Flip Summoned in Defense Position. ② Monsters can be Set in Attack Position.
+Comments: Splitting into two cards so the rules can be applied separately.
