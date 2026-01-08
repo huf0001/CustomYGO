@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Wall of Glass - Mirror Wall
 Card Type: Trap
 Card Subtype(s): Continuous
-Rules Text: ① When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, that target's ATK becomes half its original ATK.
-Last Updated: 10/09/2025
+Rules Text: ① When an opponent's monster declares an attack: Negate the attack, and if you do, if that monster's ATK has not been halved by "Wall of Glass - Mirror Wall", halve its ATK.
+Last Updated: 07/01/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -13,6 +13,10 @@ Basis: Mirror Wall
 Flavour: Anime-accurate Mirror Wall
 Artwork: Created in GIMP using:
 ● Mirror Wall
+● Gaia the Fierce Knight
+● Dark Magician
+● Summoned Skull
+● Harpie Lady?
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -22,20 +26,10 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 10/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Wall of Glass - Mirror Wall
+Card Type: Trap
+Card Subtype(s): Continuous
+Rules Text: ① When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, that target's ATK becomes half its original ATK.
+Comments: Tweaking to avoid monsters being immune due to anti-targeting clauses.
