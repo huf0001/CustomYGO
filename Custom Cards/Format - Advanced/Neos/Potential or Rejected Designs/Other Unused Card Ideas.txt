@@ -1,0 +1,8 @@
+Neo-Spacian support effects (Cross Porter, Cross Keeper, Neo Space monsters)
+	DARK ① You can target 1 monster you control; send that target to the GY, and if you do, Special Summon 1 "Neo-Spacian" monster from your hand. (Cross Porter)
+	FIRE ② When this card is sent to the GY: You can add 1 "Neo-Spacian" monster from your Deck to your hand. (Cross Porter)
+	NEOS ③ You can discard this card; add 1 "Neo Space" from your Deck or GY to your hand. (Neo Space Pathfinder)
+	EARTH ④ When this card is Normal Summoned: You can Special Summon 1 "Neo-Spacian" monster or 1 "Elemental HERO Neos" from your hand or Deck in Defense Position. You can only use this effect of this card's name once per turn. (Neo Space Connector)
+	WIND ⑤ You can Tribute this card, then target 1 "Neo-Spacian" monster or 1 "Elemental HERO Neos" in your GY; Special Summon it in Defense Position. You can only use this effect of this card's name once per turn. (Neo Space Connector)
+	WATER ⑥ You can send this card from your hand or field to the GY; Special Summon 1 "Elemental HERO" monster or 1 "Neo-Spacian" monster from your hand or GY, but negate its effects if Summoned from the GY. You can only use this effect of this card's name once per turn. (Cross Keeper)
+	LIGHT ⑦ If you Special Summon an "Elemental HERO" Fusion Monster, while this card is in your GY (except during the Damage Step): You can banish this card; draw 2 cards, then place 1 card from your hand on the bottom of the Deck. You can only use this effect of this card's name once per turn. (Cross Keeper)
