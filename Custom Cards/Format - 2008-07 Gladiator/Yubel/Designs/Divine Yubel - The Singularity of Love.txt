@@ -8,10 +8,10 @@ Attribute: DARK
 Monster Type: Fiend
 Rules Text: 12 monsters with original Levels 1 through 12, including 1 "Yubel" monster
 (This card's original Level is always treated as 12.)
-Must be Fusion Summoned with "Super Polymerization". At the end of the Damage Step, if this card successfully attacked your opponent directly, you win the Duel. ① When this card is Fusion Summoned: Destroy all other monsters on the field. ② Cannot be destroyed by battle or card effects. ③ You take no battle damage from battles involving this card. ④ At the end of the Damage Step, if this card battled an opponent's monster: Destroy that monster, also inflict damage to your opponent equal to its ATK.
+Must be Fusion Summoned with "Super Polymerization". At the end of the Damage Step, if this card successfully attacked your opponent directly or inflicted damage to your opponent, you win the Duel. ① When this card is Fusion Summoned: Destroy all other cards on the field. ② Cannot be destroyed by battle or card effects. ③ You take no battle damage from battles involving this card. ④ At the end of the Damage Step, if this card battled an opponent's monster: Destroy that monster, also inflict damage to your opponent equal to its ATK.
 ATK: 0
 DEF: 0
-Last Updated: 08/01/2026
+Last Updated: 09/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,19 +30,17 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 08/01/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Divine Yubel - The Singularity of Love
+Card Type: Monster
+Card Subtype(s): Fusion / Effect
+Level: 0
+Attribute: DARK
+Monster Type: Fiend
+Rules Text: 12 monsters with original Levels 1 through 12, including 1 "Yubel" monster
+(This card's original Level is always treated as 12.)
+Must be Fusion Summoned with "Super Polymerization". At the end of the Damage Step, if this card successfully attacked your opponent directly, you win the Duel. ① When this card is Fusion Summoned: Destroy all other monsters on the field. ② Cannot be destroyed by battle or card effects. ③ You take no battle damage from battles involving this card. ④ At the end of the Damage Step, if this card battled an opponent's monster: Destroy that monster, also inflict damage to your opponent equal to its ATK.
+ATK: 0
+DEF: 0
+Comments: With a lot of people saying this should be more powerful, I might make the board wipe stronger and relax the win condition slightly, but if I want to make it just Summon = Win, that's not a very Yubel-esque card, and also it would need to be playtested to see if it would be broken in Gladiator Format.
