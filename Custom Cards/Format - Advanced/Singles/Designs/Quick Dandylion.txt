@@ -1,0 +1,46 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Quick Dandylion
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Monster Type: Plant
+Attribute: EARTH
+Rules Text: Cannot be used as material for the Special Summon of a monster from the Extra Deck, except a Synchro Monster. ① If this card is sent to the GY: Special Summon 2 "Quick Fluff Tokens" (Plant/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be used as material for the Special Summon of a monster from the Extra Deck, except a Synchro Monster.
+ATK: 300
+DEF: 300
+Last Updated: 12/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dandylion
+Flavour: Dandylion, but fixed so Link Monsters can't abuse it.
+Artwork: Created in GIMP using:
+● Dandylion
+● Gathering Light
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
