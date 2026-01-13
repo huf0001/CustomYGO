@@ -2,29 +2,7 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Container Monsters
 Card Type: Rule
-Rules Text: 
-① Container Monsters are Effect Monsters that appear on the field as the result of a card's effect. They are not included in the Deck. When they are sent anywhere except the field, e.g. to the hand or GY, remove them from the field instead. 
-② Cards (except Container Monsters) can be placed inside empty Container Monsters. 
-③ If a Container Monster is empty, place another copy of that Container Monster underneath it face-down. 
-④ Cards placed inside a Container Monster are placed underneath it face-down, replacing the copy of that Container Monster underneath it. 
-⑤ Monsters inside a Container Monster are treated as being on the field for cards, effects, etc. applied to that monster that would be destroyed or removed if that monster left the field (e.g. Equip Spells, counters, lingering effects), and for cards or effects that check or count which monsters are on the field (e.g. "Cyber Dragon", "Harpie's Pet Dragon"). 
-⑥ Container Monsters do not have a Level, Attribute, monster type, ATK, or DEF property. Container Monsters cannot be affected or targeted by cards and effects on the basis of those properties. 
-⑦ Container Monsters cannot attack. Players take no battle damage from their battles. 
-⑧ Container Monsters cannot be removed from the field to pay a cost, Tributed for a Tribute or Special Summon, used as material for the Special Summon of a monster from the Extra Deck, or attached to an Xyz Monster. 
-⑨ If a Container Monster is targeted or chosen for an attack, card, or effect, the card inside it is also treated as the target/choice if it is an appropriate target/choice, including if it remains on the field after the Container Monster it was inside is removed from the field.
-⑩ If a Container Monster leaves the field by a card or effect, send the card inside it (if any) to the location that the Container Monster would have been sent to, and it is treated as having being moved there by that card or effect.
-⑪ If the effects of a Container Monster or the card that Special Summoned it (including lingering effects) are negated (e.g. by "Skill Drain" or "Effect Veiler"), dispell it. (This does not apply in cases where an effect activated and the activation or instance of the effect is negated (e.g. by "Memory Loss" or "Skill Prisoner").) 
-⑫ If a Container Monster is dispelled, remove it from the field, and if it has a card inside it, apply the following based on its type unless the Container Monster specifies otherwise.
-● Monster: Return it to the field in that Container Monster's zone, in the same battle position it was in when it was placed inside that Container Monster. 
-● Spell/Trap: Send it to the GY. If the Container Monster was being attacked, negate the attack after any Chains resolve.
-⑬
-⑭ 
-⑮ 
-⑯ 
-⑰ 
-⑱ 
-⑲ 
-⑳
+Rules Text: ① Container Monsters are Effect Monsters that appear on the field as the result of a card's effect. They are not included in the Deck. When they are sent anywhere except the field, e.g. to the hand or GY, remove them from the field instead. ② Cards (except Container Monsters) can be placed inside empty Container Monsters. ③ If a Container Monster is empty, place another copy of that Container Monster underneath it face-down. ④ Cards placed inside a Container Monster are placed underneath it face-down, replacing the copy of that Container Monster underneath it. ⑤ Monsters inside a Container Monster are treated as being on the field for cards, effects, etc. applied to that monster that would be destroyed or removed if that monster left the field (e.g. Equip Spells, counters, lingering effects), and for cards or effects that check or count which monsters are on the field (e.g. "Cyber Dragon", "Harpie's Pet Dragon"). ⑥ Container Monsters do not have a Level, Attribute, monster type, ATK, or DEF property. Container Monsters cannot be affected or targeted by cards and effects on the basis of those properties. ⑦ Container Monsters cannot attack. Players take no battle damage from their battles. ⑧ Container Monsters cannot be removed from the field to pay a cost, Tributed for a Tribute or Special Summon, used as material for the Special Summon of a monster from the Extra Deck, or attached to an Xyz Monster. ⑨ If a Container Monster is targeted or chosen for an attack, card, or effect, the card inside it is also treated as the target/choice if it is an appropriate target/choice, including if it remains on the field after the Container Monster it was inside is removed from the field. ⑩ If a Container Monster leaves the field by a card or effect, send the card inside it (if any) to the location that the Container Monster would have been sent to, and it is treated as having being moved there by that card or effect. ⑪ If the effects of a Container Monster or the card that Special Summoned it (including lingering effects) are negated (e.g. by "Skill Drain" or "Effect Veiler"), dispell it. (This does not apply in cases where an effect activated and the activation or instance of the effect is negated (e.g. by "Memory Loss" or "Skill Prisoner").) ⑫ If a Container Monster is dispelled, remove it from the field, and if it has a card inside it, apply the following based on its type unless the Container Monster specifies otherwise. ● Monster: Return it to the field in that Container Monster's zone, in the same battle position it was in when it was placed inside that Container Monster. ● Spell/Trap: Send it to the GY. If the Container Monster was being attacked, negate the attack after any Chains resolve.
 Last Updated: 06/01/2026
 
 
