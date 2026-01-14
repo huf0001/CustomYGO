@@ -4,8 +4,8 @@ Name: Cyclonic Dustfiend
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 6
-Attribute: EARTH/WIND
-Monster Type: Rock Air Fiend
+Attribute(s): EARTH/WIND
+Monster Type(s): Rock/Air/Fiend
 Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH and 1 WIND monster from your GY. You can only activate 1 effect of "Cyclonic Dustfiend" per turn, and only once that turn. ① You can target 1 monster you control; this turn, it cannot be targeted or destroyed by card effects. ② You can target 1 Spell/Trap on the field; destroy it.
 ATK: 2400
 DEF: 2000
@@ -33,8 +33,8 @@ Name: Desert Twister
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 6
-Attribute: WIND
-Monster Type: Fiend
+Attribute(s): WIND
+Monster Type(s): Fiend
 Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 WIND and 1 EARTH monsters from your GY. Once per turn: You can discard 1 card, then target 1 Spell/Trap on the field; destroy it. 
 ATK: 2300
 DEF: 2000

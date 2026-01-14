@@ -2,10 +2,10 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Exxod, Guardian of the Tombs
 Card Type: Monster
-Card Subtype(s): Ritual / Effect
+Card Subtype(s): Ritual/Effect
 Level: 8
-Attribute: EARTH
-Monster Type: Rock / Warrior
+Attribute(s): EARTH
+Monster Type(s): Rock/Warrior
 Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Royal Guardian Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster you control is flipped face-up, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000
@@ -32,10 +32,10 @@ DATE: 21/12/2025-------------------------------------------
 
 Name: Exxod, Guardian of the Tombs
 Card Type: Monster
-Card Subtype(s): Ritual / Effect
+Card Subtype(s): Ritual/Effect
 Level: 8
-Attribute: EARTH
-Monster Type: Rock / Warrior
+Attribute(s): EARTH
+Monster Type(s): Rock/Warrior
 Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Royal Guard Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000
@@ -46,10 +46,10 @@ DATE: 21/09/2025-------------------------------------------
 
 Name: Exxod, Guardian of the Tombs
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
+Card Subtype(s): Fusion/Effect
 Level: 8
-Attribute: EARTH
-Monster Type: Rock / Warrior
+Attribute(s): EARTH
+Monster Type(s): Rock/Warrior
 Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000
@@ -60,10 +60,10 @@ DATE: 29/05/2025-------------------------------------------
 
 Name: Exxod, Guardian of the Tombs
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
+Card Subtype(s): Fusion/Effect
 Level: 8
-Attribute: EARTH
-Monster Type: Rock
+Attribute(s): EARTH
+Monster Type(s): Rock
 Rules Text: Must first be Special Summoned (from your Extra Deck) with "Royal Guard Fusion Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000
@@ -74,10 +74,10 @@ DATE: 11/06/2025-------------------------------------------
 
 Name: Exxod, Guardian of the Tombs
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
+Card Subtype(s): Fusion/Effect
 Level: 8
-Attribute: EARTH
-Monster Type: Rock
+Attribute(s): EARTH
+Monster Type(s): Rock
 Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card. ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000
@@ -88,10 +88,10 @@ DATE: 29/05/2025-------------------------------------------
 
 Name: Exxod, Guardian of the Valley of Kings
 Card Type: Monster
-Card Subtype(s): Fusion / Effect
+Card Subtype(s): Fusion/Effect
 Level: 8
-Attribute: EARTH
-Monster Type: Rock
+Attribute(s): EARTH
+Monster Type(s): Rock
 Rules Text: Must first be Special Summoned (from your Extra Deck) with "Royal Guard Fusion Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000

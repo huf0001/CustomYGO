@@ -2,9 +2,11 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: ABCDEF
 Card Type: Monster/Spell/Trap
-Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
 Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
 Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
@@ -37,10 +39,10 @@ DATE: DD/MM/YYYY-------------------------------------------
 Name: ABCDEF
 Card Type: Monster/Spell/Trap
 Card Subtype(s): 
-	Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect
-	Quick-Play / Equip / Continuous / Field / Ritual / Counter
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
 Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
 Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0

@@ -4,8 +4,8 @@ Name: Dragon of Glacial Ice and Blazing Fire
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 6
-Attribute: WATER/FIRE
-Monster Type: Aqua Pyro Dragon
+Attribute(s): WATER/FIRE
+Monster Type(s): Aqua/Pyro/Dragon
 Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 WATER and 1 FIRE monster from your GY. You can only activate 1 effect of "Dragon of Glacial Ice and Blazing Fire" per turn, and only once that turn. ① You can activate this effect; look at your opponent's hand and banish 1 card from their hand face-up, until the end of the next turn. ② You can target 1 monster on the field; destroy that target, and if you do, inflict damage to your opponent equal to half its ATK in the GY. This card cannot attack the turn this effect is activated.
 ATK: 2400
 DEF: 2000
@@ -33,8 +33,8 @@ Name: Frost and Flame Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 6
-Attribute: WATER
-Monster Type: Dragon
+Attribute(s): WATER
+Monster Type(s): Dragon
 Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 FIRE and 2 WATER monsters from your GY. Once per turn: You can discard 1 card, then target 1 monster on the field; destroy that target. 
 ATK: 2300
 DEF: 2000

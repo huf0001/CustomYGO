@@ -4,8 +4,8 @@ Name: Ruinous Rare Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
-Attribute: DARK
-Monster Type: Metal Dragon
+Attribute(s): DARK
+Monster Type(s): Metal/Dragon
 Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. ① You can Special Summon this card (from your hand) by banishing 2 Metal and/or Dragon monsters from your GY. ② Once per turn: You can target 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK; destroy it, and if you do, inflict damage to your opponent equal to half its DEF on the field. This card cannot attack the turn you activate this effect.
 ATK: 2400
 DEF: 1200
@@ -34,8 +34,8 @@ Name: Rare Metal Dragon of Destruction
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
-Attribute: DARK
-Monster Type: Metal Dragon
+Attribute(s): DARK
+Monster Type(s): Metal/Dragon
 Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. ① You can Special Summon this card (from your hand) by banishing 2 Metal and/or Dragon monsters from your GY. ② Once per turn: You can target 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK; destroy it, and if you do, inflict damage to your opponent equal to half its DEF on the field. This card cannot attack the turn you activate this effect.
 ATK: 2400
 DEF: 1200
@@ -48,8 +48,8 @@ Name: Rare Metal Dragon of Destruction
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
-Attribute: DARK
-Monster Type: Dragon
+Attribute(s): DARK
+Monster Type(s): Dragon
 Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. ① You can Special Summon this card (from your hand) by banishing 2 Dragon monsters with different Attributes from your GY. ② Once per turn: You can target 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK; destroy it, and if you do, inflict damage to your opponent equal to half its DEF on the field. This card cannot attack the turn you activate this effect.
 ATK: 2400
 DEF: 1200

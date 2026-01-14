@@ -4,8 +4,8 @@ Name: Familiar Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
-Attribute: EARTH
-Monster Type: Metal Dragon
+Attribute(s): EARTH
+Monster Type(s): Metal/Dragon
 Rules Text: ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Metal or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Metal or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
 ATK: 1400
 DEF: 1200
@@ -37,8 +37,8 @@ Name: Familiar Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
-Attribute: DARK
-Monster Type: Metal Dragon
+Attribute(s): DARK
+Monster Type(s): Metal/Dragon
 Rules Text: ① If this card is destroyed by battle: Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck.
 ATK: 1400
 DEF: 1200
@@ -51,8 +51,8 @@ Name: Familiar Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
-Attribute: DARK
-Monster Type: Dragon
+Attribute(s): DARK
+Monster Type(s): Dragon
 Rules Text: ① If this card is destroyed: Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck.
 ATK: 1400
 DEF: 1200
@@ -65,8 +65,8 @@ Name: Familiar Metal Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
-Attribute: DARK
-Monster Type: Dragon
+Attribute(s): DARK
+Monster Type(s): Dragon
 Rules Text: ① (Quick Effect): You can Tribute this card; Special Summon 1 "Rare Metal Dragon" from your hand, Deck, or GY, and if you do, it gains this effect.
 ● If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half that monster's original ATK.
 ATK: 1400
@@ -80,8 +80,8 @@ Name: Familiar Dragon
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
-Attribute: DARK
-Monster Type: Dragon
+Attribute(s): DARK
+Monster Type(s): Dragon
 Rules Text: ① When this card is destroyed by battle and sent to the GY: You can target 1 Level 4 or lower Dragon monster in your GY, except Familiar Dragon; Special Summon it.
 ATK: 1400
 DEF: 1200

@@ -5,7 +5,7 @@ Card Type: Monster
 Card Subtype(s): Effect
 Level: 3
 Attribute: FIRE
-Monster Type: Pyro Dragon
+Monster Type: Pyro / Dragon
 Rules Text: ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Pyro or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Pyro or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
 ATK: 1400
 DEF: 1200
@@ -32,14 +32,14 @@ DATE: DD/MM/YYYY-------------------------------------------
 
 Name: ABCDEF
 Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Card Subtype(s): Normal/Effect/Fusion/Synchro/Xyz/Pendulum/Link/Flip/Gemini/Union/Toon/Tuner/Quick-Play/Equip/Continuous/Field/Ritual/Counter
 Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
 Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
+Monster Type(s): ABCDEF
 (Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 Flavour Text: N/A
 ATK: 9999
