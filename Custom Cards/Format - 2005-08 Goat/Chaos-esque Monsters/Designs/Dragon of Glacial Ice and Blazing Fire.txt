@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dragon of Glacial Ice and Blazing Fire
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: WATER/FIRE
+Monster Type: Aqua Pyro Dragon
+Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 WATER and 1 FIRE monster from your GY. You can only activate 1 effect of "Dragon of Glacial Ice and Blazing Fire" per turn, and only once that turn. ① You can activate this effect; look at your opponent's hand and banish 1 card from their hand face-up, until the end of the next turn. ② You can target 1 monster on the field; destroy that target, and if you do, inflict damage to your opponent equal to half its ATK in the GY. This card cannot attack the turn this effect is activated.
+ATK: 2400
+DEF: 2000
+Last Updated: 14/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Desert Twister
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Desert Twister
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 14/01/2026-------------------------------------------
+
+Name: Frost and Flame Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: WATER
+Monster Type: Dragon
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 FIRE and 2 WATER monsters from your GY. Once per turn: You can discard 1 card, then target 1 monster on the field; destroy that target. 
+ATK: 2300
+DEF: 2000
+Comments: First, let's bring the Summoning condition up to par with Chaos monsters: must first be Special Summoned this way, and only requires 1 monster of each Attribute. Next, higher ATK so it can at least beat over Chaos Sorcerer. And let's add 1 additional effect a la BLS-EotB to make it stronger. Also, if BLS-EotB can banish monsters for free, why is Frost and Flame Dragon destroying for discard? Lastly: multiple Attributes and types.

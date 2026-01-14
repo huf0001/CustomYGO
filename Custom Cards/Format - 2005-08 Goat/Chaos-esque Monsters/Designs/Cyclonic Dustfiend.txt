@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Cyclonic Dustfiend
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: EARTH/WIND
+Monster Type: Rock Air Fiend
+Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH and 1 WIND monster from your GY. You can only activate 1 effect of "Cyclonic Dustfiend" per turn, and only once that turn. ① You can target 1 monster you control; this turn, it cannot be targeted or destroyed by card effects. ② You can target 1 Spell/Trap on the field; destroy it.
+ATK: 2400
+DEF: 2000
+Last Updated: 14/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Desert Twister
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Desert Twister
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 14/01/2026-------------------------------------------
+
+Name: Desert Twister
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 6
+Attribute: WIND
+Monster Type: Fiend
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 WIND and 1 EARTH monsters from your GY. Once per turn: You can discard 1 card, then target 1 Spell/Trap on the field; destroy it. 
+ATK: 2300
+DEF: 2000
+Comments: First, let's bring the Summoning condition up to par with Chaos monsters: must first be Special Summoned this way, and only requires 1 monster of each Attribute. Next, higher ATK so it can at least beat over Chaos Sorcerer. And let's add 1 additional effect a la BLS-EotB to make it stronger. Also, if BLS-EotB can banish monsters for free, why is Desert Twister destroying for discard? Lastly: multiple Attributes and types.
