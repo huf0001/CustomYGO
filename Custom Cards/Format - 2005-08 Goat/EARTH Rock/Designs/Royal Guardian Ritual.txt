@@ -26,6 +26,15 @@ Using non-standard templating of "and, after that" to indicate both A and B are 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 28/12/2025-------------------------------------------
+
+Name: Royal Guard Ritual
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① This card is used to Ritual Summon "Exxod, Guardian of the Tombs". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. 
+Comments: Renaming.
+
+
 DATE: 21/12/2025-------------------------------------------
 
 Name: Royal Guard Ritual

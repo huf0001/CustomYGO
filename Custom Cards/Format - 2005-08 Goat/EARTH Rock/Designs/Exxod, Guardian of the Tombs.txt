@@ -6,10 +6,10 @@ Card Subtype(s): Ritual / Effect
 Level: 8
 Attribute: EARTH
 Monster Type: Rock / Warrior
-Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Royal Guard Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Royal Guardian Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster you control is flipped face-up, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000
-Last Updated: 21/12/2025
+Last Updated: 14/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +27,20 @@ For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/12/2025-------------------------------------------
+
+Name: Exxod, Guardian of the Tombs
+Card Type: Monster
+Card Subtype(s): Ritual / Effect
+Level: 8
+Attribute: EARTH
+Monster Type: Rock / Warrior
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Royal Guard Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster is Flip Summoned, inflict 1000 damage to your opponent.
+ATK: 0
+DEF: 4000
+Comments: Buffing the damage effect to apply any time a monster is flipped face-up. Also renaming the Ritual Spell.
+
 
 DATE: 21/09/2025-------------------------------------------
 
