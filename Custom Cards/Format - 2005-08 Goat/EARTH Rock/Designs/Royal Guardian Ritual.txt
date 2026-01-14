@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Royal Guard Ritual
+Name: Royal Guardian Ritual
 Card Type: Spell
 Card Subtype(s): Ritual
 Rules Text: ① This card is used to Ritual Summon "Exxod, Guardian of the Tombs". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. 
