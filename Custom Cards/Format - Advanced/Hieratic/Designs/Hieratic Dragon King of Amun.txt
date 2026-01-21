@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hieratic Dragon King of Amun
+Card Type: Monster
+Card Subtype(s): Xyz/Effect
+Rank: 6
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: 2 Level 6 Dragon monsters
+You can only activate effect ① of "Hieratic Dragon King of Amun" once per turn. ① You can detach 1 material from this card, then target 1 Dragon Normal Monster or 1 "Hieratic" monster in your GY; Special Summon that target, and if it is an Xyz Monster, you can attach 2 Dragon Normal Monsters in your GY to it. This card cannot attack during the turn you activate this effect.
+ATK: 2400
+DEF: 2100
+Last Updated: 15/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Hieratic Dragon King of Atum, Hieratic Sun Dragon Overlord of Heliopolis, Hieratic Sky Dragon Overlord of Heliopolis
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Hieratic Dragon King of Atum
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
