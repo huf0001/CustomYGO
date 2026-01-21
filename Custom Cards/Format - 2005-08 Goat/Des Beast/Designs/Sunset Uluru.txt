@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Sunset Uluru
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: (This card is always treated as a "Des Beast" card.)
+● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Last Updated: 21/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Uluru
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Ayers Rock Sunrise
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Ayers Rock Sunrise
+	Normal Spell
+	Target 1 Beast monster in your GY; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast monster currently in your GY, until the end of this turn. You can only activate 1 "Ayers Rock Sunrise" per turn. 
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

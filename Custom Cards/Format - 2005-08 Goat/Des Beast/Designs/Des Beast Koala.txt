@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Des Beast Koala
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute(s): EARTH
+Monster Type(s): Beast
+Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 1800
+DEF: 1100
+Last Updated: 21/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Des Koala
+Flavour: A Des archetype for Australian animals.
+Artwork: Created in GIMP using:
+● Des Koala
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Des Koala
+	Flip Effect Monster, Level 3 DARK Beast, 1100 ATK / 1800 DEF
+	FLIP: Inflict 400 damage to your opponent for each card in their hand. 
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

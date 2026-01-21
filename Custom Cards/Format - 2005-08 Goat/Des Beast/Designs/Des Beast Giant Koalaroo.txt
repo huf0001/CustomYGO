@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Des Beast Giant Koalaroo
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 9
+Attribute(s): EARTH
+Monster Type(s): Beast
+Rules Text: 3 Des Beast monsters
+Must first be Special Summoned (from your Extra Deck) by sending the above monsters you control to the GY. ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ● 
+ATK: 4200
+DEF: 3700
+Last Updated: 21/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Master of Oz + Des monsters
+Flavour: A Des archetype for Australian animals.
+Artwork: Created in GIMP using:
+● Master of Oz
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Master of Oz
+	Fusion Monster, Level 9 EARTH Beast, 4200 ATK / 3700 DEF
+	"Big Koala" + "Des Kangaroo" 
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
