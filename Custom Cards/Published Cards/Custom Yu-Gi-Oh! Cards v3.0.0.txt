@@ -30,6 +30,14 @@ Goat Format (17)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
+		HUGO-EN018	Hats of Illusion - Magical Hats
+		HUGO-EN019	Magical HAT
+		HUGO-EN020	Mystic Fairy Box
+		HUGO-EN021	Fairy Box Hole
+		HUGO-EN022	Exxod, Guardian of the Tombs
+		HUGO-EN023	Royal Guard Ritual
+		HUGO-EN024	Ruinous Rare Metal Dragon
+		HUGO-EN025	Familiar Metal Dragon
 
 Gladiator Format (1)
 
