@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Paths of Zera
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: If this card is in your GY while you control 4 "Zera" monsters (1 Level 8 Fairy, 1 Ritual Monster, 1 Fiend non-Ritual Monster, and 1 Zombie monster), you win the Duel. ① Tribute 1 "Warrior of Zera" from your hand or field; Special Summon 1 "Zera" monster, except "Warrior of Zera", from your hand, Deck, or Extra Deck (this is treated as a Special Summon by that monster's correct procedure), and if you do, you can add 1 "The Sanctuary in the Sky", 1 "Pandemonium", 1 "Zombie World", or 1 "Zera" Spell/Trap, except "The Paths of Zera", from your Deck or GY to your hand.
+Last Updated: 26/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Warrior of Zera
+Flavour: Reflects the many paths Warrior of Zera can take, and facilitates the journey for each of them.
+Artwork: Created in GIMP using:
+● Warrior of Zera
+● The Sanctuary in the Sky
+● Pandemonium
+● Zera the Mant-related card?
+● Zombie World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

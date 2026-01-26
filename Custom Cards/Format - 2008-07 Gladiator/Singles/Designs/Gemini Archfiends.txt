@@ -1,0 +1,51 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Gemini Archfiends
+Card Type: Monster
+Card Subtype(s): Gemini/Effect
+Level: 6
+Attribute(s): DARK
+Monster Type(s): Fiend
+Rules Text: Cannot be Normal Summoned/Set from your hand. Must first be Special Summoned (from your hand) by Tributing 1 monster from your hand or field. ① This card is treated as a Normal Monster while face-up on the field or in the Graveyard. ② While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect. 
+● If you Summon a Gemini monster, it immediately becomes an Effect Monster with its listed effect(s).
+ATK: 2500
+DEF: 2200
+Last Updated: 22/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Gemini monsters
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Summoned Skull
+● Archfiend of Gilfer
+● Gemini Imps (posing reference)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Message of Death - Destiny Board
+Card Type: Trap
+Card Subtype(s): Continuous
+Rules Text: When this card has all 4 "Spirit Message" cards with different names underneath it in the proper order of "I", "N", "A", and "L", you win the Duel. ① Once per turn, during your opponent's End Phase: Place 1 "Spirit Message" card from your hand or Deck underneath this card at the bottom of the stack.
+Last Updated: 26/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Destiny Board
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Destiny Board
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Destiny Board:
+	Continuous Trap
+	When this card and all 4 "Spirit Message" cards with different names are placed on your field, you win the Duel. Once per turn, during your opponent's End Phase: Place 1 "Spirit Message" card from your hand or Deck in your Spell & Trap Zone face-up, in the proper order of "I", "N", "A", and "L". When any "Spirit Message" card or "Destiny Board" you control leaves the field, send all "Spirit Message" cards and "Destiny Board" you control to the GY.
+	
+During your opponent's End Phase, or during either player's End Phase?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

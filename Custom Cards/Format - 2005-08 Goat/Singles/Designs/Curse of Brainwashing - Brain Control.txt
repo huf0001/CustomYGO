@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Curse of Brainwashing - Brain Control
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Target 1 face-up monster your opponent controls; take control of it until the End Phase.
+Last Updated: 22/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Brain Control
+Flavour: Anime-accurate Brain Control, which is strictly worse than Change of Heart, now that Change of Heart is Unlimited while Brain Control is still errata-d to be even weaker than when it was originally printed, which was still weaker than Change of Heart.
+Artwork: Created in GIMP using:
+● Brain Control
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
