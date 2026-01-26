@@ -2,8 +2,8 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Duelist Kingdom
 Card Type: Rule
-Rules Text: ① Both players' starting LP become 2000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Level 5 or higher monsters can be Normal Summoned/Set without Tributing. ④ Ritual Monsters can be Ritual Summoned from the Deck. ⑤ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ⑥ Only one monster can attack during each Battle Phase. ⑦ Monsters cannot attack directly. ⑧ Set Normal Spells can be activated during either player's Battle Phase. ⑨ When a monster on the field is destroyed by a card effect, its owner takes damage equal to half its ATK on the field. ⑩ During each player's End Phase, if that player controls no monsters and did not Summon/Set a monster this turn, that player loses the Duel.
-Last Updated: 15/12/2025
+Rules Text: ① Both players' starting LP become 2000. ② The player who goes first draws at the start of their turn. ③ Monsters can be Normal or Flip Summoned in face-up Defense Position. ④ Level 5 or higher monsters can be Normal Summoned/Set without Tributing. ⑤ Ritual Monsters can be Ritual Summoned from the Deck. ⑥ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ⑦ Only one monster can attack during each Battle Phase. ⑧ Monsters cannot attack directly. ⑨ Set Normal Spells can be activated during either player's Battle Phase. ⑩ When a monster on the field is destroyed by a card effect, its owner takes damage equal to half its ATK on the field. ⑪ During each player's End Phase, if that player controls no monsters and did not Summon/Set a monster this turn, that player loses the Duel.
+Last Updated: 25/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -20,6 +20,14 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/12/2025-------------------------------------------
+
+Name: Duelist Kingdom
+Card Type: Rule
+Rules Text: ① Both players' starting LP become 2000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Level 5 or higher monsters can be Normal Summoned/Set without Tributing. ④ Ritual Monsters can be Ritual Summoned from the Deck. ⑤ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ⑥ Only one monster can attack during each Battle Phase. ⑦ Monsters cannot attack directly. ⑧ Set Normal Spells can be activated during either player's Battle Phase. ⑨ When a monster on the field is destroyed by a card effect, its owner takes damage equal to half its ATK on the field. ⑩ During each player's End Phase, if that player controls no monsters and did not Summon/Set a monster this turn, that player loses the Duel.
+Comments: Forgot about first-turn draw.
+
 
 DATE: 26/03/2025-------------------------------------------
 

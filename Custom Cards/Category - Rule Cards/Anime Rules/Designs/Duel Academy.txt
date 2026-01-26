@@ -2,8 +2,8 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Duel Academy
 Card Type: Rule
-Rules Text: ① Both players' starting LP become 4000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ④ When a Special Summon Monster being attacked leaves the field before damage calculation by a card effect and any materials used to properly Special Summon it by its correct procedure are Special Summoned, negate that attack. ⑤ Special Summon Monsters can be Special Summoned from the GY or banishment even if they were not properly Special Summoned by their correct procedure first. ⑥ "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
-Last Updated: 06/01/2026
+Rules Text: ① Both players' starting LP become 4000. ② The player who goes first draws at the start of their turn. ③ Monsters can be Normal or Flip Summoned in face-up Defense Position. ④ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ⑤ When a Special Summon Monster being attacked leaves the field before damage calculation by a card effect and any materials used to properly Special Summon it by its correct procedure are Special Summoned, negate that attack. ⑥ Special Summon Monsters can be Special Summoned from the GY or banishment even if they were not properly Special Summoned by their correct procedure first. ⑦ "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
+Last Updated: 24/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -20,6 +20,14 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/01/2026-------------------------------------------
+
+Name: Duel Academy
+Card Type: Rule
+Rules Text: ① Both players' starting LP become 4000. ② Monsters can be Normal or Flip Summoned in face-up Defense Position. ③ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ④ When a Special Summon Monster being attacked leaves the field before damage calculation by a card effect and any materials used to properly Special Summon it by its correct procedure are Special Summoned, negate that attack. ⑤ Special Summon Monsters can be Special Summoned from the GY or banishment even if they were not properly Special Summoned by their correct procedure first. ⑥ "When" effects become "If" effects and can activate whether their requirements being met was the last action to happen or not.
+Comments: Forgot about first-turn draw.
+
 
 DATE: 15/12/2025-------------------------------------------
 

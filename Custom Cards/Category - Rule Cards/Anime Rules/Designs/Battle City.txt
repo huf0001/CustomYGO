@@ -2,8 +2,8 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Battle City
 Card Type: Rule
-Rules Text: ① Players' starting LP become 4000. ② During the Draw Phase, cards and effects that can be activated during the Draw Phase can be activated before the turn player draws for their normal draw. ③ Monsters can be Normal or Flip Summoned in face-up Defense Position. ④ Level 10 or higher monsters must be Normal Summoned/Set by Tributing 3 monsters. ⑤ Ritual and Extra Deck Monsters on the field can be treated as a number of Tributes equal to the number of materials or Tributes used to Special Summon them by their correct procedure, or the minimum number required if Special Summoned by other means. ⑥ Token Monsters do not occupy a Main Monster Zone. ⑦ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ⑧ Players do not reveal cards sent from their hand or Deck to the GY or banishment. ⑨ Players cannot look at their opponent's GY or banishment. ⑩ Ritual and Extra Deck Monsters cannot attack on the turn they are Special Summoned by their correct procedure. ⑪ When a player Special Summons a monster while their monster is being attacked, change the attack target to the Special Summoned monster and perform damage calculation. ⑫ When a monster being attacked leaves the field before damage calculation except by battle, negate that attack. ⑬ Set Spell Cards can be activated during the opponent's turn or either player's Battle Phase. ⑭ When a Spell/Trap Card is destroyed, its effects are negated.
-Last Updated: 06/01/2025
+Rules Text: ① Players' starting LP become 4000. ② The player who goes first draws at the start of their turn. ③ During the Draw Phase, cards and effects that can be activated during the Draw Phase can be activated before the turn player draws for their normal draw. ④ Monsters can be Normal or Flip Summoned in face-up Defense Position. ⑤ Level 10 or higher monsters must be Normal Summoned/Set by Tributing 3 monsters. ⑥ Ritual and Extra Deck Monsters on the field can be treated as a number of Tributes equal to the number of materials or Tributes used to Special Summon them by their correct procedure, or the minimum number required if Special Summoned by other means. ⑦ Token Monsters do not occupy a Main Monster Zone. ⑧ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ⑨ Players do not reveal cards sent from their hand or Deck to the GY or banishment. ⑩ Players cannot look at their opponent's GY or banishment. ⑪ Ritual and Extra Deck Monsters cannot attack on the turn they are Special Summoned by their correct procedure. ⑫ When a player Special Summons a monster while their monster is being attacked, change the attack target to the Special Summoned monster and perform damage calculation. ⑬ When a monster being attacked leaves the field before damage calculation except by battle, negate that attack. ⑭ Set Spell Cards can be activated during the opponent's turn or either player's Battle Phase. ⑮ When a Spell/Trap Card is destroyed, its effects are negated.
+Last Updated: 25/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -20,6 +20,14 @@ None
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 06/01/2026-------------------------------------------
+
+Name: Battle City
+Card Type: Rule
+Rules Text: ① Players' starting LP become 4000. ② During the Draw Phase, cards and effects that can be activated during the Draw Phase can be activated before the turn player draws for their normal draw. ③ Monsters can be Normal or Flip Summoned in face-up Defense Position. ④ Level 10 or higher monsters must be Normal Summoned/Set by Tributing 3 monsters. ⑤ Ritual and Extra Deck Monsters on the field can be treated as a number of Tributes equal to the number of materials or Tributes used to Special Summon them by their correct procedure, or the minimum number required if Special Summoned by other means. ⑥ Token Monsters do not occupy a Main Monster Zone. ⑦ Monsters treated as Equip Spells are also still Monster Cards for card effects that affect, target, or Tribute monsters on the field. ⑧ Players do not reveal cards sent from their hand or Deck to the GY or banishment. ⑨ Players cannot look at their opponent's GY or banishment. ⑩ Ritual and Extra Deck Monsters cannot attack on the turn they are Special Summoned by their correct procedure. ⑪ When a player Special Summons a monster while their monster is being attacked, change the attack target to the Special Summoned monster and perform damage calculation. ⑫ When a monster being attacked leaves the field before damage calculation except by battle, negate that attack. ⑬ Set Spell Cards can be activated during the opponent's turn or either player's Battle Phase. ⑭ When a Spell/Trap Card is destroyed, its effects are negated.
+Comments: Forgot about first-turn draw.
+
 
 DATE: 26/03/2025-------------------------------------------
 
