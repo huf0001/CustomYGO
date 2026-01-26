@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Anime and RPG Logic
+Card Type: Rule
+Rules Text: ① If a card had a condition, effect, or ability in the anime or manga that did not carry over to the card game, that card retains that condition, effect, or ability. ② If a card's art or design suggests that it should have a condition, effect, or ability that is not listed in its rules text, you can have that card gain that condition, effect, or ability if you convince either a simple majority of players participating in the Duel OR an adjudicating judge or game master that that card should have that condition, effect, or ability. ③ If you want to use a card to take an action that falls outside the rules or is beyond that card's agreed conditions, effects, or abilities, you can use that card to take that action if you convince either a simple majority of players participating in the duel OR an adjudicating judge or game master that you should be able to take that action.
+Last Updated: 25/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Duelist Kingdom D&D-style logic
+Flavour: 
+Artwork: Created in GIMP using:
+● Duelist Kingdom
+● Castle of Dark Illusions (card)
+● Yellow Luster Shield (card)
+● Gaia the Dragon Champion (card)
+● Catapult Turtle (card)
+● Swords of Revealing Light (card)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Silver-bordered.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
