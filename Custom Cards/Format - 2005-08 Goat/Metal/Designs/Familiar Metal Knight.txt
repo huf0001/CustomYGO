@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Familiar Metal Knight
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Metal/Warrior
+Rules Text: ① When this card is destroyed by battle and sent to the GY; You can Special Summon 1 Level 4 or lower monster from your hand.
+ATK: 1400
+DEF: 1200
+Last Updated: 22/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Familiar Knight
+Flavour: Familiar Knight as a Metal monster
+Artwork: Created in GIMP using:
+● Familiar Knight
+● Rare Metal Dragon
+● https://www.freepik.com/free-photo/texture-with-metallic-effect_1046625.htm
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Pendulum / Normal / Evolution / Ritual / Advanced Ritual / Fusion / Synchro / Xyz / Link / Flip / Gemini / Union / Toon / Tuner / Effect / Quick-Play / Equip / Continuous / Field / Ritual / CounterLevel/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
