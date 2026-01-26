@@ -1,4 +1,11 @@
-Goat Format (17)
+Goat Format (26)
+
+	Container Monsters
+	
+		HUGO-EN018	Hats of Illusion - Magical Hats				(Spell/Quick-Play)
+		HUGO-EN019	Magical Hat									(Monster/Container/Effect)
+		HUGO-EN020	Mystic Fairy Box							(Spell/Quick-Play)
+		HUGO-EN021	Fairy Box Hole								(Monster/Container/Effect)
 	
 	Lycanthrope
 	
@@ -30,14 +37,11 @@ Goat Format (17)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
-		HUGO-EN018	Hats of Illusion - Magical Hats
-		HUGO-EN019	Magical HAT
-		HUGO-EN020	Mystic Fairy Box
-		HUGO-EN021	Fairy Box Hole
-		HUGO-EN022	Exxod, Guardian of the Tombs
-		HUGO-EN023	Royal Guard Ritual
-		HUGO-EN024	Ruinous Rare Metal Dragon
-		HUGO-EN025	Familiar Metal Dragon
+		HUGO-EN022	Exxod, Guardian of the Tombs				(Monster/Ritual/Effect)
+		HUGO-EN023	Royal Guard Ritual							(Spell/Ritual)
+		HUGO-EN024	Ruinous Rare Metal Dragon					(Monster/Effect)
+		HUGO-EN025	Familiar Metal Knight						(Monster/Effect)
+		HUGO-EN026	Familiar Metal Dragon						(Monster/Effect)
 
 Gladiator Format (1)
 
@@ -111,6 +115,8 @@ Rule Cards (3)
 
 	Singles
 	
+		HURU-EN000	Rules vs Cards' Rules Text					(Rule)
 		HURU-EN001	Duelist Kingdom								(Rule)
 		HURU-EN002	Battle City									(Rule)
 		HURU-EN003	Duel Academy								(Rule)
+		HURU-EN004	Container Monsters							(Rule)
