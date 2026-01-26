@@ -3,9 +3,9 @@ TECHNICAL----------------------------------------------------------------------
 Name: World of Fantasy - Toon World
 Card Type: Spell
 Card Subtype(s): Continuous
-Rules Text: (This card's name is always treated as "Toon World".)
-① Non-Effect Monsters you control are treated as Toon monsters. ② You do not pay LP to declare an attack with a Toon monster. ③ Toon monsters you control that can attack and change their battle position cannot be destroyed by battle with a non-Toon monster, also you take no battle damage from those battles.
-Last Updated: 14/06/2025
+Rules Text: (This card's name is always treated as "Toon World".) Effects ③ and ④ do not apply to monsters that cannot attack or change battle position. ① Non-Effect Monsters you control are treated as Toon monsters. ② Negate the effects of Toon monsters you control that stop them from attacking the turn they are Summoned or unless you pay LP, and that destroy them when "Toon World" is destroyed, even after this card leaves the field. ③ Toon monsters you control cannot be destroyed by battle with non-Toon monsters, and you take no battle damage from those battles. ④ During your Main Phase, you can place Toon monsters you control underneath this card (they are still treated as being on the field for Equip Cards, counters, lingering effects that affect them, and whether your opponent can attack directly), OR return them to your field (they return in the same battle position they were in when they were placed underneath this card). When this card leaves the field, return as many monsters underneath this card as possible to your field. 
+
+Last Updated: 22/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,10 +19,20 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+Can't attack ==> can't be stacked?
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 14/06/2025-------------------------------------------
+
+Name: World of Fantasy - Toon World
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: (This card's name is always treated as "Toon World".)
+① Non-Effect Monsters you control are treated as Toon monsters. ② You do not pay LP to declare an attack with a Toon monster. ③ Toon monsters you control that can attack and change their battle position cannot be destroyed by battle with a non-Toon monster, also you take no battle damage from those battles.
+Comments: Adding the stacking functionality to mimic Toon monsters hiding inside Toon World.
+
 
 DATE: 04/06/2025-------------------------------------------
 
