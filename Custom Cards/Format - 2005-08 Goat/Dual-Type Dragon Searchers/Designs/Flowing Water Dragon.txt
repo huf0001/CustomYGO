@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Flowing Water Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Aqua/Dragon
+Rules Text: You can only activate effect ① of "Flowing Water Dragon" once per turn. ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Aqua or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Aqua or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
+ATK: 1400
+DEF: 1200
+Last Updated: 28/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dual-Type Masked Dragon
+Flavour: Masked Dragon for Aqua and Dragon monsters
+Artwork: Created in GIMP using:
+● Mythic Water Dragon
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 02/01/2026-------------------------------------------
+
+Name: Flowing Water Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: WATER
+Monster Type: Aqua/Dragon
+Rules Text: ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Aqua or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Aqua or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
+ATK: 1400
+DEF: 1200
+Comments: Adding a hard OPT.

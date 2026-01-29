@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Burning Fire Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Pyro/Dragon
+Rules Text: You can only activate effect ① of "Burning Fire Dragon" once per turn. ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Pyro or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Pyro or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
+ATK: 1400
+DEF: 1200
+Last Updated: 02/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dual-Type Masked Dragon
+Flavour: Masked Dragon for Pyro and Dragon monsters
+Artwork: Created in GIMP using:
+● Solar Flare Dragon
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 02/01/2026-------------------------------------------
+
+Name: Crackling Fire Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute: FIRE
+Monster Type: Pyro/Dragon
+Rules Text: ① When this card is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower Pyro or Dragon monster with 1200 or less DEF from your Deck, and if you Special Summon a Dragon monster with a Type other than Pyro or Dragon, you cannot activate the effects of monsters with the same original name until the end of the next turn.
+ATK: 1400
+DEF: 1200
+Comments: Renaming and adding a hard OPT.
