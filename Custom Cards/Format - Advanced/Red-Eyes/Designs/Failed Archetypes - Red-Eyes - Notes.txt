@@ -1,0 +1,122 @@
+Dragons of Legend 2 (16/07/2015)
+
+	Red-Eyes Black Dragon Sword
+	
+		v) Requires The Claw of Hermos, irrelevant to the rest of the archetype at the time.
+		
+	Lord of the Red
+	
+		v) Unsearchable by Preparation of Rites, as it's Level 8, not Level 7 or lower.
+		v) Unwieldly with Advanced Ritual Art, as it requires running a Level 1 monster to Tribute with Red-Eyes Black Dragon, making the deck less consistent and more bricky.
+		v) Not a "Red-Eyes" card.
+		
+	Paladin of Dark Dragon
+	
+		^) Can Summon any Red-Eyes monster, not just Red-Eyes Black Dragon, unlike Paladin of White Dragon.
+		^) Dark Dragon Ritual also has a bonus effect, unlike White Dragon Ritual.
+		v) Not a "Red-Eyes" card.
+	
+	Red-Eyes Burn
+	
+		v) Requires your monster to be destroyed to activate it, and damages your own Life Points.
+	
+	Red-Eyes Spirit
+	
+		^) Free revival with no restrictions.
+		v) Being a Trap Card makes it slower.
+		
+Clash of Rebellions (6/08/2015)
+
+	Red-Eyes Black Flare Dragon
+	
+		v) Only a Normal Monster on the field or in the Graveyard, making it unwieldy with Red-Eyes Fusion.
+		
+	Red-Eyes Archfiend of Lightning
+	
+		v) Only a Normal Monster on the field or in the Graveyard, making it unwieldy with Red-Eyes Fusion to the point that some players just ran the original Summoned Skull instead, despite that being a pure brick and not a Red-Eyes card. 
+		
+	The Black Stone of Legend
+	
+		^) Great starter.
+		v) Not a "Red-Eyes" card.
+		v) Hard "1 effect per turn, once per turn" clause, stopping you from using both effects in 1 turn, or either effect multiple times.
+
+	Black Metal Dragon
+	
+		v) Not a "Red-Eyes" card.
+		
+	Red-Eyes Flare Metal Dragon
+	
+		^) Geneeric requirements let it see play in other decks.
+		^) Not easily removable.
+		^) Punished your opponent for playing the game.
+		v) Only Special Summons Red-Eyes Normal Monsters from the Graveyard.
+		
+	Archfiend Black Skull Dragon
+	
+		v) Not a "Red-Eyes" card.
+		v) Fusion Materials must be Normal Monsters, making it difficult to Fusion Summon due to its in-archetype materials all being Gemini Monsters.
+		v) Only let you shuffle Red-Eyes Normal Monsters into the Deck for bonus damage.
+		
+	Red-Eyes Fusion
+	
+		^) Fusion Summons any Fusion Monster that lists a Red-Eyes monster as material, not just Red-Eyes Fusion Monsters.
+		^) Uses material from the Deck.
+		^) Treats the Fusion Monster as "Red-Eyes Black Dragon".
+		v) Cannot Normal or Special Summon other monsters the turn you activate this card, making it hard to set up other monsters on the board outside of the Fusion Summoned monster. Therefore, too slow.
+		v) Basically only got you a big body on the board.
+		?) Should it lock you out of Summoning non-Red-Eyes monsters (or monsters that mention "Red-Eyes"), instead of out of Summoning all monsters?
+		
+	Cards of the Red Stone
+	
+		^) Decent draw support.
+		^) Sets up Red-Eyes' revival cards.
+		v) HOPT.
+		v) Not a "Red-Eyes" card.
+		
+	Return of the Red-Eyes
+	
+		^) Combined with Red-Eyes Flare Metal Dragon, can give you 2 Red-Eyes monsters for your next turn's plays.
+		v) Only Special Summons Red-Eyes Normal Monsters from the Graveyard.
+		
+Breakers of Shadow (14/01/2016)
+
+	Red-Eyes Retro Dragon
+	
+		^) Strong revival effect.
+		^) Extra Red-Eyes Normal Summons is good.
+		v) Restricted to reviving Level 7 or lower Red-Eyes monsters, so no support for Red-Eyes Darkness Metal Dragon or a Fusion Monster re-named "Red-Eyes Black Dragon" by Red-Eyes Fusion.
+		v) Non-destruction removal would circumvent it.
+		
+Invasion: Vengeance (03/11/2016)
+
+	Meteor Dragon Red-Eyes Impact
+	
+		^) More usable with Meteor Black Comet Dragon than Red-Eyes Archfiend of Lightning was with Archfiend Black Skull Dragon due to not requiring Normal Monsters for its Fusion Materials.
+
+	Meteor Black Comet Dragon
+	
+		^) Didn't require Normal Monsters as Fusion Materials this time.
+		^) Dealt imediate burn damage when Fusion Summoned.
+		^) Special Summoned a Normal Monster from the Graveyard on being sent to the Graveyard.
+		^) Good option for going first if the Red-Eyes player had no other plays.
+		v) Only Special Summons a Normal Monster from the Graveyard.
+	
+	Red-Eyes Insight
+	
+		^) A Spell/Trap searcher was a great benefit to the deck.
+		^) Setting up revival effects was also great for the deck.
+		v) Lacklustre search options outside of Red-Eyes Fusion.
+		
+		
+Themes:
+
+	^) Revival
+	^) Burn
+	^) Xyz Monsters
+	^) Fusion Monsters
+	v) Ritual Monsters
+	v) Normal Monsters
+	v) Gemini
+	v) Equip
+	
