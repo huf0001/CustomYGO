@@ -4,14 +4,14 @@ Name: Red-Eyes Darkness Evolution Dragon
 Card Type: Monster
 Card Subtype(s): Evolution / Effect
 Level: 9
-Attribute: DARK
-Monster Type: Dragon
+Attribute(s): DARK
+Monster Type(s): Shadow/Dragon
 Rules Text: Evolve: "Red-Eyes Black Dragon"
-Requirement: Send 1 "Inferno Fire Blast" from your hand to the GY
+Requirement: Banish 1 "Inferno Fire Blast" from your hand, field, or GY
 ① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
 ATK: 2400
 DEF: 2000
-Last Updated: 18/08/2025
+Last Updated: 28/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,14 +29,30 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 18/08/2025-------------------------------------------
+
+Name: Red-Eyes Darkness Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 9
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: Send 1 "Inferno Fire Blast" from your hand to the GY
+① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
+ATK: 2400
+DEF: 2000 
+Comments: Modifying the Summoning Requirements, also making dual-type.
+
+
 DATE: 26/06/2025-------------------------------------------
 
 Name: Red-Eyes Darkness Evolution Dragon
 Card Type: Monster
 Card Subtype(s): Evolution / Effect
 Level: 9
-Attribute: DARK
-Monster Type: Dragon
+Attribute(s): DARK
+Monster Type(s): Dragon
 Rules Text: Evolve: "Red-Eyes Black Dragon"
 Requirement: While it is equipped with "Mask of Darkness": Send 1 Dragon monster from your Deck to the GY
 ① This card's name is also treated as "Red-Eyes Black Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY.

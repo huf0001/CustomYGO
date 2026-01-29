@@ -7,20 +7,19 @@ Level: 10
 Attribute: LIGHT
 Monster Type: Machine/Dragon
 Rules Text: Evolve: "Blue-Eyes White Dragon"
-Requirement: Send 1 "Burst Stream of Destruction" from your hand to the GY
+Requirement: Banish 1 "Burst Stream of Destruction" from your hand, field, or GY
 ① This card's name is also treated as "Blue-Eyes White Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
 ATK: 3000
 DEF: 2500
-Last Updated: 12/08/2025
+Last Updated: 28/01/2026
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Typal serachers (Masked Dragon, Pyramid Turtle, Warrior Lady of the Wasteland, etc.), Beast monsters
-Flavour: A typal searcher for Beast monsters
+Basis: Blue-Eyes Shining Dragon
+Flavour: 
 Artwork: Created in GIMP using:
-● Armored Rat
-● Forest
+● Blue-Eyes Shining Dragon
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -29,6 +28,22 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 12/08/2025-------------------------------------------
+
+Name: Blue-Eyes Shining Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 10
+Attribute: LIGHT
+Monster Type: Machine/Dragon
+Rules Text: Evolve: "Blue-Eyes White Dragon"
+Requirement: Send 1 "Burst Stream of Destruction" from your hand to the GY
+① This card's name is also treated as "Blue-Eyes White Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
+ATK: 3000
+DEF: 2500
+Comments: Updating the Summoning Requirement
+
 
 DATE: 12/08/2025-------------------------------------------
 
