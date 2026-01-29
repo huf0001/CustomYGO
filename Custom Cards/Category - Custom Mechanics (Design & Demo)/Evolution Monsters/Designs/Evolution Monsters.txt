@@ -10,8 +10,10 @@ CREATIVE-----------------------------------------------------------------------
 
 Basis: Classic Yu-Gi-Oh! Monsters that evolve or transform.
 Flavour: ABCDEF
-Artwork: Created in GIMP using:
-● 
+Artwork (1056 x 528 (2:1)): Created in GIMP using:
+● Red-Eyes Black Dragon?
+● Red-Eyes Black Metal Dragon?
+● Metalmorph?
 
 
 COMMENTS-----------------------------------------------------------------------
