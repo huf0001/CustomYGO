@@ -10,9 +10,9 @@ Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Botto
 Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
 Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999
@@ -46,9 +46,9 @@ Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Botto
 Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
 Left Pendulum Scale: 0
 Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
 Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
 Flavour Text: N/A
 ATK: 9999
 DEF: 9999
