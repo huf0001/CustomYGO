@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Royal Straight Slasher
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 6
+Attribute(s): LIGHT
+Monster Type(s): Warrior
+Rules Text: Must be Special Summoned with "Royal Straight". You can only use each effect of "Royal Straight Slasher" once per turn. ① If you have all of "King's Knight", "Queen's Knight", and "Jack's Knight" in your GY: You can send 5 monsters, with different Levels of 1, 2, 3, 4, and 5, from your hand and/or Deck to the GY, and if you do, destroy all cards your opponent controls. ② When this card is destroyed by battle: You can target up to 3 LIGHT Warrior monsters in your GY; Special Summon them.
+ATK: 2400
+DEF: 1350
+Last Updated: 31/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 11020863
+Debut Set ID: BLCR-EN001
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
