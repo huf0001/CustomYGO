@@ -1,0 +1,36 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Potential
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: You can only activate 1 of effects ② or ③ of "Red-Eyes Potential" per turn, and only once that turn. ① Special Summon 1 "Red-Eyes" monster from your hand, and if you do, equip it with this card. ② You can reveal 1 "Red-Eyes" Evolution Monster in your Extra Deck, then declare 1 card name mentioned in its Requirement; this card's name becomes that declared name until the end of this turn. ③ You can banish this card from your GY, then reveal 1 "Red-Eyes" Evolution Monster in your Extra Deck; add 1 card mentioned in its Requirement from your GY to your hand.
+Last Updated: 31/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 28/01/2026-------------------------------------------
+
+Name: Red-Eyes Potential Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute(s): DARK
+Monster Type(s): Metal/Shadow/Dragon
+Rules Text: ① If this card is Normal or Special Summoned: You can Special Summon 1 "Red-Eyes" monster from your hand, and if you do, equip this card to it. ② You can reveal 1 "Red-Eyes" Evolution Monster in your Extra Deck, then declare 1 card name mentioned in its Requirement; this card's name in your hand, on your field, or in your GY is also treated as that declared name until the end of this turn.
+ATK: 0
+DEF: 0
+Comments: Renaming and making it into an Equip Spell.

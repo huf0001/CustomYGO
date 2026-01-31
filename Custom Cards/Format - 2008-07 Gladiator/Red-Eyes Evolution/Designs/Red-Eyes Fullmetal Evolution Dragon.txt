@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Red-Eyes Fullmetal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 10
+Attribute: DARK
+Monster Type: Machine/Dragon
+Rules Text: Evolve: "Red-Eyes Metal Evolution Dragon" or "Red-Eyes Talon Evolution Dragon"
+Requirement: If it was not Summoned this turn: Send 1 "Metalmorph" or "Dragon Nails" (whichever is not mentioned on the Evolution Material used) from your hand or field to the GY.
+① When a Spell Card or effect is activated: You can discard 1 card; negate the activation, and if you do, destroy it. If it targeted this card, you do not discard to activate this effect. ② If this card would be destroyed, you can send 1 other card from your hand or field to the GY instead. 
+ATK: 3400
+DEF: 3000
+Last Updated: 31/01/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Red-Eyes Black Metal Dragon (+ Metalmorph) + Dragon Nails
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Red-Eyes Black Fullmetal Dragon
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
