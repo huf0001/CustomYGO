@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Flame Swordsman
+Card Type: Monster
+Card Subtype(s): Normal
+Level: 5
+Attribute(s): FIRE
+Monster Type(s): Warrior
+Flavour Text: With a sword wrapped in flames, he is a strong warrior. The attack issued by his sword is very powerful!
+ATK: 1800
+DEF: 1600
+Last Updated: 01/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 45231177
+Debut Set ID: LOB-003
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

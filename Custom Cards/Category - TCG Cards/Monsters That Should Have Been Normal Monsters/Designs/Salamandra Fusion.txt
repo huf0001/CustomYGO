@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Salamandra Fusion
+Card Type: Spell
+Card Subtype(s): Equip
+Rules Text: Equip only to a FIRE Warrior monster. You can only use effect ③ of "Salamandra Fusion" once per turn. ① The equipped monster gains 700 ATK. ② If the equipped monster would be destroyed by battle or card effect, you can destroy this card instead. ③ While this card is equipped to a Fusion Monster you control: You can send this card and the equipped monster to the GY, and if you do, Special Summon 1 1 Fusion Monster that mentions "Flame Swordsman" from your Extra Deck. (This is treated as a Fusion Summon.) 
+Last Updated: 01/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 09102835
+Debut Set ID: MZMI-EN007
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

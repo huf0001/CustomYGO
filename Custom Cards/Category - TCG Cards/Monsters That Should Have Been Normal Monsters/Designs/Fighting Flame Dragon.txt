@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Fighting Flame Dragon
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 5
+Attribute(s): FIRE
+Monster Type(s): Dragon
+Rules Text: 1 Dragon monster + 1 FIRE Warrior monster
+You can only use effect ① of "Fighting Flame Dragon" once per turn. ① Except during the Damage Step (Quick Effect): You can target 1 "Flame Swordsman" or 1 Warrior Fusion Monster you control; equip this card from your field or GY to that monster you control as an Equip Spell. ② While this card is equipped to "Flame Swordsman" or a monster that mentions it, the equipped monster gains 700 ATK and can make a second attack during each Battle Phase. 
+ATK: 1700
+DEF: 1600
+Last Updated: 01/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 36319131
+Debut Set ID: MZMI-EN005
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
