@@ -1,31 +1,45 @@
-	● Red-Eyes Black Metal Dragon
-	● Great Moth
-	● Harpie Lady Sisters
 	● Larvae Moth
-	● Wall Shadow
-	● Fushioh Richie
-	● Metalzoa
+	● Great Moth
 	● Perfectly Ultimate Great Moth
-	● Mirage Knight
-	● Dark Sage
+		● Petit Moth
+	● Harpie Lady Sisters
+		● Elegant Egotist
 	● Thousand Dragon
-	● Archlord Zerato
-	● Mazera DeVille
-	● Dark Magician Knight
+	● Dark Sage
+	● Wall Shadow
+		● Magical Labyrinth
+	● Metalzoa
+	● Red-Eyes Black Metal Dragon
 	● Blue-Eyes Shining Dragon
-	● Red-Eyes Darkness Dragon
-	● Vampire Genesis
+	● Dark Magician Knight
+		● Knight's Title
+	● Mirage Knight
+		● Dark Flare Knight
 	● Gearfried the Swordmaster
-	● Ocean Dragon Lord - Neo-Daedalus
-	● Master Monk
+		● Release Restraint
 	● Winged Kuriboh LV10
-	● Dark Eradicator Warlock
+		● Transcendent Wings
+	● Red-Eyes Darkness Dragon
 	● Cyber Barrier Dragon
+		● Attack Reflector Unit
 	● Cyber Laser Dragon
-	● Princess Curran
-	● Princess Pikeru
-	● Thousand-Eyes Jellyfish
+		● Photon Generator Unit
 	● Vennominaga the Deity of Poisonous Snakes
+		● Rise of the Snake Deity
 	● Jinzo - Lord
 	● Elemental HERO Poison Rose
+		● Rose Bud
+	● Fushioh Richie
+		● Great Dezard
+	● Vampire Genesis
+	● Ocean Dragon Lord - Neo-Daedalus
+	● Archlord Zerato
+	● Mazera DeVille
+	● Master Monk
+	● Dark Eradicator Warlock
+	● Princess Curran
+	● Princess Pikeru
+		● Trial of the Princesses
+	● Thousand-Eyes Jellyfish
+		● Ocean's Keeper
 	● The Legendary Fisherman III
