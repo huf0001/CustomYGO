@@ -7,7 +7,7 @@ Level: 10
 Attribute: DARK
 Monster Type: Shadow/Metal/Dragon
 Rules Text: Evolve: "Red-Eyes Darkness Evolution Dragon" or "Red-Eyes Talon Evolution Dragon"
-Requirement: If it was not Summoned this turn: Send 1 "Darkness Energy" or "Dragon Nails" (whichever is not mentioned on the Evolution Material used) from your hand or field to the GY.
+Requirement: If the Evolution Material was not Summoned this turn: Send 1 "Darkness Energy" or "Dragon Nails" (whichever is not mentioned on it) from your hand or field to the GY.
 ① Gains 400 ATK for each Dragon monster in your GY. ② If this card would be destroyed, you can send 1 other card from your hand or field to the GY instead.
 ATK: 3000
 DEF: 2600

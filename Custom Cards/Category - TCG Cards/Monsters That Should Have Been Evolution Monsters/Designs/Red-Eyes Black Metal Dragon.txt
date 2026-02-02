@@ -7,7 +7,7 @@ Level: 8
 Attribute(s): DARK
 Monster Type(s): Machine
 Rules Text: Evolve: "Red-Eyes Black Dragon"
-Requirement: Send 1 "Metalmorph" equipped to it to the GY.
+Requirement: Send 1 "Metalmorph" equipped to "Red-Eyes Black Dragon" to the GY.
 ATK: 2800
 DEF: 2400
 Last Updated: 31/01/2026

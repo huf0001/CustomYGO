@@ -7,7 +7,7 @@ Level: 7
 Attribute(s): WIND
 Monster Type(s): Dragon
 Rules Text: Evolve: "Baby Dragon"
-Requirement: The effect of "Time Wizard" was activated and the coin toss was called right: Immediately after that effect resolves, Evolution Summon this card, even if it is the opponent's turn.
+Requirement: The effect of "Time Wizard" was activated and the coin toss was called right. Immediately after that effect resolves during either player's turn, Evolution Summon this card. (This is not optional.)
 ATK: 2400
 DEF: 2000
 Last Updated: 31/01/2026

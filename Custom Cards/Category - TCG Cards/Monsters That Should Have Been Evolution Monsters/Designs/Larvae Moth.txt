@@ -7,7 +7,7 @@ Level: 2
 Attribute(s): EARTH
 Monster Type(s): Insect
 Rules Text: Evolve: "Petit Moth"
-Requirement: It is your 2nd turn after it was equipped with "Cocoon of Evolution".
+Requirement: It is your 2nd turn after "Petit Moth" was equipped with "Cocoon of Evolution".
 Must be Evolution Summoned.
 ATK: 500
 DEF: 400

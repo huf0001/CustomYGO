@@ -7,7 +7,7 @@ Level: 10
 Attribute(s): LIGHT
 Monster Type(s): Fairy
 Rules Text: Evolve: "Winged Kuriboh"
-Requirement: Evolution Summon with "Transcendent Wings".
+Requirement: Must be Evolution Summoned with "Transcendent Wings".
 Must be Evolution Summoned. ① During your opponent's Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).
 ATK: 300
 DEF: 200

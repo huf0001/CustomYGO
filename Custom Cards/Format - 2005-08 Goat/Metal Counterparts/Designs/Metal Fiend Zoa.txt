@@ -7,7 +7,7 @@ Level: 8
 Attribute: DARK
 Monster Type: Machine/Fiend
 Rules Text: Evolve: "Zoa"
-Requirement: Send 1 "Metalmorph" from your hand to the GY
+Requirement: Send 1 "Metalmorph" from your hand to the GY.
 ① This card's name is also treated as "Zoa" while on the field, except if used as Evolution Material. ② Unaffected by your opponent's Spell effects.
 ATK: 3000
 DEF: 2300
@@ -25,6 +25,8 @@ Artwork: Created in GIMP using:
 COMMENTS-----------------------------------------------------------------------
 
 For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
+
+TODO: Check custom Red-Eyes metal counterparts for their Requirement and effects. 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

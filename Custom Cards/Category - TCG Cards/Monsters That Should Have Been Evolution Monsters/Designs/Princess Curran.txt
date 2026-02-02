@@ -7,7 +7,7 @@ Level: 4
 Attribute(s): DARK
 Monster Type(s): Spellcaster
 Rules Text: Evolve: "Ebon Magician Curran"
-Requirement: If it destroyed a Level 5 or higher monster by battle this turn: Send 1 "Trial of the Princesses" equipped to it to the GY.
+Requirement: If "Ebon Magician Curran" destroyed a Level 5 or higher monster by battle this turn: Send 1 "Trial of the Princesses" equipped to it to the GY.
 Must be Evolution Summoned. ① Once per turn, during your Standby Phase: Inflict damage to your opponent equal to the number of monsters they control x 600. 
 ATK: 2000
 DEF: 0

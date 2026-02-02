@@ -7,7 +7,7 @@ Level: 6
 Attribute: WIND
 Monster Type: Winged Beast
 Rules Text: Evolve: "Harpie Lady"
-Requirement: Send 1 "Elegant Egotist" from your hand to the GY
+Requirement: Send 1 "Elegant Egotist" from your hand to the GY.
 ① This card is treated as 3 "Harpie Ladys" for effects that count the number of "Harpie Ladys" you control. ② This card can be treated as up to 3 Tributes for the Tribute Summon of a monster.
 ATK: 1300
 DEF: 1400

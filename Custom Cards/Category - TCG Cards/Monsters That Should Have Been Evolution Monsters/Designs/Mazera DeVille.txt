@@ -7,7 +7,7 @@ Level: 8
 Attribute(s): DARK
 Monster Type(s): Fiend
 Rules Text: Evolve: "Warrior of Zera"
-Requirement: "Pandemoniumm" is on the field.
+Requirement: "Pandemonium" is on the field.
 Must be Evolution Summoned. ① When this card is Evolution Summoned, if you control "Pandemonium": Your opponent discards 3 random cards.
 ATK: 2800
 DEF: 2300

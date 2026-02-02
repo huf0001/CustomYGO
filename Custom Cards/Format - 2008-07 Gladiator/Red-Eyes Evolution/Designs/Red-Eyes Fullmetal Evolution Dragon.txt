@@ -7,7 +7,7 @@ Level: 10
 Attribute: DARK
 Monster Type: Machine/Dragon
 Rules Text: Evolve: "Red-Eyes Metal Evolution Dragon" or "Red-Eyes Talon Evolution Dragon"
-Requirement: If it was not Summoned this turn: Send 1 "Metalmorph" or "Dragon Nails" (whichever is not mentioned on the Evolution Material used) from your hand or field to the GY.
+Requirement: If the Evolution Material was not Summoned this turn: Send 1 "Metalmorph" or "Dragon Nails" (whichever is not mentioned on it) from your hand or field to the GY.
 ① When a Spell Card or effect is activated: You can discard 1 card; negate the activation, and if you do, destroy it. If it targeted this card, you do not discard to activate this effect. ② If this card would be destroyed, you can send 1 other card from your hand or field to the GY instead. 
 ATK: 3400
 DEF: 3000

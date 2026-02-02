@@ -7,7 +7,7 @@ Level: 3
 Attribute: EARTH
 Monster Type: Insect
 Rules Text: Evolve: "Petit Moth"
-Requirement: Send 1 "Cocoon of Evolution" from your hand to the GY
+Requirement: Send 1 "Cocoon of Evolution" from your hand to the GY.
 ① Once per turn, during the Standby Phase: Place 1 Moth Counter on this card. ② Gains 150 DEF for each Moth Counter on this card. ③ If this card would be destroyed by battle with an opponent's attacking monster or leave the field by an opponent's card effect, you can Evolution Summon 1 "Moth" Evolution Monster using this card you control as material instead.
 ATK: 0
 DEF: 2000

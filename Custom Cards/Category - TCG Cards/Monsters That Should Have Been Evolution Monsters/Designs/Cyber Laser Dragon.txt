@@ -7,7 +7,7 @@ Level: 7
 Attribute(s): LIGHT
 Monster Type(s): Machine
 Rules Text: Evolve: "Cyber Dragon"
-Requirement: Evolution Summon with "Photon Generator Unit".
+Requirement: Must be Must be Evolution Summoneded with "Photon Generator Unit".
 ① Once per turn: You can destroy 1 monster with ATK or DEF equal to or higher than this card's ATK. 
 ATK: 2400
 DEF: 1800

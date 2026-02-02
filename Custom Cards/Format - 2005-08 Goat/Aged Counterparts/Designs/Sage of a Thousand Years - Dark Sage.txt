@@ -7,7 +7,7 @@ Level: 9
 Attribute: DARK
 Monster Type: Spellcaster
 Rules Text: Evolve: "Dark Magician"
-Requirement: The effect of "Time Wizard" was activated and the coin toss was called right: Immediately after that effect resolves, Evolution Summon this card, even if it is the opponent's turn.
+Requirement: The effect of "Time Wizard" was activated and the coin toss was called right. Immediately after that effect resolves during either player's turn, Evolution Summon this card. (This is not optional.)
 You can only activate each effect of "Sage of a Thousand Years - Dark Sage" once per turn. ① During your Draw Phase, instead of conducting your normal draw: You can add 1 Spell Card from your Deck to your hand. ② During your opponent's turn (Quick Effect): You can send 1 Normal Spell from your hand to the GY; this effect becomes that card's activation effect.
 ATK: 2800
 DEF: 3200

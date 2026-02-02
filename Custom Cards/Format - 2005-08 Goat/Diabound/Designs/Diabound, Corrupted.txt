@@ -7,7 +7,7 @@ Level: 12
 Attribute: DARK
 Monster Type: Fiend
 Rules Text: Evolve: "Diabound, Evolved"
-Requirement: It destroyed a Level 5 or higher monster by battle this turn.
+Requirement: "Diabound, Evolved" destroyed a Level 5 or higher monster by battle this turn.
 ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999

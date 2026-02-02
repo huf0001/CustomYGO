@@ -7,7 +7,7 @@ Level: 6
 Attribute(s): WIND
 Monster Type(s): Winged Beast
 Rules Text: Evolve: "Harpie Lady"
-Requirement: Evolution Summon with "Elegant Egotist".
+Requirement: Must be Evolution Summoned with "Elegant Egotist".
 ATK: 1950
 DEF: 2100
 Last Updated: 30/01/2026

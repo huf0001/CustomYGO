@@ -7,7 +7,7 @@ Level: 8
 Attribute(s): LIGHT
 Monster Type(s): Warrior
 Rules Text: Evolve: "Dark Flare Knight"
-Requirement: Evolution Summon with the effect of "Dark Flare Knight".
+Requirement: Must be Evolution Summoned with the effect of "Dark Flare Knight".
 Must be Evolution Summoned. ① During damage calculation only, this card gains ATK equal to the original ATK of the opponent's monster it is battling. ② During the End Phase of a turn this card attacked or was attacked: Banish this card.
 ATK: 2800
 DEF: 2000

@@ -7,7 +7,7 @@ Level: 7
 Attribute(s): LIGHT
 Monster Type(s): Warrior
 Rules Text: Evolve: "Gearfried the Iron Knight"
-Requirement: Evolution Summon with "Release Restraint".
+Requirement: Must be Evolution Summoned with "Release Restraint".
 Must be Evolution Summoned. ① Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target. 
 ATK: 2600
 DEF: 2200

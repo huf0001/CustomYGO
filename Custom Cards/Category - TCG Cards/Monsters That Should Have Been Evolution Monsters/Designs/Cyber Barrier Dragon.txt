@@ -7,7 +7,7 @@ Level: 6
 Attribute(s): LIGHT
 Monster Type(s): Machine
 Rules Text: Evolve: "Cyber Dragon"
-Requirement: Evolution Summon with "Attack Reflector Unit".
+Requirement: Must be Must be Evolution Summoneded with "Attack Reflector Unit".
 ① Once per turn, while this card is in Attack Position, your opponent's next attack is negated. 
 ATK: 800
 DEF: 2800

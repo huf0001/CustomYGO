@@ -7,7 +7,7 @@ Level: 7
 Attribute(s): DARK
 Monster Type(s): Zombie
 Rules Text: Evolve: "Great Dezard"
-Requirement: It has destroyed at least 2 monsters by battle.
+Requirement: "Great Dezard" has destroyed 2 or more monsters by battle.
 Must be Evolution Summoned. ① Negate the activation and effects of all Spell/Trap Cards that target this card and destroy them. ② Once per turn: You can change this card into face-down Defense Position. ③ When this card is flipped face-up: You can Special Summon 1 Zombie monster from your GY.
 ATK: 2600
 DEF: 2900

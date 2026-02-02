@@ -7,7 +7,7 @@ Level: 8
 Attribute: WATER
 Monster Type: Sea Serpent
 Rules Text: Evolve: "Levia-Dragon - Daedalus"
-Requirement: It was Normal Summoned with 1 Tribute while you controlled a card whose original name is "A Legendary Ocean".
+Requirement: "Levia-Dragon - Daedalus" was Normal Summoned with 1 Tribute while you controlled a card whose original name is "A Legendary Ocean".
 ① You can send 1 "Umi" you control to the GY; send as many other cards in both players' hands and on the field as possible to the GY. 
 ATK: 3000
 DEF: 2100

@@ -7,7 +7,7 @@ Level: 10
 Attribute: DARK
 Monster Type: Dragon
 Rules Text: Evolve: "Red-Eyes Black Dragon"
-Requirement: Send 1 "Mask of Darkness" from your hand to the GY
+Requirement: Send 1 "Mask of Darkness" from your hand to the GY.
 You can only activate effect ② of "Red-Eyes Eternal Darkness Dragon" once per turn. ① Gains 500 ATK for each Attribute among Dragon monsters in your GY. ② During your Standby Phase: You can send 1 Dragon monster with a different Attribute from Dragon monsters in your GY from your Deck to the GY. ③ While you have LIGHT, DARK, EARTH, WATER, FIRE, and WIND Dragon monsters in your GY, if your opponent activates a Spell/Trap Card or effect that would affect this card, you can choose 1 monster your opponent controls to be affected instead.
 ATK: 2800
 DEF: 2400
@@ -26,6 +26,7 @@ COMMENTS-----------------------------------------------------------------------
 
 For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Effect Monster.)
 
+TODO: Check non-Darkness focused Red-Eyes Evolutions for their Requirement and effects for comparison.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

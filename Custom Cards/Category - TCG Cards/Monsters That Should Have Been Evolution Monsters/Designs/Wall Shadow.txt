@@ -7,7 +7,7 @@ Level: 7
 Attribute(s): DARK
 Monster Type(s): Warrior
 Rules Text: Evolve: "Labyrinth Wall"
-Requirement: Send 1 "Magical Labyrinth" equipped to it to the GY.
+Requirement: Send 1 "Magical Labyrinth" equipped to "Labyrinth Wall" to the GY.
 ATK: 1600
 DEF: 3000
 Last Updated: 30/01/2026

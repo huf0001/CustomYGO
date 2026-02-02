@@ -7,7 +7,7 @@ Level: 8
 Attribute: DARK
 Monster Type: Zombie
 Rules Text: Evolve: "Ryu Kokki"
-Requirement: Send 1 "Metalmorph" equipped to it to the GY
+Requirement: Send 1 "Metalmorph" equipped to "Ryu Kokki" to the GY.
 ① While this card has material, it is also treated as a Machine monster, it gains 400 ATK/DEF, and it is unaffected by your opponent's Spell effects. ② If this card would be destroyed, you can detach 1 material from this card instead. ③ If this card destroys a monster by battle while it has no material: You can attach that destroyed monster to this card as material.
 ATK: 2400
 DEF: 2000
@@ -27,6 +27,8 @@ Artwork: Created in GIMP using:
 COMMENTS-----------------------------------------------------------------------
 
 For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
+
+TODO: overhaul. Check Red-Eyes evolutions' Requirements and effects for reference. Evolution Monsters now cannot attach or detach, so that effect needs reworking too.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------

@@ -2,8 +2,8 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Evolution Monsters
 Card Type: Rule
-Rules Text: ① Evolution Monsters are Special Summon Monsters that start the Duel in your Extra Deck. ② Evolution Monsters can be Evolution Summoned from your Extra Deck by using the Evolution Material mentioned if you can or have met the Requirement listed. ● To Evolution Summon, during your Main Phase, choose an Evolution Monster from your Extra Deck that you have the correct Evolution Materials for face-up on the field, and, if it lists a Requirement, make sure you have satisfied the Requirement listed and/or can pay any costs it lists. Then, pay any costs listed and place the Evolution Monster on top of the Evolution Material in face-up Attack or Defense Position. ③ When an Evolution Monster is Evolution Summoned, any Equip Cards equipped to its Evolution Material, any other cards or effects that targeted the Evolution Material, any counters on the Evolution Material, any lingering effects applied to the Evolution Material, etc. remain equipped to, targeting, on, applying to, etc. the Summoned Evolution Monster as if it was the same card they originally applied to. ④ An Evolution Material underneath an Evolution Monster is not attached to it like an Xyz Material and cannot be detached to activate effects. It is treated as the same physical card as the Evolution Monster. ⑤ If an Evolution Monster is removed from the field, any Evolution Materials underneath it are moved to the same location if possible, and all cards moved are again treated as separate physical cards. ● If an Evolution Monster would be sent to a location that cards from the Main Deck can be sent to but not cards from the Extra Deck, the Evolution Monster and any Evolution Materials from the Extra Deck are sent to the Extra Deck, and any Evolution Materials from the Main Deck are sent to the specified location. ● If an Evolution Monster would be returned to the Extra Deck, the Evolution Monster and any Evolution Materials from the Extra Deck are returned to the Extra Deck, and any Evolution Materials from the Main Deck are shuffled into the Main Deck. ⑥ If an Evolution Monster tells you to "devolve" it, take the Evolution Monster and send it to the GY, but leave the Evolution Material it was placed on top of on the field. Any Equip Cards, other cards or effect that targeted, counters, lingering effects, etc. that applied to the Evolution Monster continue to apply to the devolved Evolution Material as if it was the same physical card they originally applied to.
-Last Updated: 29/01/2026
+Rules Text: ① Evolution Monsters are Special Summon Monsters that start the Duel in your Extra Deck. ② Evolution Monsters can be Evolution Summoned from your Extra Deck by using the Evolution Material mentioned if you can or have met the Requirement listed. ● Evolution Monsters' Requirements are formatted "(If) CONDITION: COST. ADDITIONAL INSTRUCTIONS." A monster's condition may include any or none of these components. ● Evolution Monsters' Requirements may reference the Evolution Material by name or as "the Evolution Material" if it lists more than 1. If they do, they are always referring to the copy of the Evolution Material being used for the Evolution Summon, not any additional copies you may have on the field (unless otherwise specified.) ● To Evolution Summon, during your Main Phase, choose an Evolution Monster from your Extra Deck that you have the correct Evolution Materials for face-up on the field, and, you have satisfied any condition listed and/or can pay any costs listed in its Requirement. Then, pay any costs and place the Evolution Monster on top of the Evolution Material in face-up Attack or Defense Position, following any additional instructions in the Requirement. ③ When an Evolution Monster is Evolution Summoned, any Equip Cards equipped to its Evolution Material, any other cards or effects that targeted the Evolution Material, any counters on the Evolution Material, any lingering effects applied to the Evolution Material, etc. remain equipped to, targeting, on, applying to, etc. the Summoned Evolution Monster as if it was the same card they originally applied to. ④ An Evolution Material underneath an Evolution Monster is not attached to it like an Xyz Material and cannot be detached to activate effects. It is treated as the same physical card as the Evolution Monster. ⑤ If an Evolution Monster is removed from the field, any Evolution Materials underneath it are moved to the same location if possible, and all cards moved are again treated as separate physical cards. ● If an Evolution Monster would be sent to a location that cards from the Main Deck can be sent to but not cards from the Extra Deck, the Evolution Monster and any Evolution Materials from the Extra Deck are sent to the Extra Deck, and any Evolution Materials from the Main Deck are sent to the specified location. ● If an Evolution Monster would be returned to the Extra Deck, the Evolution Monster and any Evolution Materials from the Extra Deck are returned to the Extra Deck, and any Evolution Materials from the Main Deck are shuffled into the Main Deck. ⑥ If an Evolution Monster tells you to "devolve" it, take the Evolution Monster and send it to the GY, but leave the Evolution Material it was placed on top of on the field. Any Equip Cards, other cards or effect that targeted, counters, lingering effects, etc. that applied to the Evolution Monster continue to apply to the devolved Evolution Material as if it was the same physical card they originally applied to.
+Last Updated: 02/02/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,28 +19,32 @@ Artwork (1056 x 528 (2:1)): Created in GIMP using:
 COMMENTS-----------------------------------------------------------------------
 
 Heavily based on u/Ray_V_Xyz's Evolution Monsters
+
 	● Reddit Post: https://www.reddit.com/r/customyugioh/comments/ob6p7t/custom_summoning_mechanic_evolution_summoning/
 	● Rules Comment: 	https://www.reddit.com/r/customyugioh/comments/ob6p7t/comment/h3lv8e7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+	
+Evolution Monster Requirement formatting:
+
+	● None.		
+	● [CONDITION].		
+	● [COST].	
+	● [ADDITIONAL INSTRUCTIONS].
+	● If [CONDITION]: [COST].	
+	● [CONDITION]. [ADDITIONAL INSTRUCTIONS].
+	● [COST]. [ADDITIONAL INSTRUCTIONS].
+	● If [CONDITION]: [COST]. [ADDITIONAL INSTRUCTIONS].
+	
+Additional Requirement formatting notes:
+
+	● If the Evolution Material is referenced in the Requirement, reference it (at least the first time) by name, e.g. "Dark Magician", not "it". If there are multiple options, (initially) reference it as "the Evolution Material" instead. Afterwards, reference it in any grammatically correct manner that makes clear which card is being referenced in each clause.
+	● If an Evolution Monster's Requirement is only the additional instruction "Must be Evolution Summoned with (the effect of) [CARD NAME].", use "the effect of [CARD NAME]" for monster effects used to perform the Evolution Summon, whether or not they're the material, to avoid confusion. Otherwise just say "with [CARD NAME]" to list the card.
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 29/01/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Evolution Monsters
+Card Type: Rule
+Rules Text: ① Evolution Monsters are Special Summon Monsters that start the Duel in your Extra Deck. ② Evolution Monsters can be Evolution Summoned from your Extra Deck by using the Evolution Material mentioned if you can or have met the Requirement listed. ● To Evolution Summon, during your Main Phase, choose an Evolution Monster from your Extra Deck that you have the correct Evolution Materials for face-up on the field, and, if it lists a Requirement, make sure you have satisfied the Requirement listed and/or can pay any costs it lists. Then, pay any costs listed and place the Evolution Monster on top of the Evolution Material in face-up Attack or Defense Position. ③ When an Evolution Monster is Evolution Summoned, any Equip Cards equipped to its Evolution Material, any other cards or effects that targeted the Evolution Material, any counters on the Evolution Material, any lingering effects applied to the Evolution Material, etc. remain equipped to, targeting, on, applying to, etc. the Summoned Evolution Monster as if it was the same card they originally applied to. ④ An Evolution Material underneath an Evolution Monster is not attached to it like an Xyz Material and cannot be detached to activate effects. It is treated as the same physical card as the Evolution Monster. ⑤ If an Evolution Monster is removed from the field, any Evolution Materials underneath it are moved to the same location if possible, and all cards moved are again treated as separate physical cards. ● If an Evolution Monster would be sent to a location that cards from the Main Deck can be sent to but not cards from the Extra Deck, the Evolution Monster and any Evolution Materials from the Extra Deck are sent to the Extra Deck, and any Evolution Materials from the Main Deck are sent to the specified location. ● If an Evolution Monster would be returned to the Extra Deck, the Evolution Monster and any Evolution Materials from the Extra Deck are returned to the Extra Deck, and any Evolution Materials from the Main Deck are shuffled into the Main Deck. ⑥ If an Evolution Monster tells you to "devolve" it, take the Evolution Monster and send it to the GY, but leave the Evolution Material it was placed on top of on the field. Any Equip Cards, other cards or effect that targeted, counters, lingering effects, etc. that applied to the Evolution Monster continue to apply to the devolved Evolution Material as if it was the same physical card they originally applied to.
+Comments: Adding some clarification regarding Requirements.

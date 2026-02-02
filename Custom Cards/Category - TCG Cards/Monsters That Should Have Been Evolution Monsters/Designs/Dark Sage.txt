@@ -7,7 +7,7 @@ Level: 9
 Attribute(s): DARK
 Monster Type(s): Spellcaster
 Rules Text: Evolve: "Dark Magician"
-Requirement: The effect of "Time Wizard" was activated and the coin toss was called right: Immediately after that effect resolves, Evolution Summon this card, even if it is the opponent's turn.
+Requirement: The effect of "Time Wizard" was activated and the coin toss was called right. Immediately after that effect resolves during either player's turn, Evolution Summon this card. (This is not optional.)
 ① When this card is Evolution Summoned: Add 1 Spell Card from your Deck to your hand. 
 ATK: 2800
 DEF: 3200

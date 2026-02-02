@@ -7,7 +7,7 @@ Level: 8
 Attribute: EARTH/WIND
 Monster Type: Insect
 Rules Text: Evolve: "Great Cocoon of Evolution"
-Requirement: It must have 4 or more Moth Counters on it
+Requirement: "Great Cocoon of Evolution" has 4 or more Moth Counters on it.
 ① Once per turn: You can activate this effect; all face-up monsters your opponent currently controls lose 700 ATK, also they cannot target this card for attacks. This card cannot attack the turn you activate this effect.
 ATK: 2600
 DEF: 2500

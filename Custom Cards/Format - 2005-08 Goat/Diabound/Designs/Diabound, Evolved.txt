@@ -7,7 +7,7 @@ Level: 8
 Attribute: DARK
 Monster Type: Fairy
 Rules Text: Evolve: "Diabound Core"
-Requirement: It destroyed a monster by battle this turn.
+Requirement: "Diabound, Core" destroyed a monster by battle this turn.
 ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999

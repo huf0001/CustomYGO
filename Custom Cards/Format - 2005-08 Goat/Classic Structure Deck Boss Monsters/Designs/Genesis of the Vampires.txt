@@ -7,7 +7,7 @@ Level: 8
 Attribute: DARK
 Monster Type: Zombie / Fiend
 Rules Text: Evolve: "Vampire Lord"
-Requirement: It inflicted battle damage to your opponent this turn.
+Requirement: "Vampire Lord" inflicted battle damage to your opponent this turn.
 ① Once per turn: You can discard 1 Zombie monster to the GY, then target 1 Zombie monster in your GY with a Level less than the discarded Zombie monster's; Special Summon that target.
 ATK: 3000
 DEF: 2100

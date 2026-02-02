@@ -7,7 +7,7 @@ Level: 6
 Attribute(s): EARTH
 Monster Type(s): Plant
 Rules Text: Evolve: "Elemental HERO Knopse"
-Requirement: Evolution Summon with "Rose Bud".
+Requirement: Must be Evolution Summoned with "Rose Bud".
 Must be Evolution Summoned. ① Each time this card inflicts Battle Damage to your opponent: It gains 200 ATK and loses 200 DEF. ② Your opponent can only target "Elemental HERO Poison Rose" for attacks.  
 ATK: 1900
 DEF: 2000
