@@ -1,0 +1,52 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Time Machine Wizard
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 2
+Attribute(s): DARK
+Monster Type(s): Machine/Spellcaster
+Rules Text: (This card's name is always treated as "Time Wizard".)
+You can only activate effect ① of "Time Machine Wizard" once per turn. ① (Quick Effect): You can toss a coin and both players call it. If you call it right, you can destroy 1 monster your opponent controls. If you call it wrong, you can Special Summon 1 Machine monster from your GY. If your opponent calls it wrong and you Summon or destroy a monster with this effect, inflict damage to your opponent equal to that monster's original ATK.
+ATK: 500
+DEF: 400
+Last Updated: 06/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Time Wizard
+Flavour: A Time Wizard retrain if Bandit Keith had taken it from Joey and returned to use it in Battle City.
+Artwork: Created in GIMP using:
+● Time Wizard
+● Time Machine
+● 7 Completed?
+● Slot Machine?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
