@@ -1,6 +1,6 @@
 Files and assets used to create Custom Attribute Icons:
 
-	- Official Attribute icon .SVG files, from yugipedia.com.
+	- Yugipedia's Attribute icon .SVG files, available at https://yugipedia.com/wiki/Attribute.
 	- Fonts used by https://www.cardmaker.net/yugioh, available at https://www.cardmaker.net/uploads/cardmaker_resources/.
 	- Font: DF 隷書体 Std W5 (listed as DFLeiSho Std W5 in GIMP), available at https://eng.fontke.com/font/188509001/. 
 
