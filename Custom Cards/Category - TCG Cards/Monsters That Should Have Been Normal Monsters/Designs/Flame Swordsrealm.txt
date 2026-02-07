@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Flame Swordsdance
+Name: Flame Swordsrealm
 Card Type: Spell
 Card Subtype(s): Continuous
 Rules Text: ① Your opponent cannot activate cards or effects when you Normal Summon a FIRE Warrior monster. ② Once per turn: You can send 1 monster from your hand or face-up field to the GY; Special Summon 1 "Flame Swordsman" from your hand or Deck. ③ Once per turn, when a monster declares an attack: You can target 1 Warrior monster you control; until the end of this turn, it loses exactly 1000 ATK, but all other monsters you currently control gain 1000 ATK. 
