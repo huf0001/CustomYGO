@@ -2,8 +2,8 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Hybrid Ritual Monsters
 Card Type: Rule
-Rules Text: ① Ritual Monsters that do not specify where they can or must be Ritual Summoned from can be put in the Main Deck or the Extra Deck. Ritual Monsters that specify that they can or must be Ritual Summoned from the hand or Deck must be put in the Main Deck, while Ritual Monsters that specify that they can or must be Ritual Summoned from the Extra Deck must be put in the Extra Deck. ② Cards that Ritual Summon Ritual Monsters but don't specify where they are Summoned from can Ritual Summon them from the hand or Extra Deck. ③ If a Ritual Monster that started the Duel in the Extra Deck would be moved to the hand or Deck, it is moved to the Extra Deck instead. If a Ritual Monster that started the Duel in the Deck would be moved to the Extra Deck, it is moved to the Deck instead. ④ Ritual Monsters that apply continous effects to themselves while in the hand or Deck also apply those effects while in the Extra Deck. ⑤ Ritual Monsters, Ritual Spells, and cards that mention them or Ritual Summoning but not other Extra Deck monster card types or Summoning mechanics, that prevent a player(s) from Special Summoning monsters from the Extra Deck prevent non-Ritual Monsters from being Special Summoned from the Extra Deck instead, or if they apply a continuous effect to all of a player's monsters Special Summoned from the Extra Deck, they apply that effect to non-Ritual Monsters Special Summoned from the Extra Deck instead.
-Last Updated: 14/01/2026
+Rules Text: ① Ritual Monsters can be put in the Main Deck and/or the Extra Deck. ② Cards that Ritual Summon Ritual Monsters from the hand and/or Main Deck (or do not specify where they Ritual Summon from) can also Ritual Summon face-down Ritual Monsters from the Extra Deck. ③ If a Ritual Monster started the Duel in the Extra Deck, if it would be moved to the hand or Main Deck, it is moved to the Extra Deck face-down instead. If a Ritual Monster started the Duel in the Main Deck, if it would be moved to the Extra Deck, it is moved to the Main Deck instead. ④ Ritual Monsters that apply continuous effects while in the hand and/or Deck also apply those effects while face-down in the Extra Deck.
+Last Updated: 07/02/2026
 
 CREATIVE-----------------------------------------------------------------------
 
@@ -29,5 +29,15 @@ PREVIOUS VERSIONS--------------------------------------------------------------
 
 DATE: 26/12/2025-------------------------------------------
 
+Name: Hybrid Ritual Monsters
+Card Type: Rule
+① Ritual Monsters can be put in the Main Deck or the Extra Deck. ② Cards that Ritual Summon Ritual Monsters but don't specify where they are Summoned from can Ritual Summon them from the hand, Deck, or Extra Deck. ③ If a Ritual Monster that started the Duel in the Extra Deck is moved to the hand or Deck, it is moved to the Extra Deck instead. If a Ritual Monster that started the Duel in the Deck is moved to the Extra Deck, it is moved to the Deck instead. ④ Ritual Monsters that apply continous effects to themselves while in the hand or Deck also apply those effects while in the Extra Deck. ⑤ Ritual Monsters, Ritual Spells, and cards that mention them or Ritual Summoning but not other Extra Deck monster card types or Summoning mechanics, that prevent a player(s) from Special Summoning monsters from the Extra Deck prevent non-Ritual Monsters from being Special Summoned from the Extra Deck instead, or if they apply a continuous effect to all of a player's monsters Special Summoned from the Extra Deck, they apply that effect to non-Ritual Monsters Special Summoned from the Extra Deck instead.
+Comments: Stripping out the parts that aren't strictly necessary to making Extra Deck Ritual Monsters work, and making it purely optional so players can use their discretion to put Ritual Monsters in the Main Deck or Extra Deck.
+
+
+DATE: 26/12/2025-------------------------------------------
+
+Name: Hybrid Ritual Monsters
+Card Type: Rule
 ① Ritual Monsters can be put in the Main Deck or the Extra Deck. ② Cards that Ritual Summon Ritual Monsters but don't specify where they are Summoned from can Ritual Summon them from the hand, Deck, or Extra Deck. ③ If a Ritual Monster that started the Duel in the Extra Deck is moved to the hand or Deck, it is moved to the Extra Deck instead. If a Ritual Monster that started the Duel in the Deck is moved to the Extra Deck, it is moved to the Deck instead. ④ Ritual Monsters that apply continous effects to themselves while in the hand or Deck also apply those effects while in the Extra Deck. ⑤ Ritual Monsters, Ritual Spells, and cards that mention them or Ritual Summoning but not other Extra Deck monster card types or Summoning mechanics, that prevent a player(s) from Special Summoning monsters from the Extra Deck prevent non-Ritual Monsters from being Special Summoned from the Extra Deck instead, or if they apply a continuous effect to all of a player's monsters Special Summoned from the Extra Deck, they apply that effect to non-Ritual Monsters Special Summoned from the Extra Deck instead.
 Comments: Making some tweaks.

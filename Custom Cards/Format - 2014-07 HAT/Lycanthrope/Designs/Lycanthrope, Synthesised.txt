@@ -6,10 +6,11 @@ Card Subtype(s): Ritual / Effect
 Level: 6
 Attribute: EARTH
 Monster Type: Beast-Warrior
-Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Advanced Synthesis Ritual". ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gains 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+Rules Text: (If this card would be added to the hand or Deck, return it to the Extra Deck face-down instead.)
+You can Ritual Summon this card with "Advanced Synthesis Ritual". Must first be Ritual Summoned (from your Extra Deck). ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gains 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
 ATK: 2400
 DEF: 1800
-Last Updated: 21/12/2025
+Last Updated: 07/02/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -26,10 +27,22 @@ COMMENTS-----------------------------------------------------------------------
 
 Is Lycanthrope on field/GY. Grant Lycanthropes / BWs 200 ATK/DEF per BW in GY. First time would be destroyed each turn, banish BW from GY instead. 
 
-For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion Monster.)
-
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 21/12/2025-------------------------------------------
+
+Name: Lycanthrope, Synthesised
+Card Type: Monster
+Card Subtype(s): Ritual / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "Advanced Synthesis Ritual". ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gains 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+ATK: 2400
+DEF: 1800
+Comments: Updating the conditions to be more specific.
+
 
 DATE: 21/07/2025-------------------------------------------
 

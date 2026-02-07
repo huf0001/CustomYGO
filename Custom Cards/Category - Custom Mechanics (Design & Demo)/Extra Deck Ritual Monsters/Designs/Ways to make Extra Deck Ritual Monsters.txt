@@ -1,0 +1,111 @@
+(1) "Fusion Ritual" Cards----------------------------------------------------------
+
+Name: "Ritual" Monster
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card.
+
+Name: "Fusion Ritual" Spell
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal N or more, and, after that, Special Summon 1 "CARD NAME" from your Extra Deck.
+
+(2) Can be Ritual Summoned (from your Extra Deck)----------------------------------
+
+Name: Ritual Monster
+Card Type: Monster
+Card Subtype(s): Ritual/Effect
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "CARD NAME.
+
+Name: Ritual Spell
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① This card is used to Ritual Summon "CARD NAME". You must also Tribute monsters from your hand or field whose total Levels equal N or more. 
+
+(3) Deckbuilding Condition---------------------------------------------------------
+
+Name: Ritual Monster
+Card Type: Monster
+Card Subtype(s): Ritual/Effect
+Rules Text: (This card is always treated as an Extra Deck monster. During deckbuilding, put it in your Extra Deck.)
+You can Ritual Summon this card (from your Extra Deck) with "CARD NAME.
+
+Name: Ritual Spell
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① This card is used to Ritual Summon "CARD NAME". You must also Tribute monsters from your hand or field whose total Levels equal N or more. 
+
+(3) Unclassified and Summoning condition-------------------------------------------
+
+Name: Ritual Monster
+Card Type: Monster
+Card Subtype(s): Ritual/Effect
+Rules Text: (If this card would be added to the hand or Deck, return it to the Extra Deck face-down instead.)
+You can Ritual Summon this card with "[CARD NAME]". Must first be Ritual Summoned (from your Extra Deck).
+
+Name: Ritual Spell
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① This card is used to Ritual Summon "CARD NAME". You must also Tribute monsters from your hand or field whose total Levels equal N or more. 
+
+(4) Becomes a Ritual Spell in the Deck or GY---------------------------------------
+
+Name: "Ritual" Monster
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Rules Text: Must first be Special Summoned (from your Extra Deck) with a "Fusion Ritual" card.
+
+Name: "Fusion Ritual" Spell
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: ① Tribute monsters from your hand or field whose total Levels equal N or more, and, after that, Special Summon 1 "CARD NAME" from your Extra Deck. ② This card becomes a Ritual Spell in the Deck or GY.
+
+(5) Becomes a Ritual Monster during a Duel-----------------------------------------
+
+Name: "Ritual" Monster
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Rules Text: You can Ritual Summon this card (from your Extra Deck) with "CARD NAME.
+① During a Duel, this card becomes a Ritual Monster.
+
+Name: Ritual Spell
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① This card is used to Ritual Summon "CARD NAME". You must also Tribute monsters from your hand or field whose total Levels equal N or more. 
+
+(6) Treated as a Fusion Monster during deckbuilding--------------------------------
+
+Name: Ritual Monster
+Card Type: Monster
+Card Subtype(s): Ritual/Effect
+Rules Text: (During deckbuilding, this card is treated as a Fusion Monster.)
+You can Ritual Summon this card (from your Extra Deck) with "CARD NAME.
+
+Name: Ritual Spell
+Card Type: Spell
+Card Subtype(s): Ritual
+Rules Text: ① This card is used to Ritual Summon "CARD NAME". You must also Tribute monsters from your hand or field whose total Levels equal N or more. 
+
+
+
+
+
+
+
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
