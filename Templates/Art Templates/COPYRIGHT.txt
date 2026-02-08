@@ -5,13 +5,14 @@ If you would like to use them as well, you're welcome to. Just please credit me 
 	- Sam Huffer
 	- Reddit: u/huf0002
 
-My art assets/templates:										Dimensions:
+My art assets/templates:																							Dimensions:
 
-	- Container Monsters/Container Monsters.xcf					(1388 x 2026)	
-	- Custom Attribute Cards/Custom Attribute Cards.xcf			(1388 x 2026)
-	- Custom Attribute Cards/Custom Attribute Icons.xcf			(132 x 132)
-	- Custom Attribute Cards/*.png								(132 x 132)
-	- Custom Attribute Cards/*/*.png							(132 x 132)
-	- Evolution Monsters/Evolution Monsters.xcf					(1388 x 2026)
-	- Normal Monsters/Normal Monsters.xcf						(1388 x 2026)
-	- Rule Cards/Rule Cards.xcf									(1388 x 2026)
+	- Container Monsters/Container Monsters.xcf															(1388 x 2026)	
+	- Custom Attribute Cards/Custom Attribute Cards.xcf													(1388 x 2026)
+	- Custom Attribute Cards/Custom Attribute Icons.xcf													(132 x 132)
+	- Custom Attribute Cards/*.png																		(132 x 132)
+	- Custom Attribute Cards/*/*.png																	(132 x 132)
+	- Evolution Monsters/Evolution Monsters.xcf															(1388 x 2026)
+	- Extra Deck Monsters with Compressed Materials/Extra Deck Monsters with Compressed Materials.xcf	(1388 x 2026)
+	- Normal Monsters/Normal Monsters.xcf																(1388 x 2026)
+	- Rule Cards/Rule Cards.xcf																			(1388 x 2026)

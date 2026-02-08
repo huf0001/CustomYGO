@@ -6,7 +6,7 @@ Card Subtype(s): Fusion/Effect
 Level: 10
 Attribute(s): EARTH
 Monster Type(s): Rock
-Rules Text: "Alpha The Electromagnet Warrior" + "Beta The Electromagnet Warrior", + "Gamma The Electromagnet Warrior"
+Rules Text: "Alpha The Electromagnet Warrior" + "Beta The Electromagnet Warrior" + "Gamma The Electromagnet Warrior"
 Must first be Special Summoned (from your Extra Deck) by banishing the above monsters in your hand, GY, and/or face-up on your field. ① You can banish 1 Level 4 or lower "Magnet Warrior" monster from your Graveyard, then target 1 card your opponent controls; destroy it. ② If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 each of your banished "Alpha The Electromagnet Warrior", "Beta The Electromagnet Warrior", and "Gamma The Electromagnet Warrior"; Special Summon them. 
 ATK: 3000
 DEF: 2800
