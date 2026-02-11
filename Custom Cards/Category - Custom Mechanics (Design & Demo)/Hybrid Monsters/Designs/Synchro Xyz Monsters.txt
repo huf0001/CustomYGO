@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Synchro Xyz Monsters
+Card Type: Rule
+Rules Text: ① Synchro Xyz Monsters are monsters that are both Synchro Monsters and Xyz Monsters. They have a white and black frame, are always treated as both of those types. ② Synchro Xyz Monsters are put in the Extra Deck. If a Synchro Xyz Monster is moved to the hand or Main Deck, it is returned to the Extra Deck face-down instead. ③ A Synchro Xyz Monster has both a Level and a Rank, indicated by the Level and Rank stars under its name, with "Level L" and Rank R" written next to them, and "L" and "R" being the values of its Level and Rank respectively. Its Level and Rank can differ. ④ A Synchro Xyz Monster can be properly Special Summoned (from your Extra Deck) by being Synchro Summoned (using the Synchro materials listed) or Xyz Summoned (using the Xyz materials listed), unless it has a Summoning condition that states otherwise. ⑤ If a Synchro Xyz Monster is Synchro Summoned or Xyz Summoned, the materials used are attached to it as Xyz materials. ⑥ A Synchro Xyz Monster's effect that activates when it is Synchro Summoned cannot be activated if it is Xyz Summoned, and vice versa, even though it attaches the Synchro materials as Xyz materials.
+Last Updated: 10/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Synchro Xyz Monsters
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Both Synchro materials and Xyz materials, or Xyz materials that can also be Synchro materials:
+
+	● 2 Level 4 monsters (1 Tuner, 1 non-Tuner)
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

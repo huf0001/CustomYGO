@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Ritual Fusion Monsters
+Card Type: Rule
+Rules Text: ① Ritual Fusion Monsters are monsters that are both Ritual Monsters and Fusion Monsters. They have a blue and purple frame, and are always treated as both of those types. ② Ritual Fusion Monsters are put in the Extra Deck, even though they are Ritual Monsters. ③ A Ritual Fusion Monster can be properly Special Summoned (from your Extra Deck) by being Ritual Summoned or Fusion Summoned (using the Fusion Materials listed), unless it has a Summoning condition that states otherwise. ④ A Ritual Fusion Monster's effect that activates when it is Ritual Summoned cannot be activated if it is Fusion Summoned, and vice versa. ⑤ If a Ritual Fusion Monster is moved to the hand or Main Deck, it is returned to the Extra Deck face-down instead. 
+Last Updated: 10/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Ritual Fusion Monsters
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Give Ritual Fusion Monsters that are mainly just meant to be Extra Deck Ritual Monsters Fusion Materials that mimick manga Ritual Monsters' Ritual Summon requirements.
+
+	● Black Luster Ritual: 1 DARK Warrior monster + 2 monsters with 1500 or less ATK
+	● Black Magic Ritual: 1 DARK Spellcaster monster + 2 monsters with 1500 or less ATK
+	● Black Illusion Ritual: 2 Illusion monsters with 100 or less ATK
+	● Curse of the Masked Beast: 1 LIGHT monster + 1 DARK monster
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

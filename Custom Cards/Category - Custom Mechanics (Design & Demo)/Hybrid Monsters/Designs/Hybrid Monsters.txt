@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Hybrid Monsters
+Card Type: Rule
+Rules Text: ① Hybrid Monsters are monsters with multiple Monster Card types (Ritual, Fusion, Synchro, Dark Synchro, Xyz, or Link). They are always treated as all of those types. E.g. a Ritual Fusion Monster is always both a Ritual Monster and a Fusion Monster. ② Hybrid Monsters are put in the Extra Deck, even if they are Hybrid Ritual Monsters. ③ A Hybrid Monster can be properly Special Summoned (from your Extra Deck) via the correct Summoning procedure for any of its card types, unless it has a Summoning condition that states otherwise. E.g. a Synchro Xyz Monster can be Synchro Summoned or Xyz Summoned, using the materials listed for that Summoning procedure. ④ If a Hybrid Monster is Special Summoned using the procedure for one of its card types, effects that activate when a monster is Special Summoned with a different Summoning procedure cannot be activated. E.g. if a Fusion Link Monster is Link Summoned, effects that activate when a monster is Fusion Summoned cannot be activated. ⑤ If a Hybrid Monster is moved to the hand or Main Deck, it is returned to the Extra Deck face-down instead. ⑥ Dark Synchro Monster, Xyz Monster, and Link Monster Hybrid Monsters all have a Negative Level, Rank, or Link Rating property, in addition to the Level or equivalent properties of the other component card types. Their values do not need to be the same. E.g. a Synchro Xyz Monster could be both Level 6 and Rank 4, while a Dark Synchro Link Monster could be Negative Level 7 and Link 3. A Ritual, Fusion, or Synchro Monster that is also a Dark Synchro monster has both a Level and a Negative Level. ⑦ Hybrid Link Monsters have DEF points and can be changed to Defense position. Being in Defense position does not change the orientation of their Link Arrows. E.g. a monster with up and down Link Arrows in Attack position still points up and down while in Defense position, not left and right.
+Last Updated: 10/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Ritual Fusion Monsters
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Give Ritual Fusion Monsters that are mainly just meant to be Extra Deck Ritual Monsters Fusion Materials that mimick manga Ritual Monsters' Ritual Summon requirements. See Black Luster Soldier and Magician of Black Chaos vs Relinquished and Masked Beast.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
