@@ -18,7 +18,7 @@ Basis: Rare Metal Dragon
 Flavour: Playable Rare Metal Dragon retrain
 Artwork: Created in GIMP using:
 ● Rare Metal Dragon
-● End of the World
+● Earthshaker
 
 
 COMMENTS-----------------------------------------------------------------------
