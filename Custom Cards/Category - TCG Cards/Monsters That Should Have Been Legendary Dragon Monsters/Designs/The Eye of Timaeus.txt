@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Eye of Timaeus
+Card Type: Monster
+Card Subtype(s): Legendary Dragon/Effect
+Rules Text: (This card is also always treated as "Legendary Dragon Timaeus".)
+You can only activate 1 "The Eye of Timaeus" per turn. ① Fusion Summon 1 Fusion Monster from your Extra Deck that mentions this card as material, using monsters from your field.
+Last Updated: 15/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Eye of Timaeus
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● The Eye of Timaeus
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 01784686
+Set ID: DRLG-EN005
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

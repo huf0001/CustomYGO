@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Legendary Dragons
+Card Type: Rule
+Rules Text: ① Legendary Dragon Monsters are Monster Cards that act like Spell Cards. ② Legendary Dragon Monsters are put in the Main Deck. ③ Legendary Dragon Monsters do not have an Attribute, Level, monster type, ATK, or DEF property. Legendary Dragon Monsters are unaffected by cards that would affect a monster on the basis of their Attribute, Level, type, ATK, or DEF. ④ A Legendary Dragon cannot be Summoned. Instead, it can be activated during your Main Phase in your Main Monster Zone from your hand or if Set on the field. (After resolving its activation effect, send it to the GY.) ⑤ If you Set a Legendary Dragon Monster, Set it in your Spell and Trap Zone instead of your Monster Zone. While a Legendary Dragon Monster is Set in your Spell and Trap Zone, it is also treated as a Spell (it is still a Monster Card). ⑥ If a Set Legendary Dragon Monster is activated, flip it face-up and move it from your Spell and Trap Zone to your Main Monster Zone.
+Last Updated: 15/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Legendary Dragons
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Legend of Heart
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Give Ritual Fusion Monsters that are mainly just meant to be Extra Deck Ritual Monsters Fusion Materials that mimick manga Ritual Monsters' Ritual Summon requirements. See Black Luster Soldier and Magician of Black Chaos vs Relinquished and Masked Beast.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

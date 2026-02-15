@@ -16,5 +16,6 @@ My art assets/templates:																							Dimensions:
 	- Extra Deck Monsters with Compressed Materials/Extra Deck Monsters with Compressed Materials.xcf	(1388 x 2026)
 	- Hybrid Monsters/Half-and-Half Backgrounds and Borders.xcf											(694 x 1013)
 	- Hybrid Monsters/Hybrid Monsters.xcf																(1388 x 2026)
+	- Legendary Dragons/Legendary Dragons.xcf															(1388 x 2026)
 	- Normal Monsters/Normal Monsters.xcf																(1388 x 2026)
 	- Rule Cards/Rule Cards.xcf																			(1388 x 2026)
