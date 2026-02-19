@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Legendary Knight Timaeus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): LIGHT
+Monster Type(s): Warrior
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned with "Legend of Heart", using "The Eye of Timaeus". ① When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. ② When this card is targeted for an attack: You can target 1 Spell in your GY; Set that target. 
+ATK: 2800
+DEF: 1800
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Frame: Legendary Dragon
+Card ID: 80019195
+Set ID: DRLG-EN001
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/02/2026-------------------------------------------
+
+Name: Legendary Knight Timaeus
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): LIGHT
+Monster Type(s): Warrior
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned with "Legend of Heart". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. When this card is targeted for an attack: You can target 1 Spell in your GY; Set that target. 
+ATK: 2800
+DEF: 1800
+Comments: Original for reference.

@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Timaeus the United Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: You can only use each effect of "Timaeus the United Dragon" once per turn. ① You can reveal 1 Fusion Monster that must be Special Summoned with "The Eye of Timaeus" from your Extra Deck, then send 1 monster mentioned on it, or 1 Spell/Trap that mentions that monster, from your hand or face-up field to the GY; Special Summon this card from your hand. ② During your Main Phase: You can send this card you control and 1 other monster from your hand or field that is mentioned on a Fusion Monster that must be Special Summoned with "The Eye of Timaeus" to the GY (f that card is Set, reveal it), then  Special Summon that Fusion Monster from your Extra Deck (this is treated as a Fusion Summon with "The Eye of Timaeus").
+ATK: 2800
+DEF: 1800
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Frame: Legendary Dragon
+Card ID: 03078380
+Set ID: BACH-EN003
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/02/2026-------------------------------------------
+
+Name: Timaeus the United Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: You can send 1 Spellcaster monster, or 1 Spell/Trap that mentions "Dark Magician", from your hand or face-up field to the GY; Special Summon this card from your hand. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Spellcaster monster. You can only use each effect of "Timaeus the United Dragon" once per turn. 
+ATK: 2800
+DEF: 1800
+Comments: Original for reference.

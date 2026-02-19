@@ -1,0 +1,58 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Timaeus the United Magical Dragon
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 10
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: Must be Special Summoned with "The Eye of Timaeus", using "Dark Magician" or "Dark Magician Girl". You can only use effects ② and ③ of "Timaeus the United Magical Dragon" once per turn each. ① After this card is Special Summoned, it is unaffected by other cards' effects until the end of your next turn. ② If this card battles, during damage calculation: You can make this card gain 100 ATK for each Spell in the GYs and banishment. ③ During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. 
+ATK: 2800
+DEF: 1800
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 85899505
+Set ID: MZMU-EN012
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Timaeus the United Magical Dragon
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 10
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: "The Eye of Timaeus" + "Dark Magician" or "Dark Magician Girl"
+Must be Special Summoned with the effect of "The Eye of Timaeus". You can only use effects ② and ③ of "Timaeus the United Magical Dragon" once per turn each. ① After this card is Special Summoned, it is unaffected by other cards' effects until the end of your next turn. ② If this card battles, during damage calculation: You can make this card gain 100 ATK for each Spell in the GYs and banishment. ③ During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. 
+ATK: 2800
+DEF: 1800
+Comments: Switching The Eye of Timaeus to a Hermos/Critias style Normal Spell that Special Summons a Fusion Monster that must be Special Summoned with it.
+
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Timaeus the United Magical Dragon
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 10
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: "Dark Magician" or "Dark Magician Girl" + 1 Dragon or Spellcaster monster
+After this card is Special Summoned, it is unaffected by other cards' effects until the end of your next turn. You can only use each of the following effects of "Timaeus the United Magical Dragon" once per turn. If this card battles, during damage calculation: You can make this card gain 100 ATK for each Spell in the GYs and banishment. During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. 
+ATK: 2800
+DEF: 1800
+Comments: Original for reference.

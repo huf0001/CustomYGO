@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Legendary Knight Critias
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): LIGHT
+Monster Type(s): Warrior
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned with "Legend of Heart", using "The Fang of Critias". ① When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. ② When this card is targeted for an attack: You can target 1 Trap in your GY; Set that target. It can be activated this turn. 
+ATK: 2800
+DEF: 1800
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Frame: Legendary Dragon
+Card ID: 85800949
+Set ID: DRL2-EN002
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/02/2026-------------------------------------------
+
+Name: Legendary Knight Critias
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): LIGHT
+Monster Type(s): Warrior
+Rules Text: Cannot be Normal Summoned/Set. Must be Special Summoned with "Legend of Heart". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. When this card is targeted for an attack: You can target 1 Trap in your GY; Set that target. It can be activated this turn. 
+ATK: 2800
+DEF: 1800
+Comments: Original for reference.

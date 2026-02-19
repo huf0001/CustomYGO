@@ -1,0 +1,58 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dark Magician the Dragon Knight
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: Must be Special Summoned with "The Eye of Timaeus", using "Dark Magician". ① This card's name becomes "Dark Magician" while on the field or in the GY. ② Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. 
+ATK: 3000
+DEF: 2500
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 41721210
+Set ID: LEDD-ENA00
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Dark Magician the Dragon Knight
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: "The Eye of Timaeus" + "Dark Magician"
+Must be Special Summoned with the effect of "The Eye of Timaeus". ① This card's name becomes "Dark Magician" while on the field or in the GY. ② Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. 
+ATK: 3000
+DEF: 2500
+Comments: Switching The Eye of Timaeus to a Hermos/Critias style Normal Spell that Special Summons a Fusion Monster that must be Special Summoned with it.
+
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Dark Magician the Dragon Knight
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: "Dark Magician" + 1 Dragon monster
+This card's name becomes "Dark Magician" while on the field or in the GY. Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. 
+ATK: 3000
+DEF: 2500
+Comments: Original for reference.

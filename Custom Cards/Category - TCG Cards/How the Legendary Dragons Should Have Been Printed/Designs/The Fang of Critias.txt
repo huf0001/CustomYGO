@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Fang of Critias
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: (This card is also always treated as "Legendary Dragon Critias".)
+You can only activate 1 "The Fang of Critias" per turn. ① Send 1 Trap from your hand or field to the GY, that is mentioned on a Fusion Monster that must be Special Summoned with "The Fang of Critias" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck (this is treated as a Fusion Summon).
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Fang of Critias
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● The Fang of Critias
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Frame: Legendary Dragon
+Card ID: 11082056
+Set ID: DRL2-EN006
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: The Fang of Critias
+Card Type: Monster
+Card Subtype(s): Legendary Dragon/Effect
+Rules Text: (This card is also always treated as "Legendary Dragon Critias".)
+You can only activate 1 "The Fang of Critias" per turn. ① Send 1 Trap from your hand or field to the GY, that is listed on a Fusion Monster that must be Special Summoned with "The Fang of Critias" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck (this is treated as a Fusion Summon).
+Comments: Switching back to Normal Spells that use the Legendary Dragon frame.
+
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: The Fang of Critias
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: (This card is also always treated as "Legendary Dragon Critias".)
+Send 1 Trap from your hand or field to the GY, that is listed on a Fusion Monster that can only be Special Summoned with "The Fang of Critias" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck. You can only activate 1 "The Fang of Critias" per turn. 
+Comments: Original for reference.

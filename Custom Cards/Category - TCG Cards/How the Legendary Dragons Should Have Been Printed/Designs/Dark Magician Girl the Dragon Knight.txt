@@ -1,0 +1,58 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dark Magician Girl the Dragon Knight
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 7
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: Must be Special Summoned with "The Eye of Timaeus", using "Dark Magician Girl". ① Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target. 
+ATK: 2600
+DEF: 1700
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 43892408
+Set ID: DRLG-EN004
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Dark Magician Girl the Dragon Knight
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 7
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: "The Eye of Timaeus" + "Dark Magician Girl"
+Must be Special Summoned with the effect of "The Eye of Timaeus". ① Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target. 
+ATK: 2600
+DEF: 1700
+Comments: Switching The Eye of Timaeus to a Hermos/Critias style Normal Spell that Special Summons a Fusion Monster that must be Special Summoned with it.
+
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Dark Magician Girl the Dragon Knight
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 7
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: "Dark Magician Girl" + 1 Dragon monster
+Must be Fusion Summoned with the above Fusion Materials or with "The Eye of Timaeus". Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target. 
+ATK: 2600
+DEF: 1700
+Comments: Original for reference.

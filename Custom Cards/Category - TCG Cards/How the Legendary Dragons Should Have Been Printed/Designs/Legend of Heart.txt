@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Legend of Heart
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: You can only activate 1 "Legend of Heart" per turn. ① Pay 2000 LP and Tribute 1 Warrior monster; banish up to 3 "Legendary Dragon" Spells with different names from your hand and/or GY, and if you do, Special Summon that many "Legendary Knight" monsters that mention the banished Spells, from your hand, Deck, and/or GY.
+Last Updated: 15/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Frame: Legendary Dragon
+Card ID: 89397517
+Set ID: DRLG-EN006
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Legend of Heart
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: You can only activate 1 "Legend of Heart" per turn. ① Pay 2000 LP and Tribute 1 Warrior monster; banish up to 3 "Legendary Dragon" monsters with different names from your hand and/or GY, and if you do, Special Summon that many "Legendary Knight" monsters with different names from your hand, Deck, and/or GY. 
+Comments: Switching back to Normal Spells that use the Legendary Dragon frame.
+
+
+DATE: 15/02/2026-------------------------------------------
+
+Name: Legend of Heart
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: Pay 2000 LP and Tribute 1 Warrior monster; banish up to 3 "Legendary Dragon" Spells with different names from your hand and/or GY, and if you do, Special Summon that many "Legendary Knight" monsters with different names from your hand, Deck, and/or GY. You can only activate 1 "Legend of Heart" per turn. 
+Comments: Original for reference.

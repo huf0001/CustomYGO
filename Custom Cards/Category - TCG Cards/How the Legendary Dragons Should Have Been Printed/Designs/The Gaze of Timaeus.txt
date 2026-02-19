@@ -1,0 +1,33 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: The Gaze of Timaeus
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: You can only activate 1 "The Gaze of Timaeus" per turn. ① Target 1 monster on your field or in your GY that is mentioned on a Fusion Monster that must be Special Summoned with "The Eye of Timaeus"; Shuffle that target into the Deck and Special Summon that Fusion Monster from your Extra Deck (this is treated as a Fusion Summon with "The Eye of Timaeus"), but banish it during the End Phase of the next turn.
+Last Updated: 18/02/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: The Gaze of Timaeus
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● The Gaze of Timaeus
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Frame: Legendary Dragon
+Card ID: 22283204
+Set ID: MZMU-EN013
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/02/2026-------------------------------------------
+
+Name: The Gaze of Timaeus
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: Target 1 "Dark Magician" or "Dark Magician Girl" in your field or GY; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions that monster as material, by shuffling it into the Deck as material (this is treated as a Fusion Summon with "The Eye of Timaeus"), but banish it during the End Phase of the next turn. You can only activate 1 "The Gaze of Timaeus" per turn. 
+Comments: Original for reference.
