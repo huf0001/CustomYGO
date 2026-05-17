@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: LV Down
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Effect(s): ① Target 1 face-up "LV" monster on the field; return it to its owner's deck, and if you do, Special Summon 1 "LV" monster that mentions or is mentioned by the target, but with a lower Level, from its owner's GY to their side of field, ignoring its Summoning conditions.
+Last Updated: 16/03/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: LV monsters
+Flavour: Levelling down a LV monster
+Artwork: Created in GIMP using:
+● Armed Dragon LV 5?
+● Armed Dragon LV 7?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Basically an in-archetype errata for Level-Down!?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
