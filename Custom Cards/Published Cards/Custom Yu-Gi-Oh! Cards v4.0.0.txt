@@ -1,24 +1,22 @@
 Goat Format (26)
 
-	Container Monsters
+	Container Monsters (4)
 	
 		HUGO-EN018	Hats of Illusion - Magical Hats				(Spell/Quick-Play)
 		HUGO-EN019	Magical Hat									(Monster/Container/Effect)
 		HUGO-EN020	Mystic Fairy Box							(Spell/Quick-Play)
 		HUGO-EN021	Fairy Box Hole								(Monster/Container/Effect)
 	
-	Lycanthrope
+	Lycanthrope (2)
 	
-		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Ritual/Effect)
+		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Ritual/Fusion/Effect)
 		HUGO-EN015	Advanced Synthesis Ritual					(Spell/Ritual)
 	
-	Slime
+	Slime (1)
 	
 		HUGO-EN009	Des Slime									(Monster/Effect)
-			Errata: LON-EN006 Revival Jam						(Monster/Effect)
-			Errata: LON-EN028 Jam Defender						(Trap/Continuous)
 	
-	Typal Searchers
+	Typal Searchers (10)
 	
 		HUGO-EN004	Tower Golem									(Monster/Effect)
 		HUGO-EN005	Angelic Egg									(Monster/Effect)
@@ -31,39 +29,31 @@ Goat Format (26)
 		HUGO-EN016	Chameleon									(Monster/Effect)
 		HUGO-EN017	Armordillo Rat								(Monster/Effect)
 	
-	Singles
+	Singles (9)
 	
 		HUGO-EN001	No-Eyes Dark Maw 							(Monster/Effect)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
 		HUGO-EN003	Extraordinary Reincarnation					(Spell/Normal)
 		HUGO-EN006	The Hateful Blade							(Trap/Normal)
-		HUGO-EN022	Exxod, Guardian of the Tombs				(Monster/Ritual/Effect)
+		HUGO-EN022	Exxod, Guardian of the Tombs				(Monster/Ritual/Fusion/Effect)
 		HUGO-EN023	Royal Guardian Ritual						(Spell/Ritual)
 		HUGO-EN024	Ruinous Rare Metal Dragon					(Monster/Effect)
 		HUGO-EN025	Familiar Metal Knight						(Monster/Effect)
-		HUGO-EN026	Striking Lightning Dragon					(Monster/Effect)
 		HUGO-EN027	Base Metal Dragon							(Monster/Effect)
-		HUGO-EN029	Growing Wood Dragon							(Monster/Effect)
-		HUGO-EN026	Shaking Earth Dragon						(Monster/Effect)
-		HUGO-EN028	Flowing Water Dragon						(Monster/Effect)
-		HUGO-EN030	Burning Fire Dragon							(Monster/Effect)
-		HUGO-EN031	XXXX Wind Dragon							(Monster/Effect)
-		HUGO-EN032	XXXX Light Dragon							(Monster/Effect)
-		HUGO-EN033	XXXX Dark Dragon							(Monster/Effect)
 
 Gladiator Format (1)
 
-	Yubel
+	Yubel (1)
 	
 		HUGL-EN001	Divine Yubel - The Singularity of Love		(Monster/Fusion/Effect)
 
 Edison Format (2)
 	
-	Metal Counterparts
+	Metal Counterparts (1)
 	
 		HUED-EN002	Metal-Armoured Ryu Kokki					(Monster/Evolution/Effect)
 	
-	Singles
+	Singles (1)
 	
 		HUED-EN001	The Restless Grave							(Spell/Equip)
 		
@@ -73,7 +63,7 @@ HAT Format (0)
 
 Advanced Format (31)
 	
-	Dragon Lords
+	Dragon Lords (8)
 	
 		HUFF-EN000	Hatchling of the Dragon Lords				(Monster/Effect)
 		HUFF-EN000	Herald of the Dragon Lords					(Monster/Effect)
@@ -84,7 +74,7 @@ Advanced Format (31)
 		HUFF-EN000	The Skeletal Stone of the Dragon Lords		(Monster/Tuner/Effect)
 		HUFF-EN000	Hatchling of the Dragon Lords				(Monster/Effect)
 	
-	Malefic
+	Malefic (15)
 	
 		HUAD-EN001	Malefic Black Rose Dragon					(Monster/Effect)
 		HUAD-EN002	Malefic Ancient Fairy Dragon				(Monster/Effect)
@@ -102,29 +92,77 @@ Advanced Format (31)
 		HUAD-EN014	Malefic Planetary Gear						(Monster/Tuner/Effect)
 		HUAD-EN015	Malefic Exchange							(Spell/Normal)
 	
-	Neos
+	Neos (1)
 	
 		HUAD-EN025	Elemental HERO Vigilante Neos				(Monster/Fusion/Effect)
 	
-	Olympus
+	Olympus (3)
 	
 		HUAD-EN026	Zeus, Thunderbringer of Olympus				(Monster/Effect)
 		HUAD-EN027	Poseidon, Tideshaker of Olympus				(Monster/Effect)
 		HUAD-EN028	Hades, Underworld Adjudicator of Olympus 	(Monster/Effect)					
 	
-	Singles
+	Singles (4)
 	
 		HUAD-EN024	Syzygy, the Black Sun Dragon				(Monster/Xyz/Effect)
 		HUAD-EN029	Trap Restoration							(Trap/Normal)
 		HUAD-EN030	World of Fantasy - Toon World				(Spell/Continuous)
 		HUAD-EN031	The Living Level							(Monster/Effect)
-		
-Rule Cards (3)
 
-	Singles
+Un-Cards (1)
+
+	Rule Cards (1)
+	
+		HUUN-EN001	Anime and RPG Logic							(Rule)
+
+Rule Cards (6)
+
+	Singles (6)
 	
 		HURU-EN000	Rules vs Cards' Rules Text					(Rule)
 		HURU-EN001	Duelist Kingdom								(Rule)
 		HURU-EN002	Battle City									(Rule)
 		HURU-EN003	Duel Academy								(Rule)
 		HURU-EN004	Container Monsters							(Rule)
+		HURU-EN005	Hybrid Monsters								(Rule)	
+
+TCG Erratas (24)
+
+	Clear (8)
+	
+		SOVR-EN098	Clear Vice Dragon							(Monster/Effect)
+		SOVR-EN099	Clear World									(Spell/Field)
+		MZTM-EN037	Clear Phantom								(Monster/Effect)
+		MZTM EN038	Clear Rage Golem							(Monster/Effect)
+		MZTM-EN039	Clear Cube									(Monster/Effect)
+		MZTM-EN040	Clear Vicious Knight						(Monster/Effect)
+		MZTM-EN041	Clear Wall									(Spell/Continuous)
+		MZTM-EN111	Clear Sacrifice								(Spell/Normal)
+		
+	Egyptian God Cards (5)
+		
+		JUMP-EN037	Obelisk the Tormentor						(Monster/Effect)
+		JUMP-EN045	The Winged Dragon of Ra						(Monster/Effect)
+		JUMP-EN061	Slifer the Sky Dragon						(Monster/Effect)
+		DPBC-EN001	The Winged Dragon of Ra - Sphere Mode		(Monster/Effect)
+		MIL1-EN001	The Winged Dragon of Ra - Immortal Phoenix	(Monster/Effect)
+	
+	Equip Traps (4)
+	
+		MRD-EN144	Kunai with Chain							(Trap/Equip)
+		MRD-EN145	Metalmorph									(Trap/Equip)
+		SRL-EN006	Spellbinding Circle							(Trap/Equip)
+		PSV-EN012	Call of the Haunted							(Trap/Equip)
+	
+	Multi-Attribute Monsters (5)
+	
+		MRD-EN000	Gate Guardian								(Monster/Effect)
+		SD09-ENSS1	Five-Headed Dragon							(Monster/Fusion/Effect)
+		HA05-EN022	Lavalval Dragon								(Monster/Synchro/Effect)
+		REDU-EN092	Number 6: Chronomaly Atlandis				(Monster/Xyz/Effect)
+		CROS-EN038	Nekroz of Sophia							(Monster/Ritual/Effect)
+
+	Slime (2)
+		
+		LON-EN006	Revival Jam									(Monster/Effect)
+		LON-EN028	Jam Defender								(Trap/Continuous)
