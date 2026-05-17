@@ -12,11 +12,8 @@ CREATIVE-----------------------------------------------------------------------
 Basis: ABCDEF
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Exxod, Master of the Guard (back ring)
-● Spellbinding Circle
-
+● Necrovalley
 ● Necrovalley Temple
-● Advanced Ritual Art (glowing light pillar)
 
 
 COMMENTS-----------------------------------------------------------------------

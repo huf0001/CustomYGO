@@ -2,15 +2,15 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Lycanthrope, Synthesised
 Card Type: Monster
-Card Subtype(s): Ritual / Effect
+Card Subtype(s): Ritual/Fusion/Effect
 Level: 6
 Attribute: EARTH
 Monster Type: Beast-Warrior
-Rules Text: (If this card would be added to the hand or Deck, return it to the Extra Deck face-down instead.)
-You can Ritual Summon this card with "Advanced Synthesis Ritual". Must first be Ritual Summoned (from your Extra Deck). ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gains 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+Rules Text: 1 Beast-Warrior monster + 2 monsters with 1500 or less ATK
+You can Ritual Summon this card with "Advanced Synthesis Ritual". ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gains 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
 ATK: 2400
 DEF: 1800
-Last Updated: 07/02/2026
+Last Updated: 13/05/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,6 +29,21 @@ Is Lycanthrope on field/GY. Grant Lycanthropes / BWs 200 ATK/DEF per BW in GY. F
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 07/02/2026-------------------------------------------
+
+Name: Lycanthrope, Synthesised
+Card Type: Monster
+Card Subtype(s): Ritual / Effect
+Level: 6
+Attribute: EARTH
+Monster Type: Beast-Warrior
+Rules Text: (If this card would be added to the hand or Deck, return it to the Extra Deck face-down instead.)
+You can Ritual Summon this card with "Advanced Synthesis Ritual". Must first be Ritual Summoned (from your Extra Deck). ① This card's name becomes "Lycanthrope" on the field and in the GY. ② Each "Lycanthrope" you control gains 200 ATK/DEF for each Beast-Warrior monster in your GY. ③ Once per turn, if this card would be destroyed, you can banish 1 Beast-Warrior monster from your GY instead.
+ATK: 2400
+DEF: 1800
+Comments: Updating to be a hybrid Ritual and Fusion Monster.
+
 
 DATE: 21/12/2025-------------------------------------------
 

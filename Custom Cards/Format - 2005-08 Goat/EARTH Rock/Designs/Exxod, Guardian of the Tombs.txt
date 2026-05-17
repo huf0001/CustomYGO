@@ -2,15 +2,15 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: Exxod, Guardian of the Tombs
 Card Type: Monster
-Card Subtype(s): Ritual/Effect
+Card Subtype(s): Ritual/Fusion/Effect
 Level: 8
 Attribute(s): EARTH
 Monster Type(s): Rock/Warrior
-Rules Text: (If this card would be added to the hand or Deck, return it to the Extra Deck face-down instead.)
-You can Ritual Summon this card with "Royal Guardian Ritual". Must first be Ritual Summoned (from your Extra Deck). ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster you control is flipped face-up, inflict 1000 damage to your opponent.
+Rules Text: 1 EARTH Rock monster + 2 EARTH monsters with 1000 or more DEF
+You can Ritual Summon this card with "Royal Guardian Ritual". ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster you control is flipped face-up, inflict 1000 damage to your opponent.
 ATK: 0
 DEF: 4000
-Last Updated: 07/02/2026
+Last Updated: 13/05/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -19,7 +19,8 @@ Basis: Exxod, Master of the Guard
 Flavour: Ritual retrain of Exxod, Master of the Guard
 Artwork: Created in GIMP using:
 ● Exxod, Master of the Guard
-● Spellbinding Circle
+● Necrovalley
+● Necrovalley Temple
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -28,6 +29,21 @@ For Duelingbook: (This card is always treated as a Ritual Monster, not a Fusion 
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 07/02/2026-------------------------------------------
+
+Name: Exxod, Guardian of the Tombs
+Card Type: Monster
+Card Subtype(s): Ritual/Effect
+Level: 8
+Attribute(s): EARTH
+Monster Type(s): Rock/Warrior
+Rules Text: (If this card would be added to the hand or Deck, return it to the Extra Deck face-down instead.)
+You can Ritual Summon this card with "Royal Guardian Ritual". Must first be Ritual Summoned (from your Extra Deck). ① Once per turn: You can target 1 EARTH Rock monster you control; change it to face-down Defense Position. ② Each time an EARTH monster you control is flipped face-up, inflict 1000 damage to your opponent.
+ATK: 0
+DEF: 4000
+Comments: Updating to be a hybrid Ritual and Fusion Monster.
+
 
 DATE: 14/01/2026-------------------------------------------
 
