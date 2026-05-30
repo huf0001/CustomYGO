@@ -126,7 +126,7 @@ Rule Cards (6)
 		HURU-EN004	Container Monsters							(Rule)
 		HURU-EN005	Hybrid Monsters								(Rule)	
 
-TCG Erratas (24)
+TCG Erratas (36)
 
 	Clear (8)
 	
@@ -154,6 +154,14 @@ TCG Erratas (24)
 		SRL-EN006	Spellbinding Circle							(Trap/Equip)
 		PSV-EN012	Call of the Haunted							(Trap/Equip)
 	
+	Flame Swordsman (5)
+	
+		MZMI-EN005	Fighting Flame Dragon						(Monster/Fusion/Effect)
+		MZMI-EN006	Flame Swordsrealm							(Spell/Continuous)
+		MZMI-EN007	Salamandra Fusion							(Spell/Equip)
+		MZMI-EN010	Flame Swordsdance							(Trap/Normal)
+		DUAD-EN019	Dark Flare Swordsman						(Monster/Effect)
+	
 	Multi-Attribute Monsters (5)
 	
 		MRD-EN000	Gate Guardian								(Monster/Effect)
@@ -161,6 +169,16 @@ TCG Erratas (24)
 		HA05-EN022	Lavalval Dragon								(Monster/Synchro/Effect)
 		REDU-EN092	Number 6: Chronomaly Atlandis				(Monster/Xyz/Effect)
 		CROS-EN038	Nekroz of Sophia							(Monster/Ritual/Effect)
+		
+	Normal Monsters (7)
+	
+		LOB-003		Flame Swordsman								(Monster/Normal)
+		LOB-067		Karbonala Warrior							(Monster/Normal)
+		LOB-091		Labyrinth Tank								(Monster/Normal)
+		MRD-093		Bickuribox									(Monster/Normal)
+		MRD-094		Giltia the Dark Knight						(Monster/Normal)
+		AP02-EN018	Barox										(Monster/Normal)
+		OP01-EN019	Zombie Warrior								(Monster/Normal)
 
 	Slime (2)
 		
