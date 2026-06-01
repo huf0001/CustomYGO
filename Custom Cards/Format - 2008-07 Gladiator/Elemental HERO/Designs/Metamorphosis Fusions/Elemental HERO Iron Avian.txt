@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Elemental HERO Iron Avian
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 3
+Attribute(s): WIND
+Monster Type(s): Warrior
+Rules Text: Must first be Special Summoned with "Metamorphosis", using "Elemental HERO Avian". ① This card's name becomes "Elemental HERO Avian" while on the field. ② Can attack all your opponent's monsters, once each.
+ATK: 1000
+DEF: 1000
+Last Updated: 01/06/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Elemental HERO Avian (2nd Art)
+● Skyscraper
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
