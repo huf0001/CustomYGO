@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Pyromancer Magus
+Card Type: Monster
+Card Subtype(s): Xyz/Effect
+Rank: 4
+Attribute(s): FIRE
+Monster Type(s): Pyro/Spellcaster
+Rules Text: 2 Level 4 monsters (Pyro or Spellcaster)
+You can only activate 1 effect of "Pyromancer Magus" per turn, and only once that turn. ① You can send 1 "Sparks", "Hinotama", "Final Flame", or "Ookazi" with a different name from the cards in your GY from your hand or Deck to the GY, then target 1 FIRE Spellcaster that is attached to this card or in the GY with ATK or DEF equal to the damage the Spell sent to the GY inflicts; Special Summon it, also, apply the activation effect of that Spell. ② You can target 1 each of your "Sparks", "Hinotama", "Final Flame", and "Ookazi" that are in your GY; destroy all monsters your opponent controls, also, apply the targeted Spells' activation effects simultaneously, and if you do, shuffle them into the Deck.
+ATK: 2100
+DEF: 2100
+Last Updated: 05/06/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Make both effects shuffle from GY effects rather than one being a send to GY effect?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
