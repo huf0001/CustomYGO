@@ -1,0 +1,3 @@
+Archlord Boss monsters can be either classic-style Archlords, but that can be Special Summoned when N or more LIGHT Fairy monsters are in the GY, rather than exactly N Fairy monsters, OR Ritual Fusion Monsters. Maybe Ritual Spell shuffles N LIGHT Fairy monsters from the GY to the Deck to Ritual Summon them?
+
+Effects: Stardust Dragon-type effects for boss monsters, Tributing self to prevent something (e.g. Kristya negates a Special Summon or an effect that Special Summons; Joan negates an attack, etc.)
