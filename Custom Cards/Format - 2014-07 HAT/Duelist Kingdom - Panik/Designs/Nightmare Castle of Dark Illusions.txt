@@ -5,19 +5,20 @@ Card Type: Monster
 Card Subtype(s): Effect
 Level: 4
 Attribute: DARK
-Monster Type: Fiend
-Rules Text: ① DARK Fiend monsters you control with original ATK or DEF not divisible by 50, or that mention "Nightmare Castle of Dark Illusions", gain 30% of their original ATK/DEF, rounded up to the nearest 100. ② DARK Fiend monsters you control with original ATK or DEF not divisible by 50 cannot be targeted by your opponent's Spell/Trap cards and effects. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: Rock/Fiend
+Rules Text: ① Monsters you control that mention "Nightmare Castle of Dark Illusions" gain 30% of their original ATK/DEF, rounding the total to the nearest 100. ② Once per turn, during each Standby Phase: DARK Fiend monsters you control gain 200 ATK/DEF. ③ If a monster you control is targeted for an attack or a card effect (Quick Effect): You can number each of your Monster Zones 1 to 6, then roll a six-sided die. If there is a monster in the Monster Zone with the same number as the result, it becomes the target of the attack or effect. Otherwise, the attack or effect is negated. ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 1380
 DEF: 1530
-Last Updated: 28/09/2025
+Last Updated: 03/06/2025
 
 
 CREATIVE-----------------------------------------------------------------------
 
-Basis: Barox
+Basis: Castle of Dark Illusions
 Flavour: ABCDEF
 Artwork: Created in GIMP using:
-● Barox
+● Castle of Dark Illusions
+● Yami
 
 
 
@@ -28,20 +29,15 @@ Supports DARK monsters with ATK or DEF indivisible by 50.
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 28/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Nightmare Castle of Dark Illusions
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute: DARK
+Monster Type: Fiend
+Rules Text: ① DARK Fiend monsters you control with original ATK or DEF not divisible by 50, or that mention "Nightmare Castle of Dark Illusions", gain 30% of their original ATK/DEF, rounded up to the nearest 100. ② DARK Fiend monsters you control with original ATK or DEF not divisible by 50 cannot be targeted by your opponent's Spell/Trap cards and effects. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+ATK: 1380
+DEF: 1530
+Comments: Updating with ideas for attacking in the dark, and also simplifying the effects.

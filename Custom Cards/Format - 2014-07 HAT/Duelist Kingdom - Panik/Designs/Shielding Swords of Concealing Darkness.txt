@@ -1,0 +1,41 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Shielding Swords of Concealing Darkness
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: ① Monsters you control that mention "Nightmare Castle of Dark Illusions" cannot leave the field by your opponent's card effects. ② At the start of the Damage Step, if a monster you control that mentions "Nightmare Castle of Dark Illusions" battles an opponent's attacking monster, except "Nightmare Castle of Dark Illusions": Negate the attack. ③ If a "Nightmare Castle of Dark Illusions" you control would be destroyed by battle, you can equip this Continuous Spell to it instead, but destroy all monsters you control during the End Phase. ④ If you do not control a face-up "Nightmare Castle of Dark Illusions", destroy this card.
+Last Updated: 03/06/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
