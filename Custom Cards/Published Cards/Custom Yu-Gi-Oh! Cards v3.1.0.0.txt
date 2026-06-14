@@ -184,3 +184,11 @@ TCG Erratas (36)
 		
 		LON-EN006	Revival Jam									(Monster/Effect)
 		LON-EN028	Jam Defender								(Trap/Continuous)
+		
+Counterfeit Card Re-creations (3)
+
+	Exodia (3)
+	
+		300-000 Darkly Big Rabbi								(Monster/Effect)
+		412 Dark Master											(Monster/Effect)
+		LIM-000 Exodia, the Dark Master							(Monster/Effect)

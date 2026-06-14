@@ -1,19 +1,22 @@
-Version number A.B.C
+Version number A.B.C.D
 
 Increment A when:
 
-	Publishing a new custom archetype or series.
 	Publishing a new custom card type.
-	Overhauling an archetype or series.
 	Overhauling a custom card type.
 
 Increment B when:
 
-	Publishing a new single.
-	Adding new support for an archetype or series that has already had custom cards published.
-	Adding new support that makes an existing custom card that was a single part of an archetype or series.
-	
+	Publishing a new custom archetype or series, including TCG erratas or counterfeit card re-creations.
+	Overhauling an archetype or series, including TCG erratas or counterfeit card re-creations.
+	Adding new support that makes an existing custom card that was a single part of an archetype or series, including TCG erratas or counterfeit card re-creations.
+
 Increment C when:
 
-	Errata-ing a card(s).
+	Publishing a new single, including TCG erratas or counterfeit card re-creations.
+	Adding new support for an archetype or series that has already had custom cards published.
+	
+Increment D when:
+
+	Errata-ing a previously published card(s).
 	Restructuring Published Cards.
