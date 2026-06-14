@@ -1,0 +1,57 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Exodia, the Dark Master
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 12
+Attribute(s): DARK
+Monster Type(s): Spellcaster
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: The most powerful guardian. With his infinite dark power, he can destroy all enemies and win the Duel immediately.
+ATK: INFINITY
+DEF: INFINITY
+Last Updated: 14/06/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● https://www.deviantart.com/cardsoricabr/art/Dark-Master-Exodia-Fake-1234595978
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Exodia counterfeits' text:
+
+	Exodia, the Dark Master: The most powerful guardian, with his infinity dark power can destroy all enemy and win the duel immediately.
+	
+	Dark Master: While the Dark master released, all monster with endless offensive will be destroyed.
+	
+	Darkly Big Rabbi: When the beelzebub, seal was been untied, any enemy will been destroying at minute.
+	
+	Poorly translate Exodia: Gathering 5 of the great enchanter, left hand, right hand, left foot, right foot, and recovered dark warrior, limitless attack power can ruin all the enemy in 1 second.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
