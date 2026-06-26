@@ -149,10 +149,10 @@ TCG Erratas (36)
 	
 	Equip Traps (4)
 	
-		MRD-EN144	Kunai with Chain							(Trap/Equip)
+		SRL-006		Spellbinding Circle							(Trap/Equip)
+		PSV-012		Call of the Haunted							(Trap/Equip)
 		MRD-EN145	Metalmorph									(Trap/Equip)
-		SRL-EN006	Spellbinding Circle							(Trap/Equip)
-		PSV-EN012	Call of the Haunted							(Trap/Equip)
+		TDGS-EN098	Kunai with Chain							(Trap/Equip)
 	
 	Flame Swordsman (5)
 	
