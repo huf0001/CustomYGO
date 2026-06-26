@@ -1,0 +1,25 @@
+Planeswalker-esque character card type
+
+	- [CHARACTER_SUBTYPE]/Character, like with Skill Cards
+	- Has LP in the ATK/DEF row, not ATK or DEF
+	- No Attribute or Level
+	- Gold frame
+	- Like Planeswalkers, can be attacked by monsters, or have damage effects redirected to them.
+		- Does not prevent the opponent from attacking directly.
+	- Can gain or pay their own LP like Planeswalkers can gain or pay loyalty counters to use effects.
+	- Can only control 1 Character of the same type, e.g. only 1 Character with the typeline "Yugi/Character".
+	- Uses up Normal Summon to play.
+	- Summon in Monster Zones or in Character Zone?
+		- If Summoned in Character Zone, is there a limit on the number of Character Cards that can be Summoned to the Character Zone?
+	
+Research
+
+	- Magic: The Gathering's Planeswalker Cards.
+	- Yu-Gi-Oh!:
+		- Speed Duels' Skill Cards.
+		- Duel Links' Skills.
+	- One Piece: How does that game handle characters from the anime?
+	- Lorcana: Does it have a mechanic for characters from Disney's various IPs?
+	- Duel Masters: Does it have a mechanic for characters from its IP?
+	- Star Wars: Is there a Star Wars TCG with a mechanic for characters from its IP?
+	- Harry Potter TCG: How did that game handle characters from the books?
