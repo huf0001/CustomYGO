@@ -1,0 +1,44 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Limited Search
+Card Type: Rule
+Rules Text: ① If a player activates a card or effect that requires them to look at their Deck, that player can only look at the top 10 cards of their Deck (or their entire Deck, if there are less than 10 cards left in their Deck). ② If that card or effect requires the player to choose a card from their Deck to move to another location, but there is not an appropriate card among the top 10 cards of their Deck, that clause of the card or effect (as well as any dependent clauses) resolves without effect.
+Last Updated: 21/06/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Look at top N cards vs search
+Flavour: Makes all search effects "Look at top N cards" effects.
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+2026-06-21: This Rule was inspired by Maro's podcast about variance and how searching effects reduce variance. This rule is intended to limit the consistency of search effects and any other effects that move a card from the Deck to another location, by limiting how many options a player has to work with when they look through their Deck.
+
+Alternate name suggestion: Limited Search Zone?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

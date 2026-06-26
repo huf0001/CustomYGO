@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Handrobber
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute(s): DARK
+Monster Type(s): Fiend
+Rules Text: You can only use effect ① of "Handrobber" once per turn. ① If your opponent controls a Special Summoned monster (Quick Effct): You can send this card from your hand to the GY, then target 1 monster in your opponent's GY that has an effect that activates in the hand whose activation conditions are met; this effect becomes that target's effect that activates in the hand. (You still pay its costs on activation.)
+ATK: 0
+DEF: 0
+Last Updated: DD/MM/YYYY
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Graverobber
+● Goat-era hand trap (e.g. Kuriboh, Gorz, etc.)
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+2026-06-18: A Graverobber for hand traps. If the opponent wants to use a lot of hand traps, let's punish them for it. Might want to check other cards that copy effects for how to phrase the copied card's conditions needing to be met, and how to handle paying the copied card's costs when activated. Also, I initially had it set up to require the opponent to have Special Summoned a monster on the turn you want to use it, but for older formats or if the opponent has a full board on the last turn and you somehow survived, they may not Special Summon this turn. So, the opponent having a Special Summoned monster on the field is close enough to start off with.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
