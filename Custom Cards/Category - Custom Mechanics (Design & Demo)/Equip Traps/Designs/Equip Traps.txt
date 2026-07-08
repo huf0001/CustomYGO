@@ -1,0 +1,47 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Equip Traps
+Card Type: Rule
+Rules Text: ① Equip Trap Cards are Trap Cards that equip to a monster, like Equip Spells. ② As a Trap Card, Equip Traps must be Set on the field first. They cannot be activated during the turn they are Set, but starting from the next turn, they can be activated at Spell Speed 2 at any time. ③ Equip Traps apply an effect to 1 face-up monster on the field, called the equipped monster. ④ Equip Traps remain on the field once activated, occupying 1 of your Spell & Trap Zones. ⑤ If the equipped monster is flipped face-down or leaves the field, its Equip Cards are destroyed.
+Last Updated: 07/07/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Equip Spells + Trap Cards that equip to monsters + manga Equip Traps.
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Hidden Armory
+● Metalmorph (card image as an Equip Trap)
+● Spellbinding Circle (card image as an Equip Trap)
+● Call of the Haunted (card image as an Equip Trap)
+● Kunai with Chain (card image as an Equip Trap)
+● Equip Spell Icon (.SVG)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
