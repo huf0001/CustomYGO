@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Chapa the Dark Clown of Eradication
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute(s): DARK
+Monster Type(s): Fiend/Warrior
+Rules Text: ① When this card in your possession is destroyed by your opponent's card and sent to your GY: You can target 1 monster in their GY; banish it, then you can Special Summon 1 "Dark Clown" monster from your Deck, except "Chapa the Dark Clown of Eradication".
+ATK: 600
+DEF: 1200
+Last Updated: 22/07/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Saggi the Dark Clown + Wood Clown + Hand archetype
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Wood Clown
+● Eradicator Epidemic Virus
+
+
+COMMENTS-----------------------------------------------------------------------
+
+22/07/2026 - "Chapa", from "chaparral", meaning "a dense impenetrable thicket of shrubs or dwarf trees", i.e. wood. Source: https://www.merriam-webster.com/dictionary/chaparral.
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

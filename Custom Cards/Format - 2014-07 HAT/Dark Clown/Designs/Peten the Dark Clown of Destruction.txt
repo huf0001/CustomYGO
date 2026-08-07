@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Peten the Dark Clown of Destruction
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute(s): DARK
+Monster Type(s): Fiend/Spellcaster
+Rules Text: ① When this card in your possession is destroyed by your opponent's card and sent to your GY: You can target 1 Spell/Trap they control; destroy it, then you can Special Summon 1 "Dark Clown" monster from your Deck, except "Peten the Dark Clown of Destruction".
+ATK: 500
+DEF: 1200
+Last Updated: 22/07/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Peten the Dark Clown + Hand archetype + Deck Destruction Virus
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Peten the Dark Clown
+● Deck Destruction Virus?
+● Crush Card Virus (alt art)?
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
