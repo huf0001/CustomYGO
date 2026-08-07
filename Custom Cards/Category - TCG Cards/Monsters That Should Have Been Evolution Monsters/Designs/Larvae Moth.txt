@@ -1,17 +1,16 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Perfectly Ultimate Great Moth
+Name: Larvae Moth
 Card Type: Monster
-Card Subtype(s): Evolution/Effect
+Card Subtype(s): Evolution
 Level: 2
 Attribute(s): EARTH
 Monster Type(s): Insect
-Rules Text: Evolve: "Petit Moth"
-Requirement: It is your 2nd turn after "Petit Moth" was equipped with "Cocoon of Evolution".
-Must be Evolution Summoned.
+Rules Text: "Petit Moth"
+You can Evolution Summon this card during your 2nd turn after the above material was equipped with "Cocoon of Evolution" by sending the equipped "Cocoon of Evolution" to the GY.
 ATK: 500
 DEF: 400
-Last Updated: 30/01/2026
+Last Updated: 05/08/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,22 +29,32 @@ Debut Set ID: MRD-007
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 27/07/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Larvae Moth
+Card Type: Monster
+Card Subtype(s): Evolution
+Level: 2
+Attribute(s): EARTH
+Monster Type(s): Insect
+Rules Text: "Petit Moth"
+You can Evolution Summon this card during your 2nd turn after the above material was equipped with "Cocoon of Evolution".
+ATK: 500
+DEF: 400
+Last Updated: 
+Comments: Forgot to make sending Cocoon of Evolution to the GY part of the Summoning condition.
+
+DATE: 30/01/2026-------------------------------------------
+
+Name: Larvae Moth
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 2
+Attribute(s): EARTH
+Monster Type(s): Insect
+Rules Text: Evolve: "Petit Moth"
+Requirement: It is your 2nd turn after "Petit Moth" was equipped with "Cocoon of Evolution".
+Must be Evolution Summoned.
+ATK: 500
+DEF: 400
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions. Also removing the "Must be Evolution Summoned" Summoning condition, as that seems unnecessary.

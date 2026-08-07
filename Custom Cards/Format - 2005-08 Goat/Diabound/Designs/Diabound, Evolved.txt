@@ -6,8 +6,8 @@ Card Subtype(s): Evolution / Effect
 Level: 8
 Attribute: DARK
 Monster Type: Fairy
-Rules Text: Evolve: "Diabound Core"
-Requirement: "Diabound, Core" destroyed a monster by battle this turn.
+Rules Text: "Diabound Core"
+You can Evolution Summon this card if the above material destroyed a monster by battle this turn.
 ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ATK: 9999
 DEF: 9999

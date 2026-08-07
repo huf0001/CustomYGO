@@ -6,12 +6,12 @@ Card Subtype(s): Evolution / Effect
 Level: 3
 Attribute: EARTH
 Monster Type: Insect
-Rules Text: Evolve: "Petit Moth"
-Requirement: Send 1 "Cocoon of Evolution" from your hand to the GY.
+Rules Text: "Petit Moth"
+You can Evolution Summon this card by sending 1 "Cocoon of Evolution" from your hand or field to the GY.
 ① Once per turn, during the Standby Phase: Place 1 Moth Counter on this card. ② Gains 150 DEF for each Moth Counter on this card. ③ If this card would be destroyed by battle with an opponent's attacking monster or leave the field by an opponent's card effect, you can Evolution Summon 1 "Moth" Evolution Monster using this card you control as material instead.
 ATK: 0
 DEF: 2000
-Last Updated: 20/09/2025
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,20 +29,17 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 20/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Great Cocoon of Evolution
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 3
+Attribute: EARTH
+Monster Type: Insect
+Rules Text: Evolve: "Petit Moth"
+Requirement: Send 1 "Cocoon of Evolution" from your hand to the GY.
+① Once per turn, during the Standby Phase: Place 1 Moth Counter on this card. ② Gains 150 DEF for each Moth Counter on this card. ③ If this card would be destroyed by battle with an opponent's attacking monster or leave the field by an opponent's card effect, you can Evolution Summon 1 "Moth" Evolution Monster using this card you control as material instead.
+ATK: 0
+DEF: 2000
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions. Also expanding the Summoning condition to let "Cocoon of Evolution" be sent from the field to the GY, the same as the Metal counterparts.

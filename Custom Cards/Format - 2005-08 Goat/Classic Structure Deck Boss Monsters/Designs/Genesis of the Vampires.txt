@@ -6,12 +6,12 @@ Card Subtype(s): Evolution / Effect
 Level: 8
 Attribute: DARK
 Monster Type: Zombie / Fiend
-Rules Text: Evolve: "Vampire Lord"
-Requirement: "Vampire Lord" inflicted battle damage to your opponent this turn.
+Rules Text: "Vampire Lord"
+You can Evolution Summon this card if the above material inflicted battle damage to your opponent this turn.
 ① Once per turn: You can discard 1 Zombie monster to the GY, then target 1 Zombie monster in your GY with a Level less than the discarded Zombie monster's; Special Summon that target.
 ATK: 3000
 DEF: 2100
-Last Updated: 24/09/2025
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,20 +29,17 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 24/09/2025-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
-Level/Rank/Link Rating: 0
-Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Monster Type: ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Genesis of the Vampires
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Zombie / Fiend
+Rules Text: Evolve: "Vampire Lord"
+Requirement: "Vampire Lord" inflicted battle damage to your opponent this turn.
+① Once per turn: You can discard 1 Zombie monster to the GY, then target 1 Zombie monster in your GY with a Level less than the discarded Zombie monster's; Special Summon that target.
+ATK: 3000
+DEF: 2100
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions.

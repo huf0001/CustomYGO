@@ -6,8 +6,8 @@ Card Subtype(s): Evolution / Effect
 Level: 9
 Attribute: DARK
 Monster Type: Spellcaster
-Rules Text: Evolve: "Dark Magician"
-Requirement: The effect of "Time Wizard" was activated and the coin toss was called right. Immediately after that effect resolves during either player's turn, Evolution Summon this card. (This is not optional.)
+Rules Text: "Dark Magician"
+During either players turn, Evolution Summon this card immediately after the effect of "Time Wizard" resolves if the coin toss was called right. (This is not optional.)
 You can only activate each effect of "Sage of a Thousand Years - Dark Sage" once per turn. ① During your Draw Phase, instead of conducting your normal draw: You can add 1 Spell Card from your Deck to your hand. ② During your opponent's turn (Quick Effect): You can send 1 Normal Spell from your hand to the GY; this effect becomes that card's activation effect.
 ATK: 2800
 DEF: 3200
@@ -29,6 +29,22 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/01/2026-------------------------------------------
+
+Name: Sage of a Thousand Years - Dark Sage
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 9
+Attribute: DARK
+Monster Type: Spellcaster
+Rules Text: Evolve: "Dark Magician"
+Requirement: The effect of "Time Wizard" was activated and the coin toss was called right. Immediately after that effect resolves during either player's turn, Evolution Summon this card. (This is not optional.)
+You can only activate each effect of "Sage of a Thousand Years - Dark Sage" once per turn. ① During your Draw Phase, instead of conducting your normal draw: You can add 1 Spell Card from your Deck to your hand. ② During your opponent's turn (Quick Effect): You can send 1 Normal Spell from your hand to the GY; this effect becomes that card's activation effect.
+ATK: 2800
+DEF: 3200
+Comments: Updating the templating of Evolution Materials and Requirements to mimic Ritual Summoning conditions. Updating Aged Counterparts' Summoning conditions to reflect that style, given their particular needs.
+
 
 DATE: 20/09/2025-------------------------------------------
 

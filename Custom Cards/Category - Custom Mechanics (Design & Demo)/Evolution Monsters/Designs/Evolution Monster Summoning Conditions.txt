@@ -1,0 +1,56 @@
+Numbers 1-20: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+
+Dot: ●
+
+EVOLUTION MONSTER SUMMONING CONDITIONS-----------------------------------------
+
+You can Evolution Summon this card with "CARD NAME".
+
+	E.g. from Harpie Lady Sisters: "You can Evolution Summon this card with "Elegant Egotist"."
+	
+You can Evolution Summon this card with the effect of "CARD NAME".
+
+	E.g. from Mirage Knight: "You can Evolution Summon this card with the effect of "Dark Flare Knight"."
+	
+You can Evolution Summon this card if X.
+
+	E.g. from Fushioh Richie: "You can Evolution Summon this card if the above material has destroyed 2 or more monsters by battle."
+	
+You can Evolution Summon this card while X.
+
+	E.g. from Archlord Zerato: "You can Evolution Summon this card while "The Sanctuary in the Sky" is on the field."
+	
+You can Evolution Summon this card during your Nth turn after X.
+
+	E.g. from Great Moth: "You can Evolution Summon this card during your 4th turn after the above material was equipped with "Cocoon of Evolution"."
+	
+You can Evolution Summon this card by X.
+
+	E.g. from Red-Eyes Black Metal Dragon: "You can Evolution Summon this card by sending 1 "Metalmorph" equipped to the above material to the GY."	
+
+You can Evolution Summon this card if X, by Y.
+
+	E.g. from Princess Pikeru and Princess Curran: "You can Evolution Summon this card if the above material destroyed a Level 5 or higher monster by battle this turn, by sending 1 "Trial of the Princesses" equipped to it to the GY."
+	
+You can Evolution Summon this card while X, by Y.
+
+	E.g. : ""
+
+You can Evolution Summon this card during your Nth turn after X, by Y.
+
+	E.g. : ""
+
+During either players turn, Evolution Summon this card immediately after X. (This is not optional.)
+
+	E.g. from Dark Sage and Thousand Dragon: "During either players turn, Evolution Summon this card immediately after the effect of "Time Wizard" resolves if the coin toss was called right. (This is not optional.)"
+	
+	
+EVOLUTION SUMMONING EFFECTS----------------------------------------------------
+	
+Evolution Summon 1 "CARD NAME 1" from your Extra Deck, using 1 "CARD NAME 2" you control.
+
+	E.g. from Release Restraint: "Evolution Summon 1 "Gearfried the Swordmaster" from your Extra Deck, using 1 "Gearfried the Iron Knight" you control."
+	
+Evolution Summon 1 "CARD NAME" from your Extra Deck, using this card in your GY.
+
+	E.g. from Dark Flare Knight: "Evolution Summon 1 "Mirage Knight" from your Extra Deck, using this card in your GY."

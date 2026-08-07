@@ -6,12 +6,12 @@ Card Subtype(s): Evolution/Effect
 Level: 8
 Attribute(s): DARK
 Monster Type(s): Machine/Dragon
-Rules Text: Evolve: "Red-Eyes Black Dragon"
-Requirement: Send 1 "Metalmorph" from your hand or field to the GY.
-① Unaffected by your opponent's Spell cards or effects.
+Rules Text: "Red-Eyes Black Dragon"
+You can Evolution Summon this card by sending 1 "Metalmorph" from your hand or field to the GY.
+① Unaffected by your opponent's Spell Cards or effects.
 ATK: 2800
 DEF: 2400
-Last Updated: 31/01/2026
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -28,6 +28,22 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 31/01/2026-------------------------------------------
+
+Name: Red-Eyes Metal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Machine/Dragon
+Rules Text: Evolve: "Red-Eyes Black Dragon"
+Requirement: Send 1 "Metalmorph" from your hand or field to the GY.
+① Unaffected by your opponent's Spell cards or effects.
+ATK: 2800
+DEF: 2400
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions.
+
 
 DATE: 28/01/2026-------------------------------------------
 

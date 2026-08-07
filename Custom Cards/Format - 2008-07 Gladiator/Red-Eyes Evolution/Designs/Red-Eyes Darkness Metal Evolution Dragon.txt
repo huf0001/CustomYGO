@@ -6,12 +6,12 @@ Card Subtype(s): Evolution/Effect
 Level: 10
 Attribute: DARK
 Monster Type: Shadow/Machine/Dragon
-Rules Text: Evolve: "Red-Eyes Darkness Evolution Dragon" or "Red-Eyes Metal Evolution Dragon"
-Requirement: If the Evolution Material was not Summoned this turn: Send 1 "Darkness Energy" or "Metalmorph" (whichever is not mentioned on it) from your hand or field to the GY.
+Rules Text: "Red-Eyes Darkness Evolution Dragon" or "Red-Eyes Metal Evolution Dragon"
+You can Evolution Summon this card if the above material was not Summoned this turn by sending 1 "Dark Dragon Spirit" or "Metalmorph" (whichever is not mentioned on it) from your hand or field to the GY.
 ① Gains 400 ATK for each Dragon monster in your GY. ② When a Spell Card or effect is activated: You can discard 1 card; negate the activation, and if you do, destroy it. If it targeted this card, you do not discard to activate this effect.
 ATK: 2800
 DEF: 2400
-Last Updated: 31/01/2026
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -28,6 +28,38 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 09/07/2026-------------------------------------------
+
+Name: Red-Eyes Darkness Metal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 10
+Attribute: DARK
+Monster Type: Shadow/Machine/Dragon
+Rules Text: Evolve: "Red-Eyes Darkness Evolution Dragon" or "Red-Eyes Metal Evolution Dragon"
+Requirement: If the Evolution Material was not Summoned this turn: Send 1 "Dark Dragon Spirit" or "Metalmorph" (whichever is not mentioned on it) from your hand or field to the GY.
+① Gains 400 ATK for each Dragon monster in your GY. ② When a Spell Card or effect is activated: You can discard 1 card; negate the activation, and if you do, destroy it. If it targeted this card, you do not discard to activate this effect.
+ATK: 2800
+DEF: 2400
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions.
+
+
+DATE: 31/01/2026-------------------------------------------
+
+Name: Red-Eyes Darkness Metal Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 10
+Attribute: DARK
+Monster Type: Shadow/Machine/Dragon
+Rules Text: Evolve: "Red-Eyes Darkness Evolution Dragon" or "Red-Eyes Metal Evolution Dragon"
+Requirement: If the Evolution Material was not Summoned this turn: Send 1 "Darkness Energy" or "Metalmorph" (whichever is not mentioned on it) from your hand or field to the GY.
+① Gains 400 ATK for each Dragon monster in your GY. ② When a Spell Card or effect is activated: You can discard 1 card; negate the activation, and if you do, destroy it. If it targeted this card, you do not discard to activate this effect.
+ATK: 2800
+DEF: 2400
+Comments: Fixing the Requirement after renaming Darkness Energy.
+
 
 DATE: 28/01/2026-------------------------------------------
 

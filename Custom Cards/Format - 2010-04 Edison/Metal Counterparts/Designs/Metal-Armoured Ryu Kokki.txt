@@ -6,12 +6,12 @@ Card Subtype(s): Evolution / Effect
 Level: 8
 Attribute: DARK
 Monster Type: Zombie
-Rules Text: Evolve: "Ryu Kokki"
-Requirement: Send 1 "Metalmorph" equipped to "Ryu Kokki" to the GY.
+Rules Text: "Ryu Kokki"
+You can Evolution Summon this card by sending 1 "Metalmorph" equipped to the above material to the GY.
 ① While this card has material, it is also treated as a Machine monster, it gains 400 ATK/DEF, and it is unaffected by your opponent's Spell effects. ② If this card would be destroyed, you can detach 1 material from this card instead. ③ If this card destroys a monster by battle while it has no material: You can attach that destroyed monster to this card as material.
 ATK: 2400
 DEF: 2000
-Last Updated: 25/07/2025
+Last Updated: 29/07/2025
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -32,6 +32,22 @@ TODO: overhaul. Check Red-Eyes evolutions' Requirements and effects for referenc
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 25/07/2025-------------------------------------------
+
+Name: Metal-Armoured Ryu Kokki
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 8
+Attribute: DARK
+Monster Type: Zombie
+Rules Text: Evolve: "Ryu Kokki"
+Requirement: Send 1 "Metalmorph" equipped to "Ryu Kokki" to the GY.
+① While this card has material, it is also treated as a Machine monster, it gains 400 ATK/DEF, and it is unaffected by your opponent's Spell effects. ② If this card would be destroyed, you can detach 1 material from this card instead. ③ If this card destroys a monster by battle while it has no material: You can attach that destroyed monster to this card as material.
+ATK: 2400
+DEF: 2000
+Comments: Templating errata for materials and Summoning conditions.
+
 
 DATE: 25/07/2025-------------------------------------------
 

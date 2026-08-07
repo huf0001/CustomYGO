@@ -6,12 +6,12 @@ Card Subtype(s): Evolution / Effect
 Level: 10
 Attribute: LIGHT
 Monster Type: Machine/Dragon
-Rules Text: Evolve: "Blue-Eyes White Dragon"
-Requirement: Banish 1 "Burst Stream of Destruction" from your hand, field, or GY.
+Rules Text: "Blue-Eyes White Dragon"
+You can Evolution Summon this card by banishing 1 "Burst Stream of Destruction" from your hand, field, or GY.
 ① This card's name is also treated as "Blue-Eyes White Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
 ATK: 3000
 DEF: 2500
-Last Updated: 28/01/2026
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -29,6 +29,23 @@ For Duelingbook: (This card is always treated as an Evolution Monster, not a Pen
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 28/01/2026-------------------------------------------
+
+Name: Blue-Eyes Shining Evolution Dragon
+Card Type: Monster
+Card Subtype(s): Evolution / Effect
+Level: 10
+Attribute: LIGHT
+Monster Type: Machine/Dragon
+Rules Text: Evolve: "Blue-Eyes White Dragon"
+Requirement: Banish 1 "Burst Stream of Destruction" from your hand, field, or GY.
+① This card's name is also treated as "Blue-Eyes White Dragon" while on the field, except if used as Evolution Material. ② Gains 300 ATK for each Dragon monster in your GY. ③ When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
+ATK: 3000
+DEF: 2500
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions.
+
+
+DATE: 12/08/2025-------------------------------------------
 DATE: 12/08/2025-------------------------------------------
 
 Name: Blue-Eyes Shining Evolution Dragon

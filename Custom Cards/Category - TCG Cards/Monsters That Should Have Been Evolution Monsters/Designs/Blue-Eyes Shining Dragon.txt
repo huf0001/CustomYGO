@@ -6,12 +6,11 @@ Card Subtype(s): Evolution/Effect
 Level: 10
 Attribute(s): LIGHT
 Monster Type(s): Dragon
-Rules Text: Evolve: "Blue-Eyes Ultimate Dragon"
-Requirement: None.
-Must be Evolution Summoned. ① Gains 300 ATK for each Dragon monster in your GY. ② When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
+Rules Text: "Blue-Eyes Ultimate Dragon"
+① Gains 300 ATK for each Dragon monster in your GY. ② When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
 ATK: 3000
 DEF: 2500
-Last Updated: 31/01/2026
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,22 +29,17 @@ Debut Set ID: MOV-EN001
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 31/01/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Blue-Eyes Shining Dragon
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 10
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: Evolve: "Blue-Eyes Ultimate Dragon"
+Requirement: None.
+Must be Evolution Summoned. ① Gains 300 ATK for each Dragon monster in your GY. ② When a card or effect is activated that targets this card (Quick Effect): You can negate that effect. 
+ATK: 3000
+DEF: 2500
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions. Also removing the "Must be Evolution Summoned" Summoning condition, as that seems unnecessary.

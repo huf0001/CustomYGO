@@ -6,12 +6,12 @@ Card Subtype(s): Evolution/Effect
 Level: 8
 Attribute(s): DARK
 Monster Type(s): Fiend
-Rules Text: Evolve: "Warrior of Zera"
-Requirement: "Pandemonium" is on the field.
-Must be Evolution Summoned. ① When this card is Evolution Summoned, if you control "Pandemonium": Your opponent discards 3 random cards.
+Rules Text: "Warrior of Zera"
+You can Evolution Summon this card while "Pandemonium" is on the field.
+① When this card is Evolution Summoned, if you control "Pandemonium": Your opponent discards 3 random cards.
 ATK: 2800
 DEF: 2300
-Last Updated: 31/01/2026
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,22 +30,33 @@ Debut Set ID: AST-111
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 11/07/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Mazera DeVille
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Fiend
+Rules Text: Evolve: "Warrior of Zera"
+Requirement: "Pandemonium" is on the field.
+① When this card is Evolution Summoned, if you control "Pandemonium": Your opponent discards 3 random cards.
+ATK: 2800
+DEF: 2300
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions.
+
+
+DATE: 31/01/2026-------------------------------------------
+
+Name: Mazera DeVille
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Fiend
+Rules Text: Evolve: "Warrior of Zera"
+Requirement: "Pandemonium" is on the field.
+Must be Evolution Summoned. ① When this card is Evolution Summoned, if you control "Pandemonium": Your opponent discards 3 random cards.
+ATK: 2800
+DEF: 2300
+Comments: Dropping the Summoning condition because it doesn't feel necessary.

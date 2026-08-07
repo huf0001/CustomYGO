@@ -6,12 +6,12 @@ Card Subtype(s): Evolution/Effect
 Level: 4
 Attribute(s): LIGHT
 Monster Type(s): Spellcaster
-Rules Text: Evolve: "White Magician Pikeru"
-Requirement: If "White Magician Pikeru" destroyed a Level 5 or higher monster by battle this turn: Send 1 "Trial of the Princesses" equipped to it to the GY.
-Must be Evolution Summoned. ① Once per turn, during your Standby Phase: Gain LP equal to the number of monsters you control x 800. 
+Rules Text: "White Magician Pikeru"
+You can Evolution Summon this card if the above material destroyed a Level 5 or higher monster by battle this turn, by sending 1 "Trial of the Princesses" equipped to it to the GY.
+① Once per turn, during your Standby Phase: Gain LP equal to the number of monsters you control x 800. 
 ATK: 2000
 DEF: 0
-Last Updated: 30/01/2026
+Last Updated: 27/07/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,22 +30,17 @@ Debut Set ID: SOI-EN027
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 30/01/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Princess Pikeru
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 4
+Attribute(s): LIGHT
+Monster Type(s): Spellcaster
+Rules Text: Evolve: "White Magician Pikeru"
+Requirement: If "White Magician Pikeru" destroyed a Level 5 or higher monster by battle this turn: Send 1 "Trial of the Princesses" equipped to it to the GY.
+Must be Evolution Summoned. ① Once per turn, during your Standby Phase: Gain LP equal to the number of monsters you control x 800. 
+ATK: 2000
+DEF: 0
+Comments: Updating the templating of the Evolution Material and Requirement to mimic Ritual Summoning conditions. Also removing the "Must be Evolution Summoned" Summoning condition, as that seems unnecessary.
