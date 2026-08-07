@@ -124,7 +124,8 @@ Rule Cards (6)
 		HURU-EN002	Battle City									(Rule)
 		HURU-EN003	Duel Academy								(Rule)
 		HURU-EN004	Container Monsters							(Rule)
-		HURU-EN005	Hybrid Monsters								(Rule)	
+		HURU-EN005	Hybrid Monsters								(Rule)
+		HURU-EN006	Equip Traps									(Rule)
 
 TCG Erratas (36)
 
