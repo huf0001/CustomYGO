@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Wicked Relinquished
+Card Type: Monster
+Card Subtype(s): Ritual/Effect
+Level: 1
+Attribute(s): DARK
+Monster Type(s): Illusion
+Rules Text: You can Ritual Summon this card (from your hand) by Tributing 1 monster from your hand or field whose Level is 1+. You can only use effect ① of "Wicked Relinquished" once per turn. ① During the Main Phase (Quick Effect): You can target 1 monster your opponent controls; negate its effects, then equip it to this card (max. 2). ② While equipped with a monster(s), this card gains their ATK/DEF, also, your opponent takes any battle damage you would have taken from this card's battles. ③ If this card would be destroyed, destroy 1 equipped monster instead.
+ATK: 0
+DEF: 0
+Last Updated: 13/08/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Relinquished the Wicked Eye of Illusion
+Flavour: The Relinquished retrain with a better Summoning condition and some of original Relinquished's effects.
+Artwork: Created in GIMP using:
+● Relinquished
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
