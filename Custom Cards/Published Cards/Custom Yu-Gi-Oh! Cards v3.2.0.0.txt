@@ -126,6 +126,7 @@ Rule Cards (6)
 		HURU-EN004	Container Monsters							(Rule)
 		HURU-EN005	Hybrid Monsters								(Rule)
 		HURU-EN006	Equip Traps									(Rule)
+		HURU-EN007	Evolution Monsters							(Rule)
 
 TCG Erratas (36)
 
@@ -154,6 +155,20 @@ TCG Erratas (36)
 		PSV-012		Call of the Haunted							(Trap/Equip)
 		MRD-EN145	Metalmorph									(Trap/Equip)
 		TDGS-EN098	Kunai with Chain							(Trap/Equip)
+		
+	Evolution Monsters (11)
+	
+		MRD-007 Larvae Moth										(Monster/Evolution)
+		MRD-009 Harpie Lady Sisters								(Monster/Evolution)
+		MRD-023 Petit Moth										(Monster/Effect)
+		MRD-024 Elegant Egotist									(Spell/Normal)
+		MRD-070 Great Moth										(Monster/Evolution)
+		MRD-143 Thousand Dragon									(Monster/Evolution)
+		SRL-056 Wall Shadow										(Monster/Evolution)
+		SRL-059 Magical Labyrinth								(Spell/Normal)
+		FMR-001 Red-Eyes Black Metal Dragon						(Monster/Evolution)
+		TFK-002 Metalzoa										(Monster/Evolution)
+		DOD-002 Dark Sage										(Monster/Evolution/Effect)
 	
 	Flame Swordsman (5)
 	
