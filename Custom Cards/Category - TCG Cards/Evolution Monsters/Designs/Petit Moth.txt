@@ -6,10 +6,10 @@ Card Subtype(s): Effect
 Level: 1
 Attribute(s): EARTH
 Monster Type(s): Insect
-Rules Text: ① If this card equipped with "Cocoon of Evolution", or a "Cocoon of Evolution" equipped to this card, is destroyed: You can Evolution Summon 1 "Moth" Evolution Monster from your Extra Deck, using this card you control or in your GY, based on how many of your Standby Phases have passed since this card was equipped with "Cocoon of Evolution". ● 2 or 3: "Larvae Moth". ● 4 or 5: "Great Moth". ● 6+: "Perfectly Ultimate Moth".
+Rules Text: ① If this card equipped with "Cocoon of Evolution", or a "Cocoon of Evolution" equipped to this card, is destroyed: You can Evolution Summon 1 "Moth" Evolution Monster from your Extra Deck, using this card you control or in your GY, based on how many of your Standby Phases have passed since this card was equipped with "Cocoon of Evolution". ● 2 or 3: "Larvae Moth". ● 4 or 5: "Great Moth". ● 6+: "Perfectly Ultimate Great Moth".
 ATK: 300
 DEF: 200
-Last Updated: 27/07/2026
+Last Updated: 14/08/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -28,6 +28,20 @@ Debut Set ID: MRD-023
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
+DATE: 27/07/2026-------------------------------------------
+
+Name: Petit Moth
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 1
+Attribute(s): EARTH
+Monster Type(s): Insect
+Rules Text: ① If this card equipped with "Cocoon of Evolution", or a "Cocoon of Evolution" equipped to this card, is destroyed: You can Evolution Summon 1 "Moth" Evolution Monster from your Extra Deck, using this card you control or in your GY, based on how many of your Standby Phases have passed since this card was equipped with "Cocoon of Evolution". ● 2 or 3: "Larvae Moth". ● 4 or 5: "Great Moth". ● 6+: "Perfectly Ultimate Moth".
+ATK: 300
+DEF: 200
+Comments: Correcting Perfectly Ultimate Great Moth's name.
+
+
 DATE: 31/01/2026-------------------------------------------
 
 Name: Petit Moth
@@ -40,7 +54,6 @@ Rules Text: ① If this card equipped with "Cocoon of Evolution", or a "Cocoon o
 ATK: 300
 DEF: 200
 Comments: Updating the templating of effects that Evolution Summon.
-
 
 
 DATE: 31/01/2026-------------------------------------------
