@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Arsenal Guardian
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute(s): WIND
+Monster Type(s): Spellcaster
+Rules Text: You can only activate each effect of "Arsenal Guardian" once per turn. ① If this card is Normal or Special Summoned: You can add 1 Equip Spell that mentions a "Guardian" monster's card name from your Deck to your hand. ② You can target 1 "Guardian" monster you control with an Equip Spell equipped to it, and a second "Guardian" monster you control; equip 1 Equip Spell equipped to the first target to the second target.
+ATK: 1600
+DEF: 1600
+Last Updated: 15/08/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Arsenal Summoner + Backup Gardna
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Arsenal Summoner
+
+
+COMMENTS-----------------------------------------------------------------------
+
+15/08/2026 - Do I want to have the Guardian Equip Spells place themselves underneath their monsters and apply their effects that way as well as when they're equipped to a monster?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

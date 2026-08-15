@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Silence Guardian Kay'est
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute(s): WATER
+Monster Type(s): Sea Serpent
+Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned with "Rod of Silence". You can only activate effect ① of "Silence Guardian Kay'est" once per turn. ① You can reveal this card in your hand; add 1 "Rod of Silence" from your Deck to your hand. ② This card is unaffected by your opponent's Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. 
+ATK: 1000
+DEF: 1800
+Last Updated: 15/08/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Guardian Kay'est
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Guardian Kay'est
+
+
+COMMENTS-----------------------------------------------------------------------
+
+15/08/2026 - Do I want to have the Guardian Equip Spells place themselves underneath their monsters and apply their effects that way as well as when they're equipped to a monster?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Reaper Guardian Dreadscythe
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Fiend
+Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. ① If a "Celestial Guardian Eatos" is destroyed and sent to your GY: You can Special Summon this card from your hand or Deck. ② When this card is Special Summoned by this effect: You can equip 1 "Reaper Scythe" from your hand or Deck to this card. ③ You cannot Normal or Special Summon monsters (but you can Normal Set). ④ If this card would be sent from the field to the GY, you can send 1 card from your hand to the GY instead. 
+ATK: 2500
+DEF: 2000
+Last Updated: 15/08/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Guardian Dreadscythe
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Guardian Dreadscythe
+
+
+COMMENTS-----------------------------------------------------------------------
+
+15/08/2026 - Do I want to have the Guardian Equip Spells place themselves underneath their monsters and apply their effects that way as well as when they're equipped to a monster?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Celestial Guardian Eatos
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): WIND
+Monster Type(s): Fairy
+Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned with "Celestial Sword". You can only activate effect ① of "Celestial Guardian Eatos" once per turn. ① You can reveal this card in your hand; add 1 "Celestial Sword" from your Deck to your hand. ② If the top card of your opponent's GY is a Monster Card: You can send 1 of your Equip Spells equipped to this card to the GY; banish the top card of your opponent's GY until the top card is a Spell/Trap, and if you do, this card gains 500 ATK for each monster banished by this effect, until the end of this turn. 
+ATK: 2500
+DEF: 2000
+Last Updated: 15/08/2026
+
+You can destroy a "Celestial Sword - Eatos" equipped to this card to remove from play Monster Cards from the top of your opponent's Graveyard until a non-Monster Card is revealed, then this card gains ATK equal to the combined ATK of the monsters removed.
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Guardian Eatos
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Guardian Eatos
+
+
+COMMENTS-----------------------------------------------------------------------
+
+15/08/2026 - Do I want to have the Guardian Equip Spells place themselves underneath their monsters and apply their effects that way as well as when they're equipped to a monster?
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
