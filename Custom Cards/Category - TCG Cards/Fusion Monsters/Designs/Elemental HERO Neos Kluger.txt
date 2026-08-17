@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Neos Wiseman
+Name: Elemental HERO Neos Kluger
 Card Type: Monster
 Card Subtype(s): Fusion/Effect
 Level: 9
