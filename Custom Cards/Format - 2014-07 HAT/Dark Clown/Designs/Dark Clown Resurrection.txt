@@ -3,8 +3,8 @@ TECHNICAL----------------------------------------------------------------------
 Name: Dark Clown Resurrection
 Card Type: Spell
 Card Subtype(s): Quick-Play
-Rules Text: ① Target 1 "Dark Clown" monster in your GY; Special Summon it, and if you do, triple its ATK.
-Last Updated: 22/07/2026
+Rules Text: ① Target 1 "Dark Clown" monster in your GY; Special Summon it. ② While "Dark Clown Resurrection" is in your GY, each "Dark Clown" monster you control gains ATK equal to double its original ATK (only apply this effect once, regardless of how many copies of "Dark Clown Resurrection" are in your GY).
+Last Updated: 11/09/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -17,27 +17,15 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-None
+2026/09/11 - Alternative option for effect ②: "While "Dark Clown Resurrection" is in your GY, the original ATK of each "Dark Clown" monster you control becomes triple its printed ATK."
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 22/07/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Dark Clown Resurrection
+Card Type: Spell
+Card Subtype(s): Quick-Play
+Rules Text: ① Target 1 "Dark Clown" monster in your GY; Special Summon it, and if you do, triple its ATK.
+Comments: Making the ATK bonus a second effect.
