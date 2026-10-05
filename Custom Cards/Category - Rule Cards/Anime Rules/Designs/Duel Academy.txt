@@ -12,6 +12,12 @@ Basis: Duelist Academy
 Flavour: Imposes Yu-Gi-Oh! GX anime rules
 Artwork: Created in GIMP using:
 ● Duel Academy
+● Elemental HERO Flame Wingman (Card)
+● Super Vehicroid - Stealth Union (Card)
+● Cyber Angel Benten (Card)
+● Water Dragon (Card)
+● Armed Dragon LV7 (Card)
+● Cyber End Dragon (Card)
 
 
 COMMENTS-----------------------------------------------------------------------

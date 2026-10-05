@@ -12,6 +12,12 @@ Basis: Duelist Kingdom
 Flavour: Imposes Duelist Kingdom anime rules
 Artwork: Created in GIMP using:
 ● Duelist Kingdom
+● Corrosive Scales
+● Attack the Moon
+● Mystical Elf - White Lightning
+● Spiral Discharge
+● Labyrinth Wall Shadow
+● Mind Mirror Force
 
 
 COMMENTS-----------------------------------------------------------------------

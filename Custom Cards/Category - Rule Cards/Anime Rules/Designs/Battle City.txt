@@ -11,6 +11,8 @@ CREATIVE-----------------------------------------------------------------------
 Basis: Battle City
 Flavour: Imposes Battle City anime rules
 Artwork: Created in GIMP using:
+● Legendary Dueling Field
+● Bingo Machine, Go!!!
 ● Duel Tower
 
 
