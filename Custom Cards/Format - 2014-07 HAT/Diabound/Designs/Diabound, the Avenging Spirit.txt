@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Diabound, the Avenging Spirit
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 4
+Attribute(s): DARK
+Monster Type(s): Fairy
+Rules Text: ① If this card is targeted by an opponent's card effect (Quick Effect): You can banish this card, then return it to the field. ② If this card destroys an opponent's monster by battle: You can send this card to the GY; Special Summon 1 "Diabound, the Wicked Fiend" from your hand or Deck, ignoring its Summoning conditions. (This Special Summon is treated as a Special Summon by its own procedure.)
+ATK: 1800
+DEF: 1200
+Last Updated: 29/09/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Diabound
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Diabound Kernel
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

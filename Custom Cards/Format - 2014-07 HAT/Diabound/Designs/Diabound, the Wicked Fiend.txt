@@ -1,0 +1,48 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Diabound, the Wicked Fiend
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Fiend
+Rules Text: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by shuffling 3 Fiend and/or Zombie monsters from your GY and/or banishment into your Deck. ① If this card destroys an opponent's monster by battle, place that destroyed monster underneath this card instead of sending it to the GY. ② Gains 200 ATK/DEF for each monster placed underneath this card, and also gains their effects. ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+ATK: 2800
+DEF: 2200
+Last Updated: 29/09/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Diabound
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Manga Diabound
+
+
+COMMENTS-----------------------------------------------------------------------
+
+2026/09/29 - should there be a HOPT restriction of sorts on the effects Diabound uses that were stolen from other monsters? Should it only let you use 2 of those effects per turn, once per turn each? "You can only activate up to 2 of "Diabound, the Wicked Fiend's" gained effects per turn, and only once per turn each."
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
