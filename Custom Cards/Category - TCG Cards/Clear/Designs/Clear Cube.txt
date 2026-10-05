@@ -4,7 +4,7 @@ Name: Clear Cube
 Card Type: Monster
 Card Subtype(s): Effect
 Level: 1
-Attribute: DARK
+Attribute: NONE
 Monster Type: Machine
 Rules Text: ① During your Main Phase, you can Normal Summon 1 "Clear" monster with no Attribute, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) ② If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 "Clear" monster with no Attribute from your Deck.
 ATK: 0
