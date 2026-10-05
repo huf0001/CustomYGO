@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Toon World
+Card Type: Spell
+Card Subtype(s): Continuous
+Rules Text: Effects ③ and ④ do not apply to monsters that cannot attack or change battle position. ① Non-Effect Monsters you control are treated as Toon monsters. ② Negate the effects of Toon monsters you control that stop them from attacking the turn they are Summoned or unless you pay LP, and that destroy them when "Toon World" is destroyed, even after this card leaves the field. ③ Toon monsters you control cannot be destroyed by battle with non-Toon monsters, and you take no battle damage from those battles. ④ During your Main Phase, you can place Toon monsters you control underneath this card (they are still treated as being on the field for Equip Cards, counters, lingering effects that affect them, and whether your opponent can attack directly), OR return them to your field (they return in the same battle position they were in when they were placed underneath this card). When this card leaves the field, return as many monsters underneath this card as possible to your field.
+Last Updated: 05/10/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Toon World
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Toon World
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
