@@ -1,6 +1,6 @@
 TECHNICAL----------------------------------------------------------------------
 
-Name: Flying Fortress SKY Fire
+Name: Flying Fortress SKY FIRE
 Card Type: Monster
 Card Subtype(s): Fusion/Effect
 Level: 8
