@@ -1,0 +1,50 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Haunting Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 3
+Attribute(s): DARK
+Monster Type(s): Zombie/Dragon
+Rules Text: ① When this card is destroyed by battle or an opponent's card effect and sent to the GY: You can Special Summon 1 Zombie or Dragon monster from your GY, except "Haunting Dragon".
+Flavour Text: The ghost of a fallen dragon, it seeks vengeance upon its killer.
+ATK: 1400
+DEF: 1100
+Last Updated: 10/10/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Masked Dragon
+Flavour: Masked Dragon, but for Special Summoning from the graveyard.
+Artwork: Created in GIMP using:
+● Masked Dragon (< 100% opacity, greyscale, white outline)
+● Call of the Haunted
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
