@@ -31,7 +31,12 @@ COMMENTS-----------------------------------------------------------------------
 
 Keep an eye on if this effect needs to be limited to hard once per turn. Also, test with:
 
-● Weaker versions of the next Horus' effect rather than the full versions
+● Weaker versions of the next Horus' effect rather than the full versions (with a lower ATK boost, say 400 rather than 700?), a la:
+	
+	● 4: Cannot be targeted by your opponent's Spells.
+	● 6: Once per turn, when a Spell Card is activated (Quick Effect): You can negate the activation, and if you do, destroy it.
+	● 8: Once per turn: You can target 1 face-up Spell your opponent controls; negate its effects until the end of this turn.
+	
 ● No bonus effect at all, and Horus just gains ATK. In this case, perhaps Temple of the Black Flame Dragon could take this part of the effect for itself and just apply it continuously, instead of the current iteration's effects.
 ● No Quick Effect status, forcing you to use it on your turn and preventing you from using it reactively to protect Horus LV4 from Spell effects.
 

@@ -1,0 +1,49 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Horus the Black Flame Dragon LV10
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 10
+Attribute(s): FIRE
+Monster Type(s): Dragon
+Rules Text: ① Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Horus the Black Flame Dragon LV8". ② Spell Cards, and their effects on the field, cannot be activated. ③ Negate all Spell effects on the field.
+ATK: 3000
+DEF: 2500
+Last Updated: 13/10/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Horus the Black Flame Dragon LV8 / Armed Dragon LV10 / Jinzo
+Flavour: Spell Jinzo LV monster.
+Artwork: Created in GIMP using:
+● Horus the Black Flame Dragon LV8
+● Eye of the Black Flame Dragon OR Osiris the Black Flame Lord (background only) (Custom Cards)
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
