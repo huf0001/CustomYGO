@@ -1,0 +1,42 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Gemini Monsters
+Card Type: Rule
+Rules Text: ① Gemini Monsters are always treated as Normal Monsters. ② While face-up on the field, Gemini Monsters can be Gemini Summoned. (This is also treated as a Normal Summon, and uses up the player's Normal Summon for that turn.) ③ When a Gemini Monster is Gemini Summoned, it becomes an Effect Monster and gains its effects. ④ If a Gemini Monster leaves the field or is flipped-face down, when it is Summoned again or flipped face-up, it is treated as a non-Effect Monster again. ⑤ If a Gemini Monster's effects are negated, it does not cease to be an Effect Monster. If the effect negation expires, the Gemini Monster regains its effects like any other Effect Monster.
+Last Updated: 14/10/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Gemini Monsters
+Flavour: Updating Gemini Monsters to make them slightly more worthwhile to run.
+Artwork: Created in GIMP using:
+● ????
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Italicised reminder text for Gemini Monsters: (This card is always treated as a Normal Monster. While this card is a non-Effect Monster on the field, you can Gemini Summon it to have it also become an Effect Monster and gain its effects.)
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): Normal / Effect / Fusion / Synchro / Xyz / Pendulum / Link / Flip / Gemini / Union / Toon / Tuner / Quick-Play / Equip / Continuous / Field / Ritual / Counter
+Level/Rank/Link Rating: 0
+Link Arrows: Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute: LIGHT/DARK/EARTH/WATER/FIRE/WIND/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Monster Type: ABCDEF
+Materials: N/A
+Name/Archetype/Level/Rank Condition: N/A
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
