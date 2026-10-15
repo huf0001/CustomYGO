@@ -40,6 +40,8 @@ Goat Format (26)
 		HUGO-EN024	Ruinous Rare Metal Dragon					(Monster/Effect)
 		HUGO-EN025	Familiar Metal Knight						(Monster/Effect)
 		HUGO-EN027	Base Metal Dragon							(Monster/Effect)
+		HUGO-EN035	Change of Alignment							(Spell/Normal)
+		HUGO-EN036	The Empty Nothing							(Monster/Normal)
 
 Gladiator Format (1)
 
