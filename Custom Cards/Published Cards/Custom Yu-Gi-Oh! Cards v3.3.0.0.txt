@@ -58,6 +58,7 @@ Edison Format (2)
 	Singles (1)
 	
 		HUED-EN001	The Restless Grave							(Spell/Equip)
+		HUED-EN003	Re-Tuner									(Monster/Tuner/Normal)
 		
 Tengu Plant Format (0)
 
