@@ -4,8 +4,8 @@ Name: The Claw of Hermos
 Card Type: Spell
 Card Subtype(s): Normal
 Rules Text: (This card is also always treated as "Legendary Dragon Hermos".)
-You can only activate 1 "The Claw of Hermos" per turn. ① Target 1 face-up monster on the field; Send 1 other monster from your hand or field to the GY, of the Type that is mentioned on a Fusion Monster that must be Special Summoned with "The Claw of Hermos" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck (this is treated as a Fusion Summon).
-Last Updated: 18/02/2026
+You can only activate 1 "The Claw of Hermos" per turn. ① Send 1 monster from your hand or field to the GY, of the Type that is mentioned on a Fusion Monster that must be Special Summoned with "The Claw of Hermos" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck (this is treated as a Fusion Summon).
+Last Updated: 20/10/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -24,6 +24,16 @@ Set ID: DRL2-EN013
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/02/2026-------------------------------------------
+
+Name: The Claw of Hermos
+Card Type: Spell
+Card Subtype(s): Normal
+Rules Text: (This card is also always treated as "Legendary Dragon Hermos".)
+You can only activate 1 "The Claw of Hermos" per turn. ① Target 1 face-up monster on the field; Send 1 other monster from your hand or field to the GY, of the Type that is mentioned on a Fusion Monster that must be Special Summoned with "The Claw of Hermos" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck (this is treated as a Fusion Summon).
+Comments: Removing the second monster requirement.
+
 
 DATE: 15/02/2026-------------------------------------------
 

@@ -6,10 +6,11 @@ Card Subtype(s): Fusion/Effect
 Level: 8
 Attribute(s): DARK
 Monster Type(s): Dragon
-Rules Text: Must be Special Summoned with "The Eye of Timaeus", using "Dark Magician". ① This card's name becomes "Dark Magician" while on the field or in the GY. ② Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. 
+Rules Text: "Dark Magician" + 1 Dragon monster
+Must first be Fusion Summoned with the above Fusion Materials or with "The Eye of Timaeus". ① This card's name becomes "Dark Magician" while on the field or in the GY. ② Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. 
 ATK: 3000
 DEF: 2500
-Last Updated: 18/02/2026
+Last Updated: 20/10/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +28,20 @@ Set ID: LEDD-ENA00
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/02/2026-------------------------------------------
+
+Name: Dark Magician the Dragon Knight
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 8
+Attribute(s): DARK
+Monster Type(s): Dragon
+Rules Text: Must be Special Summoned with "The Eye of Timaeus", using "Dark Magician". ① This card's name becomes "Dark Magician" while on the field or in the GY. ② Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. 
+ATK: 3000
+DEF: 2500
+Comments: Switching from Timaeus Fusion Monsters requiring Timaeus to having it as an option.
+
 
 DATE: 15/02/2026-------------------------------------------
 

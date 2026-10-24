@@ -6,10 +6,11 @@ Card Subtype(s): Fusion/Effect
 Level: 10
 Attribute(s): LIGHT
 Monster Type(s): Dragon
-Rules Text: Must be Special Summoned with "The Eye of Timaeus", using "Dark Magician" or "Dark Magician Girl". You can only use effects ② and ③ of "Timaeus the United Magical Dragon" once per turn each. ① After this card is Special Summoned, it is unaffected by other cards' effects until the end of your next turn. ② If this card battles, during damage calculation: You can make this card gain 100 ATK for each Spell in the GYs and banishment. ③ During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. 
+Rules Text: "Dark Magician" or "Dark Magician Girl" + 1 Dragon or Spellcaster monster
+Must first be Fusion Summoned with the above Fusion Materials or with "The Eye of Timaeus". You can only use effects ② and ③ of "Timaeus the United Magical Dragon" once per turn each. ① After this card is Special Summoned, it is unaffected by other cards' effects until the end of your next turn. ② If this card battles, during damage calculation: You can make this card gain 100 ATK for each Spell in the GYs and banishment. ③ During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. 
 ATK: 2800
 DEF: 1800
-Last Updated: 18/02/2026
+Last Updated: 20/10/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -27,6 +28,20 @@ Set ID: MZMU-EN012
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: 18/02/2026-------------------------------------------
+
+Name: Timaeus the United Magical Dragon
+Card Type: Monster
+Card Subtype(s): Fusion/Effect
+Level: 10
+Attribute(s): LIGHT
+Monster Type(s): Dragon
+Rules Text: Must be Special Summoned with "The Eye of Timaeus", using "Dark Magician" or "Dark Magician Girl". You can only use effects ② and ③ of "Timaeus the United Magical Dragon" once per turn each. ① After this card is Special Summoned, it is unaffected by other cards' effects until the end of your next turn. ② If this card battles, during damage calculation: You can make this card gain 100 ATK for each Spell in the GYs and banishment. ③ During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. 
+ATK: 2800
+DEF: 1800
+Comments: Switching from Timaeus Fusion Monsters requiring Timaeus to having it as an option.
+
 
 DATE: 15/02/2026-------------------------------------------
 
