@@ -2,8 +2,8 @@ TECHNICAL----------------------------------------------------------------------
 
 Name: ABCDEF
 Card Type: Rule
-Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Last Updated: 22/10/2026
+Rules Text: ① Main Deck Monsters include Normal Monsters, non-Extra Deck Effect Monsters, and Ritual Monsters.
+Last Updated: 25/10/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -18,7 +18,7 @@ Artwork: Created in GIMP using:
 
 COMMENTS-----------------------------------------------------------------------
 
-Summoning Type Rule Card 3/4
+Summoning Type Rule Card 3/5
 
 
 PREVIOUS VERSIONS--------------------------------------------------------------
