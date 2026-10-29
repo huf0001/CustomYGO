@@ -26,6 +26,8 @@ COMMENTS-----------------------------------------------------------------------
 Card ID: 64335804
 Debut Set ID: FMR-001
 
+For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

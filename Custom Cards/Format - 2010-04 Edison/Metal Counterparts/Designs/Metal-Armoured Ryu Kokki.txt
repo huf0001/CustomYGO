@@ -28,8 +28,6 @@ COMMENTS-----------------------------------------------------------------------
 
 For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
 
-TODO: overhaul. Check Red-Eyes evolutions' Requirements and effects for reference. Evolution Monsters now cannot attach or detach, so that effect needs reworking too.
-
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

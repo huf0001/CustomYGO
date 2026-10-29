@@ -27,6 +27,8 @@ COMMENTS-----------------------------------------------------------------------
 Card ID: 92377303
 Debut Set ID: DOD-002
 
+For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

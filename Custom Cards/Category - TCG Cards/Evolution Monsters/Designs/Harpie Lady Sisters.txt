@@ -26,6 +26,8 @@ COMMENTS-----------------------------------------------------------------------
 Card ID: 12206212
 Debut Set ID: MRD-009
 
+For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 

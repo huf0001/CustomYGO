@@ -26,6 +26,8 @@ COMMENTS-----------------------------------------------------------------------
 Card ID: 63162310
 Debut Set ID: SRL-056
 
+For Duelingbook: (This card is always treated as an Evolution Monster, not a Pendulum Fusion Monster.)
+
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
