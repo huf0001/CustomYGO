@@ -1,4 +1,4 @@
-Goat Format (26)
+Goat Format (37)
 
 	Container Monsters (4)
 	
@@ -29,7 +29,7 @@ Goat Format (26)
 		HUGO-EN016	Chameleon									(Monster/Effect)
 		HUGO-EN017	Armordillo Rat								(Monster/Effect)
 	
-	Singles (9)
+	Singles (20)
 	
 		HUGO-EN001	No-Eyes Dark Maw 							(Monster/Effect)
 		HUGO-EN002	Hollow Rebirth								(Spell/Normal)
@@ -42,6 +42,7 @@ Goat Format (26)
 		HUGO-EN027	Base Metal Dragon							(Monster/Effect)
 		HUGO-EN035	Change of Alignment							(Spell/Normal)
 		HUGO-EN036	The Empty Nothing							(Monster/Normal)
+		HUGO-EN037	Ultimate Tyrant Dragon						(Monster/Effect)
 
 Gladiator Format (1)
 
@@ -49,13 +50,13 @@ Gladiator Format (1)
 	
 		HUGL-EN001	Divine Yubel - The Singularity of Love		(Monster/Fusion/Effect)
 
-Edison Format (2)
+Edison Format (3)
 	
 	Metal Counterparts (1)
 	
 		HUED-EN002	Metal-Armoured Ryu Kokki					(Monster/Evolution/Effect)
 	
-	Singles (1)
+	Singles (2)
 	
 		HUED-EN001	The Restless Grave							(Spell/Equip)
 		HUED-EN003	Re-Tuner									(Monster/Tuner/Normal)
@@ -118,9 +119,9 @@ Un-Cards (1)
 	
 		HUUN-EN001	Anime and RPG Logic							(Rule)
 
-Rule Cards (6)
+Rule Cards (8)
 
-	Singles (6)
+	Singles (8)
 	
 		HURU-EN000	Rules vs Cards' Rules Text					(Rule)
 		HURU-EN001	Duelist Kingdom								(Rule)
@@ -131,7 +132,7 @@ Rule Cards (6)
 		HURU-EN006	Equip Traps									(Rule)
 		HURU-EN007	Evolution Monsters							(Rule)
 
-TCG Erratas (36)
+TCG Erratas (103)
 
 	Clear (8)
 	
