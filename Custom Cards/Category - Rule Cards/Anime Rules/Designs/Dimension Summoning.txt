@@ -1,0 +1,43 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Dimension Summoning
+Card Type: Rule
+Rules Text: ① When Normal Summoning a monster, you can Dimension Summon it. To Dimension Summon a monster, choose its original ATK and DEF, up to its printed ATK and DEF. ② You can Dimension Summon Level 5 or higher monsters without Tributing. ③ Monsters equipped with a Dimension Summoned monster, or a monster that used a Dimension Summoned monster as a Tribute or material for its own Summon, are treated as Dimension Summoned monsters. ④ If a Dimension Summoned monster would be destroyed by battle, inflict battle damage equal to its original ATK or DEF if it was in Attack Position or Defense Position respectively, rather than the difference between the battling monsters' ATK and/or DEF.
+Last Updated: 8/11/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: Dimension Summoning in DSOD
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● Cubic Dominion
+● Card images for Dimension Summoned monsters from DSOD.
+
+
+COMMENTS-----------------------------------------------------------------------
+
+None
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
