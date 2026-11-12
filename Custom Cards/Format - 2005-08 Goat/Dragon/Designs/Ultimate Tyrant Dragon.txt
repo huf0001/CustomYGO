@@ -6,11 +6,11 @@ Card Subtype(s): Effect
 Level: 8
 Attribute(s): FIRE
 Monster Type(s): Dragon
-Rules Text: ① This card can attack all monsters your opponent controls, once each. ② Unaffected by Trap effects.
+Rules Text: ① This card can attack all monsters your opponent controls, once each. ② This face-up monster is unaffected by Trap effects.
 Flavour Text: An ancient dragon from the era of the dinosaurs. All who have faced this creature go extinct.
 ATK: 2900
 DEF: 2500
-Last Updated: 05/11/2026
+Last Updated: 13/11/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -20,9 +20,7 @@ Flavour: Tyrant Dragon buffed to match Ultimate Tyranno's attack everything effe
 Artwork: Created in GIMP using:
 ● Tyrant Dragon
 ● Ultimate Tyranno? (for purple glow colour reference to use with Ultimate Tyrant Dragon, and reference on similarities of the volcanic background)
-● Molten Destruction?
-● Jurrac Volcano?
-● Volcanic Eruption?
+● Molten Destruction
 
 
 COMMENTS-----------------------------------------------------------------------
@@ -32,22 +30,16 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 05/11/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Ultimate Tyrant Dragon
+Card Type: Monster
+Card Subtype(s): Effect
+Level: 8
+Attribute(s): FIRE
+Monster Type(s): Dragon
+Rules Text: ① This card can attack all monsters your opponent controls, once each. ② Unaffected by Trap effects.
+Flavour Text: An ancient dragon from the era of the dinosaurs. All who have faced this creature go extinct.
+ATK: 2900
+DEF: 2500
+Comments: Tweaking the anti-Trap effect so you can revive it with Traps if necessary.
