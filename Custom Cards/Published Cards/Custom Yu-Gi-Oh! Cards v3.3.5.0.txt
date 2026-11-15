@@ -1,4 +1,4 @@
-Goat Format (37)
+Goat Format (38)
 
 	Container Monsters (4)
 	
@@ -11,6 +11,10 @@ Goat Format (37)
 	
 		HUGO-EN014	Lycanthrope, Synthesised					(Monster/Ritual/Fusion/Effect)
 		HUGO-EN015	Advanced Synthesis Ritual					(Spell/Ritual)
+		
+	Metal Counterparts (1)
+	
+		HUGO-EN038	Cursed Cat Spirit							(Monster/Evolution/Effect)
 	
 	Slime (1)
 	
