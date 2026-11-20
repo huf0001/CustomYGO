@@ -3,15 +3,15 @@ TECHNICAL----------------------------------------------------------------------
 Name: Cursed Cat Spirit
 Card Type: Monster
 Card Subtype(s): Evolution/Effect
-Level: 6
+Level: 5
 Attribute(s): DARK
 Monster Type(s): Metal/Zombie/Beast
 Rules Text: "Soul Tiger"
 You can Evolution Summon this card by sending 1 "Metalmorph" equipped to the above material to the GY.
 You can only activate effect ② of "Cursed Cat Spirit" once per turn. ① If this card attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only. ② If this card is destroyed by an opponent's card or effect and sent to the GY: You can target 1 Beast monster you control; Evolution Summon this card from your GY, using the target as material.
-ATK: 2400
-DEF: 300
-Last Updated: 15/11/2026
+ATK: 2500
+DEF: 400
+Last Updated: 20/11/2026
 
 
 CREATIVE-----------------------------------------------------------------------
@@ -30,22 +30,17 @@ None
 
 PREVIOUS VERSIONS--------------------------------------------------------------
 
-DATE: DD/MM/YYYY-------------------------------------------
+DATE: 15/11/2026-------------------------------------------
 
-Name: ABCDEF
-Card Type: Monster/Spell/Trap
-Card Subtype(s): 
-	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
-	Quick-Play/Equip/Continuous/Field/Ritual/Counter
-Level/Rank/Link Rating: 0
-Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
-Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
-Left Pendulum Scale: 0
-Right Pendulum Scale: 0
-Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Monster Type(s): ABCDEF
-(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-Flavour Text: N/A
-ATK: 9999
-DEF: 9999
-Comments: None
+Name: Cursed Cat Spirit
+Card Type: Monster
+Card Subtype(s): Evolution/Effect
+Level: 6
+Attribute(s): DARK
+Monster Type(s): Metal/Zombie/Beast
+Rules Text: "Soul Tiger"
+You can Evolution Summon this card by sending 1 "Metalmorph" equipped to the above material to the GY.
+You can only activate effect ② of "Cursed Cat Spirit" once per turn. ① If this card attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only. ② If this card is destroyed by an opponent's card or effect and sent to the GY: You can target 1 Beast monster you control; Evolution Summon this card from your GY, using the target as material.
+ATK: 2400
+DEF: 300
+Comments: Metal counterparts should be 1 Level higher and 400 ATK/DEF stronger.
