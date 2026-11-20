@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Pacifis, the Phantasm City
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: (This card's name is also always treated as "Umi" during a Duel.)
+You cannot Normal or Special Summon Effect Monsters the turn you activate either of this card's effects (even if this card leaves the field). ① Once per turn, if you Normal or Special Summon exactly 1 Normal Monster (and no other cards): Add 1 "Phantasm Spiral" card from your Deck to your hand. ② If your opponent activates a card or effect (except during the Damage Step), and you control no Tokens: You can Special Summon 1 "Phantasm Spiral Token" (Wyrm-Type/WATER/Level 8/ATK 2000/DEF 2000).
+Last Updated: 18/11/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 02819435
+Debut Set ID: MACR-EN056
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None

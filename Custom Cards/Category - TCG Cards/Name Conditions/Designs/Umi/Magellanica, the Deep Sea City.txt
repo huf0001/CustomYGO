@@ -1,0 +1,45 @@
+TECHNICAL----------------------------------------------------------------------
+
+Name: Magellanica, the Deep Sea City
+Card Type: Spell
+Card Subtype(s): Field
+Rules Text: (This card's name is also always treated as "Umi" during a Duel.)
+① When this card is activated: You can place 1 WATER monster from your Deck on top of your Deck. ② Once per turn: You can target 1 WATER monster you control; increase its Level by 1 or 2 until the end of this turn (even if this card leaves the field). ③ Once per turn, during your Main Phase, if you Special Summon a WATER Synchro Monster: You can look at your opponent's hand, and if you do, banish 1 card from it face-up until the End Phase.
+Last Updated: 18/11/2026
+
+
+CREATIVE-----------------------------------------------------------------------
+
+Basis: ABCDEF
+Flavour: ABCDEF
+Artwork: Created in GIMP using:
+● 
+
+
+COMMENTS-----------------------------------------------------------------------
+
+Card ID: 26534688
+Debut Set ID: ROTD-EN059
+
+
+PREVIOUS VERSIONS--------------------------------------------------------------
+
+DATE: DD/MM/YYYY-------------------------------------------
+
+Name: ABCDEF
+Card Type: Monster/Spell/Trap
+Card Subtype(s): 
+	Pendulum/Normal/Evolution/Ritual/Fusion/Synchro/Xyz/Link/Flip/Gemini/Union/Toon/Tuner/Effect
+	Quick-Play/Equip/Continuous/Field/Ritual/Counter
+Level/Rank/Link Rating: 0
+Link Arrow(s): Top, Bottom, Left, Right, Top-Left, Top-Right, Bottom-Left, Bottom-Right
+Attribute(s): EARTH/WATER/FIRE/WIND/LIGHT/DARK/DIVINE
+Left Pendulum Scale: 0
+Right Pendulum Scale: 0
+Pendulum Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Monster Type(s): ABCDEF
+(Monster) Rules Text: ● ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+Flavour Text: N/A
+ATK: 9999
+DEF: 9999
+Comments: None
